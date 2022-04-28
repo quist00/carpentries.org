@@ -77,7 +77,16 @@ mainainers of the lesson**. It is important to note that the transition itself
 is the responsibility of myself alone and will be performed automatically via
 the [lesson transition tool][lesson-transition].
 
-### Website
+
+### Communication
+
+We want to make communication as seamless as possible.
+
+All communications will be centered in the [Workbench GitHub discussion page][workbench-discussions].
+In addition, there is a [\#workbench-beta slack channel](https://swcarpentry.slack.com/archives/C03DEQ5T2DA). 
+Updates from this channel will be posted to the GitHub discussion page weekly.
+
+### Website URLs
 
 During the workbench beta phase, the URLs for the styles and the workbench
 websites will be in the following forms:
@@ -139,10 +148,11 @@ to the workbench beta phase. Importantly, they should **begin the process of
 consolidating issues and pull requests in their repositories to avoid conflicts
 with the new format**[^1].
 
-**Instructors** will give teaching-demo style feedback in groups of three during
-which they will be specific teaching prep tasks (determined by the Instructor
-Development Committee) to complete with the snapshot and then give two kinds of
-feedback:
+**Instructors** can opt in to using the workbench version when teaching or 
+preparing lessons. Feedbare invited give teaching-demo style feedback (**TBA**)
+in groups of three during which they will be specific teaching prep tasks
+(determined by the Instructor Development Committee) to complete with the
+snapshot and then give two kinds of feedback:
 
 - Feedback related to the infrastructure
 - Feedback for each other
@@ -165,11 +175,11 @@ website can be found at the workbench URL with a link for feedback.
 and can give feedback in one of two ways:
 
 1. General feedback in Maintainer meetings and at
-   <https://github.com/carpentries/sandpaper/discussions>
-2. Maintainers can practice giving feedback via friction logs in paired
-   sessions where they are asked to perform a specific task and give narrative
-   feedback regarding their experience (good, mildly confusing/irritating, or
-   throw-your-laptop-out-a-window frustrating). 
+   <https://github.com/carpentries/workbench/discussions>
+2. Maintainers can practice giving feedback via [friction logs][friction] in paired
+   sessions (**TBA**) where they are asked to perform a specific task and give
+   narrative feedback regarding their experience (good, mildly
+   confusing/irritating, or throw-your-laptop-out-a-window frustrating). 
 
 **Instructors** can continue to give feedback in the teaching demonstration
 fashion and they can additionally try this out in lessons that they are
@@ -252,6 +262,8 @@ Carpentries Workbench.
 [workbench]: https://carpentries.github.io/sandpaper-docs
 [styles]: https://github.com/carpentries/styles/
 [ldt]: https://carpentries.github.io/lesson-development-training/
+[friction]: https://github.com/carpentries/workbench/discussions/2
+[workbench-discuss]: https://github.com/carpentries/workbench/discussions
 [blog-pushing-back]: https://software-carpentry.org/blog/2015/07/pushing-back.html
 [design-principles]: https://carpentries.org/blog/2020/08/lesson-template-design/
 [lesson-transition]: https://github.com/data-lessons/lesson-transition/#readme
