@@ -37,7 +37,7 @@ While we have lessons such as [The Workbench Documentation][workbench] and
 workbench, understanding the advantages and limitations of the workbench can
 only be achieved if it is being used on a variety of lessons and tested by
 multiple Maintainers. **The purpose of the beta phase is to test out the
-workbench in live conditions and get feedback from early adopters** Thus, we
+workbench in live conditions and get feedback from early adopters.** Thus, we
 would like to get a breadth of lessons using The Workbench.
 
 Before I go on, because I will be referring to two versions of any given lesson,
@@ -82,7 +82,7 @@ the [lesson transition tool][lesson-transition].
 
 We want to make communication as seamless as possible.
 
-All communications will be centered in the [Workbench GitHub discussion page][workbench-discussions].
+All communications will be centered in the [Workbench GitHub discussion page][workbench-discuss].
 In addition, there is a [\#workbench-beta slack channel](https://swcarpentry.slack.com/archives/C03DEQ5T2DA). 
 Updates from this channel will be posted to the GitHub discussion page weekly.
 
@@ -263,11 +263,11 @@ Workbench has been used not only by myself and the inner circle of the
 Curriculum Team, but we also have several early adopters currently using and
 contributing to the workbench:
 
-- Toby Hodges, Mateusz Kuzak, Aleksandra Nenadic, Sarah Stevens: [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/)
-- Saranjeet Kuar, Achintya Rao, Heather Turner, Aman Goel: [R's Bug Tracking](https://contributor.r-project.org/r-bug-tracking-lesson/)
-- Saba Ferdous, David Pérez-Suárez: [Learn To Discover: Data Frames in Python](https://learntodiscover.github.io/lesson2_sandpaper/) (note: this uses a custom fork of sandpaper, and varnish to run python)
-- Philipp Matthias Schäfer [GitLab Novice](https://zedif.github.io/gitlab-novice/)
-- Michael Culshaw-Maurer [Rewrite of the R Ecology Lesson](https://www.michaelc-m.com/Rewrite-R-ecology-lesson/)
+- Toby Hodges, Mateusz Kuzak, Aleksandra Nenadic, Sarah Stevens---[Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/)
+- Saranjeet Kuar, Achintya Rao, Heather Turner, Aman Goel---[R's Bug Tracking](https://contributor.r-project.org/r-bug-tracking-lesson/)
+- Saba Ferdous, David Pérez-Suárez---[Learn To Discover---Data Frames in Python](https://learntodiscover.github.io/lesson2_sandpaper/) (note---this uses a custom fork of sandpaper, and varnish to run python)
+- Philipp Matthias Schäfer---[GitLab Novice](https://zedif.github.io/gitlab-novice/)
+- Michael Culshaw-Maurer---[Rewrite of the R Ecology Lesson](https://www.michaelc-m.com/Rewrite-R-ecology-lesson/)
 
 Thank you all for your work and enthusiasm for this project!
 
