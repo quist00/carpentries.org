@@ -268,8 +268,5 @@ Carpentries Workbench.
 [sandpaper-cache]: https://carpentries.github.io/sandpaper/articles/building-with-renv.html
 [pr-preview]: https://carpentries.github.io/sandpaper-docs/instructor/pull-request.html
 
-[^1]: See the [lesson-transition] tool for details. In short, the folder
-  structure AND the commits will change. Any PRs from styles-based repositories
-  will appear to add hundreds of new commits and files even if they were
-  originally changing a few lines of content.
+[^1]: See the [lesson-transition] tool for details. In short, the folder structure AND the commits will change. Any PRs from styles-based repositories will appear to add hundreds of new commits and files even if they were originally changing a few lines of content.
 
