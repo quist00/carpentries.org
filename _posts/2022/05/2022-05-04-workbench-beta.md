@@ -3,7 +3,7 @@ layout: page
 authors: ["Zhian N. Kamvar"]
 teaser: "Initial outline and plan for the Beta Phase of The Carpentries Workbench"
 title: "The Carpentries Workbench: Beta Phase and Beyond"
-date: 2022-05-02
+date: 2022-05-04
 time: "09:00:00"
 tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta", "Dovetail"]
 ---
