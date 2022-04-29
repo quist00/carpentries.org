@@ -20,7 +20,7 @@ the beta testing][beta-test-signup-maintainer].
 We expect to transition all lessons (including lessons in The Carpentries Incubator and The Carpentries Lab) to use [The
 Carpentries Workbench][workbench] by January 2023.
 
-<a href="https://example.com/#TODO" class="button expand">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScCXGzILzSjQ4te-ltZ_14V5W4-EZZOgKDnObqQ4Z6oiMCoQA/viewform?usp=sf_link" class="button expand">
     Sign up to enroll your lesson in the Workbench beta
 </a>
 
@@ -252,7 +252,7 @@ By January 2023, we expect to have transitioned all of our lessons to use The
 Carpentries Workbench. 
 
 
-<a href="https://example.com/#TODO" class="button expand">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScCXGzILzSjQ4te-ltZ_14V5W4-EZZOgKDnObqQ4Z6oiMCoQA/viewform?usp=sf_link" class="button expand">
     Sign up to enroll your lesson in the Workbench beta
 </a>
 
@@ -271,7 +271,7 @@ contributing to the workbench:
 
 Thank you all for your work and enthusiasm for this project!
 
-[beta-test-signup-maintainer]: https://example.com/#TODO
+[beta-test-signup-maintainer]: https://docs.google.com/forms/d/e/1FAIpQLScCXGzILzSjQ4te-ltZ_14V5W4-EZZOgKDnObqQ4Z6oiMCoQA/viewform?usp=sf_link
 [beta-test-slides]: https://docs.google.com/presentation/d/1qA9U4BkLKW_kOn696jKkDbUgv910_i-sGbHTZ9tyURQ/edit?usp=sharing
 [workbench]: https://carpentries.github.io/sandpaper-docs
 [styles]: https://github.com/carpentries/styles/
