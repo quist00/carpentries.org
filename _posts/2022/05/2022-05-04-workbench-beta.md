@@ -34,17 +34,17 @@ Maintainer Meeting][beta-test-slides].
 
 While we have lessons such as [The Workbench Documentation][workbench] and
 [Collaborative Lesson Development Training][ldt] that currently use the
-workbench, understanding the advantages and limitations of the workbench can
+Workbench, understanding the advantages and limitations of the Workbench can
 only be achieved if it is being used on a variety of lessons and tested by
 multiple Maintainers. **The purpose of the beta phase is to test out the
-workbench in live conditions and get feedback from early adopters.** Thus, we
+Workbench in live conditions and get feedback from early adopters.** Thus, we
 would like to get a breadth of lessons using The Workbench.
 
 Before I go on, because I will be referring to two versions of any given lesson,
 I want to introduce some helpful terminology:
 
 "beta"
-: The beta phase of the workbench transition. This explicitly does NOT mean beta
+: The beta phase of the Workbench transition. This explicitly does NOT mean beta
   phase for the content of a lesson.
 
 "styles"
@@ -65,13 +65,13 @@ and others who use the CC-BY content in their own work. In the past, [changes to
 the way we build lessons happened at a fairly rapid pace][blog-pushing-back],
 which resulted in frustration from the community. 
 
-In the end, we will transition all lessons by January 2022. The beta phase is 
-intended to allow early adopters to play around with the workbench and help
+In the end, we will transition all lessons by January 2023. The beta phase is 
+intended to allow early adopters to play around with the Workbench and help
 shape it to best fit the community needs.
 
 ## Beta Logistics
 
-The workbench beta phase is **non-reversible**[^1], thus, the descision to begin
+The Workbench beta phase is **non-reversible**[^1], thus, the decision to begin
 the beta phase for any given lesson must be a **joint decision by the
 mainainers of the lesson**. It is important to note that the transition itself
 is the responsibility of myself alone and will be performed automatically via
@@ -88,7 +88,7 @@ Updates from this channel will be posted to the GitHub discussion page weekly.
 
 ### Website URLs
 
-During the workbench beta phase, the URLs for the styles and the workbench
+During the Workbench beta phase, the URLs for the styles and the Workbench
 websites will be in the following forms:
 
  - **styles**: `https://<program>.github.io/<lesson>` (e.g. <https://datacarpentry.github.io/r-novice-gapminder>)
@@ -100,7 +100,7 @@ websites will be in the following forms:
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-url.png" 
    alt="cartoon represntation of the workbench version of a lesson with the url pattern underneath" width="45%"/>
   <figcaption>
-  The styles and workbench versions of the websites will live in parallel at separate URLs during the first two stages of the workbench beta phase
+  The styles and Workbench versions of the websites will live in parallel at separate URLs during the first two stages of the Workbench beta phase
   </figcaption>
 </figure>
 
@@ -112,12 +112,13 @@ The transition will occur for each lesson independently in three phases with tar
   - Timeline: 4 weeks
   - Instructors: teaching demo-style feedback
   - Maintainers: triage and resolve existing pull requests; experiment with new repository
-- [Beta](#beta): lesson-release and archive of styles version; source conversion to workbench
+- [Beta](#beta): lesson-release and archive of styles version; source conversion to Workbench
   - Timeline: 8 weeks
   - Instructors: opt-in to training + teaching demo-style feedback
   - Maintainers: receive and merge at least 2 pull requests
-  - New Instructors: encouraged to contribute to workbench beta phase by adding/moving Instructor notes
-- [Release Candidate](#release-candidate): fully transition to workbench and new URL; old URL will redirect to new.
+  - New Instructors: encouraged to contribute to the Workbench beta phase by adding/moving Instructor notes
+    as part of their checkout
+- [Release Candidate](#release-candidate): fully transition to the Workbench and new URL; old URL will redirect to new.
   - Timeline: 6 months
   - Instructors: teach new version of lesson
   - Maintainers: continue to work on new lesson with two-track feedback mechanism
@@ -126,7 +127,7 @@ The transition will occur for each lesson independently in three phases with tar
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-beta-flow.png" 
    alt="Diagram of three phases of the beta release. At the top is box labelled 'current' that contains a GitHub logo, a cartoon of a lesson page. Below is a box labelled 'Pre Beta' with the same contents as the box above plus an additional GitHub logo in blue with a camera above it (to indicate a snapshot) and a new cartoon of a lesson page with a padlock over it. There is a clock indicating a timeframe of four weeks. The next box below is labelled 'Beta'. The GitHub logo has become blue and there is a lightning bolt and a line connecting it to the previous logo, indicating that a transformation happened. A smaller, grey GitHub logo is adjacent with a lock over it, indicating that it is archived. The  old lesson page now has a lock and information symbol above it. The new lesson page does not have any symbols above it. The timreframe is 6 to 8 weeks. The final box is titled 'Release Candidate' and has a single blue GitHub logo, a faded old lesson page, and a new lesson page with a timeframe of 6 months"/>
   <figcaption>
-An overview of the workbench beta phase for the Git repository and the website, separated
+An overview of the Workbench beta phase for the Git repository and the website, separated
 into three stages. The entire process will take about 8-9 months until lesson
 release with The Carpentries Workbench.
   </figcaption>
@@ -144,12 +145,12 @@ this point, changes made to the lesson will not be reflected in this new URL
 (but that should not prevent Maintainers from making necessary changes).
 
 This is the phase in which Maintainers can make inquiries about transitioning
-to the workbench beta phase. Importantly, they should **begin the process of
+to the Workbench beta phase. Importantly, they should **begin the process of
 consolidating issues and pull requests in their repositories to avoid conflicts
 with the new format**[^1].
 
-**Instructors** can opt in to using the workbench version when teaching or 
-preparing lessons. Feedbare invited give teaching-demo style feedback (**TBA**)
+**Instructors** can opt in to using the Workbench version when teaching or 
+preparing lessons. Instructors interested in practising with the Workbench are invited give teaching-demo style feedback (**TBA**)
 in groups of three during which they will be specific teaching prep tasks
 (determined by the Instructor Development Committee) to complete with the
 snapshot and then give two kinds of feedback:
@@ -166,12 +167,12 @@ Reminders:
 
 A lesson release is minted into a zenodo DOI (by François), [the lesson
 repository is be archived][backing-up], and subsequently converted in place
-using the [lesson transition tool][lesson-transition]. The current default
-branch will be copied to a static branch called “legacy”. The styles version of
-the website will have a banner that announces that an up-to-date version of the
-website can be found at the workbench URL with a link for feedback. 
+using the [lesson transition tool][lesson-transition]. The branch holding the styles version
+of the website will be copied to a static branch called “legacy”. The styles version of
+the website will have a banner that announces that a newer version of the
+website can be found at the Workbench URL. 
 
-**Maintainers** will work on the `main` branch of the lesson using the workbench
+**Maintainers** will work on the `main` branch of the lesson using the Workbench
 and can give feedback in one of two ways:
 
 1. General feedback in Maintainer meetings and at
@@ -190,14 +191,12 @@ If the Learners use the new version of the lesson, there will be a link where
 they can give feedback. 
 
 **New Instructors** will be encouraged to contribute to the lessons by
-submitting Instructor notes inside the lesson content.
+submitting Instructor notes inside the lesson content for their checkout.
 
 #### Release Candidate
 
 During this phase, the styles version of the lesson will officially redirect to
-the new version of the lesson and any future workshops will use this version.
-There is no guarantee that it will be free from minor mistakes from the
-translation process, but it will contain the correct content.
+the Workbench version of the lesson and any future workshops will use this version.
 
 ## Challenges
 
@@ -207,7 +206,7 @@ Of course, this transition will not be without any number of challenges.
 
 Teaching a workshop is hard and learning coding skills is hard. Testing out a
 new format of a website on top of that is added cognitive load, especially if
-only ONE lesson is different from the others. We mitigate this by having two
+only one lesson is different from the others. We mitigate this by having two
 versions of the lesson for three months. This way, even if one out of three
 lessons is currently in Beta, the default lesson website is still available so
 the transition is not so jarring. 
@@ -220,8 +219,8 @@ this, people are creatures of habit and it's difficult to switch contexts in a
 lesson. For some Maintainers, this may be wanting to write block quotes instead
 of fenced divs, for others this may be wanting to work from the `gh-pages`
 branch instead of `main`. This is why we have the pre-beta stage of the beta
-phase where the workbench exists as a sandbox so that Maintainers can practise
-using it without worrying about doing any permanent damage.
+phase where the Workbench exists as a sandbox so that Maintainers can practise
+using it without worrying about affecting the lessons taught in our workshops.
 
 
 ### The Weight of History
@@ -237,7 +236,7 @@ content.
 
 ## Moving Forward
 
-The first few lessons in workbench beta will involve a lot of iteration and
+The first few lessons in Workbench beta will involve a lot of iteration and
 feedback, and during this time, I will be posting updates in this blog as a new
 series called "The Dovetail", where you can get information about:
 
@@ -261,7 +260,7 @@ Carpentries Workbench.
 Since the [initial alpha test of the lesson infrastructure][alpha-test], the 
 Workbench has been used not only by myself and the inner circle of the
 Curriculum Team, but we also have several early adopters currently using and
-contributing to the workbench:
+contributing to the Workbench:
 
 - Toby Hodges, Mateusz Kuzak, Aleksandra Nenadic, Sarah Stevens---[Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/)
 - Saranjeet Kuar, Achintya Rao, Heather Turner, Aman Goel---[R's Bug Tracking](https://contributor.r-project.org/r-bug-tracking-lesson/)
