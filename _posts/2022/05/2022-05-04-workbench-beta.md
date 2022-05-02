@@ -158,6 +158,12 @@ snapshot and then give two kinds of feedback:
 - Feedback related to the infrastructure
 - Feedback for each other
 
+Instructors can additionally try the Workbench version in lessons that they are
+actively teaching if they so choose.
+
+If the Learners use the Workbench version of the lesson, there will be a link
+where they can give feedback. 
+
 #### Beta
 
 Reminders:
@@ -183,12 +189,8 @@ and can give feedback in one of two ways:
    confusing/irritating, or throw-your-laptop-out-a-window frustrating). 
 
 **Instructors** can continue to give feedback in the teaching demonstration
-fashion and they can additionally try this out in lessons that they are
-actively teaching if they so choose. They can also contribute Instructor notes
+fashion and in live instruction. They can also contribute Instructor notes
 to the inner portions of the lesson if they choose.
-
-If the Learners use the new version of the lesson, there will be a link where
-they can give feedback. 
 
 **New Instructors** will be encouraged to contribute to the lessons by
 submitting Instructor notes inside the lesson content for their checkout.
@@ -196,7 +198,11 @@ submitting Instructor notes inside the lesson content for their checkout.
 #### Release Candidate
 
 During this phase, the styles version of the lesson will officially redirect to
-the Workbench version of the lesson and any future workshops will use this version.
+the Workbench version of the lesson and any future workshops will use this
+version. Normal lesson maintenance will continue under this phase, working
+toward a lesson release. The purpose of this phase is to make sure to correct
+any transition mistakes, add instructor notes, and any other crucial features
+before the lesson release.
 
 ## Challenges
 
