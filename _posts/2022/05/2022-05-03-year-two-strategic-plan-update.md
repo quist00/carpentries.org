@@ -61,6 +61,7 @@ Workbench beta release
 - [https://carpentries.org/blog/2021/05/lesson-template-design-process/](https://carpentries.org/blog/2021/05/lesson-template-design-process/)
 - [https://carpentries.org/blog/2021/07/infrastructure-testing/](https://carpentries.org/blog/2021/07/infrastructure-testing/)
 - [https://carpentries.org/blog/2022/01/live-lesson-infrastructure/](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/)
+
 New Data Carpentry curriculum in Astronomy 
 - [https://carpentries.org/blog/2022/04/astronomy-publication/](https://carpentries.org/blog/2022/04/astronomy-publication/)
 
