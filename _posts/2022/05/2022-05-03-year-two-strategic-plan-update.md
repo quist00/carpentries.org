@@ -58,10 +58,11 @@ Goal 4 is all about how our community interacts with and maintains our curricula
 Facilitating the creation of future lessons is our upcoming lesson infrastructure (called The Carpentries Workbench), which recently had a [complete redesign for the front-end](https://carpentries.org/blog/2021/05/lesson-template-design-process/). This new redesign makes sure the quality of the website matches the quality of the content by optimising layout and font choices, and ensuring contrast reaches [AAA accessibility standards](https://www.w3.org/WAI/WCAG2AAA-Conformance).  Moreover, our [testing of the maintainer interface to the workbench](https://carpentries.org/blog/2021/07/infrastructure-testing/) shows that it is intuitive and easy to use. After many improvements, the workbench [has officially entered the beta phase](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/) and is already being actively used for several lessons. In the next phase, we will do a phased rollout of the workbench to our existing lessons to ensure our community has a smooth transition.
 
 Workbench beta release
-https://carpentries.org/blog/2021/05/lesson-template-design-process/
-https://carpentries.org/blog/2021/07/infrastructure-testing/
-https://carpentries.org/blog/2022/01/live-lesson-infrastructure/
-New Data Carpentry curriculum in Astronomy https://carpentries.org/blog/2022/04/astronomy-publication/
+- [https://carpentries.org/blog/2021/05/lesson-template-design-process/](https://carpentries.org/blog/2021/05/lesson-template-design-process/)
+- [https://carpentries.org/blog/2021/07/infrastructure-testing/](https://carpentries.org/blog/2021/07/infrastructure-testing/)
+- [https://carpentries.org/blog/2022/01/live-lesson-infrastructure/](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/)
+New Data Carpentry curriculum in Astronomy 
+- [https://carpentries.org/blog/2022/04/astronomy-publication/](https://carpentries.org/blog/2022/04/astronomy-publication/)
 
 You can view the [ongoing Strategic Plan deliverables under __Goal 4__](https://github.com/carpentries/strategic-plan/issues?q=is%3Aissue+label%3A%22Goal+4%22+is%3Aopen) in GitHub.
 
