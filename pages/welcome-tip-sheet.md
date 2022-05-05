@@ -48,6 +48,7 @@ You can find a full list of The Carpentries activities on our [community calenda
 ### Memberships
 A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [Instructor Training](https://carpentries.github.io/instructor-training/) and [Centrally-Organised Workshops](https://carpentries.org/workshops/#workshop-organising) and guidance with capacity building at their organisation.
 
+- [How can your organisation Become a Member?](https://carpentries.org/membership/): 
 - [Benefits and tiers](https://carpentries.org/member_faq/#what-are-the-standard-membership-packages-you-offer)
 - [Financial Suppport](https://carpentries.org/member_faq/#is-financial-support-available)
 - [Frequently Asked Questions](https://carpentries.org/member_faq/)
