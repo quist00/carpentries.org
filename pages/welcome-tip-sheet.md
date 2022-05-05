@@ -54,7 +54,6 @@ A Member Organisation is an organisation which has made a commitment to the grow
 - [Frequently Asked Questions](https://carpentries.org/member_faq/)
 - When you are ready to begin planning a workshop with The Carpentries, please let us know 2-3 months in advance by [requesting a Centrally-Organised Workshop](https://amy.carpentries.org/forms/request_workshop/)
 - [Workshop Checklist for Hosts](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html)
-- [How can your organisation Become a Member?](https://carpentries.org/membership/): 
 - [Contact the Membership Team](emailto:membership@carpentries.org)
 
 
