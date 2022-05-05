@@ -53,7 +53,7 @@ A Member Organisation is an organisation which has made a commitment to the grow
 - [Financial Suppport](https://carpentries.org/member_faq/#is-financial-support-available)
 - [Frequently Asked Questions](https://carpentries.org/member_faq/)
 - When you are ready to begin planning a workshop with The Carpentries, please let us know 2-3 months in advance by [requesting a Centrally-Organised Workshop](https://amy.carpentries.org/forms/request_workshop/)
-- [Workshop Checklist for Hosts](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html)
+- You'll receive a registration code to share with your trainees. Trainees can register for any Instructor Training event that fits their schedule. Check out the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/) for a full list of events.
 - [Contact the Membership Team](emailto:membership@carpentries.org)
 
 
