@@ -66,6 +66,7 @@ and preparing their lesson repository for collaboration.
 #### Day 6
 - Collaborating with people you already know
 - Wrap-up
+
 The pilot will be taught by
 [Toby Hodges](https://github.com/tobyhodges),
 [Aleksandra Nenadic](https://github.com/anenadic),
