@@ -8,6 +8,9 @@ time: "09:00:00"
 tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta", "Dovetail"]
 ---
 
+> This is an ongoing series of blog posts about The Carpentries Workbench, (the next iteration of the [Lesson Infrastructure]({{ site.url }}/posts-by-tags/#lesson-infrastructure)).
+> Find more about our [Design Principles][depr], our [Path to the Design for the Lesson Website][ux-path], the [Alpha Test of the Workbench][alpha-test], and our [Official Announcemnt of The Carpentries Workbench](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/).
+
 ## TL;DR
 
 We will be transitioning some of the lessons to [The Carpentries Workbench](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/) in the
@@ -276,6 +279,9 @@ contributing to the Workbench:
 
 Thank you all for your work and enthusiasm for this project!
 
+
+[depr]: https://carpentries.org/blog/2020/08/lesson-template-design/
+[ux-path]: https://carpentries.org/blog/2021/05/lesson-template-design-process/
 [beta-test-signup-maintainer]: https://docs.google.com/forms/d/e/1FAIpQLScCXGzILzSjQ4te-ltZ_14V5W4-EZZOgKDnObqQ4Z6oiMCoQA/viewform?usp=sf_link
 [beta-test-slides]: https://docs.google.com/presentation/d/1qA9U4BkLKW_kOn696jKkDbUgv910_i-sGbHTZ9tyURQ/edit?usp=sharing
 [workbench]: https://carpentries.github.io/sandpaper-docs
