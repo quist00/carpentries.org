@@ -8,9 +8,12 @@ time: "09:00:00"
 tags: ["Workshops", "Instructors", "Instructor Training"]
 ---
 
+We often receive inquiries from people interested in becoming certified as a [Carpentries Instructor](https://carpentries.org/become-instructor/) as well as from current Instructors who would like to share this opportunity with friends and colleagues. In this post, we will review a few frequently asked questions and share a new opportunity for priority admission to our Open Instructor Training program.
+
+
 ## How can I be trained as a Carpentries Instructor?
 
-[Carpentries Instructor Training](https://carpentries.github.io/instructor-training/) seats can be purchased for groups and individuals through [Membership and A-la-carte seat purchases](https://carpentries.org/membership/). In addition, we offer free access to individual applicants through our [Open Instructor Training program](https://carpentries.org/become-instructor/). Anyone with an interest in becoming certified as a [Carpentries Instructor](https://carpentries.org/become-instructor/) can apply to this program. Applications are scored periodically and admitted in order of rank as seats become available. 
+[Carpentries Instructor Training](https://carpentries.github.io/instructor-training/) seats can be purchased for groups and individuals through [Membership and A-la-carte seat purchases](https://carpentries.org/membership/). In addition, we offer free access to individual applicants through our [Open Instructor Training program](https://carpentries.org/become-instructor/). Anyone with an interest in becoming certified as a Carpentries Instructor can apply to this program. Applications are scored periodically and admitted in order of rank as seats become available. 
 
 
 ## Priority admission to applicants interested in teaching Centrally-Organised workshops
