@@ -73,7 +73,7 @@ shape it to best fit the community's needs.
 
 The Workbench beta phase is **non-reversible**[^1], thus, the decision to begin
 the beta phase for any given lesson must be a **joint decision by the
-maintainers of the lesson**. It is important to note that the transition itself
+Maintainers of the lesson**. It is important to note that the transition itself
 is the responsibility of myself alone and will be performed automatically via
 the [lesson transition tool][lesson-transition].
 
