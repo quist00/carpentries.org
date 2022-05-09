@@ -94,8 +94,8 @@ Updates from this channel will be posted to the GitHub discussion page weekly.
 During the Workbench beta phase, the URLs for the styles and the Workbench
 websites will be in the following forms:
 
- - **styles**: `https://<program>.github.io/<lesson>` (e.g. <https://datacarpentry.github.io/r-novice-gapminder>)
- - **workbench**: `https://lessons.<program>.org/<lesson>` (e.g. <https://lessons.datacarpentry.org/r-novice-gapminder>)
+ - **styles**: `https://<program>.github.io/<lesson>` (e.g. <https://datacarpentry.github.io/r-socialsci>)
+ - **workbench**: `https://lessons.<program>.org/<lesson>` (e.g. `https://lessons.datacarpentry.org/r-socialsci`)
 
 <figure style="text-align: center">
   <img src="{{ site.urlimg }}/blog/2022/05/styles-url.png" 
