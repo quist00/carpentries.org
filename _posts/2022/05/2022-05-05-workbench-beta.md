@@ -13,7 +13,7 @@ tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta", "D
 We will be transitioning some of the lessons to [The Carpentries Workbench](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/) in the
 next few months as a beta test. The beta test will live in parallel to the
 current lessons for at least two months before fully transitioning. If you are a
-maintainer, and would like to have your lesson enter the beta test, please [sign
+Maintainer, and would like to have your lesson enter the beta test, please [sign
 up and tell us about your lesson and when is the earliest time for you to start 
 the beta testing][beta-test-signup-maintainer].
 
@@ -35,7 +35,7 @@ Maintainer Meeting][beta-test-slides].
 While we have lessons such as [The Workbench Documentation][workbench] and
 [Collaborative Lesson Development Training][ldt] that currently use the
 Workbench, understanding the advantages and limitations of the Workbench can
-only be achieved if it is being used on a variety of lessons and tested by
+only be achieved if it is being used in a variety of lessons and tested by
 multiple Maintainers. **The purpose of the beta phase is to test out the
 Workbench in live conditions and get feedback from early adopters.** Thus, we
 would like to get a breadth of lessons using The Workbench.
@@ -44,7 +44,7 @@ Before I go on, because I will be referring to two versions of any given lesson,
 I want to introduce some helpful terminology:
 
 "beta"
-: The beta phase of the Workbench transition. This explicitly does NOT mean beta
+: The beta phase of the Workbench transition. This explicitly does NOT mean the beta
   phase for the content of a lesson.
 
 "styles"
@@ -60,20 +60,20 @@ I will be referring to them as "styles" or "workbench" websites.
 
 ## Why have a beta phase at all?
 
-Our lesson have a _wide_ audience including, Instructors, Learners, Maintainers,
+Our lessons have a _wide_ audience including, Instructors, Learners, Maintainers,
 and others who use the CC-BY content in their own work. In the past, [changes to
 the way we build lessons happened at a fairly rapid pace][blog-pushing-back],
 which resulted in frustration from the community. 
 
 In the end, we will transition all lessons by January 2023. The beta phase is 
 intended to allow early adopters to play around with the Workbench and help
-shape it to best fit the community needs.
+shape it to best fit the community's needs.
 
 ## Beta Logistics
 
 The Workbench beta phase is **non-reversible**[^1], thus, the decision to begin
 the beta phase for any given lesson must be a **joint decision by the
-mainainers of the lesson**. It is important to note that the transition itself
+maintainers of the lesson**. It is important to note that the transition itself
 is the responsibility of myself alone and will be performed automatically via
 the [lesson transition tool][lesson-transition].
 
@@ -96,9 +96,9 @@ websites will be in the following forms:
 
 <figure style="text-align: center">
   <img src="{{ site.urlimg }}/blog/2022/05/styles-url.png" 
-   alt="cartoon representation of the styles version of a lesson with the url pattern underneath" width="40%"/>
+   alt="cartoon representation of the styles version of a lesson with the URL pattern underneath" width="40%"/>
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-url.png" 
-   alt="cartoon represntation of the workbench version of a lesson with the url pattern underneath" width="45%"/>
+   alt="cartoon represntation of the workbench version of a lesson with the URL pattern underneath" width="45%"/>
   <figcaption>
   The styles and Workbench versions of the websites will live in parallel at separate URLs during the first two stages of the Workbench beta phase
   </figcaption>
@@ -108,10 +108,10 @@ websites will be in the following forms:
 
 The transition will occur for each lesson independently in three phases with targeted feedback from community segments as noted below:
 
-- [Pre-beta](#pre-beta): convert snapshot of lesson to use [The Carpentries Workbench][workbench] in a temporary, sandboxed repository.
+- [Pre-beta](#pre-beta): convert a snapshot of the lesson to use [The Carpentries Workbench][workbench] in a temporary, sandboxed repository.
   - Timeline: 4 weeks
   - Instructors: teaching demo-style feedback
-  - Maintainers: triage and resolve existing pull requests; experiment with new repository
+  - Maintainers: triage and resolve existing pull requests; experiment with the new repository
 - [Beta](#beta): lesson-release and archive of styles version; source conversion to Workbench
   - Timeline: 8 weeks
   - Instructors: opt-in to training + teaching demo-style feedback
@@ -120,8 +120,8 @@ The transition will occur for each lesson independently in three phases with tar
     as part of their checkout
 - [Release Candidate](#release-candidate): fully transition to the Workbench and new URL; old URL will redirect to new.
   - Timeline: 6 months
-  - Instructors: teach new version of lesson
-  - Maintainers: continue to work on new lesson with two-track feedback mechanism
+  - Instructors: teach the new version of the lesson
+  - Maintainers: continue to work on the new lesson with the two-track feedback mechanism
 
 <figure style="text-align: center">
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-beta-flow.png" 
@@ -172,7 +172,7 @@ Reminders:
 2. Any open pull requests must be re-opened using the new infrastructure[^1]
 
 A lesson release is minted into a zenodo DOI (by François), [the lesson
-repository is be archived][backing-up], and subsequently converted in place
+repository will be archived][backing-up], and subsequently converted in place
 using the [lesson transition tool][lesson-transition]. The branch holding the styles version
 of the website will be copied to a static branch called “legacy”. The styles version of
 the website will have a banner that announces that a newer version of the
@@ -235,7 +235,7 @@ Because the styles-version of our lessons bundled all the tools needed to build
 the lessons, we end up with a situation where it's difficult to attribute credit
 to lesson authors because there are commits that have nothing to do with the
 lesson content (e.g. changes to CSS or Makefiles). Moreover, R-based lessons
-created before 2020 contained rendred content, which increased repository sizes
+created before 2020 contained rendered content, which increased repository sizes
 by ~100MB in some cases. To address these challenges, the [lesson transition
 tool][lesson-transition] cleans the commit history of everything but the lesson
 content.
