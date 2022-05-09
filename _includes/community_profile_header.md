@@ -4,7 +4,12 @@
 {% assign article = "a" %}
 {% endif %}
 
-<p>{{ role[0].description }}</p>
+
+{% if role[0].long_description %}
+<p>{{ role[0].long_description }}</p>
+{% elsif role[0].short_description %}
+<p>{{ role[0].short_description }}</p>
+{% endif %}
 
 
 {% if role[0].website_link %}
