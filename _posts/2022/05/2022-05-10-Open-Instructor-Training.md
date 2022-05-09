@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Workshops", "Instructors", "Instructor Training"]
 ---
 
-We often receive inquiries from people interested in becoming certified as a [Carpentries Instructor](https://carpentries.org/become-instructor/) as well as from current Instructors who would like to share this opportunity with friends and colleagues. In this post, we will review a few frequently asked questions and share a new opportunity for priority admission to our Open Instructor Training program.
+We often receive inquiries from people who are interested in becoming certified [Carpentries Instructors](https://carpentries.org/become-instructor/) or in recommending an opportunity for certification to a friend or colleague. In this post, we will review a few frequently asked questions and share a new avenue for priority admission to our Open Instructor Training program.
 
 
 ## How can I be trained as a Carpentries Instructor?
