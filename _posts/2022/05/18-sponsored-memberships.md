@@ -10,7 +10,7 @@ tags: ["Carpentries Membership"]
 
 During our Executive Director, Dr. Kari L. Jordan's, [New Year address](https://carpentries.org/blog/2022/01/executive-director-new-years-message/) we annouced funding 
 from the Chan Zuckerberg Initiative to provide **3 silver Carpentries memberships** to institutions serving underrepresented groups in Central and South 
-America and in Southern Africa for **2 years**. A silver membership includes **2 Centrally-Organised workshops** and **5 instructors to be trained** in online events. 
+America and in Southern Africa for **2 years**. A silver membership includes **2 Centrally-Organised workshops** and **5 seats in online Instructor Training**.
 In addition, membership includes the opportunity to send two (2) representatives to meetings of the Member Council, which meets approximately quarterly to discuss issues 
 of importance to Member organisations.
 
