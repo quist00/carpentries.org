@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Colin Sauze", "Dafne van Kuppevelt", "Djura Smits", "Peter Steinbach"]
-teaser: "FIXME"
+teaser: "Help the community test a new lesson on Deep Learning with Python."
 title: "Incubator Lesson Spotlight: Introduction to Deep Learning"
 date: 2022-05-24
 time: "09:00:00"
