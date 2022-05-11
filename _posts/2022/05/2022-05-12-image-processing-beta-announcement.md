@@ -8,21 +8,21 @@ time: "09:00:00"
 tags: ["Curriculum", "Pilot Workshops"]
 ---
 
-The [Data Carpentry: Image Processing with Python][lesson] curriculum is ready for beta testing.
-First developed for [the Digital Imaging and Vision Applications in Science (DIVAS)][divas] project,
+The [Data Carpentry: _Image Processing with Python_][lesson] curriculum is ready for beta testing.
+First developed for [the _Digital Imaging and Vision Applications in Science (DIVAS)_][divas] project,
 the lesson has already been through several iterations and pilot workshops.
 The curriculum is now ready for testing by the Instructor community,
 with the goal of preparing a full release within the next 12 months.
 
 **We are seeking community members to host and teach beta pilot workshops 
-with the Image Processing with Python curriculum in July - October 2022.**
+with the _Image Processing with Python_ curriculum in July - October 2022.**
 Continue reading for more information on the curriculum, 
 the previous alpha pilot workshops, 
 and how to apply to host and/or teach a beta pilot.
 
 ## About the Lesson
 
-The [Data Carpentry: Image Processing with Python][lesson] curriculum teaches
+The [Data Carpentry: _Image Processing with Python_][lesson] curriculum teaches
 the fundamental concepts and skills needed to load, edit, and analyse image data
 with the Python programming language.
 Like the recently-released [_Foundations of Astronomical Data Science_][dc-astro] curriculum,
@@ -49,7 +49,7 @@ which are intended to be accessible to learners from a diverse range of backgrou
 ## Lesson Development and Pilot workshops
 
 The lesson was originally developed for
-[the Digital Imaging and Vision Applications in Science (DIVAS)][divas] project,
+[the _Digital Imaging and Vision Applications in Science (DIVAS)_][divas] project,
 where it was taught to undergraduates majoring in natural science.
 This initial lesson design and development was led by 
 Prof. Mark Meysenburg, Prof. Tessa Durham Brooks, Dr. Raychelle Burks, and colleagues
