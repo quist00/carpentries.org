@@ -73,7 +73,7 @@ Erin Becker and I (mostly Erin), also worked on revamping the
 [Maintainer Onboarding](https://carpentries.github.io/maintainer-onboarding/)
 process and documentation.
 We used this set of materials to onboard a wave of new Maintainers across 3 sessions
-in 2021 and plan on using this set of materials to onbaord 2 more waves in 2022.
+in 2021. Erin will be leading another round of Maintainer Onboarding starting in June 2022 - check out [her recent blog post](https://carpentries.org/blog/2022/05/maintainer-application/) for more details and how to apply.
 The Maintainer yearly check-in process that just happened will greatly help
 with finding and assigning the next wave of lesson Maintainers.
 
