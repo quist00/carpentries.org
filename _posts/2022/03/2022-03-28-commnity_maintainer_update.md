@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Daniel Chen"]
-teaser: "Some of the projects Dan has been working on along with what's next for the maintainer community"
+teaser: "Some of the projects Dan has been working on along with what's next for the Maintainer community"
 title: "Community Maintainer Lead: Recap, Update, and What's Next"
 date: 2022-03-02
 time: "09:00:00"
