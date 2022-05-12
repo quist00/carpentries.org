@@ -3,7 +3,7 @@ layout: page
 authors: ["Erin Becker", "Vini Salazar"]
 teaser: "The Carpentries is preparing to onboard the next round of Maintainers. Applications due 24 May"
 title: "Apply for the current round of Carpentries Maintainer Onboarding!"
-date: 2022-05-11
+date: 2022-05-12
 time: "00:00:00"
 tags: ["Community", "Maintainers"]
 ---
