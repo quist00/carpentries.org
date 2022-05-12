@@ -10,7 +10,7 @@ tags: ["Maintainers", "Community"]
 
 ## The Community Maintainer Lead
 
-The Community Maintainer Lead is a volunteer position at The Carpentries with the main goal of supporting the lesson maintainers.
+The Community Maintainer Lead is a volunteer position at The Carpentries with the main goal of supporting the lesson Maintainers.
 Angela Li was the
 [first](https://carpentries.org/blog/2020/01/maintainer-community-lead/)
 to have this role,
