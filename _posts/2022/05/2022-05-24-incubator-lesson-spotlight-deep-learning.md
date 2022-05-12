@@ -5,7 +5,7 @@ teaser: "Help the community test a new lesson on Deep Learning with Python."
 title: "Incubator Lesson Spotlight: Introduction to Deep Learning"
 date: 2022-05-11
 time: "09:00:00"
-tags: ["Carpentries Incubator", "Community"]
+tags: ["Carpentries Incubator Lesson Spotlight", "Community"]
 lesson_title: "Introduction to Deep Learning"
 ---
 
