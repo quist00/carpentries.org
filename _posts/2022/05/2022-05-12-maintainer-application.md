@@ -23,6 +23,6 @@ If you are interested in helping maintain, improve, and grow our lessons, please
         </button>
 </a>
 
-Applications may be submitted until [11:59 pm 24 May, 2022 anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline+for+Maintainer+Onboarding+applications&iso=20220524T235959&p1=3399).
+Applications may be submitted until [11:59 pm 26 May, 2022 anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline+for+Maintainer+Onboarding+applications&iso=20220526T235959&p1=3399).
 
 If you have any questions about the application or about being a Maintainer, please reach out to [The Carpentries team](team@carpentries.org).
