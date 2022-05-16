@@ -45,10 +45,16 @@ You can find a full list of The Carpentries activities on our [community calenda
 - Community Discussions: Topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. Community Discussions are added to our [community calendar](/community/#community-events) and are also listed in our [Etherpad](https://pad.carpentries.org/community-discussions).
 - Regional Community Calls: Join a call with others from your region. [Call in details](https://pad.carpentries.org/community-discussions).
 
+### Memberships
+A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [Instructor Training](https://carpentries.github.io/instructor-training/) and [Centrally-Organised Workshops](https://carpentries.org/workshops/#workshop-organising) and guidance with capacity building at their organisation.
+
+- [How can your organisation Become a Member?](https://carpentries.org/membership/)
+- [Benefits and Tiers](https://carpentries.org/member_faq/#what-are-the-standard-membership-packages-you-offer)
+- [Financial Support](https://carpentries.org/member_faq/#is-financial-support-available)
+- [Frequently Asked Questions](https://carpentries.org/member_faq/)
+
 ### Become an Instructor
 Carpentries Instructors are the core of our community, organising and teaching workshops to spread data literacy and computational skills around the world. Becoming an Instructor is a great step to add inspiring people to your network and helps you to both develop and demonstrate your ability to teach effectively.
-
-- [Become an Instructor](/become-instructor/): webpage with all the details
 
 ### Network, Collaborate and Co-Create
 
@@ -57,7 +63,7 @@ There are multiple ways to network with other members who share our mission to t
 - [Curriculum Advisors]({{site.handbook_url}}/topic_folders/lesson_development/curriculum_advisory_committees.html): those who provide high-level guidance on the overall structure of a particular curriculum
 - [Lesson Maintainers]({{site.handbook_url}}/topic_folders/maintainers/maintainers.html#maintainer-guidelines): those who support the maintenance of existing lessons
 - [The Carpentries Incubator](https://carpentries-incubator.org/): where community members go to collaborate on the development of new lessons.
-  - [Lesson Development Study Groups](https://carpentries-incubator.github.io/study-groups/): for community members who would like to begin working on a new lesson in The Carpentries Incubator as a cohort
+- [Lesson Development Study Groups](https://carpentries-incubator.github.io/study-groups/): for community members who would like to begin working on a new lesson in The Carpentries Incubator as a cohort
 
 ### Additional Resources
 
@@ -66,6 +72,11 @@ The Carpentries has an extensive collection of resources available to our commun
 - [Our Website]({{site.url}}): The official website of The Carpentries organisation.
 - [Our Handbook]({{site.handbook_url}}): This is your go-to resource for all things Carpentries. Not sure where to find the information you are looking for? Just type a keyword into the search box to find the information you need.
 - [Our Blog](/blog/): Collection of blog posts from Core Team and community members
+- Should you have any:
+  *  **general requests**, please email team@carpentries.org
+  *  **workshop requests**, please email workshops@carpentries.org
+  *  **community requests**, please email community@carpentries.org
+  *  **membership requests**, please email membership@carpentries.org  
 
 ### Citing and reusing this tipsheet
 
