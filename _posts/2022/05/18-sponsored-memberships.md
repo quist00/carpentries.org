@@ -3,7 +3,7 @@ layout: page
 authors: ["Membership Team"]
 teaser: "We invite institutions serving underrepresented groups in Central and South America and in Southern Africa to apply for sponsored membership."
 title: "Applications for sponsored Carpentries Memberships open now!"
-date: 2022-05-18
+date: 2022-05-19
 time: "09:00:00"
 tags: ["Carpentries Membership"]
 ---
