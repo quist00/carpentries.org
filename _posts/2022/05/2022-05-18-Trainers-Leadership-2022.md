@@ -3,7 +3,7 @@ layout: page
 authors: ["Karen Word"]
 teaser: "Meet the people guiding development of our Instructor Trainer community"
 title: " Welcome to the 2022 Trainers Leadership Committee!"
-date: 2022-05-12
+date: 2022-05-18
 time: "00:00:00"
 tags: ["Instructor Trainers", "Instructor Training", "Governance"]
 ---
