@@ -16,8 +16,7 @@ of importance to Member organisations.
 
 ### How to apply
 
-We invite institutions serving underrepresented groups in **Central and South America and in Southern Africa** to apply for sponsored membership by completing [this form]
-(https://carpentries.typeform.com/to/lZat2eO5?typeform-source=carpentries.org) by **30 June 2022**.
+We invite institutions serving underrepresented groups in **Central and South America and in Southern Africa** to apply for sponsored membership by completing [this form](https://carpentries.typeform.com/to/lZat2eO5?typeform-source=carpentries.org) by **30 June 2022**.
 
 ### More information on Carpentries Membership
 
