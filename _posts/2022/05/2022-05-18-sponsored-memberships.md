@@ -26,4 +26,4 @@ We invite institutions serving underrepresented groups in **Central and South Am
 
 ### Contact us
 
-Have more questions? Please reach out to the [Membership Team here](emailto:membership@carpentries.org)
+Have more questions? Please reach out to the [Membership Team here](mailto:membership@carpentries.org)
