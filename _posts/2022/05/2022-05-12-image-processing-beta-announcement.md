@@ -3,7 +3,7 @@ layout: page
 authors: ["Kimberly Meechan", "David Palmquist", "Ulf Schiller", "Robert Turner", "Toby Hodges"]
 teaser: "Host or teach a pilot workshop with a brand new Data Carpentry curriculum"
 title: "Image Processing with Python - Call for Beta Pilot Applications"
-date: 2022-05-12
+date: 2022-05-19
 time: "09:00:00"
 tags: ["Curriculum", "Pilot Workshops"]
 ---
