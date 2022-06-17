@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Renata Curty", "Torin White", "Ian Lessing", "Kristi Liu”]
+authors: ["Renata Curty", "Torin White", "Ian Lessing", "Kristi Liu"]
 teaser: "Help test and improve a lesson teaching researchers skills for reproducible research."
 title: "Incubator Lesson Spotlight: Introduction to Reproducible Publications with RStudio"
 date: 2022-06-23
