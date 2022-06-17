@@ -37,7 +37,7 @@ The lesson is fully developed and we have already taught it once at the Universi
 * Teach the lesson and provide feedback. 
 * Review the lesson content and provide comments/suggestions. 
 
-We welcome you to submit your contributions via issues directly on the GitHub repo (https://github.com/carpentries-incubator/Reproducible-Publications-with-RStudio). You may also [contact Renata Curty](mailto:rcurty@ucsb.edu) for questions related to this lesson.
+We welcome you to submit your contributions via issues directly on [the lesson GitHub repo](https://github.com/carpentries-incubator/Reproducible-Publications-with-RStudio). You may also [contact Renata Curty](mailto:rcurty@ucsb.edu) for questions related to this lesson.
 
 ------
 
