@@ -11,7 +11,7 @@ We are so excited to share news that our Core Team is growing! This week we welc
 
 Read on to learn more about Amanda’s experience and why she is looking forward to working with us.
 
-–
+---
 
 I couldn’t be more excited to be starting the newly created position as Director of Fundraising for The Carpentries. I have the tremendous task of storytelling the mission of The Carpentries, and I couldn’t feel more thankful to do so.
 
