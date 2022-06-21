@@ -329,7 +329,7 @@ There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.carpentries.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
 going on throughout our community.
 
-<div id='calendar' markdown="0">Community Calendar goes here</div>
+<div id='calendar' markdown="0"></div>
 
 <hr>
 
@@ -339,8 +339,12 @@ going on throughout our community.
 
 <script type="text/javascript">
 var timezone = jstz.determine();
-var frame_setup = '<iframe src="https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%23333333&amp;ctz=';
-var frame_close = '" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>';
-var full_link = frame_setup + timezone.name() + frame_close;
-document.getElementById('calendar').innerHTML = full_link;
+const frame = document.createElement('iframe');
+frame.style = 'border-width: 0';
+frame.width = '800';
+frame.height = '600';
+frame.frameborder = '0';
+frame.scrolling = 'no';
+frame.src = 'https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%23333333&amp;ctz=' + timezone.name();
+document.getElementById('calendar').appendChild(frame);
 </script>
