@@ -345,6 +345,6 @@ frame.width = '800';
 frame.height = '600';
 frame.frameborder = '0';
 frame.scrolling = 'no';
-frame.src = 'https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&ctz=' + timezone.name();
+frame.src = 'https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&mode=WEEK&src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&ctz=' + timezone.name();
 document.getElementById('calendar').appendChild(frame);
 </script>
