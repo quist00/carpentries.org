@@ -22,7 +22,7 @@ The Incubator Lesson Spotlight highlights a lesson under development by our comm
 * Get started with RStudio and learn about the advantages of using the environment in academic research and writing. 
 * Build on research and analytical skills by learning how to create reproducible documents that combine code, analysis, and narrative.
 * Understand good practices for project organization, version control, and documentation as means to advance open science. 
-* Develop a reproducible paper of their own with the data, code, and narrative we provide.
+* Develop a reproducible paper with provided data, code, and narrative.
 
 ### Target Audience
 
