@@ -3,7 +3,7 @@ layout: page
 authors: ["Erin Becker", "Vini Salazar"]
 teaser: "Thirty new Lesson Maintainers badged"
 title: "Welcome to our Newest Lesson Maintainers!"
-date: 2022-06-21
+date: 2022-06-23
 time: "09:00:00"
 tags: ["Lessons", "Maintainers", "Community"]
 ---
