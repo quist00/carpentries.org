@@ -3,7 +3,7 @@ layout: page
 authors: ["Toby Hodges"]
 teaser: "Curriculum Advisors provide high-level leadership for lessons. Apply by 22 July"
 title: "Apply to become a Curriculum Advisor"
-date: 2022-06-28
+date: 2022-06-30
 time: "09:00:00"
 tags: ["Carpentries Lessons", "Community"]
 ---
