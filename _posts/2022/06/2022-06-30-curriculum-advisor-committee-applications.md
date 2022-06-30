@@ -18,7 +18,7 @@ Today we begin the search for Curriculum Advisors for three more Data Carpentry 
 
 Joining one of the Curriculum Advisory Committees (CACs) is an excellent opportunity to engage with The Carpentries and be directly involved with the development and leadership of our Curricula,
 
-[The Carpentries Handbook includes more about what it means to be a Curriculum Advisor](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee).
+[The Carpentries Handbook includes more about what it means to be a Curriculum Advisor](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html).
 
 To ensure the accessibility of our lessons and curricula, we are seeking a diverse group of Curriculum Advisors, representing multiple career levels and sub-disciplines, and across a variety of geographic regions, and cultural and linguistic contexts. Each CAC should also include at least one active Maintainer, and we encourage applications from both new and experienced members of the Maintainer community.
 
