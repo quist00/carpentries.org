@@ -330,7 +330,7 @@ and debriefing sessions. Find links to them on this <a href="http://pad.carpentr
 going on throughout our community.
 
 * General community events are listed in blue.
-* [CarpentryCon 2022](https://2022.carpentrycon.org/) events are listed in orange.  Visit the CarpentryCon 2022 website for more information.
+* CarpentryCon 2022 (31 July - 13 August 2022) events are listed in orange.  Visit the [CarpentryCon 2022 website](https://2022.carpentrycon.org/) for more information.
 
 
 
