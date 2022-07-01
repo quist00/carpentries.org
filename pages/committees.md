@@ -14,4 +14,8 @@ infrastructure, and more. Visit the page for each committee or task force to fin
 - [Code of Conduct Committee]({{site.url}}/coc-ctte/)
 - [Instructor Development Committee]({{site.url}}/inst-dev/)
 - [Lesson Infrastructure Committee]({{site.url}}/lesson-infra/)
-- [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md)
+- [Curriculum Advisory Committee]({{site.url}}/curriculum-advisors/)
+  - [Library Carpentry](https://librarycarpentry.org/cac/)
+  - [Data Carpentry](http://www.datacarpentry.org/lesson-leadership/)
+  - [Software Carpentry](https://carpentries.org/curriculum-advisors/)
+- [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md
