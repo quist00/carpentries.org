@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Erin Becker"]
-teaser: "We are Hiring a Director of Technology. Join Our Team."
-title: "Applications received before 20 July at 11:59 PM (anywhere on earth) will receive full consideration."
+title: "We are Hiring a Director of Technology. Join Our Team."
+teaser: "Applications received before 20 July at 11:59 PM (anywhere on earth) will receive full consideration."
 date: 2022-07-06
 time: "09:00:00"
 tags: ["Carpentries Team"]
