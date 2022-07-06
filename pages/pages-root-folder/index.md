@@ -32,10 +32,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-#callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Inform me about new updates and features ›
-#  style: alert
+callforaction:
+ url: https://2022.carpentrycon.org
+ text: CarpentryCon 2022 registration is open!
+ style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
