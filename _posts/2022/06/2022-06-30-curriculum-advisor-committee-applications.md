@@ -22,6 +22,6 @@ Joining one of the Curriculum Advisory Committees (CACs) is an excellent opportu
 
 To ensure the accessibility of our lessons and curricula, we are seeking a diverse group of Curriculum Advisors, representing multiple career levels and sub-disciplines, and across a variety of geographic regions, and cultural and linguistic contexts. Each CAC should also include at least one active Maintainer, and we encourage applications from both new and experienced members of the Maintainer community.
 
-Apply to be a Curriculum Advisor: Link to application: https://forms.gle/4ZLq1mh74r98AeeN9
+Apply to be a Curriculum Advisor: [Link to application](https://forms.gle/4ZLq1mh74r98AeeN9)
 
 Applications will remain open through [midnight anywhere on Earth, 22 July 2022](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Curriculum+Advisor+Application+Deadline&iso=20220722T235959&p1=3926). If you have any questions about serving on a Curriculum Advisory Committee or the application process, please contact [Toby Hodges](mailto:tobyhodges@carpentries.org)
