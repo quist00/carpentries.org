@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Alycia Crall", "Francois Michonneau", "Omar Khan"]
+authors: ["Alycia Crall", "François Michonneau", "Omar Khan"]
 teaser: "For the second year in a row, help us internationalise and expand Glosario, the open source, multilingual glossary of data science terms."
 title: "Hacktoberfest 2021 - Glosario Contribution Drive"
 date: 2021-10-04
