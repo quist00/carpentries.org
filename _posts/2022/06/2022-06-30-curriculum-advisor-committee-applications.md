@@ -18,9 +18,9 @@ Today we begin the search for Curriculum Advisors for three more Data Carpentry 
 * [Data Carpentry: Social Science](https://datacarpentry.org/lessons/#social-science-curriculum)
 * [Data Carpentry: Image Processing with Python (currently in beta testing)](https://datacarpentry.org/lessons/#image-processing-curriculum)
 
-**We are also hoping to recruit at least one more member to the Curriculum Advisory Committee for Software Carpentry**, to act as Secretary for that group - [read more about the committee roles in the community handbook]([https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities)).
+**We are also hoping to recruit at least one more member to the Curriculum Advisory Committee for Software Carpentry**, to act as Secretary for that group - [read more about the committee roles in the community handbook](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities).
 
-Joining one of the Curriculum Advisory Committees (CACs) is an excellent opportunity to engage with The Carpentries and be directly involved with the development and leadership of our Curricula,
+Joining one of the Curriculum Advisory Committees (CACs) is an excellent opportunity to engage with The Carpentries and be directly involved with the development and leadership of our Curricula.
 
 [The Carpentries Handbook includes more about what it means to be a Curriculum Advisor](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html).
 
