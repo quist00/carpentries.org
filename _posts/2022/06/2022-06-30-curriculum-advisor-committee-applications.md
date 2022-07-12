@@ -8,13 +8,17 @@ time: "09:00:00"
 tags: ["Carpentries Lessons", "Community"]
 ---
 
+_This post was updated on 12 July 2022 to indicate that we are also recruiting for new members to join the Curriculum Advisory Committee for Software Carpentry._
+
 [In August 2021, we announced that The Carpentries is reactivating our Curriculum Advisory program](https://carpentries.org/blog/2021/08/reactivating-curriculum-advisory-committees/). Curriculum Advisory Committees provide high-level oversight, vision, and leadership for a curriculum and guide large-scale updates. Each Curriculum Advisory Committee (CAC) supports and is supported by a group of Lesson Maintainers, who focus on day-to-day maintenance of the lessons. [In February 2022, we announced new CACs for Software Carpentry and three Data Carpentry curricula (Astronomy, Genomics, and Geospatial)](https://carpentries.org/blog/2022/02/announcing-new-cacs/).
 
 Today we begin the search for Curriculum Advisors for three more Data Carpentry curricula:
 
-* [Data Carpentry: Ecology](​​https://datacarpentry.org/lessons/#ecology-workshop)
+* [Data Carpentry: Ecology](https://datacarpentry.org/lessons/#ecology-workshop)
 * [Data Carpentry: Social Science](https://datacarpentry.org/lessons/#social-science-curriculum)
 * [Data Carpentry: Image Processing with Python (currently in beta testing)](https://datacarpentry.org/lessons/#image-processing-curriculum)
+
+**We are also hoping to recruit at least one more member to the Curriculum Advisory Committee for Software Carpentry**, to act as Secretary for that group - [read more about the committee roles in the community handbook]([https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities)).
 
 Joining one of the Curriculum Advisory Committees (CACs) is an excellent opportunity to engage with The Carpentries and be directly involved with the development and leadership of our Curricula,
 
