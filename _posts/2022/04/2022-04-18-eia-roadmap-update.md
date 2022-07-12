@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Equity and Inclusion", "Strategic Plan"]
 ---
 
-**tl;dr**: The Strategic Plan is the plan. Watch this [short video](https://youtu.be/fjmxwU8a1yI) of Dr. Kari L. Jordan and Tara Robertson discussing the EIA Roadmap’s alignment with The Carpentries’ Strategic Plan for 2020-2025.
+**Summary**: The Strategic Plan is the plan. Watch this [short video](https://youtu.be/fjmxwU8a1yI) of Dr. Kari L. Jordan and Tara Robertson discussing the EIA Roadmap’s alignment with The Carpentries’ Strategic Plan for 2020-2025.
 <hr />
 
 Equity, Inclusion, and Accessibility (EIA) has always been at the forefront of how The Carpentries operates internally, and serves our community. Work on the EIA Roadmap started in 2018, with the final version of the roadmap being [published](https://carpentries.org/blog/2019/06/eia-roadmap-release/) in 2019. Our [Strategic Plan for 2020-2025](https://carpentries.org/strategic-plan/) was released in January 2020. In an ideal world, these two plans might have been released in the reverse order, but EIA was too important for us to wait to have a Strategic Plan in place. EIA is not new for us and we needed to ensure that the important pieces of the roadmap were captured in the Strategic Plan.
