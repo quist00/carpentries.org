@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Erin Becker", "Vini Salazar"]
-teaser: "New website for access to all things Carpentries"
-title: "Seven new Lesson Maintainers badged"
+teaser: "Seven new Lesson Maintainers badged"
+title: "Join us in Welcoming our New Maintainers!"
 date: 2022-07-12
 time: "09:00:00"
 tags: ["Lessons", "Maintainers", "Community"]
