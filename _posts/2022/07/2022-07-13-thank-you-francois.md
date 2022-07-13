@@ -19,7 +19,7 @@ François embodies The Carpentries Core Values, and is often the first to submit
 
 François’ legacy at The Carpentries is his vision for [curriculum development](https://carpentries.org/blog/2018/07/curriculum-vision/), including training with our curriculum development handbook, improved lesson infrastructure, and new pathways for lesson contributions. His leadership has positioned us to pioneer collaborative, accessible curriculum development - François, we salute you!
 
-A message from Dr. François Michonneau
+**A message from Dr. François Michonneau**
 
 It has been a pleasure to work at The Carpentries. I have truly enjoyed the 4.5 years as a Core Team member, and will soon return where my journey with The Carpentries had started, as a volunteer community member.
 
