@@ -18,4 +18,4 @@ infrastructure, and more. Visit the page for each committee or task force to fin
   - [Library Carpentry](https://librarycarpentry.org/cac/)
   - [Data Carpentry](http://www.datacarpentry.org/lesson-leadership/)
   - [Software Carpentry](https://carpentries.org/curriculum-advisors/)
-- [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md
+- [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md)
