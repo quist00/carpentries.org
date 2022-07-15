@@ -22,16 +22,6 @@ people:
   twitter: ErinSBecker
   calendly: ebecker-1
 
-- name: François Michonneau, PhD
-  pic: francoismichonneau
-  position: Senior Director of Technology
-  lead: Infrastructure Team Lead
-  jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
-  email: francois@carpentries.org
-  github: fmichonneau
-  twitter: fmic_
-  calendly: francois-carpentries
-
 - name: Zhian N. Kamvar, PhD
   pic: zhiankamvar
   position: Lesson Infrastructure Technology Developer
