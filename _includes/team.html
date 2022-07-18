@@ -12,8 +12,16 @@
 
   <div class="container">
     <div class="row">
+      {% assign et = site.data.team.people | where: "et", true %}
+      {% assign staff = site.data.team.people | where: "et", false %}
       <div class="col-lg-12 text-center">
-      {% assign staff = site.data.team.people %}
+      {% for member in et %}
+      {% include _team_profile.html %}
+      {% endfor %}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
       {% for member in staff %}
       {% include _team_profile.html %}
       {% endfor %}
@@ -21,6 +29,7 @@
     </div>
 
 
+  {% if site.data.strategic_partners.people %}
   <h2 class="section-heading">The Carpentries Strategic Partners</h2>
     <div class="container">
       <div class="row">
@@ -31,6 +40,7 @@
           {% endfor %}
         </div>
       </div>
+  {% endif %}
 
 
 </section>
