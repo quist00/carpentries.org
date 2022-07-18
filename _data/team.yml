@@ -11,6 +11,7 @@ people:
   github: kariljordan
   twitter: drkariljordan
   calendly: kariljordan
+  et: true
 
 - name: Erin Becker, PhD
   pic: erinbecker
@@ -21,6 +22,7 @@ people:
   github: erinbecker
   twitter: ErinSBecker
   calendly: ebecker-1
+  et: true
 
 - name: Zhian N. Kamvar, PhD
   pic: zhiankamvar
@@ -29,6 +31,7 @@ people:
   github: zkamvar
   twitter: zkamvar
   calendly: zkamvar
+  et: false
 
 - name: Toby Hodges, PhD
   pic: tobyhodges
@@ -38,6 +41,7 @@ people:
   github: tobyhodges
   twitter: tbyhdgs
   calendly: tobyhodges
+  et: false
  
 - name: Talisha Sutton-Kennedy
   pic: talishasuttonkennedy
@@ -46,6 +50,7 @@ people:
   email: talishask@carpentries.org
   github: talishask
   calendly: talishask
+  et: false
  
 - name: SherAaron Hurt
   pic: sheraaronhurt
@@ -56,6 +61,7 @@ people:
   github: sheraaronhurt
   twitter: SherAaronHurt
   calendly: sheraaron
+  et: false
  
 - name: Omar Khan
   pic: omarkhan
@@ -63,6 +69,7 @@ people:
   email: okhan@carpentries.org
   github: kmomar
   calendly: okhan-1
+  et: false
  
 - name: Maneesha Sane
   pic: maneeshasane
@@ -72,6 +79,7 @@ people:
   github: maneesha
   twitter: maneeshasane
   calendly: maneesha
+  et: false
  
 - name: Kelly Barnes, PhD
   pic: kellybarnes
@@ -81,6 +89,7 @@ people:
   linkedin: klbarnes20
   twitter: kbarne2
   calendly: klbarnes
+  et: false
  
 - name: Karen Word, PhD      
   pic: karenword
@@ -91,6 +100,7 @@ people:
   github: karenword
   twitter: karen_word
   calendly: karenword
+  et: false
  
 - name: Danielle Sieh
   pic: daniellesieh
@@ -98,13 +108,13 @@ people:
   github: danielle06
   email: danielle@carpentries.org
   calendly: daniellesieh
+  et: false
 
 - name: Brynn Elliot
   pic: brynnelliot
   position: Accessibility Manager
   email: brynn@carpentries.org
-
-
+  et: false
 
 - name: Angelique Trusler, PhD
   pic: angeliquetrusler
@@ -113,13 +123,13 @@ people:
   github: elletjies
   twitter: AngeliquePhd
   calendly: angelique_v
-
+  et: false
 
 - name: Amanda Steele
   pic: amandasteele
   position: Director of Fundraising
   email: amandasteele@carpentries.org
-
+  et: false
 
 - name: Alycia Crall, PhD
   pic: alyciacrall
@@ -130,3 +140,4 @@ people:
   linkedin: alycia-crall-5a842646
   twitter: alycrall
   calendly: alycia-carpentries
+  et: false
