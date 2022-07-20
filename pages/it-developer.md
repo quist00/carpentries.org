@@ -85,7 +85,7 @@ Conduct]({{ site.code_of_conduct_url }}).
 
 ## Compensation and Benefits
 
-This is a remote position. All qualified applicants are highly encouraged to apply, however, candidates with work authorization in either 
+This is a remote position. All qualified applicants are highly encouraged to apply, however, candidates with work authorisation in either 
 Europe or South Africa will receive priority consideration.
 
 Compensation will be $77,520 - $107,999 USD annually, commensurate with experience. This compensation may need to be adjusted in accordance
