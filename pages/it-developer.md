@@ -100,7 +100,7 @@ to employment and benefits, ensuring a competitive compensation package.
 The Carpentries is dedicated to providing a welcoming and supportive environment
 for all people, regardless of background or identity. We are an equal
 opportunity employer and give consideration for employment to qualified
-applicants without regard to age, race, color, religion, creed, sex, sexual
+applicants without regard to age, race, colour, religion, creed, sex, sexual
 orientation, gender identity or expression, national origin, marital status,
 disability or protected veteran status, or any other status or characteristic
 protected by US federal, state, or local law. We encourage all qualified
