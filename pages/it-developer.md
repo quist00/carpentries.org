@@ -63,7 +63,7 @@ with skills and perspectives that complement our existing team and an enthusiasm
 Our team values openness, honesty, fairness, and transparency as the keys to
 fostering trust. We believe that the individuals who make up our community are
 the most important part of our organisation and our strongest resource. We
-strive to make decisions that prioritize people first and empower the growth and
+strive to make decisions that prioritise people first and empower the growth and
 success of all who are part of our organisation. We value a growth mindset in
 all that we do and strive to be always improving and evolving ourselves and our
 methodologies, being receptive to feedback, responsive, curious, and willing to
