@@ -24,7 +24,7 @@ You can also access the full list of sessions at the [2022 CarpentryCon website]
 
 ### Data literacy - the key to a broad adaptation of Open Science and the FAIR principles (EN)
 
-**Date:** 1 August, 7:30 UTC
+**Date:** 1 August, 7:30 UTC <br/>
 **Session Lead:** Konrad Förstner, Professor for Data and Information Literacy, ZB MED - Information Center for Life Sciences and TH Köln - University of Applied Sciences
 
 In all research domains, the ongoing digital transformation is currently changing how science is conducted. Rapidly growing quantities of data, as well as metadata, are produced, processed, analyzed and archived. Besides this, further research results, including software and models, are published and shared. The broad recognition and adaptation of Open Science and the FAIR Principles (Findable, Accessible, Interoperable, Reusable) lead to more transparency, reproducibility and reuse of such items. On the other hand, this also generates new requirements regarding skills to handle these items adequately. This makes data literacy, with all its diverse facets, a key skill for basically every researcher and people supporting research activities like data steward. Since their beginning, the three lesson programs of "The Carpentries" (Software Carpentry, Data Carpentry and Library Carpentry) have been developing training material, teaching methods, and, most importantly, building a community for bringing these skills to the people.
@@ -35,7 +35,7 @@ In this talk, we will shed light on the ongoing implementation of Open Science a
 
 ### Logrando el cambio que queremos de a una conferencia a la vez (ES)/Achieving the change we want one conference at a time (EN)
 
-**Date:** 1 August, 15:00 UTC
+**Date:** 1 August, 15:00 UTC <br/>
 **Session Lead:** Yanina Bellini Saibene, Community Manager, rOpenSci
 
 Las conferencias son espacios para aprender, actualizarse, conocer y conectar con más personas y compartir nuestro trabajo. Pueden ayudar a definir trayectorias profesionales y crear colaboraciones  duraderas y nuevas oportunidades. Sin embargo, la participación y las oportunidades disponibles en una conferencia no son iguales para todas las personas por aspectos ajenos a su calidad académica y profesional.  En esta charla voy a compartir acciones concretas que podemos realizar para cambiar el panorama de los eventos que organizamos con el objetivo que sean más inclusivos y diversos.  Voy a compartir ejemplos concretos de aplicación de estas prácticas en eventos locales a internacionales, tanto en modalidad presencial como virtual e híbrida y los resultados obtenidos tras 20 años de organizarlos. Espero que estas experiencias nos permitan iniciar una conversación para repensar cómo superar los desafíos actuales y generar opciones que incrementen la inclusion y la diversidad en las conferencias. Les invito a que cambiemos el mundo de una conferencia a la vez. Sin prisa pero sin pausa.
@@ -46,7 +46,7 @@ Conferences are spaces to learn, update, meet, connect with more people, and sha
 
 ### Panel - The CARE Principles for Indigenous Data Governance: Their Importance and How they are Being Applied (EN)
 
-**Date:** 1 August, 23:30 UTC
+**Date:** 1 August, 23:30 UTC <br/>
 **Panelists:** Dr Stephanie Russo Carroll, University of Arizona
 Dr Joslynn Lee, Fort Lewis College
 
@@ -57,7 +57,7 @@ The CARE Principles provide a process to address the tension that can exist when
 
 ### Radical Self-Care: Creating "joy lists" to connect with the good in our lives (EN)
 
-**Date:** 8 August, 14:00 UTC
+**Date:** 8 August, 14:00 UTC <br/>
 **Session Lead:** Kari L. Jordan
 
 [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde), feminist, librarian, and civil rights activist, once stated, ***“caring for myself is not self-indulgence; it is self-preservation.”*** The importance of having wellness and radical self-care resources readily available to our community will help to mitigate the impact of the uncertainty and stressors we deal with daily as we work to collaborate and contribute to The Carpentries mission. During this keynote, Kari invites us to identify and connect with the good things in our lives by creating “joy lists''. You are encouraged to bring something to write with and participate in this keynote in a comfortable environment.
