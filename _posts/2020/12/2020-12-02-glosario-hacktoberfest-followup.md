@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Toby Hodges", "François Michonneau", "Zhian Kamvar"]
+authors: ["Toby Hodges", "François Michonneau", "Zhian N. Kamvar"]
 teaser: "Following up on Hacktoberfest 2020 and the first Glosario contribution drive."
 title: "Thank you for contributing to Glosario!"
 date: 2020-12-02
