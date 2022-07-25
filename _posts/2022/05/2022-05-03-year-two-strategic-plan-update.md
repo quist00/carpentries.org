@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Erin Becker", "Kari L. Jordan", "Zhian Kamvar"]
+authors: ["Erin Becker", "Kari L. Jordan", "Zhian N. Kamvar"]
 teaser: "The Carpentries Community Development Program, efforts towards Equity, Inclusion, Accessibility, and more progress towards our five-year strategic plan!"
 title: "The Carpentries Strategic Plan: Year Two In Review"
 date: 2022-05-02
