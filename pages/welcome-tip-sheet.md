@@ -54,7 +54,7 @@ A Member Organisation is an organisation which has made a commitment to the grow
 - [Frequently Asked Questions](https://carpentries.org/member_faq/)
 
 ### Become an Instructor
-Carpentries Instructors are the core of our community, organising and teaching workshops to spread data literacy and computational skills around the world. Becoming an Instructor is a great step to add inspiring people to your network and helps you to both develop and demonstrate your ability to teach effectively.
+Carpentries Instructors are the core of our community, organising and teaching workshops to spread data literacy and computational skills around the world. [Becoming an Instructor](https://carpentries.org/become-instructor/) is a great step to add inspiring people to your network and helps you to both develop and demonstrate your ability to teach effectively.
 
 ### Network, Collaborate and Co-Create
 
