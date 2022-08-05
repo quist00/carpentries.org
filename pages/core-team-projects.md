@@ -301,7 +301,7 @@ In Q1 2019, the business Team worked on updating our grants collaboration workfl
 ## Community Development Team
 
 <br>Team Lead: Alycia Crall
-<br>Team Members: Angelique Trusler · Kelly Barnes · Omar Khan · Toby Hodges
+<br>Team Members: Angelique Trusler · Kelly Barnes · Omar Khan
 
 The Community Development Team works to develop and maintain an open and welcoming community culture by developing, testing and implementing various communication strategies, supporting our various committees and task forces, and by introducing and running various initiatives that result in increased pathways for collaboration in our community, as well as equitable  distribution of resources, opportunities and access to inclusive spaces for our community members globally. Some of the projects the Community Development Team has embarked on since January 2019 include:
 setting up the Community Development Program in The Carpentries, developing and implementing a communications strategy for The Carpentries, updating our Code of Conduct documentation with the Code of Conduct Committee, The Carpentries Values Project, The Carpentries Tagathon, The Carpentries Gratitudes project among others. You can find more details about their quarterly project work below.
