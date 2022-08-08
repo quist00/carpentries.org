@@ -102,6 +102,19 @@ people:
     - {committee: Governance Committee, role: Member}
     - {committee: Program Committee, role:  Member}
 
+- person_name:  Amel Ghoulia
+  pic: amel_ghoulia.jpg
+  github: amelgh
+  country: US
+  active: false
+  term:
+    - {type: Appointed, start_year: 2022}
+  roles: 
+    - {committee: Governance Committee, role: Member}
+    - {committee: Program Committee, role: Member}
+
+
+
 - person_name: Cedric Chambers
   active: false
   term:
