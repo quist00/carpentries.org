@@ -329,11 +329,6 @@ There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.carpentries.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
 going on throughout our community.
 
-* General community events are listed in blue.
-* CarpentryCon 2022 (31 July - 13 August 2022) events are listed in orange.  Visit the [CarpentryCon 2022 website](https://2022.carpentrycon.org/) for more information.
-
-
-
 <div id='calendar' markdown="0"></div>
 
 <hr>
