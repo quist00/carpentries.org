@@ -110,10 +110,12 @@ people:
   calendly: daniellesieh
   et: false
 
-- name: Brynn Elliot
-  pic: brynnelliot
+- name: Brynn Elliott
+  pic: brynnelliott
   position: Accessibility Manager
   email: brynn@carpentries.org
+  github:  brynnelliott
+  calendly: brynnelliott
   et: false
 
 - name: Angelique Trusler, PhD
