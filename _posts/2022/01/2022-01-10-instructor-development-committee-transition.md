@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt", "Alycia Crall"]
+authors: ["Sher! Hurt", "Alycia Crall"]
 teaser: "Learn more about the transition and how to be engaged"
 title: "The Instructor Development Committee is Moving and Needs YOUR Help"
 date: 2022-01-10
