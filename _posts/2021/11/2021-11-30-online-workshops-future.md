@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["Sher! Hurt"]
 teaser: "The Pilot Phase is Ending for Online Workshops at The Carpentries. What comes next?"
 title: "The Future of Online Workshops"
 date: 2021-11-30
