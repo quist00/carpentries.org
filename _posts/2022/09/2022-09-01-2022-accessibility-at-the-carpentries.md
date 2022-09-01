@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Bryn Elliott"]
+authors: ["Brynn Elliott"]
 teaser: "Accessibility at The Carpentries"
 title: "Access for All"
 date: 2022-09-01
@@ -14,7 +14,7 @@ One of The Carpentries strategic focus areas is to intentionally incorporate equ
 
 To do this, we teamed up with [Understood](https://www.understood.org/workplace), whose mission is to shape workplaces to be inclusive for people with disabilities, to better understand where The Carpentries could improve accessibility for the community and what we are already doing well. Understood evaluated organisational statements and policies, employee processes (hiring, onboarding, workflows), and observed a three-day Software Carpentry workshop.
 
-##What we learned:
+## What we learned:
 There are many things The Carpentries is already doing well and will continue to do. In a broader sense, we are proud that we are an open-minded, flexible, and purpose-driven workplace. There is a very intentional approach to equity, inclusion, and accessibility at The Carpentries and we are very open to feedback and excited to make changes. Some specific things that were highlighted in the report:
 
 - Using words like “inclusive” and “accessibility” prominently in [The Carpentries’ vision, mission, and values statements](https://carpentries.org/about/) signals commitment to these principles.
