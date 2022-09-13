@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Konrad Förstner"]
+authors: ["Executive Council"]
 teaser: "Nominations are now open for community-elected and Council-elected positions"
 title: "Call for Candidates for the 2023 Carpentries Executive Council" 
 date: 2022-09-14
