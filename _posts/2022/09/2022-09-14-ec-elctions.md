@@ -5,7 +5,7 @@ teaser: "Nominations are now open for community-elected and Council-elected posi
 title: "Call for Candidates for the 2023 Carpentries Executive Council" 
 date: 2022-09-14
 time: "09:00:00"
-tags: []
+tags:  ["Executive Council", "Governance"]
 ---
 
 Carpentries leaders are needed! Do you have:
