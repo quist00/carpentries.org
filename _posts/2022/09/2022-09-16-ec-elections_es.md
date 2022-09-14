@@ -20,37 +20,39 @@ En la búsqueda de candidatos y candidatas con cualificaciones para servir en [E
 
 El Consejo Ejecutivo es el órgano de gobierno de Carpentries y es responsable de la planificación estratégica y organizativa. Quienes sirven en el Consejo Ejecutivo tienen un mandato de dos años y son elegidos y elegidas por la comunidad o por el Consejo Ejecutivo. 
 
-### Community-elected Members
+### Miembros elegidos/as por la comunidad
 
-The Carpentries community elects two members to the Executive Council each year.  These candidates must self-nominate, and must already be voting members in The Carpentries. Any individuals who are not successful in the community election may be automatically considered for Council-elected positions. Nominate yourself for community-elected positions using [this form](https://forms.gle/5ttJqsDfGmzqGmg97). Your answers to this form will be published in a blog post announcing all candidates for the community election. You can view examples of nomination posts in [this list of previous candidates](https://carpentries.org/blog/2021/10/2022-executive-council-elections/). You will also have the opportunity to record a three-minute video to be shared with the community.
+La comunidad de Carpentries elige cada año a dos miembros del Consejo Ejecutivo.  Las personas candidatas deben auto-nominarse, y deben ser miembros que pueden votar. Las personas que no hayan sido elegidas por la comunidad pueden ser consideradas automáticamente para los puestos elegidos por el Consejo. Postulate para los puestos elegidos por la comunidad utilizando [este formulario](https://forms.gle/5ttJqsDfGmzqGmg97). Tus respuestas se publicarán en un artículo en nuestro blog en el que se anunciarán todas las personas candidatas a la elección de la comunidad. Puedes ver ejemplos de artículos de nominación en [esta lista de candidatos y candidatas anteriores](https://carpentries.org/blog/2021/10/2022-executive-council-elections/). También tendrás la oportunidad de grabar un vídeo de tres minutos que se compartirá con la comunidad.
 
-### Council-elected Members
+### Miembros elegidos/as por el Consejo
  
-Council-elected positions are chosen by the Executive Council. Three council-elected positions are open for the 2023 Executive Council. Anyone may nominate someone for council-elected positions, and the nominee does not need to be previously affiliated with The Carpentries to serve in these positions. The Executive Council will contact candidates nominated for Council-elected positions to ensure they are prepared to serve if elected. Nominate someone for a Council-elected position using [this form](https://forms.gle/ies6yWKRiFfmLwEg7).
+Las personas para los puestos elegidos por el Consejo son seleccionados por el Consejo Ejecutivo. Hay tres puestos electos por el Consejo Ejecutivo de 2023. Cualquier persona puede nominar a otra para estos puestos, y la persona nominada no necesita estar previamente afiliado a The Carpentries para servir en estas posiciones. El Consejo Ejecutivo se pondrá en contacto con las personas nominadas para estos puestos para asegurarse de que están preparados para servir si son elegidas. Puedes nominar a alguien para un puesto elegido por el Consejo usando [este formulario](https://forms.gle/ies6yWKRiFfmLwEg7).
 
-### Open member positions and closing date for the nomination
 
-The term of the following current Executive Council members ends: 
-- Aleksandra Nenadic (community elected)                                                                                                   
-- Sarah Stevens (community elected)            
-- John Chodacki (council elected)                                                                             
-- Michael Smith(council elected)                                                                                 
-- Masami Yamaguchi (council elected)
+### Puestos vacantes y fecha límite para la presentación de candidaturas
 
-The following are the returning EC members in the last year for their term:
-- Konrad Förstner (community elected)         
-- Yanina Bellini Saibene (community elected)                       
-- Annajiat Alim Rasel (council elected)
+Estos son los mandatos del Consejo Ejecutivo que finalizan: 
+- Aleksandra Nenadic (elegida por la comunidad)                                                                                                   
+- Sarah Stevens (elegida por la comunidad)            
+- John Chodacki (elegido por el consejo)                                                                             
+- Michael Smith (elegido por el consejo)                                                                                 
+- Masami Yamaguchi (elegida por el consejo)
 
-Nominations for both Community-elected and Council-elected positions close on **Monday October 17, 2022**, Anywhere on Earth (AoE).
+Los siguientes son los miembros del Consejo Ejecutivo que regresan en el último año de su mandato:
+- Konrad Förstner (elegido por la comunidad)         
+- Yanina Bellini Saibene (elegida por la comunidad)                       
+- Annajiat Alim Rasel (elegido por el consejo)
 
-[Self-nominate for the two open Community-elected positions](https://forms.gle/5ttJqsDfGmzqGmg97)  
-[Nominate others for the three Council-elected positions](https://forms.gle/ies6yWKRiFfmLwEg7) 
+Las candidaturas para los puestos elegidos por la comunidad y los elegidos por el consejo se cierran el **lunes 17 de octubre de 2022**, en cualquier lugar de la Tierra (AoE).
 
-Please review the FAQ below prior to submitting a nomination.
 
-## Carpentries Election FAQ
-The Carpentries Executive Council’s election process is determined by [The Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html). Below are several frequently asked questions that will help you understand the process.
+[Autocandidatura para los dos cargos electos por la Comunidad](https://forms.gle/5ttJqsDfGmzqGmg97)  
+[Nominar a otras personas para los tres puestos elegidos por el Consejo](https://forms.gle/ies6yWKRiFfmLwEg7) 
+
+Por favor, revisa las siguientes preguntas frecuentes antes de presentar una candidatura.
+
+## FAQ de la elección de The Carpentries
+El proceso de elección del Consejo Ejecutivo de The Carpentries está determinado por [nuestros Estatutos](https://docs.carpentries.org/topic_folders/governance/bylaws.html). A continuación encontrarás varias preguntas frecuentes que te ayudarán a entender el proceso.
 
 1. **What does the Carpentries Executive Council do?**  
 The Carpentries Executive Council is the governance body of The Carpentries organisation. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries’ public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
