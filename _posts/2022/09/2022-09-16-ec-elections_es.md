@@ -78,41 +78,35 @@ El mandato de los miembros del Consejo es de dos (2) años, y los nuevos mandato
 4. **¿Cuánto tiempo tengo que dedicar a formar parte del Consejo Ejecutivo?**  
 El Consejo Ejecutivo en pleno se reúne en línea al menos cuatro veces al año, normalmente una vez al trimestre, durante 90 minutos. Se espera que los miembros asistan al menos al 75% de estas reuniones. Además, se celebran reuniones mensuales de los comités permanentes para colaborar en el trabajo de dichos comités. El Consejo participa en un retiro una vez al año, ya sea en persona o virtualmente. Si es en persona, los miembros deben estar disponibles para viajar a este evento. Además, los grupos ad hoc pueden reunirse, y cada uno es responsable de asumir el trabajo necesario entre reuniones. El/La Presidente y el/la Tesorero/a, que son elegidos/as entre los miembros del Consejo, dedican un tiempo adicional considerable a los asuntos de la organización. Consulta nuestro [calendario anual](https://docs.carpentries.org/topic_folders/governance/executive-council.html#calendar-of-events) para más detalles sobre las actividades generales y cuándo tienen lugar.
 
-5. **Are Executive Council members compensated?**  
-Council members are not compensated for their contributions to The Carpentries, with the exception of administrative support, travel, and accommodation costs related to their duties on the Executive Council. This generally covers our one in-person meeting per year, but does not cover travel to CarpentryCon or other Carpentries-related events.
+5. **¿Se remunera a los miembros del Consejo Ejecutivo?**  
+Los miembros del Consejo no son compensados/as por sus contribuciones a The Carpentries, a excepción de los gastos de apoyo administrativo, viaje y alojamiento relacionados con sus funciones en el Consejo Ejecutivo. Por lo general, esto cubre nuestra única reunión en persona al año, pero no cubre los viajes a CarpentryCon u otros eventos relacionados con la organización.
 
-6. **How do I know if I am a voting member?**  
-Only voting members of The Carpentries can vote in the election and self-nominate for community-elected positions. To be a voting member, you must meet one of the following conditions:
-    * Every individual who has completed instructor or trainer certification in the past year (December 1, 2021 - November 30, 2022).
-    * Every individual who has completed their instructor certification in the last two years and has taught at least one workshop of The Carpentries (Library Carpentry, Data Carpentry, Software Carpentry) between December 1, 2020 and November 30, 2022.
-    * Every individual who is a certified instructor and has taught at least two workshops of The Carpentries in the past two years between December 1, 2020 and November 30, 2022
-    * Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution to any Lesson Program or The Carpentries organisation in the past year is also considered active in the community and is welcome to apply for Voting Membership by completing the [application for voting membership](https://forms.gle/JwEPoMAZCCooxvCE7).  
-
-Please note: we understand that several workshops have been postponed or canceled due to the COVID-19 pandemic. Additionally, we want to recognise the various ways community members contribute and expand voting eligibility to recognise those contributions. Therefore, we have extended the requirements for voting membership as follows:
-* Certified Instructors who have taught 2 times between 2019 and 2022 
-* Trainers active between 2019 and 2022
-* Maintainers active between 2019 and 2022 
-
-The Executive Council voted to approve these eligibility conditions for the 2022-2023 elections cycle. We will continue to discuss expanding voting eligibility and make revisions to the bylaws accordingly.
-
-7. **What is the timeline for the elections?**  
-    * September 14, 2022: Nominations open
-    * October 17, 2022: Nominations close
-    * Early November: Blog posts and optional videos from candidates for community-elected positions are available to the community, confirmation emails for voting status sent
-    * November 20, 2022: Deadline to submit application for voting membership
-    * December 5-11, 2022: Voting is open for community-elected positions
-    * December 14, 2022: Executive Council votes on Council-elected candidates
-    * January, 2023: Executive Council announces 2023 Executive Council
-
-### Need Help?
-* If you’re not sure if you’re a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you are eligible based on the criteria above. 
-* If you need records updated, help logging into AMY or have any questions, please email [team@carpentries.org](mailto:team@carpentries.org). 
-* If you have taught workshops that are not registered in AMY, please include a link to the workshop website(s) in your email to [team@carpentries.org](mailto:team@carpentries.org). We will also be sending out an email to each instructor with their status before voting opens.
+6. **¿Cómo puedo saber si soy miembro con derecho a voto?**  
+Sólo las personas con derecho a voto de The Carpentries pueden votar en las elecciones y auto proponerse para los puestos elegidos por la comunidad. Para ser un/una miembro con derecho a voto, se deben cumplir una de las siguientes condiciones:
+    * Toda persona que haya completado la certificación de instructor/a o trainer en el último año (1 de diciembre de 2021 - 30 de noviembre de 2022).
+    * Toda persona que haya completado su certificación de instructor/a en los últimos dos años y haya impartido al menos un taller de The Carpentries (ibrary Carpentry, Data Carpentry, Software Carpentry) entre el 1 de diciembre de 2020 y el 30 de noviembre de 2022.
+    * Toda persona que sea instructor/a certificado/a y haya impartido al menos dos talleres de The Carpentries en los últimos dos años entre el 1 de diciembre de 2020 y el 30 de noviembre de 2022
+    * Cualquier persona que haya participado en un comité, haya servido como mentor/a o mantenedor/a, o haya hecho una contribución significativa a cualquier Programa de Lecciones o a la organización en el último año, se considera un miembro activo en la comunidad y es bienvenido/a a solicitar la Membresía con derecho a voto completando la [solicitud de membresía con derecho a voto](https://forms.gle/JwEPoMAZCCooxvCE7).  
 
 
+Por favor, ten en cuenta: entendemos que varios talleres han sido pospuestos o cancelados debido a la pandemia de COVID-19. Además, queremos reconocer las diversas formas de contribución de los miembros de la comunidad y ampliar la posibilidad de votar para reconocer esas contribuciones. Por lo tanto, hemos ampliado las posibilidades para ser un miembro con derecho a voto de la siguiente manera:
+* Instructores/as certificados/as que hayan impartido 2 veces entre 2019 y 2022 
+* Trainers activos/as entre 2019 y 2022
+* Personas que mantienen nuestras lecciones que estuvieron activos/as entre 2019 y 2022 
 
 
+El Consejo Ejecutivo votó para aprobar estas condiciones de elegibilidad para el ciclo electoral 2022-2023. Seguiremos debatiendo la ampliación de la elegibilidad para votar y realizaremos las revisiones de los estatutos correspondientes.
 
+7. **¿Cuál es el calendario de las elecciones?**  
+    * Septiembre 14, 2022: Apertura de las nominaciones
+    * Octubre 17, 2022: Cierre de las nominaciones
+    * Principios de Noviembre: Se disponibilizan a la comunidad el artículo y los vídeos opcionales de las personas candidatas a los cargos electos por la comunidad, y se envían los correos electrónicos de confirmación del estado de votación.
+    * Noviembre 20, 2022: Fecha límite para presentar la solicitud de membresía con derecho a voto
+    * Deciembre 5-11, 2022: Se abren las votaciones para los puestos elegidos por la comunidad
+    * Deciembre 14, 2022: El Consejo Ejecutivo vota por los candidatos elegidos por el Consejo
+    * Enero, 2023: El Consejo Ejecutivo anuncia el Consejo Ejecutivo de 2023
 
-
-
+### ¿Necesitas ayuda?
+* Si no estás seguro/a de ser un/una miembro elegible para votar, entra en [AMY](https://amy.carpentries.org/account/login/) y comprueba si los registros muestran que eres elegible en base a los criterios anteriores. 
+* Si necesitas actualizar tus registros, ayuda para iniciar sesión en AMY o tienes alguna pregunta, envía un correo electrónico a [team@carpentries.org](mailto:team@carpentries.org). 
+* Si has impartido talleres que no están registrados en AMY, por favor envía un correo electrónico a [team@carpentries.org](mailto:team@carpentries.org) con el enlace a la página web del taller. Enviaremos un correo electrónico a cada instructor/a con su situación antes de que se abra la votación.
