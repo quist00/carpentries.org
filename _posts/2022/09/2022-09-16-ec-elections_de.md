@@ -19,11 +19,11 @@ Es werden Menschen für die Leitung von The Carpentries gebraucht! Hast Du:
 Auf der Suche nach qualifizierten Kandidaten für den [Executive Council (Vorstand) von The Carpentries] (http://carpentries.org/governance/) wird jedes Mitglied der Carpentries-Community ermutigt, sich an dem Verfahren zu beteiligen, indem es sich selbst oder eine qualifizierte Person für einen der offenen Sitz vorschlägt.
                                                                                                                                                  Der Executive Council ist das Leitungsgremium von The Carpentries und für die strategische und organisatorische Planung zuständig. Die Mitglieder des Executive Councils haben eine Amtszeit von zwei Jahren und werden entweder von der Gemeinschaft oder vom Executive Council gewählt. 
 
-### Community-elected Members
+### Von der Gemeinschaft gewählte Mitglieder
 
 Die Carpentries-Gemeinschaft wählt jedes Jahr zwei Mitglieder für den Vorstand. Diese Kandidaten müssen sich selbst nominieren und bereits stimmberechtigte Mitglieder von The Carpentries sein. Personen, die bei den die Wahl durch die Community nicht erfolgreich waren, können automatisch für die vom Vorstand gewählten Positionen in Betracht gezogen werden. Nominiere Dich selbst für die von der Gemeinschaft gewählten Positionen mit [diesem Formular] (https://forms.gle/5ttJqsDfGmzqGmg97). Deine Antworten in diesem Formular werden in einem Blogbeitrag veröffentlicht, in dem alle Kandidaten für die Communitywahl bekannt gegeben werden. Beispiele für Nominierungsposts kannst Du in [dieser Liste früherer Kandidaten](https://carpentries.org/blog/2021/10/2022-executive-council-elections/) einsehen. Du wirst auch die Möglichkeit haben, ein dreiminütiges Video aufzunehmen, das der Community zur Verfügung gestellt wird.
 
-### Council-elected Members
+### Vom Excecutive Council gewählte Mitglieder
 
 Die vom Excecutive Council gewählten Positionen werden vom Excecutive Council direkt gewählt. Für den Excecutive Council 2023 sind drei Positionen zu besetzen, die vom Excecutive Council gewählt werden. Jeder kann jemanden für ein Amt im Excecutive Council vorschlagen, und der/die Kandidat*in muss nicht vorher Mitglied von The Carpentries gewesen sein, um ein solches Amt zu übernehmen. Der Excecutive Council wird sich mit den Kandidaten für die vom Rat gewählten Positionen in Verbindung setzen, um sich zu vergewissern, dass sie im Falle ihrer Wahl bereit sind, ihr Amt auszuüben. Nominiere jemanden für ein vom Excecutive Council gewähltes Amt mit [diesem Formular] (https://forms.gle/ies6yWKRiFfmLwEg7).
 
@@ -101,7 +101,7 @@ Der Excecutive Council stimmte zu, diese Bedingungen für den Wahlzyklus 2022-20
 * 14. Dezember 2022: Exekutivrat stimmt über die vom Rat gewählten Kandidaten ab
 * Januar 2023: Exekutivrat gibt den Exekutivrat 2023 bekannt
 
-### Brauchst Du hilfe?
+### Brauchst Du Hilfe?
 
 * Wenn Du Dir nicht sicher bist, ob Du ein stimmberechtigtes Mitglied bist, melde Dich bei [AMY](https://amy.carpentries.org/account/login/) an und schaue nach, ob die Aufzeichnungen zeigen, dass Du aufgrund der oben genannten Kriterien stimmberechtigt bist.
 * Wenn Du Deine Daten aktualisieren möchtest, Hilfe beim Einloggen in AMY benötigst oder Fragen hast, sende bitte eine E-Mail an [team@carpentries.org](mailto:team@carpentries.org).
