@@ -27,7 +27,6 @@ Die Carpentries-Gemeinschaft wählt jedes Jahr zwei Mitglieder für den Vorstand
 
 Die vom Excecutive Council gewählten Positionen werden vom Excecutive Council direkt gewählt. Für den Excecutive Council 2023 sind drei Positionen zu besetzen, die vom Excecutive Council gewählt werden. Jeder kann jemanden für ein Amt im Excecutive Council vorschlagen, und der/die Kandidat*in muss nicht vorher Mitglied von The Carpentries gewesen sein, um ein solches Amt zu übernehmen. Der Excecutive Council wird sich mit den Kandidaten für die vom Rat gewählten Positionen in Verbindung setzen, um sich zu vergewissern, dass sie im Falle ihrer Wahl bereit sind, ihr Amt auszuüben. Nominiere jemanden für ein vom Excecutive Council gewähltes Amt mit [diesem Formular] (https://forms.gle/ies6yWKRiFfmLwEg7).
 
-
 ### Offene Mitgliedspositionen und Stichtag für die Nominierung
 
 Die Amtszeit der folgenden derzeitigen Mitglieder des Excecutive Councils endet:
@@ -50,11 +49,9 @@ Die Nominierungsfrist für die von der Gemeinschaft und vom Excecutive Council g
 
 Bitte lies das FAQ unten, bevor Du eine Nominierung einreichen.
 
-
 ## Carpentries-Wahl FAQ
 
 Das Wahlverfahren für den Excecutive Council von The Carpentries ist in der [Carpentries-Satzung] (https://docs.carpentries.org/topic_folders/governance/bylaws.html) festgelegt. Im Folgenden findest Du einige häufig gestellte Fragen, die dir helfen sollen, das Verfahren zu verstehen.
-
 
 1. **Was macht der Excecutive Council von Carpentries?**
 Der Excecutive Council ist das Leitungsgremium der Organisation The Carpentries Er ist verantwortlich für die strategische und organisatorische Planung, die Auswahl des Geschäftsführers und die Bewertung seiner Leistung, die Finanzaufsicht, die Ermittlung von Einnahmequellen und die Entwicklung von Ressourcen, die Genehmigung und Überwachung der Programme und Dienstleistungen von The Carpentries sowie die Verbesserung des öffentlichen Images von The Carpentries. Die Mitglieder des Rates fungieren auch als Fürsprecher und Botschafter für die Organisation und nutzen ihre Netzwerke, um den Ruf der Organisation und die Mittelbeschaffung zu fördern. Der Exekutivrat nimmt diese Aufgaben durch eine Kombination aus vierteljährlichen Sitzungen des Exekutivrats und regelmäßiger Korrespondenz und Zusammenarbeit über E-Mail und Online-Plattformen wahr.
