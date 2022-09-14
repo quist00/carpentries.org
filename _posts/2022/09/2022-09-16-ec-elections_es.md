@@ -54,28 +54,29 @@ Por favor, revisa las siguientes preguntas frecuentes antes de presentar una can
 ## FAQ de la elección de The Carpentries
 El proceso de elección del Consejo Ejecutivo de The Carpentries está determinado por [nuestros Estatutos](https://docs.carpentries.org/topic_folders/governance/bylaws.html). A continuación encontrarás varias preguntas frecuentes que te ayudarán a entender el proceso.
 
-1. **What does the Carpentries Executive Council do?**  
-The Carpentries Executive Council is the governance body of The Carpentries organisation. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries’ public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
+1. **¿Qué hace el Consejo Ejecutivo?**  
+El Consejo Ejecutivo de The Carpentries es el órgano de gobierno de la organización. Es responsable de la planificación estratégica y organizativa, de la selección de la Dirección Ejecutiva y de la evaluación de su rendimiento, de la supervisión financiera, de la identificación de fuentes de ingresos y del desarrollo de recursos, de la aprobación y el seguimiento de los programas y servicios de The Carpentries, y de la mejora de la imagen pública de la comunidad. Los miembros del Consejo también actúan como defensores/as y embajadores/as de la organización, aprovechando sus redes para beneficiar la reputación de la organización y la recaudación de fondos. El Consejo Ejecutivo ejerce estas responsabilidades a través de una combinación de reuniones trimestrales, comunicación y colaboración periódicas a través del correo electrónico y plataformas en línea.
 
-More information about the Executive Council’s purpose and activities can be found in the [Executive Council section of the handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html). 
 
-Additionally, read the blog posts [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](​​https://carpentries.org/blog/2021/07/carpentries-governance/). 
+Puedes encontrar más información sobre el propósito y las actividades del Consejo Ejecutivo en la [sección del Consejo Ejecutivo de nuestro manual](https://docs.carpentries.org/topic_folders/governance/executive-council.html). 
 
-2. **What expertise does the Executive Council need?**  
-In general, Executive Council members possess some of the following characteristics:
-    * Experience with strategic planning for a non-profit or other type of organisation
-    * Experience with non-profit finances and fundraising, especially with regards to sustainability
-    * Familiarity with non-profit and open source governance
-    * Membership in or previous experience working with diverse communities
-    * Understanding and passion for The Carpentries mission, vision, and values
-    * Time to participate fully in Executive Council and other Carpentries activities
-    * Previous experience at the Executive Council level
+Además, puedes leer [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](​​https://carpentries.org/blog/2021/07/carpentries-governance/). 
 
-3. **How long is the Executive Council term and when does it start?**  
-The term for Council members is two (2) years, with new terms beginning on February 1st, following the election. Terms are staggered so that approximately half of the community-elected and half of the Council-elected members are elected each year.
+2. **¿Qué experiencia necesita el Consejo Ejecutivo?**  
+En general, los miembros del Consejo Ejecutivo poseen algunas de las siguientes características:
+    * Experiencia en la planificación estratégica de una organización sin ánimo de lucro o de otro tipo.
+    * Experiencia en finanzas y recaudación de fondos para organizaciones sin ánimo de lucro, especialmente en lo que respecta a la sostenibilidad.
+    * Familiaridad con la gobernanza de organizaciones sin ánimo de lucro y de código abierto
+    * Pertenencia o experiencia previa en el trabajo con comunidades diversas
+    * Comprensión y pasión por la misión, visión y valores de The Carpentries
+    * Tiempo para participar plenamente en el Consejo Ejecutivo y otras actividades de la comunidad
+    * Experiencia previa en niveles de Consejo Ejecutivo
 
-4. **How much time would I need to commit to serving on the Executive Council?**  
-The full Executive Council meets online at least four times per year -- usually once per quarter -- for 90 minutes. Members are expected to attend at least 75% of these meetings. Additionally, monthly meetings of the standing committees take place to collaborate on the work of those committees. The Council participates in a retreat once per year, either in person or virtually. If in person, members need to make themselves available to travel to this event. Ad hoc groups may meet in addition to this, and individuals will all be responsible for taking on work between meetings. The Chair and Treasurer, which are elected from Council members, spend considerable additional time on Carpentries matters. See our [yearly timeline](https://docs.carpentries.org/topic_folders/governance/executive-council.html#calendar-of-events) for more details on our general activities and when they take place.
+3. **¿Cuánto dura el mandato del Consejo Ejecutivo y cuándo comienza?**  
+El mandato de los miembros del Consejo es de dos (2) años, y los nuevos mandatos comienzan el 1 de febrero del año siguiente a la elección. Los mandatos se escalonan de manera que cada año se elige aproximadamente la mitad de los puestos elegidos por la comunidad y la mitad de los puestos elegidos por el Consejo.
+
+4. **¿Cuánto tiempo tengo que dedicar a formar parte del Consejo Ejecutivo?**  
+El Consejo Ejecutivo en pleno se reúne en línea al menos cuatro veces al año, normalmente una vez al trimestre, durante 90 minutos. Se espera que los miembros asistan al menos al 75% de estas reuniones. Además, se celebran reuniones mensuales de los comités permanentes para colaborar en el trabajo de dichos comités. El Consejo participa en un retiro una vez al año, ya sea en persona o virtualmente. Si es en persona, los miembros deben estar disponibles para viajar a este evento. Además, los grupos ad hoc pueden reunirse, y cada uno es responsable de asumir el trabajo necesario entre reuniones. El/La Presidente y el/la Tesorero/a, que son elegidos/as entre los miembros del Consejo, dedican un tiempo adicional considerable a los asuntos de la organización. Consulta nuestro [calendario anual](https://docs.carpentries.org/topic_folders/governance/executive-council.html#calendar-of-events) para más detalles sobre las actividades generales y cuándo tienen lugar.
 
 5. **Are Executive Council members compensated?**  
 Council members are not compensated for their contributions to The Carpentries, with the exception of administrative support, travel, and accommodation costs related to their duties on the Executive Council. This generally covers our one in-person meeting per year, but does not cover travel to CarpentryCon or other Carpentries-related events.
