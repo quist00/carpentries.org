@@ -26,7 +26,21 @@ The Carpentries community elects two members to the Executive Council each year.
 
 ### Council-elected Members
  
-Council-elected positions are chosen by the Executive Council. Three council-elected positions are open for the 2023 Executive Council. Anyone may nominate someone for council-elected positions, and the nominee does not need to be previously affiliated with The Carpentries to serve in these positions. The Executive Council will contact candidates nominated for Council-elected positions to ensure they are prepared to serve if elected. Nominate someone for a Council-elected position using [this form](https://forms.gle/ies6yWKRiFfmLwEg7).  
+Council-elected positions are chosen by the Executive Council. Three council-elected positions are open for the 2023 Executive Council. Anyone may nominate someone for council-elected positions, and the nominee does not need to be previously affiliated with The Carpentries to serve in these positions. The Executive Council will contact candidates nominated for Council-elected positions to ensure they are prepared to serve if elected. Nominate someone for a Council-elected position using [this form](https://forms.gle/ies6yWKRiFfmLwEg7).
+
+### Open member positions and closing date for the nomination
+
+The term of the following current Executive Council members ends: 
+- Aleksandra Nenadic (community elected)                                                                                                   
+- Sarah Stevens (community elected)            
+- John Chodacki (council elected)                                                                             
+- Michael Smith(council elected)                                                                                 
+- Masami Yamaguchi (council elected)
+
+The following are the returning EC members in the last year for their term:
+- Konrad Förstner (community elected)         
+- Yanina Bellini Saibene (community elected)                       
+- Annajiat Alim Rasel (council elected)
 
 Nominations for both Community-elected and Council-elected positions close on **Monday October 17, 2022**, Anywhere on Earth (AoE).
 
