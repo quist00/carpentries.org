@@ -103,10 +103,3 @@ Der Excecutive Council stimmte zu, diese Bedingungen für den Wahlzyklus 2022-20
 * Wenn Du Dir nicht sicher bist, ob Du ein stimmberechtigtes Mitglied bist, melde Dich bei [AMY](https://amy.carpentries.org/account/login/) an und schaue nach, ob die Aufzeichnungen zeigen, dass Du aufgrund der oben genannten Kriterien stimmberechtigt bist.
 * Wenn Du Deine Daten aktualisieren möchtest, Hilfe beim Einloggen in AMY benötigst oder Fragen hast, sende bitte eine E-Mail an [team@carpentries.org](mailto:team@carpentries.org).
 * Wenn Du Workshops unterrichtet hast, die nicht in AMY registriert sind, füge sie Deiner E-Mail an [team@carpentries.org](mailto:team@carpentries.org) bitte einen Link zu der/den Workshop-Website(s) bei. Wir werden eine E-Mail an jeden Instructor mit dem jeweiligen Status senden, bevor die Abstimmung beginnt.
-
-
-
-
-
-
-
