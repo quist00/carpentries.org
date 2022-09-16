@@ -2,17 +2,17 @@
 layout: page
 authors: ["Executive Council"]
 teaser: "Ya está abierto el llamado a candidaturas para los puestos elegidos por la comunidad y por el Consejo"
-title: "Convocatoria de candidatos para el Consejo Ejecutivo de Carpentries 2023" 
+title: "Convocatoria de candidatos para el Consejo Ejecutivo de Carpentries 2023"
 date: 2022-09-16
 time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
 
-[このポストを日本語で読む](carpentries.org/blog/2022/09/2022-09-16-ec-elections_ja)
+[このポストを日本語で読む](https://carpentries.org/blog/2022/09/ec-elections_ja)
 
-[Um diesen Post auf Deutsch zu lesen klicke hier](carpentries.org/blog/2022/09/2022-09-16-ec-elections_de)
+[Um diesen Post auf Deutsch zu lesen klicke hier](https://carpentries.org/blog/2022/09/ec-elections_de)
 
-[Read this blog post in English](carpentries.org/blog/2022/09/2022-09-16-ec-elections)
+[Read this blog post in English](https://carpentries.org/blog/2022/09/ec-elections)
 
 <hr>
 
@@ -25,22 +25,22 @@ tags:  ["Executive Council", "Governance"]
 
 ¡Si es así, The Carpentries te necesita!
 
-En la búsqueda de candidatos y candidatas con cualificaciones para servir en [El Consejo Ejecutivo de Carpentries](http://carpentries.org/governance/), se anima a todos los miembros de la comunidad a participar en el proceso, proponiéndose a sí mismos/as o a una persona calificada para uno de los puestos vacantes del Consejo. 
+En la búsqueda de candidatos y candidatas con cualificaciones para servir en [El Consejo Ejecutivo de Carpentries](http://carpentries.org/governance/), se anima a todos los miembros de la comunidad a participar en el proceso, proponiéndose a sí mismos/as o a una persona calificada para uno de los puestos vacantes del Consejo.
 
-El Consejo Ejecutivo es el órgano de gobierno de Carpentries y es responsable de la planificación estratégica y organizativa. Quienes sirven en el Consejo Ejecutivo tienen un mandato de dos años y son elegidos y elegidas por la comunidad o por el Consejo Ejecutivo. 
+El Consejo Ejecutivo es el órgano de gobierno de Carpentries y es responsable de la planificación estratégica y organizativa. Quienes sirven en el Consejo Ejecutivo tienen un mandato de dos años y son elegidos y elegidas por la comunidad o por el Consejo Ejecutivo.
 
 ### Miembros elegidos/as por la comunidad
 
 La comunidad de Carpentries elige cada año a dos miembros del Consejo Ejecutivo.  Las personas candidatas deben auto-nominarse, y deben ser miembros que pueden votar. Las personas que no hayan sido elegidas por la comunidad pueden ser consideradas automáticamente para los puestos elegidos por el Consejo. Postulate para los puestos elegidos por la comunidad utilizando [este formulario](https://forms.gle/5ttJqsDfGmzqGmg97). Tus respuestas se publicarán en un artículo en nuestro blog en el que se anunciarán todas las personas candidatas a la elección de la comunidad. Puedes ver ejemplos de artículos de nominación en [esta lista de candidatos y candidatas anteriores](https://carpentries.org/blog/2021/10/2022-executive-council-elections/). También tendrás la oportunidad de grabar un vídeo de tres minutos que se compartirá con la comunidad.
 
 ### Miembros elegidos/as por el Consejo
- 
+
 Las personas para los puestos elegidos por el Consejo son seleccionados por el Consejo Ejecutivo. Hay tres puestos electos por el Consejo Ejecutivo de 2023. Cualquier persona puede nominar a otra para estos puestos, y la persona nominada no necesita estar previamente afiliado a The Carpentries para servir en estas posiciones. El Consejo Ejecutivo se pondrá en contacto con las personas nominadas para estos puestos para asegurarse de que están preparados para servir si son elegidas. Puedes nominar a alguien para un puesto elegido por el Consejo usando [este formulario](https://forms.gle/ies6yWKRiFfmLwEg7).
 
 
 ### Puestos vacantes y fecha límite para la presentación de candidaturas
 
-Estos son los mandatos del Consejo Ejecutivo que finalizan: 
+Estos son los mandatos del Consejo Ejecutivo que finalizan:
 - Aleksandra Nenadic (elegida por la comunidad)                                                                                                   
 - Sarah Stevens (elegida por la comunidad)            
 - John Chodacki (elegido por el consejo)                                                                             
@@ -56,7 +56,7 @@ Las candidaturas para los puestos elegidos por la comunidad y los elegidos por e
 
 
 [Autocandidatura para los dos cargos electos por la Comunidad](https://forms.gle/5ttJqsDfGmzqGmg97)  
-[Nominar a otras personas para los tres puestos elegidos por el Consejo](https://forms.gle/ies6yWKRiFfmLwEg7) 
+[Nominar a otras personas para los tres puestos elegidos por el Consejo](https://forms.gle/ies6yWKRiFfmLwEg7)
 
 Por favor, revisa las siguientes preguntas frecuentes antes de presentar una candidatura.
 
@@ -67,9 +67,9 @@ El proceso de elección del Consejo Ejecutivo de The Carpentries está determina
 El Consejo Ejecutivo de The Carpentries es el órgano de gobierno de la organización. Es responsable de la planificación estratégica y organizativa, de la selección de la Dirección Ejecutiva y de la evaluación de su rendimiento, de la supervisión financiera, de la identificación de fuentes de ingresos y del desarrollo de recursos, de la aprobación y el seguimiento de los programas y servicios de The Carpentries, y de la mejora de la imagen pública de la comunidad. Los miembros del Consejo también actúan como defensores/as y embajadores/as de la organización, aprovechando sus redes para beneficiar la reputación de la organización y la recaudación de fondos. El Consejo Ejecutivo ejerce estas responsabilidades a través de una combinación de reuniones trimestrales, comunicación y colaboración periódicas a través del correo electrónico y plataformas en línea.
 
 
-Puedes encontrar más información sobre el propósito y las actividades del Consejo Ejecutivo en la [sección del Consejo Ejecutivo de nuestro manual](https://docs.carpentries.org/topic_folders/governance/executive-council.html). 
+Puedes encontrar más información sobre el propósito y las actividades del Consejo Ejecutivo en la [sección del Consejo Ejecutivo de nuestro manual](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
-Además, puedes leer [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](​​https://carpentries.org/blog/2021/07/carpentries-governance/). 
+Además, puedes leer [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](​​https://carpentries.org/blog/2021/07/carpentries-governance/).
 
 2. **¿Qué experiencia necesita el Consejo Ejecutivo?**  
 En general, los miembros del Consejo Ejecutivo poseen algunas de las siguientes características:
@@ -99,9 +99,9 @@ Sólo las personas con derecho a voto de The Carpentries pueden votar en las ele
 
 
 Por favor, ten en cuenta: entendemos que varios talleres han sido pospuestos o cancelados debido a la pandemia de COVID-19. Además, queremos reconocer las diversas formas de contribución de los miembros de la comunidad y ampliar la posibilidad de votar para reconocer esas contribuciones. Por lo tanto, hemos ampliado las posibilidades para ser un miembro con derecho a voto de la siguiente manera:
-* Instructores/as certificados/as que hayan impartido 2 veces entre 2019 y 2022 
+* Instructores/as certificados/as que hayan impartido 2 veces entre 2019 y 2022
 * Trainers activos/as entre 2019 y 2022
-* Personas que mantienen nuestras lecciones que estuvieron activos/as entre 2019 y 2022 
+* Personas que mantienen nuestras lecciones que estuvieron activos/as entre 2019 y 2022
 
 
 El Consejo Ejecutivo votó para aprobar estas condiciones de elegibilidad para el ciclo electoral 2022-2023. Seguiremos debatiendo la ampliación de la elegibilidad para votar y realizaremos las revisiones de los estatutos correspondientes.
@@ -116,6 +116,6 @@ El Consejo Ejecutivo votó para aprobar estas condiciones de elegibilidad para e
     * Enero, 2023: El Consejo Ejecutivo anuncia el Consejo Ejecutivo de 2023
 
 ### ¿Necesitas ayuda?
-* Si no estás seguro/a de ser un/una miembro elegible para votar, entra en [AMY](https://amy.carpentries.org/account/login/) y comprueba si los registros muestran que eres elegible en base a los criterios anteriores. 
-* Si necesitas actualizar tus registros, ayuda para iniciar sesión en AMY o tienes alguna pregunta, envía un correo electrónico a [team@carpentries.org](mailto:team@carpentries.org). 
+* Si no estás seguro/a de ser un/una miembro elegible para votar, entra en [AMY](https://amy.carpentries.org/account/login/) y comprueba si los registros muestran que eres elegible en base a los criterios anteriores.
+* Si necesitas actualizar tus registros, ayuda para iniciar sesión en AMY o tienes alguna pregunta, envía un correo electrónico a [team@carpentries.org](mailto:team@carpentries.org).
 * Si has impartido talleres que no están registrados en AMY, por favor envía un correo electrónico a [team@carpentries.org](mailto:team@carpentries.org) con el enlace a la página web del taller. Enviaremos un correo electrónico a cada instructor/a con su situación antes de que se abra la votación.

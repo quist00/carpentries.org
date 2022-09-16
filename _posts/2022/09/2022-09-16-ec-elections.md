@@ -2,17 +2,17 @@
 layout: page
 authors: ["Executive Council"]
 teaser: "Nominations are now open for community-elected and Council-elected positions"
-title: "Call for Candidates for the 2023 Carpentries Executive Council" 
+title: "Call for Candidates for the 2023 Carpentries Executive Council"
 date: 2022-09-16
 time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
 
-[このポストを日本語で読む](carpentries.org/blog/2022/09/2022-09-16-ec-elections_ja)
+[このポストを日本語で読む](https://carpentries.org/blog/2022/09/ec-elections_ja)
 
-[Um diesen Post auf Deutsch zu lesen klicke hier](carpentries.org/blog/2022/09/2022-09-16-ec-elections_de)
+[Um diesen Post auf Deutsch zu lesen klicke hier](https://carpentries.org/blog/2022/09/ec-elections_de)
 
-[Lee esta entrada en Español](carpentries.org/blog/2022/09/2022-09-16-ec-elections_es)
+[Lee esta entrada en Español](https://carpentries.org/blog/2022/09/ec-elections_es)
 
 <hr>
 
@@ -24,21 +24,21 @@ Carpentries leaders are needed! Do you have:
 
 If yes, then The Carpentries needs YOU!!
 
-In the search for qualified candidates to serve on [The Carpentries Executive Council](http://carpentries.org/governance/), every member of The Carpentries community is encouraged to participate in the process, by nominating themselves or a qualified individual for one of the open Council seats. 
+In the search for qualified candidates to serve on [The Carpentries Executive Council](http://carpentries.org/governance/), every member of The Carpentries community is encouraged to participate in the process, by nominating themselves or a qualified individual for one of the open Council seats.
 
-The Executive Council is the governance body for The Carpentries, and is responsible for strategic and organisational planning. The members of the Executive Council serve two-year terms, and are elected by either the community or Executive Council. 
+The Executive Council is the governance body for The Carpentries, and is responsible for strategic and organisational planning. The members of the Executive Council serve two-year terms, and are elected by either the community or Executive Council.
 
 ### Community-elected Members
 
 The Carpentries community elects two members to the Executive Council each year.  These candidates must self-nominate, and must already be voting members in The Carpentries. Any individuals who are not successful in the community election may be automatically considered for Council-elected positions. Nominate yourself for community-elected positions using [this form](https://forms.gle/5ttJqsDfGmzqGmg97). Your answers to this form will be published in a blog post announcing all candidates for the community election. You can view examples of nomination posts in [this list of previous candidates](https://carpentries.org/blog/2021/10/2022-executive-council-elections/). You will also have the opportunity to record a three-minute video to be shared with the community.
 
 ### Council-elected Members
- 
+
 Council-elected positions are chosen by the Executive Council. Three council-elected positions are open for the 2023 Executive Council. Anyone may nominate someone for council-elected positions, and the nominee does not need to be previously affiliated with The Carpentries to serve in these positions. The Executive Council will contact candidates nominated for Council-elected positions to ensure they are prepared to serve if elected. Nominate someone for a Council-elected position using [this form](https://forms.gle/ies6yWKRiFfmLwEg7).
 
 ### Open member positions and closing date for the nomination
 
-The term of the following current Executive Council members ends: 
+The term of the following current Executive Council members ends:
 - Aleksandra Nenadic (community elected)                                                                                                   
 - Sarah Stevens (community elected)            
 - John Chodacki (council elected)                                                                             
@@ -53,7 +53,7 @@ The following are the returning EC members in the last year for their term:
 Nominations for both Community-elected and Council-elected positions close on **Monday October 17, 2022**, Anywhere on Earth (AoE).
 
 [Self-nominate for the two open Community-elected positions](https://forms.gle/5ttJqsDfGmzqGmg97)  
-[Nominate others for the three Council-elected positions](https://forms.gle/ies6yWKRiFfmLwEg7) 
+[Nominate others for the three Council-elected positions](https://forms.gle/ies6yWKRiFfmLwEg7)
 
 Please review the FAQ below prior to submitting a nomination.
 
@@ -63,9 +63,9 @@ The Carpentries Executive Council’s election process is determined by [The Car
 1. **What does the Carpentries Executive Council do?**  
 The Carpentries Executive Council is the governance body of The Carpentries organisation. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries’ public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
 
-More information about the Executive Council’s purpose and activities can be found in the [Executive Council section of the handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html). 
+More information about the Executive Council’s purpose and activities can be found in the [Executive Council section of the handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
-Additionally, read the blog posts [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](​​https://carpentries.org/blog/2021/07/carpentries-governance/). 
+Additionally, read the blog posts [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](​​https://carpentries.org/blog/2021/07/carpentries-governance/).
 
 2. **What expertise does the Executive Council need?**  
 In general, Executive Council members possess some of the following characteristics:
@@ -94,9 +94,9 @@ Only voting members of The Carpentries can vote in the election and self-nominat
     * Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution to any Lesson Program or The Carpentries organisation in the past year is also considered active in the community and is welcome to apply for Voting Membership by completing the [application for voting membership](https://forms.gle/JwEPoMAZCCooxvCE7).  
 
 Please note: we understand that several workshops have been postponed or canceled due to the COVID-19 pandemic. Additionally, we want to recognise the various ways community members contribute and expand voting eligibility to recognise those contributions. Therefore, we have extended the requirements for voting membership as follows:
-* Certified Instructors who have taught 2 times between 2019 and 2022 
+* Certified Instructors who have taught 2 times between 2019 and 2022
 * Trainers active between 2019 and 2022
-* Maintainers active between 2019 and 2022 
+* Maintainers active between 2019 and 2022
 
 The Executive Council voted to approve these eligibility conditions for the 2022-2023 elections cycle. We will continue to discuss expanding voting eligibility and make revisions to the bylaws accordingly.
 
@@ -110,14 +110,6 @@ The Executive Council voted to approve these eligibility conditions for the 2022
     * January, 2023: Executive Council announces 2023 Executive Council
 
 ### Need Help?
-* If you’re not sure if you’re a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you are eligible based on the criteria above. 
-* If you need records updated, help logging into AMY or have any questions, please email [team@carpentries.org](mailto:team@carpentries.org). 
+* If you’re not sure if you’re a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you are eligible based on the criteria above.
+* If you need records updated, help logging into AMY or have any questions, please email [team@carpentries.org](mailto:team@carpentries.org).
 * If you have taught workshops that are not registered in AMY, please include a link to the workshop website(s) in your email to [team@carpentries.org](mailto:team@carpentries.org). We will also be sending out an email to each instructor with their status before voting opens.
-
-
-
-
-
-
-
-

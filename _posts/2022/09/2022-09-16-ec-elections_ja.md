@@ -2,17 +2,17 @@
 layout: page
 authors: ["エグゼクティブカウンシル"]
 teaser: "2023年度カーペントリーエグゼクティブカウンシル候補者募集要項"
-title: "コミュニティ選出とカウンシル選出のノミネーション開始" 
+title: "コミュニティ選出とカウンシル選出のノミネーション開始"
 date: 2022-09-16
 time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
 
-[Um diesen Post auf Deutsch zu lesen klicke hier](carpentries.org/blog/2022/09/2022-09-16-ec-elections_de)
+[Um diesen Post auf Deutsch zu lesen klicke hier](https://carpentries.org/blog/2022/09/ec-elections_de)
 
-[Lee esta entrada en Español](carpentries.org/blog/2022/09/2022-09-16-ec-elections_es)
+[Lee esta entrada en Español](https://carpentries.org/blog/2022/09/ec-elections_es)
 
-[Read this blog post in English](carpentries.org/blog/2022/09/2022-09-16-ec-elections)
+[Read this blog post in English](https://carpentries.org/blog/2022/09/ec-elections)
 
 <hr>
 
@@ -33,7 +33,7 @@ tags:  ["Executive Council", "Governance"]
 カーペントリーズコミュニティは毎年エグゼクティブカウンシルに 2 人選出します。これらの候補者は自分で自分をノミネートする必要があります。また、カーペントリーの投票権を保有していなければなりません。コミュニティ選挙で落選した場合、自動的にカウンシルで選出する枠の検討対象になります。[このフォーム](https://forms.gle/5ttJqsDfGmzqGmg97) を使用してご自身をコミュニティ選出枠にノミネートして下さい。あなたの回答は、コミュニティ枠立候補者を発表するブログポストに記載されます。ノミネーションに関するブログポストの例は [以前の立候補者のリスト](https://carpentries.org/blog/2021/10/2022-executive-council-elections/) から確認できます。また、コミュニティと共有する 3 分間ビデオを作成するオプションもあります。
 
 ### カウンシル選出メンバー
- 
+
 カウンシル選出枠は、エグゼクティブカウンシルによって決定されます。2023 年度は、3 人が選出されます。カウンシル選出枠には、どなたでもノミネートすることができます。また、過去にカーペントリーズと関わりがなくても大丈夫です。カウンシルは、ノミネートされた候補者に連絡を取り、選出された場合に参加する意思があるかどうかを確認します。このポジションに誰かをノミネートしたい場合は、[このフォーム](https://forms.gle/ies6yWKRiFfmLwEg7) を使用してください。  
 
 今期でエグゼクティブカウンシルの任期を終えるメンバーは:
@@ -51,7 +51,7 @@ tags:  ["Executive Council", "Governance"]
 コミュニティ選出とカウンシル選出ポジションのノミネーションは世界のどこにいても 2022年10月17日月曜日に締め切られます。
 
 [コミュニティ選出枠（2人）に立候補するためのフォーム](https://forms.gle/5ttJqsDfGmzqGmg97)  
-[カウンシル選出枠（3人）に誰かを推薦するためのフォーム](https://forms.gle/ies6yWKRiFfmLwEg7) 
+[カウンシル選出枠（3人）に誰かを推薦するためのフォーム](https://forms.gle/ies6yWKRiFfmLwEg7)
 
 尚、ノミネートする前に以下の FAQ を確認してください。
 ## カーペントリーズ選挙に関する FAQ
@@ -97,9 +97,9 @@ tags:  ["Executive Council", "Governance"]
 * 昨年コミティに参加して、メンターやメンテイナー、もしくはレッスンプログラムやカーペントリーズそのものに大きく尽力した個人は、コミュニティのアクティブメンバーとして、 [この投票権申請フォーム](https://forms.gle/kFkGYDwSthZMnSeh8) を提出することで投票権を獲得することができます。
 
 注意: COVID-19 の影響によって、延期されたりキャンセルされたワークショップがあることは理解していますので、上記の他にも様々な方法でコミュニティメンバーの貢献が認められるように、以下を追加することによって投票資格を拡大します:
-* 2019 年から 2022 年の間に2 回教えた経験のある認定されたインストラクター 
+* 2019 年から 2022 年の間に2 回教えた経験のある認定されたインストラクター
 * 2019 年から 2022 年にアクティブだったトレイナー
-* 2019 年から 2022 年にアクティブだったメインテイナー 
+* 2019 年から 2022 年にアクティブだったメインテイナー
 
 エクゼクティブカウンシルはこの投票資格要件を 2022-2023 選挙に合わせて承認しました。引き続き、投票資格要件を拡充する方向で検討を重ね、必要に応じて細則のアップデートを行います。
 
@@ -111,9 +111,9 @@ tags:  ["Executive Council", "Governance"]
 * 2022年11月上旬: コミュニティ選出ポジションの立候補者に関するブログとオプションのビデオの公開。また、コミュニティには投票権の有無に関する email を送付
 * 2022年12月5-11日: コミュニティ選出ポジションの投票開始
 * 2022年12月14日: エグゼクティブカウンシルがカウンシル選出ポジションに投票
-* 2023年1月: 2023年度のエグゼクティブカウンシルの発表 
+* 2023年1月: 2023年度のエグゼクティブカウンシルの発表
 
 ### お役立ち情報
 投票権があるかどうかは、[AMY](https://amy.carpentries.org/account/login/) にログインすると、上記の条件を満たしているかどうかが確認できます。
-AMY へのログインやレコードのアップデートに関するヘルプ、および何か質問がある場合はが必要だったりな場合は、[team@carpentries.org](mailto:team@carpentries.org) に email して下さい。. 
+AMY へのログインやレコードのアップデートに関するヘルプ、および何か質問がある場合はが必要だったりな場合は、[team@carpentries.org](mailto:team@carpentries.org) に email して下さい。.
 もし AMY に登録されていないワークショップを教えたという場合は、ワークショップのリンクを [team@carpentries.org](mailto:team@carpentries.org) に email してください。尚、インストラクターには投票が開始する前に各自のステータスについて連絡が届きます。
