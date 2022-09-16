@@ -3,7 +3,7 @@ layout: page
 authors: ["エグゼクティブカウンシル"]
 teaser: "2023年度カーペントリーエグゼクティブカウンシル候補者募集要項"
 title: "コミュニティ選出とカウンシル選出のノミネーション開始" 
-date: 2022-09-14
+date: 2022-09-16
 time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
