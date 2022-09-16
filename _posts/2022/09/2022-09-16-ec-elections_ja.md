@@ -8,6 +8,14 @@ time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
 
+[Um diesen Post auf Deutsch zu lesen klicke hier](carpentries.org/blog/2022/09/2022-09-16-ec-elections_de)
+
+[Lee esta entrada en Español](carpentries.org/blog/2022/09/2022-09-16-ec-elections_es)
+
+[Read this blog post in English](carpentries.org/blog/2022/09/2022-09-16-ec-elections)
+
+<hr>
+
 カーペントリーズのリーダーを募集します！以下をお持ちではありませんか？
 * カーペントリーズのリーダーシップチームに参加してザ・カーペントリーズの未来とサクセスを築く意欲
 * ザ・カーペントリーズにグローバルレベルで貢献する意欲
