@@ -19,21 +19,21 @@ tags:  ["Executive Council", "Governance"]
 Es werden Menschen für die Leitung von The Carpentries gebraucht! Hast Du:
 * den Wunsch, gemeinsam mit Carpentries-Leitern aus aller Welt die Zukunft von The Carpentries zu gestalten und unseren anhaltenden Erfolg zu sichern?
 * Möchtest Du Deinen Beitrag zu The Carpentries auf globaler Ebene leisten?
-* Hast  den Wunsch und die Bereitschaft, die gesamte Organisation zu beraten und zu vertreten?
+* den Wunsch und die Bereitschaft, die gesamte Organisation zu beraten und zu vertreten?
 * Kenntnisse und Erfahrungen, die den Executive Council von The Carpentries bei der strategischen Führung und Steuerung der Organisation unterstützen?
 
  Wenn ja, dann braucht The Carpentries DICH!
 
-Auf der Suche nach qualifizierten Kandidaten für den [Executive Council (Vorstand) von The Carpentries] (http://carpentries.org/governance/) wird jedes Mitglied der Carpentries-Community ermutigt, sich an dem Verfahren zu beteiligen, indem es sich selbst oder eine qualifizierte Person für einen der offenen Sitz vorschlägt.
+Auf der Suche nach qualifizierten Kandidierenden für den [Executive Council (Vorstand) von The Carpentries] (http://carpentries.org/governance/) wird jedes Mitglied der Carpentries-Community ermutigt, sich an dem Verfahren zu beteiligen, indem es sich selbst oder eine qualifizierte Person für einen der offenen Sitze vorschlägt.
                                                                                                                                                  Der Executive Council ist das Leitungsgremium von The Carpentries und für die strategische und organisatorische Planung zuständig. Die Mitglieder des Executive Councils haben eine Amtszeit von zwei Jahren und werden entweder von der Gemeinschaft oder vom Executive Council gewählt. 
 
 ### Von der Gemeinschaft gewählte Mitglieder
 
-Die Carpentries-Gemeinschaft wählt jedes Jahr zwei Mitglieder für den Vorstand. Diese Kandidaten müssen sich selbst nominieren und bereits stimmberechtigte Mitglieder von The Carpentries sein. Personen, die bei den die Wahl durch die Community nicht erfolgreich waren, können automatisch für die vom Vorstand gewählten Positionen in Betracht gezogen werden. Nominiere Dich selbst für die von der Gemeinschaft gewählten Positionen mit [diesem Formular] (https://forms.gle/5ttJqsDfGmzqGmg97). Deine Antworten in diesem Formular werden in einem Blogbeitrag veröffentlicht, in dem alle Kandidaten für die Communitywahl bekannt gegeben werden. Beispiele für Nominierungsposts kannst Du in [dieser Liste früherer Kandidaten](https://carpentries.org/blog/2021/10/2022-executive-council-elections/) einsehen. Du wirst auch die Möglichkeit haben, ein dreiminütiges Video aufzunehmen, das der Community zur Verfügung gestellt wird.
+Die Carpentries-Gemeinschaft wählt jedes Jahr zwei Mitglieder für den Vorstand. Diese Kandidierenden müssen sich selbst nominieren und bereits stimmberechtigte Mitglieder von The Carpentries sein. Personen, bei den die Wahl durch die Community nicht erfolgreich waren, können automatisch für die vom Vorstand gewählten Positionen in Betracht gezogen werden. Nominiere Dich selbst für die von der Gemeinschaft gewählten Positionen mit [diesem Formular] (https://forms.gle/5ttJqsDfGmzqGmg97). Deine Antworten in diesem Formular werden in einem Blogbeitrag veröffentlicht, in dem alle Kandidierenden für die Communitywahl bekannt gegeben werden. Beispiele für Nominierungsposts kannst Du in [dieser Liste früherer Kandidierenden](https://carpentries.org/blog/2021/10/2022-executive-council-elections/) einsehen. Du wirst auch die Möglichkeit haben, ein dreiminütiges Video aufzunehmen, das der Community zur Verfügung gestellt wird.
 
 ### Vom Excecutive Council gewählte Mitglieder
 
-Die vom Excecutive Council gewählten Positionen werden vom Excecutive Council direkt gewählt. Für den Excecutive Council 2023 sind drei Positionen zu besetzen, die vom Excecutive Council gewählt werden. Jeder kann jemanden für ein Amt im Excecutive Council vorschlagen, und der/die Kandidat*in muss nicht vorher Mitglied von The Carpentries gewesen sein, um ein solches Amt zu übernehmen. Der Excecutive Council wird sich mit den Kandidaten für die vom Rat gewählten Positionen in Verbindung setzen, um sich zu vergewissern, dass sie im Falle ihrer Wahl bereit sind, ihr Amt auszuüben. Nominiere jemanden für ein vom Excecutive Council gewähltes Amt mit [diesem Formular] (https://forms.gle/ies6yWKRiFfmLwEg7).
+Die vom Excecutive Council gewählten Positionen werden vom Excecutive Council direkt gewählt. Für den Excecutive Council 2023 sind drei Positionen zu besetzen, die vom Excecutive Council gewählt werden. Jeder kann jemanden für ein Amt im Excecutive Council vorschlagen, und Kandidierende müssen nicht vorher Mitglied von The Carpentries gewesen sein, um ein solches Amt zu übernehmen. Der Excecutive Council wird sich mit den Kandidierenden für die vom Rat gewählten Positionen in Verbindung setzen, um sich zu vergewissern, dass sie im Falle ihrer Wahl bereit sind, ihr Amt auszuüben. Nominiere jemanden für ein vom Excecutive Council gewähltes Amt mit [diesem Formular] (https://forms.gle/ies6yWKRiFfmLwEg7).
 
 ### Offene Mitgliedspositionen und Stichtag für die Nominierung
 
@@ -88,10 +88,10 @@ Der gesamte Excecutive Council trifft sich mindestens viermal pro Jahr - in der 
 Die Mitglieder des Exekutivrats werden für ihre Beiträge zu The Carpentries nicht entschädigt, mit Ausnahme der Kosten für administrative Unterstützung, Reisen und Unterkunft im Zusammenhang mit ihren Aufgaben im Excecutive Council. Dies deckt in der Regel unsere eine persönliche Sitzung pro Jahr ab, nicht aber Reisen zur CarpentryCon oder zu anderen Carpentries-bezogenen Veranstaltungen.
 
 6. **6. Woher weiß ich, ob ich ein stimmberechtigtes Mitglied bin?**  
-Bitte beachten Sie: Wir haben Verständnis dafür, dass mehrere Workshops aufgrund der COVID-19-Pandemie verschoben oder abgesagt wurden. Außerdem möchten wir die verschiedenen Beiträge der Mitglieder der Gemeinschaft anerkennen und die Wahlberechtigung erweitern, um diese Beiträge anzuerkennen. Daher haben wir die Voraussetzungen für eine stimmberechtigte Mitgliedschaft wie folgt erweitert:
+Bitte beachte: Wir haben Verständnis dafür, dass mehrere Workshops aufgrund der COVID-19-Pandemie verschoben oder abgesagt wurden. Außerdem möchten wir die verschiedenen Beiträge der Mitglieder der Gemeinschaft anerkennen und die Wahlberechtigung erweitern, um diese Beiträge anzuerkennen. Daher haben wir die Voraussetzungen für eine stimmberechtigte Mitgliedschaft wie folgt erweitert:
 
-* Zertifizierte Ausbilder, die zwischen 2019 und 2022 zwei Mal unterrichtet haben
-* Trainers, die zwischen 2019 und 2022 aktiv sind
+* Zertifizierte Instructors, die zwischen 2019 und 2022 zwei Mal unterrichtet haben
+* Trainer, die zwischen 2019 und 2022 aktiv sind
 * Maintainer, die zwischen 2019 und 2022 aktiv sind
 
 Der Excecutive Council stimmte zu, diese Bedingungen für den Wahlzyklus 2022-2023 zu genehmigen. Wir werden die Diskussion über die Erweiterung der Wahlberechtigung fortsetzen und die Satzung entsprechend überarbeiten.
@@ -100,10 +100,10 @@ Der Excecutive Council stimmte zu, diese Bedingungen für den Wahlzyklus 2022-20
 
 * 14. September 2022: Start der Nominierungsphase
 * 17. Oktober 2022: Ende der Nominierungsphase
-* Anfang November: Blogbeiträge und optionale Videos von Kandidaten für die von der Gemeinschaft gewählten Positionen stehen der Gemeinschaft zur Verfügung, Bestätigungs-E-Mails für den Wahlstatus werden verschickt
+* Anfang November: Blogbeiträge und optionale Videos von Kandidierenden für die von der Gemeinschaft gewählten Positionen stehen der Gemeinschaft zur Verfügung, Bestätigungs-E-Mails für den Wahlstatus werden verschickt
 * 20. November 2022: Frist für die Einreichung des Antrags auf Wahlmitgliedschaft
 * 5. bis 11. Dezember 2022: Die Abstimmung für die von der Gemeinschaft gewählten Positionen ist geöffnet.
-* 14. Dezember 2022: Exekutivrat stimmt über die vom Rat gewählten Kandidaten ab
+* 14. Dezember 2022: Executive Council stimmt über die vom Rat gewählten Kandidierenden ab
 * Januar 2023: Exekutivrat gibt den Exekutivrat 2023 bekannt
 
 ### Brauchst Du Hilfe?
