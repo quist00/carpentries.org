@@ -8,11 +8,11 @@ time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
 
-[このポストを日本語で読む](https://carpentries.org/blog/2022/09/2022-09-16-ec-elections_ja)
+[このポストを日本語で読む](https://carpentries.org/blog/2022/09/ec-elections_ja)
 
-[Lee esta entrada en Español](https://carpentries.org/blog/2022/09/2022-09-16-ec-elections_es)
+[Lee esta entrada en Español](https://carpentries.org/blog/2022/09/ec-elections_es)
 
-[Read this blog post in English](https://carpentries.org/blog/2022/09/2022-09-16-ec-elections)
+[Read this blog post in English](https://carpentries.org/blog/2022/09/ec-elections)
 
 <hr>
 
