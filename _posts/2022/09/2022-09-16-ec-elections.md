@@ -8,6 +8,14 @@ time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
 
+[このポストを日本語で読む](carpentries.org/blog/2022/09/2022-09-16-ec-elections_ja)
+
+[Um diesen Post auf Deutsch zu lesen klicke hier](carpentries.org/blog/2022/09/2022-09-16-ec-elections_de)
+
+[Lee esta entrada en Español](carpentries.org/blog/2022/09/2022-09-16-ec-elections_es)
+
+<hr>
+
 Carpentries leaders are needed! Do you have:
 * A desire to join Carpentries leaders from around the world in shaping the future of The Carpentries and assuring our continued success?
 * A desire to expand your sense of contribution to The Carpentries by doing it at a global level?
