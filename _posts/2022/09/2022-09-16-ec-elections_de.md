@@ -2,17 +2,17 @@
 layout: page
 authors: ["Executive Council"]
 teaser: "Nominierungen für Mitglieder, die von der Gemeinde und vom Executive Council gewählt werden, sind möglich"
-title: "Aufruf für Kandidaturen für den The Carpentries Executive Council (Vorstand) 2023" 
+title: "Aufruf für Kandidaturen für den The Carpentries Executive Council (Vorstand) 2023"
 date: 2022-09-16
 time: "09:00:00"
 tags:  ["Executive Council", "Governance"]
 ---
 
-[このポストを日本語で読む](carpentries.org/blog/2022/09/2022-09-16-ec-elections_ja)
+[このポストを日本語で読む](https://carpentries.org/blog/2022/09/2022-09-16-ec-elections_ja)
 
-[Lee esta entrada en Español](carpentries.org/blog/2022/09/2022-09-16-ec-elections_es)
+[Lee esta entrada en Español](https://carpentries.org/blog/2022/09/2022-09-16-ec-elections_es)
 
-[Read this blog post in English](carpentries.org/blog/2022/09/2022-09-16-ec-elections)
+[Read this blog post in English](https://carpentries.org/blog/2022/09/2022-09-16-ec-elections)
 
 <hr>
 
@@ -25,7 +25,7 @@ Es werden Menschen für die Leitung von The Carpentries gebraucht! Hast Du:
  Wenn ja, dann braucht The Carpentries DICH!
 
 Auf der Suche nach qualifizierten Kandidaten für den [Executive Council (Vorstand) von The Carpentries] (http://carpentries.org/governance/) wird jedes Mitglied der Carpentries-Community ermutigt, sich an dem Verfahren zu beteiligen, indem es sich selbst oder eine qualifizierte Person für einen der offenen Sitz vorschlägt.
-                                                                                                                                                 Der Executive Council ist das Leitungsgremium von The Carpentries und für die strategische und organisatorische Planung zuständig. Die Mitglieder des Executive Councils haben eine Amtszeit von zwei Jahren und werden entweder von der Gemeinschaft oder vom Executive Council gewählt. 
+                                                                                                                                                 Der Executive Council ist das Leitungsgremium von The Carpentries und für die strategische und organisatorische Planung zuständig. Die Mitglieder des Executive Councils haben eine Amtszeit von zwei Jahren und werden entweder von der Gemeinschaft oder vom Executive Council gewählt.
 
 ### Von der Gemeinschaft gewählte Mitglieder
 
@@ -66,7 +66,7 @@ Der Excecutive Council ist das Leitungsgremium der Organisation The Carpentries 
 
 Weitere Informationen über den Zweck und die Aktivitäten des Excecutive Council findst Du im [Abschnitt Excecutive Council des Handbuchs](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
-Lies auch die Blog-Beiträge [Die Struktur des Exekutivrats von The Carpentries](https://carpentries.org/blog/2018/09/executive-committee-structure/) und [Über die Leitung von The Carpentries](https://carpentries.org/blog/2021/07/carpentries-governance/). 
+Lies auch die Blog-Beiträge [Die Struktur des Exekutivrats von The Carpentries](https://carpentries.org/blog/2018/09/executive-committee-structure/) und [Über die Leitung von The Carpentries](https://carpentries.org/blog/2021/07/carpentries-governance/).
 
 2. **Welches Expertisen brauchen wir im Exekutivrat?**
 Im Allgemeinen verfügen die Mitglieder des Excecutive Council über einige der folgenden Eigenschaften:
