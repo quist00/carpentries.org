@@ -65,7 +65,7 @@ The Carpentries Executive Council is the governance body of The Carpentries orga
 
 More information about the Executive Council’s purpose and activities can be found in the [Executive Council section of the handbook](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
-Additionally, read the blog posts [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](​​https://carpentries.org/blog/2021/07/carpentries-governance/).
+Additionally, read the blog posts [The Structure of The Carpentries Executive Council](https://carpentries.org/blog/2018/09/executive-committee-structure/), and [On the Governance of The Carpentries](https://carpentries.org/blog/2021/07/carpentries-governance/).
 
 2. **What expertise does the Executive Council need?**  
 In general, Executive Council members possess some of the following characteristics:
