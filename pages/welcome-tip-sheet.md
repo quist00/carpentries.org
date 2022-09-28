@@ -72,6 +72,7 @@ The Carpentries has an extensive collection of resources available to our commun
 - [Our Website]({{site.url}}): The official website of The Carpentries organisation.
 - [Our Handbook]({{site.handbook_url}}): This is your go-to resource for all things Carpentries. Not sure where to find the information you are looking for? Just type a keyword into the search box to find the information you need.
 - [Our Blog](/blog/): Collection of blog posts from Core Team and community members
+- [Our Community Glossary](https://github.com/carpentries/community-development/blob/main/glossary.md): Glossary that defines common terms used in The Carpentries community
 - Should you have any:
   *  **general requests**, please email team@carpentries.org
   *  **workshop requests**, please email workshops@carpentries.org
