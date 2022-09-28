@@ -91,4 +91,4 @@ After we complete our initial consultations, we will be synthesising all of your
     - Trainers Leadership will make a final decision on what changes to make 
     - Core Team will develop an implementation plan to put those changes into effect
      
-**Note: No changes to Checkout will happen until sometime in 2023.**
+**Note: Changes to checkout are unlikely to be implemented before early 2023.**
