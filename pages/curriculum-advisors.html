@@ -14,11 +14,11 @@ permalink: /curriculum-advisors/
 
 <table>
 
-<!--  Begin DC Astronomy  -->    
+<!--  Begin DC Astronomy  -->
         <tr>
             <td align="center"><h3><a href="https://github.com/datacarpentry/curriculum-advisors">Data Carpentry Astronomy</a></h3>
             <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-astronomy">Mailing List</a></td>
-    
+
             <td>
                 {% assign dc_astronomy = site.data.curriculum_advisors | where: "curriculum", "astronomy"  %}
                 {% assign chairs = dc_astronomy | where: "position", "chair" %}
@@ -40,11 +40,41 @@ permalink: /curriculum-advisors/
                     {% endfor %}
                 </ul>
             </td>
-    
+
         </tr>
-<!--  End DC Astronomy  -->  
-    
-<!--  Begin DC Genomics  -->    
+<!--  End DC Astronomy  -->
+
+<!--  Begin DC Ecology  -->
+        <tr>
+            <td align="center"><h3><a href="https://github.com/datacarpentry/curriculum-advisors">Data Carpentry Ecology</a></h3>
+            <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-ecology">Mailing List</a></td>
+
+            <td>
+                {% assign dc_ecology = site.data.curriculum_advisors | where: "curriculum", "ecology"  %}
+                {% assign chairs = dc_ecology | where: "position", "chair" %}
+                {% assign secretaries = dc_ecology | where: "position", "secretary" %}
+                {% assign members = dc_ecology | where: "position", "member" %}
+
+
+                <ul>
+                    {% for person in chairs %}
+                       <li> {{ person.name }}, Chair </li>
+                    {% endfor %}
+
+                    {% for person in secretaries %}
+                        <li> {{ person.name }}, Secretary </li>
+                    {% endfor %}
+
+                    {% for person in members %}
+                        <li> {{ person.name }} </li>
+                    {% endfor %}
+                </ul>
+            </td>
+
+        </tr>
+<!--  End DC Ecology  -->
+
+<!--  Begin DC Genomics  -->
     <tr>
         <td align="center"><h3><a href="https://github.com/datacarpentry/curriculum-advisors">Data Carpentry Genomics</a></h3>
         <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-genomics">Mailing List</a></td>
@@ -72,10 +102,10 @@ permalink: /curriculum-advisors/
         </td>
 
     </tr>
-<!--  End DC Genomics  -->  
-    
+<!--  End DC Genomics  -->
 
-<!--  Begin DC Geospatial  -->    
+
+<!--  Begin DC Geospatial  -->
     <tr>
         <td align="center"><h3><a href="https://github.com/datacarpentry/curriculum-advisors">Data Carpentry Geospatial</a></h3>
         <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-geospatial">Mailing List</a></td>
@@ -103,11 +133,69 @@ permalink: /curriculum-advisors/
         </td>
 
     </tr>
-<!--  End DC Geospatial  -->  
+<!--  End DC Geospatial  -->
+
+<!--  Begin DC Image  -->
+        <tr>
+            <td align="center"><h3><a href="https://github.com/datacarpentry/curriculum-advisors">Data Carpentry Image Processing</a></h3>
+            <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-ecology">Mailing List</a></td>
+
+            <td>
+                {% assign dc_image = site.data.curriculum_advisors | where: "curriculum", "image"  %}
+                {% assign chairs = dc_image | where: "position", "chair" %}
+                {% assign secretaries = dc_image | where: "position", "secretary" %}
+                {% assign members = dc_image | where: "position", "member" %}
 
 
+                <ul>
+                    {% for person in chairs %}
+                       <li> {{ person.name }}, Chair </li>
+                    {% endfor %}
 
-<!--  Begin Library Carpentry  -->    
+                    {% for person in secretaries %}
+                        <li> {{ person.name }}, Secretary </li>
+                    {% endfor %}
+
+                    {% for person in members %}
+                        <li> {{ person.name }} </li>
+                    {% endfor %}
+                </ul>
+            </td>
+
+        </tr>
+<!--  End DC Image  -->
+
+<!--  Begin DC Social Science  -->
+        <tr>
+            <td align="center"><h3><a href="https://github.com/datacarpentry/curriculum-advisors">Data Carpentry Social Science</a></h3>
+            <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-social-sciences">Mailing List</a></td>
+
+            <td>
+                {% assign dc_socialsci = site.data.curriculum_advisors | where: "curriculum", "socialsci"  %}
+                {% assign chairs = dc_socialsci | where: "position", "chair" %}
+                {% assign secretaries = dc_socialsci | where: "position", "secretary" %}
+                {% assign members = dc_socialsci | where: "position", "member" %}
+
+
+                <ul>
+                    {% for person in chairs %}
+                       <li> {{ person.name }}, Chair </li>
+                    {% endfor %}
+
+                    {% for person in secretaries %}
+                        <li> {{ person.name }}, Secretary </li>
+                    {% endfor %}
+
+                    {% for person in members %}
+                        <li> {{ person.name }} </li>
+                    {% endfor %}
+                </ul>
+            </td>
+
+        </tr>
+<!--  End DC Social Science  -->
+
+<!--  Begin Library Carpentry  -->
        <tr>
         <td align="center"><h3><a href="https://github.com/LibraryCarpentry/curriculum-advisors">Library Carpentry</a></h3>
         <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-lc">Mailing List</a></td>
@@ -135,10 +223,10 @@ permalink: /curriculum-advisors/
 
 
     </tr>
-<!--  End Library Carpentry  -->  
+<!--  End Library Carpentry  -->
 
 
-<!--  Begin Software Carpentry  -->    
+<!--  Begin Software Carpentry  -->
 <tr>
     <td align="center"><h3><a href="https://github.com/swcarpentry/curriculum-advisors">Software Carpentry</a></h3>
     <a href="https://carpentries.topicbox.com/groups/curriculum-advisors-swc">Mailing List</a></td>
@@ -165,7 +253,7 @@ permalink: /curriculum-advisors/
     </td>
 
 </tr>
-<!--  End Software Carpentry  -->  
+<!--  End Software Carpentry  -->
 
 </table>
 </div>
