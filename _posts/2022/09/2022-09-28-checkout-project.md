@@ -34,7 +34,7 @@ When someone wants to be a certified Carpentries Instructor, they first attend [
 
 Once a trainee completes these three steps, they are awarded an Instructor badge and are certified to teach any Carpentries workshop.
 
-## We Do We Want to Know?
+## What Do We Want to Know?
 We are interested in: 
 - What you think the goals of Checkout should be,
 - How well our current process prepares Instructors to teach,
