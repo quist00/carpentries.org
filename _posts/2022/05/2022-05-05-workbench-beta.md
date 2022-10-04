@@ -8,6 +8,8 @@ time: "09:00:00"
 tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta", "Dovetail"]
 ---
 
+**Updated 2022-10-03 to reflect that the beta URL will not be the permanent URL**
+
 > This is an ongoing series of blog posts about The Carpentries Workbench, (the next iteration of the [Lesson Infrastructure]({{ site.url }}/posts-by-tags/#lesson-infrastructure)).
 > Find more about our [Design Principles][depr], our [Path to the Design for the Lesson Website][ux-path], the [Alpha Test of the Workbench][alpha-test], and our [Official Announcemnt of The Carpentries Workbench](https://carpentries.org/blog/2022/01/live-lesson-infrastructure/).
 
@@ -95,13 +97,13 @@ During the Workbench beta phase, the URLs for the styles and the Workbench
 websites will be in the following forms:
 
  - **styles**: `https://<program>.github.io/<lesson>` (e.g. <https://datacarpentry.github.io/r-socialsci>)
- - **workbench**: `https://lessons.<program>.org/<lesson>` (e.g. `https://lessons.datacarpentry.org/r-socialsci`)
+ - **workbench preview**: `https://preview.carpentries.org/<lesson>` (e.g. `https://preview.carpentries.org/r-socialsci`)
 
 <figure style="text-align: center">
   <img src="{{ site.urlimg }}/blog/2022/05/styles-url.png" 
-   alt="cartoon representation of the styles version of a lesson with the URL pattern underneath" width="40%"/>
+   alt="cartoon representation of the styles version of a lesson with the URL pattern underneath" width="50%"/>
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-url.png" 
-   alt="cartoon represntation of the workbench version of a lesson with the URL pattern underneath" width="45%"/>
+   alt="cartoon representation of the workbench version of a lesson with the URL pattern underneath" width="45%"/>
   <figcaption>
   The styles and Workbench versions of the websites will live in parallel at separate URLs during the first two stages of the Workbench beta phase
   </figcaption>
@@ -121,7 +123,7 @@ The transition will occur for each lesson independently in three phases with tar
   - Maintainers: receive and merge at least 2 pull requests
   - New Instructors: encouraged to contribute to the Workbench beta phase by adding/moving Instructor notes
     as part of their checkout
-- [Release Candidate](#release-candidate): fully transition to the Workbench and new URL; old URL will redirect to new.
+- [Release Candidate](#release-candidate): fully transition to the Workbench; preview URL will redirect to the lesson.
   - Timeline: 6 months
   - Instructors: teach the new version of the lesson
   - Maintainers: continue to work on the new lesson with the two-track feedback mechanism
@@ -130,7 +132,7 @@ The transition will occur for each lesson independently in three phases with tar
   <img src="{{ site.urlimg }}/blog/2022/05/workbench-beta-flow.png" 
    alt="Diagram of three phases of the beta release. At the top is box labelled 'current' that contains a GitHub logo, a cartoon of a lesson page. Below is a box labelled 'Pre Beta' with the same contents as the box above plus an additional GitHub logo in blue with a camera above it (to indicate a snapshot) and a new cartoon of a lesson page with a padlock over it. There is a clock indicating a timeframe of four weeks. The next box below is labelled 'Beta'. The GitHub logo has become blue and there is a lightning bolt and a line connecting it to the previous logo, indicating that a transformation happened. A smaller, grey GitHub logo is adjacent with a lock over it, indicating that it is archived. The  old lesson page now has a lock and information symbol above it. The new lesson page does not have any symbols above it. The timreframe is 6 to 8 weeks. The final box is titled 'Release Candidate' and has a single blue GitHub logo, a faded old lesson page, and a new lesson page with a timeframe of 6 months"/>
   <figcaption>
-An overview of the Workbench beta phase for the Git repository and the website, separated
+An overview of the Workbench Beta phase for the Git repository and the website, separated
 into three stages. The entire process will take about 8-9 months until lesson
 release with The Carpentries Workbench.
   </figcaption>
