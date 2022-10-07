@@ -102,6 +102,14 @@ people:
     - {committee: Governance Committee, role: Member}
     - {committee: Program Committee, role:  Member}
 
+- person_name: Abdulai Imoro
+  pic: abdulai_imoro.jpg
+  url: https://www.linkedin.com/in/abdulai-imoro-9a739835/
+  country: GH
+  active: true
+  term:
+    - {type: Appointed, start_year: 2022}
+
 - person_name:  Amel Ghoulia
   pic: amel_ghoulia.jpg
   github: amelgh
@@ -112,8 +120,6 @@ people:
   roles: 
     - {committee: Governance Committee, role: Member}
     - {committee: Program Committee, role: Member}
-
-
 
 - person_name: Cedric Chambers
   active: false
