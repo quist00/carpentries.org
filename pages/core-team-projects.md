@@ -142,7 +142,7 @@ Each staff team project will need sign-off from the Assessment and Equity and In
 
 ## Business Team
 <br/>Team Lead: Kari L. Jordan
-<br/>Team Members: Talisha Sutton-Kennedy · Amanda Steele
+<br/>Team Members: Talisha Sutton-Kennedy
 
 Led by Kari Jordan, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. The Business Team consistently evaluates and plans for our financial sustainability. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing Annual Financial Reports to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
 
@@ -1067,7 +1067,7 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 
 ## Membership Team
 <br>Team Lead: Erin Becker (Interim)
-<br>Team Members: Angelique Trusler · Amanda Steele · Talisha Sutton-Kennedy
+<br>Team Members: Angelique Trusler · Talisha Sutton-Kennedy
 
 Led by Erin Becker, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
 
