@@ -151,6 +151,8 @@ jekyll_get_json:
     json: 'https://feeds.carpentries.org/newsletter.json'
   - data: members
     json: 'https://feeds.carpentries.org/all_public_memberships.json'
+  - data: all_trainers
+    json: 'https://feeds.carpentries.org/all_trainers.json'
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
