@@ -17,7 +17,7 @@ excerpt: Trainers prepare new Instructors to teach in our global Carpentries Com
 
 <br><br><br>
 
-{% assign people_list = site.data.all_badged_people | where: "is_trainer","true" %}
+{% assign people_list = site.data.all_trainers | where: "active_status","Active Trainer" %}
 
 {% include community_profiles.md %}
 

@@ -16,8 +16,9 @@ excerpt: Trainers prepare new Instructors to teach in our global Carpentries Com
 <p>Check out our active Trainer community <a href="{% link pages/trainers.html %}">here</a>.</p>
 <br><br><br>
 
-{% assign people_list = site.data.all_badged_people | where: "is_trainer_inactive","true" %}
+{% assign people_list = site.data.all_trainers | where: "active_status","Inactive Trainer" %}
 
 {% include community_profiles.md %}
+
 
 </div>
