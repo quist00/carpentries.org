@@ -89,20 +89,3 @@
   long_description: <a href="/maintainers">Maintainers</a> may temporarily or permanently step away from their role. To continue to acknowledge their contributions to The Carpentries, we list them as Maintainer Alumni.
   volunteer_page: False 
 
-
-
-- name: Mentors  
-  name_singular: Mentor
-  starts_with_vowel: False
-  long_description: Mentors support Instructors in a variety of ways. Whether you are a new Instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, Mentors will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
-  website_link: https://carpentries.org/community/#instructor-development
-  handbook_link: https://docs.carpentries.org/topic_folders/instructor_development/index.html
-  volunteer_page: False 
-
-- name: Mentees  
-  name_singular: Mentee
-  starts_with_vowel: False
-  long_description: Whether you are a new Instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, mentees work with Mentors to gain the confidence, technical skills, and teaching skills you need to reach your goal.
-  website_link: https://carpentries.org/community/#instructor-development
-  handbook_link: https://docs.carpentries.org/topic_folders/instructor_development/index.html  
-  volunteer_page: False 
