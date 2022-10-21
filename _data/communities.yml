@@ -82,3 +82,10 @@
   starts_with_vowel: False
   long_description: <a href="/trainers">Trainers</a> may temporarily or permanently step away from their role. To continue to acknowledge their contributions to The Carpentries, we list them as Trainer Alumni.
   volunteer_page: False 
+
+- name: Maintainer Alumni
+  name_singular: Maintainer Alumnus
+  starts_with_vowel: False
+  long_description: <a href="/maintainers">Maintainers</a> may temporarily or permanently step away from their role. To continue to acknowledge their contributions to The Carpentries, we list them as Maintainer Alumni.
+  volunteer_page: False 
+
