@@ -142,7 +142,7 @@ Each staff team project will need sign-off from the Assessment and Equity and In
 
 ## Business Team
 <br/>Team Lead: Kari L. Jordan
-<br/>Team Members: Talisha Sutton-Kennedy
+<br/>Team Members: Talisha Sutton-Kennedy, Omar Khan
 
 Led by Kari Jordan, the Business Team works on the legal and financial aspects of our project and coordinates with our fiscal sponsor, Community Initiatives. The Business Team consistently evaluates and plans for our financial sustainability. Some of the projects the Business Team has embarked on since January 2019 include updating our grants collaboration workflow and producing Annual Financial Reports to support the Executive Council in strategic planning. More details about their quarterly projects is available below.
 
