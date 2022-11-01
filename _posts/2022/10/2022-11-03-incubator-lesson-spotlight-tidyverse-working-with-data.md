@@ -3,7 +3,7 @@ layout: page
 authors: ["Athanasia Monika Mowinckel”, “Raoul Wolf"]
 teaser: "Help test and improve a lesson teaching visualisation with ggplot2"
 title: "Incubator Lesson Spotlight: R and the Tidyverse for Working with Data"
-date: 2022-10-25
+date: 2022-11-03
 time: "09:00:00"
 tags: ["Carpentries Incubator", "Community"]
 lesson_title: “R and the Tidyverse for Working with Data”
