@@ -34,7 +34,7 @@ This material has been applied during SWC lessons in Oslo 3 times now, using the
 
 ## How You Can Help Develop This Lesson
 
-We would love to see the content tried by others also and see if the lesson works well for others too. They way we teach it, we always cover each episode, though we might at times skip the later stages of an episode if we fall behind. We are still a little apprehensive of the across lesson, and often find we dont have time for that in two days. It is also quite advanced use (functional programming) and we are uncertain if novices can grasp the concept in such short time. We have tried to keep everything detached from any specific field of science, and hope other see this too.
+We would love to see the content tried by others also and see if the lesson works well for others too. They way we teach it, we always cover each episode, though we might at times skip the later stages of an episode if we fall behind. We are still a little apprehensive of the across lesson, and often find we don't have time for that in two days. It is also quite advanced to use (functional programming) and we are uncertain if novices can grasp the concept in such a short time. We have tried to keep everything detached from any specific field of science, and hope others see this too.
 
 We would prefer discussions around the lesson materials to come as issues to the repo.
 
