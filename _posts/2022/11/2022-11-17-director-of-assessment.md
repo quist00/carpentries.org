@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 authors: ["Erin Becker", "Kelly Barnes"]
 teaser: "Dr. Kelly Barnes moves into Director of Assessment Role."
