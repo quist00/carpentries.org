@@ -1,11 +1,11 @@
  ---
 layout: page
-authors: ["Erin Becker","Kelly Barnes"]
+authors: ["Erin Becker", "Kelly Barnes"]
 teaser: "Dr. Kelly Barnes moves into Director of Assessment Role."
 title: "Announcing our new Director of Assessment"
 date: 2022-11-17
 time: "09:00:00"
-tags: ["Assessment", "Instructor Training" "Carpentries Team"]
+tags: ["Assessment", "Instructor Training", "Carpentries Team"]
 ---
 
 ## A Message from Erin Becker
