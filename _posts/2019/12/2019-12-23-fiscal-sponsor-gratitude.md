@@ -5,7 +5,7 @@ teaser: "Partnering for global good"
 title: "Gratitude and the mission of fiscal sponsorship"
 date: 2019-12-23
 time: "00:00:00"
-tags: ["Green Stickies"]
+tags: ["Gratitudes"]
 ---
 
 In our Gratitude series, we shared [our gratitude for our fiscal sponsor Community Initiatives](https://carpentries.org/blog/2019/12/CI-gratitudes/). The Community Initiatives' team joined in to share their gratitude for the work as well, and we appreciate the great partnership! Check out their post below.
