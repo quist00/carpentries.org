@@ -5,7 +5,7 @@ teaser: "Carpentries Director of Partnerships, Al Obayuwana, writes a post comme
 title: "100 Members Strong, A Community Accomplishment"
 date: 2021-06-18
 time: "00:00:00"
-tags: ["Membership", "Green Stickies"]
+tags: ["Membership", "Gratitudes"]
 ---
 
 It is hard to believe that from a vision of wanting to teach members of the community the foundations of computational and data science skills, we have grown to an organisation with 100 active memberships. This milestone reminds us that there is a community behind each membership that is receiving access to training and workshops, of which to date, 3,100 have been delivered to roughly 80,000 learners from all over the world!
