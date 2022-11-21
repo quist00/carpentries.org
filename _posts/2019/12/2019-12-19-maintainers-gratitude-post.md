@@ -5,7 +5,7 @@ teaser: "Maintainers help keep lessons healthy and workshops running smoothly."
 title: "We Appreciate Lesson Maintainers!"
 date: 2019-12-19
 time: "09:00:00"
-tags: ["Lessons","Green Stickies", "Maintainers"]
+tags: ["Lessons","Gratitudes", "Maintainers"]
 ---
 
 We would like to sincerely thank the Data Carpentry, Library Carpentry, and Software Carpentry lesson Maintainers for their behind-the-scenes work that makes all of our workshops and independent learning possible.
