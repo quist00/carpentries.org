@@ -5,7 +5,7 @@ teaser: "In just six months our Instructor Development Committee has done SO MUC
 title: "Expressing Gratitude to Our Instructor Development Committee"
 date: 2019-12-10
 time: "00:00:00"
-tags: ["Green Stickies", "Instructor Development"]
+tags: ["Gratitudes", "Instructor Development"]
 ---
 
 When we onboarded the [leaders of our Instructor Development Committee](https://carpentries.org/blog/2019/04/new-idc-members/) back in April 2019, we were confident their term would be successful. This group brings a wealth of knowledge and experience from _all over the world_!
