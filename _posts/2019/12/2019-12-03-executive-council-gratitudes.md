@@ -5,7 +5,7 @@ teaser: "Thank you to the Executive Council"
 title: "Extending Gratitude to the Executive Council for Governance in 2019"
 date: 2019-12-03
 time: "09:00:00"
-tags: ["Executive Council", "Governance", "Green Stickies"]
+tags: ["Executive Council", "Governance", "Gratitudes"]
 ---
 
 The Executive Council is the governing body of The Carpentries responsible for its strategy and sustainability. As a community council, they are the true stewards of the organisation, guiding the project, listening to, reflecting on and making decisions on behalf of the community. That is a big responsibility! 
