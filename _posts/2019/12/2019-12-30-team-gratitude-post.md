@@ -5,7 +5,7 @@ teaser: "We appreciate the Carpentries team"
 title: "We are grateful for the Carpentries team - and the Executive Director"
 date: 2019-12-30
 time: "00:00:00"
-tags: ["Green Stickies", "Carpentries Team"]
+tags: ["Gratitudes", "Carpentries Team"]
 ---
 
 You may know them as team@carpentries.org, or checkout@carpentries.org. 
