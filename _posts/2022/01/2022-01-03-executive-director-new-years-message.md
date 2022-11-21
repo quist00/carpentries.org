@@ -5,7 +5,7 @@ teaser: "Grants, Gratitude, and #GreenStickies: Read on to learn about what The 
 title: "Happy New Year from The Carpentries Executive Director, Dr. Kari L. Jordan"
 date: 2022-01-03
 time: "09:00:00"
-tags: ["Accessibility", "Community", "Curriculum", "Equity and Inclusion", "Grants", "Green Stickies"]
+tags: ["Accessibility", "Community", "Curriculum", "Equity and Inclusion", "Grants", "Gratitudes"]
 ---
 I meditate quite often. Last week I participated in a practice whereby we meditated on various aspects of 2021, like resilience, acknowledging our needs, and caring for ourselves and others. During my time of meditation and reflection, I could not help but think about you -- The Carpentries community. I will never truly know exactly what this community has endured over the past 24 months. What I do know is that you have shown up, and continue to show up, contributing to The Carpentries’ mission even when it is hard to do. For that, you have my sincere #CarpentriesGratitude.
 
