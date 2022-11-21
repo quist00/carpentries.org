@@ -5,7 +5,7 @@ teaser: "We are taking time throughout December 2019 to reflect, write and share
 title: "Introducing The Carpentries Gratitudes Series"
 date: 2019-11-29
 time: "00:00:00"
-tags: ["Community", "Green Stickies"]
+tags: ["Community", "Gratitudes"]
 ---
 
 The Carpentries is a community-led organisation. All year round, community members work diligently to equip each other with relevant skills and create welcoming spaces, both online and offline, for resource sharing, discussion and collaborative work.
