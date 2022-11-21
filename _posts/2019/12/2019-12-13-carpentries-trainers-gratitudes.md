@@ -5,7 +5,7 @@ title: "Gratitude to the Growing Trainer Community"
 teaser: " "
 date: 2019-12-13
 time: "00:00:00"
-tags: ["Instructor Trainers", "Green Stickies"]
+tags: ["Instructor Trainers", "Gratitudes"]
 ---
 
 ### History
