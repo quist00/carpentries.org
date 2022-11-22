@@ -5,7 +5,7 @@ title: "With Thanks from Carpentries Instructors in Africa"
 teaser: " “Sithanda ukudlulisa amazwi ukubonga ku Carpentries!” from Carpentries Instructors in Africa"
 date: 2019-12-12
 time: "00:00:00"
-tags: ["Africa", "Green Stickies"]
+tags: ["Africa", "Gratitudes"]
 ---
 
 The African Instructors Community is made up of individuals who volunteer their time to teach foundational coding and data science skills to researchers on the continent. Ending 2019 on a positive note, not only was there a growth in the number of trained instructors, an increase in African countries joining The Carpentries community, but a [Regional Consultant for Southern Africa](https://carpentries.org/blog/2019/11/introducing-angelique/) has also been appointed to support the team of volunteer instructors across the continent.
