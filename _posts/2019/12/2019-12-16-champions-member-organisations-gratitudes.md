@@ -5,7 +5,7 @@ title: "Gratitude to Member Organisations and Champions"
 teaser: " "
 date: 2019-12-16
 time: "00:00:00"
-tags: ["Champions", "Membership", "Green Stickies"]
+tags: ["Champions", "Membership", "Gratitudes"]
 ---
 
 The Carpentries [Membership program](https://carpentries.org/membership/) will be going into its sixth year in 2020. Member Organisations were some of the [earliest supporters of Software and Data Carpentry](https://datacarpentry.org/blog/2016/05/partnerships) (though the nomenclature has evolved) and continue to be an invaluable source of support and inspiration within The Carpentries’ Community.
