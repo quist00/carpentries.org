@@ -5,7 +5,7 @@ title: "We Appreciate Community Initiatives, our Fiscal Sponsor!"
 teaser: "Partnering for global good"
 date: 2019-12-17
 time: "00:00:00"
-tags: ["Green Stickies"]
+tags: ["Gratitudes"]
 ---
 Some of our community members may have heard us mention our fiscal sponsor, [Community Initiatives](https://communityin.org/), at one time or another in the last year, but many have not. This is a testament to the amazing job that Community Initiatives (CI) does supporting pretty much everything that we do in ways that are pretty much always unseen. We would like to shine a spotlight on CI and express our sincere and inspired gratitude for their support this year. 
 
