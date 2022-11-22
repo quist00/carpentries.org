@@ -21,10 +21,10 @@ In 2019, the community initiated The [Carpentries Gratitudes project](https://ca
 
 5. Too much to say in a short blurb? **Write a blog post** to share your appreciation, which will become part of our collection of [blog posts with the Gratitudes tag](https://carpentries.org/posts-by-tags/#blog-tag-gratitudes).
 
-##When to Share Your Gratitudes
+## When to Share Your Gratitudes
 Anytime! These features and tools will be open and available for the community to use throughout the year, and we will continue to pull gratitudes from these channels to further amplify your accomplishments through a new “Gratitude of the Week” segment of our newsletter.
 
 Ask yourself: Has someone stepped up to help out with a workshop you were leading? Helped you with a block of code you were working on? Showed you how to use a new feature in GitHub? Lifted your spirits on a day when you really needed it? We invite you to join in Carpentries Gratitudes as we demonstrate how we [“Value All Contributions”](https://carpentries.org/values/) by sharing your thanks and appreciation.  
 
-##Messages of Thanks from the Core Team
+## Messages of Thanks from the Core Team
 To get us started, the Core Team would like to extend its deepest gratitude for all the contributions each of you has made this year to advance our shared mission and core values around the world. Throughout December, you will see posts from each of us responding to the question: *“What does The Carpentries community mean to you?”* We hope to show our appreciation in some small way for all that you have done and continue to do to make this community what we strive to always be - open, empowering, inclusive, and accessible. We are excited to see what we can accomplish together in 2023!
