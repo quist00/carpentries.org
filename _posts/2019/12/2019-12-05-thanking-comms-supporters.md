@@ -5,7 +5,7 @@ teaser: "We appreciate the enthusiasm and creativity with which community member
 title: "Thank You for Supporting our Outreach Efforts"
 date: 2019-12-05
 time: "09:00:00"
-tags: ["Green Stickies", "Community", "Communications"]
+tags: ["Gratitudes", "Community", "Communications"]
 ---
 
 Clear and timely communications play a big role in making community activities across The Carpentries happen effectively. From sharing opportunities available to community members, highlighting resources relevant to topical discussions, picking meeting times, collaborating on different projects and offering compelling narratives of The Carpentries, these all help connect our community and move our collaborative work forward.
