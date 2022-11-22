@@ -5,7 +5,7 @@ teaser: "The Code of Conduct Committee continues to embody our Core Values, and 
 title: "With gratitude, to the Code of Conduct Committee"
 date: 2019-12-04
 time: "09:00:00"
-tags: ["Green Stickies", "Code of Conduct"]
+tags: ["Gratitudes", "Code of Conduct"]
 ---
 We have a deep appreciation for the [Code of Conduct Committee](https://carpentries.org/coc-ctte/) (CoCc). Though its main goal is _to maintain, update, and enforce The Carpentries Code of Conduct (CoC)_, this committee has contributed to instructor training material (pull requests [#950](https://github.com/carpentries/instructor-training/pull/950) and [issue #897](https://github.com/carpentries/instructor-training/issues/897) , clarified overlapping responsibilities with core team members and the Executive Council, onboarded two new members (welcome [Ivo](https://github.com/arreyves) and [Benjamin](https://github.com/BenjaminSchwessinger)!) and finalised its governance structure.
 
