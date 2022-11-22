@@ -4,7 +4,7 @@ authors: ["François Michonneau", "Maneesha Sane"]
 title: "Gratitude from the Infrastructure Team"
 date: 2019-12-11
 time: "09:00:00"
-tags: ["Infrastructure", "Green Stickies"]
+tags: ["Infrastructure", "Gratitudes"]
 ---
 
 The infrastructure The Carpentries Team manages
