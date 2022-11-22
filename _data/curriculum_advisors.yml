@@ -103,11 +103,6 @@
   curriculum: library
   position: secretary
 
-- name: Liz Stokes
-  github: ragamouf
-  curriculum: library
-  position: chair
-
 - name: Mark Laufersweiler
   github: laufers
   curriculum: library
@@ -121,7 +116,7 @@
 - name: Tim Dennis
   github: jt14den
   curriculum: library
-  position: member
+  position: chair
 
 - name: Annajiat Alim Rasel
   github: annajiat
