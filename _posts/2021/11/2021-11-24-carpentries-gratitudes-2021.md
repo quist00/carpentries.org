@@ -5,7 +5,7 @@ teaser: "We are taking time throughout December 2021 to reflect, write and share
 title: "Share Your 2021 Gratitudes with Our Community"
 date: 2021-11-24
 time: "09:00:00"
-tags: ["Green Stickies", "Community"]
+tags: ["Gratitudes", "Community"]
 ---
 
 In 2019 and 2020, The Carpentries published a [series of posts](https://carpentries.org/blog/2019/11/carpentries-gratitudes-series/) thanking the various parts of our community. Since that time, the community has supported The Carpentries through tumultuous times - from transitioning to online workshops and a virtual conference in 2020, to new and revitalized programs like the Curriculum Advisors Committee and the Community Facilitators Program. To be sure, there is no end to what we are grateful for from our community.
