@@ -5,7 +5,7 @@ teaser: "Daniel Ouso and Bianca Peterson share their experience from instructing
 title: "Feedback: Remote Teaching of Genomics Data Carpentry Curriculum"
 date: 2020-01-24
 time: "00:00:00"
-tags: ["Carpentries Workshops", "Green Stickies"]
+tags: ["Carpentries Workshops", "Gratitudes"]
 ---
 
 ## The People
