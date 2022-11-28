@@ -7,7 +7,7 @@ permalink: /assessment/
 The Carpentries value a culture of assessment, and we are consistently evaluating 
 our workshops to understand the impact workshops have on our learners, and how we can improve our content delivery.
 
-Dr. Kari L. Jordan, our Executive Director, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
+Dr. Kelly Barnes, our Director of Assessments, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
 
 <hr>
 
