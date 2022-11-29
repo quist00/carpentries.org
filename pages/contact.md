@@ -36,6 +36,13 @@ Oakland, CA 94607<br>
 USA
 </div> 
 
+<div class="medium-3 columns"> <strong>on Mastodon:</strong>
+<br>
+<a rel="me" href="https://fosstodon.org/@thecarpentries"><i class="fab fa-mastodon"></i>@TheCarpentries@fosstodon.org</a>
+
+   </div>
+
+    
 <div class="medium-3 columns"> <strong>on Twitter:</strong>
 <br><br>
 <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thecarpentries</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
