@@ -36,17 +36,9 @@ Oakland, CA 94607<br>
 USA
 </div> 
 
-<div class="medium-3 columns"> <strong>on Social Media:</strong>
+<div class="medium-3 columns"> <strong>on Mastodon:</strong>
 <br>
-<a rel="me" href="https://fosstodon.org/@thecarpentries"><i class="fab fa-mastodon"></i> Follow @TheCarpentries@fosstodon.org on Mastodon</a>
-<a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thecarpentries</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/datacarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @datacarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/swcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @swcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/libcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @libcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<a rel="me" href="https://fosstodon.org/@thecarpentries"><i class="fab fa-mastodon"></i>@TheCarpentries@fosstodon.org</a>
 
    </div>
 
