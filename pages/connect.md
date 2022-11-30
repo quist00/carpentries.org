@@ -25,6 +25,10 @@ Welcome to our community!
 
 - [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
 
+- [Mastodon](https://fosstodon.org/@thecarpentries)
+
+
+
 ## Slack
 
 [Join our Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
