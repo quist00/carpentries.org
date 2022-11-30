@@ -56,7 +56,7 @@
 
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                  <a {% if network_item.class contains 'mastodon' %}rel="me"{% endif %} href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
                 </li>
             {% endfor %}
             </ul>
