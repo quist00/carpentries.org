@@ -3,6 +3,11 @@
   class: fa-github
   title: ""
 
+- name: Mastodon
+  url: https://fosstodon.org/@thecarpentries
+  class: fa-mastodon
+  title: ""
+  
 - name: Twitter
   url: https://twitter.com/thecarpentries
   class: fa-twitter
