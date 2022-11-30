@@ -56,7 +56,7 @@
 
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a {% if network_item.class contains 'mastodon' %}rel="me"{% endif %} href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
                 </li>
             {% endfor %}
             </ul>
@@ -75,7 +75,7 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" aria-label="{{ social_item.name }}"><i class="fab {{ social_item.class }}"></i></a></li>
+              <li><a {% if social_item.class contains 'mastodon' %}rel="me"{% endif%} href="{{ social_item.url }}" aria-label="{{ social_item.name }}"><i class="fab {{ social_item.class }}"></i></a></li>
             {% endfor %}
             </ul>
           </section>
