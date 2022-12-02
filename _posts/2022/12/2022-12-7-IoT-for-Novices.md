@@ -5,7 +5,7 @@ teaser: "The Intro to IoT lesson is available in the Carpentries Incubator and u
 title: "IoT for Novices in South Africa"
 date: 2022-12-7
 time: "09:00:00"
-tags: ["africa", "carpentries incubator"]
+tags: ["Africa", "Carpentries Incubator"]
 ---
 *Originally posted on the [Society of Research Software Engineering](https://society-rse.org/iot-for-novices-in-south-africa/) website, 
 this blog post highlights an Introduction to the Internet of Things workshop hosted 
