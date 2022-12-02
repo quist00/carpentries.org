@@ -7,7 +7,7 @@ date: 2022-12-7
 time: "09:00:00"
 tags: ["africa", "carpentries incubator"]
 ---
-*Originally posted on the (Society of Research Software Engineering website)[https://society-rse.org/iot-for-novices-in-south-africa/], 
+*Originally posted on the [Society of Research Software Engineering](https://society-rse.org/iot-for-novices-in-south-africa/) website, 
 this blog post highlights an Introduction to the Internet of Things workshop hosted 
 at Stellenbosch Univerisity, South Africa.* 
 
