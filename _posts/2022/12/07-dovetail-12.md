@@ -2,7 +2,7 @@
 layout: page
 authors: ["Zhian N. Kamvar"]
 teaser: "More coordination needed"
-title: "The Dovetail #11: Updates from The Carpentries Workbench"
+title: "The Dovetail #12: Updates from The Carpentries Workbench"
 date: 2022-12-07
 time: "09:00:00"
 tags: ["Lesson Infrastructure", "Community", "Carpentries Workbench", "Beta", "Dovetail"]
