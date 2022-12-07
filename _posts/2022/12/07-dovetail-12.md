@@ -36,14 +36,19 @@ synchronously in February 2023. In April 2023, these lessons will
 [finalise their conversion](https://carpentries.github.io/workbench/beta-phase.html#pre-release)
 and the default website will use The Workbench.
 
-## Communication Breakdown
+## Why we are extending the deadline
+
+Ultimately, we are doing this for two reasons:
+
+1. to give the community more time to explore the new lesson format
+2. to make the process more efficient in terms of time and resources
 
 When I [annouced the Beta Phase]({{ site.url }}/blog/2022/05/workbench-beta/),
 I had intended for the Beta Phase to start in the middle of July and run
 through until the end of October, giving us time to transition all of the
 lessons by December. While I had taken into account [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
 in planning the Beta Phase, situations beyond my control appeared and I had to
-delay the beta phase until October.
+delay the beta phase until October. 
 
 Before the beta phase went live, I checked in with the maintainers to see if
 they were okay proceeding, but I had neglected to give them any space
