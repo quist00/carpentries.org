@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Zhian N. Kamvar"]
-teaser: "More coordination needed"
+teaser: "The beta stage is extending deadlines"
 title: "The Dovetail #12: Updates from The Carpentries Workbench"
 date: 2022-12-07
 time: "09:00:00"
@@ -32,42 +32,47 @@ lessons to use The Carpentries Workbench in May 2023.** Moreover, all of the
 [lessons in the beta
 phase](https://carpentries.github.io/workbench/beta-phase.html) will undergo
 their transitions to the [beta stage](https://carpentries.github.io/workbench/beta-phase.html#beta)
-synchronously in February 2023. In April 2023, these lessons will 
+_synchronously_ in February 2023. In April 2023, these lessons will 
 [finalise their conversion](https://carpentries.github.io/workbench/beta-phase.html#pre-release)
-and the default website will use The Workbench.
+and the default website will use The Workbench. 
+
 
 ## Why we are extending the deadline
 
 Ultimately, we are doing this for two reasons:
 
-1. to give the community more time to explore the new lesson format
-2. to make the process more efficient in terms of time and resources
+### Time to explore the new lesson format
+
+The transition to use The Workbench will make the lives of instructors,
+maintainers, contributors, and core team staff easier when it comes to 
+teaching and maintaining lessons. While instructors will see a new format to the
+website, the maintainers will see the repositories undergo a massive change.
+Thus, the first part of the beta phase is a way for the maintainers to get a
+better sense of how the lesson repository differs in its new format without the
+risk of irreverisbly modifying a lesson. 
+
+
+### Efficiency for time and resources
 
 When I [annouced the Beta Phase]({{ site.url }}/blog/2022/05/workbench-beta/),
 I had intended for the Beta Phase to start in the middle of July and run
 through until the end of October, giving us time to transition all of the
-lessons by December. While I had taken into account [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
+lessons by December. The lessons were staggered on a weekly schedule to account
+for the time it would take for me to provide an [automated transition script](https://github.com/carpentries/lesson-transition#readme)
+for each lesson in the beta phase. While I had taken into account [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
 in planning the Beta Phase, situations beyond my control appeared and I had to
 delay the beta phase until October. 
 
-Before the beta phase went live, I checked in with the maintainers to see if
-they were okay proceeding, but I had neglected to give them any space
-to let me know if they _could not_ continue with the beta testing of The
-Workbench. Moreover, I was not adequately prepared for an organisational or
-communication task of this magnitude. Thus, communications were often sent out
-at inopportune times (e.g. Fridays from the US Pacific Coast), which often
-meant that they would get buried in Monday communications. 
+What I had not taken into account was the fact that I would be vastly increasing
+the amount of communication work required for such a project. If every lesson
+required communications before, at the beginning of, and after each stage of the
+beta phase, that means that I had 49 (3 x 3 x 7) communications to send out over
+the beta phase period. 
 
-I will reach out to the maintainers of the following lessons about these plans
-and will report back with an updated timeline:
-
- - [Data Analysis and Visualization in R for Ecologists](https://github.com/datacarpentry/R-ecology-lesson/) (pre-beta)
- - [R for Social Scientists](https://github.com/datacarpentry/r-socialsci/) (pre-beta)
- - [Introduction to Geospatial Raster and Vector Data with R](https://github.com/datacarpentry/r-raster-vector-geospatial/) (pre-beta)
- - [Data Cleaning with OpenRefine for Ecologists](https://github.com/datacarpentry/OpenRefine-ecology-lesson/) (cancelled)
- - [Library Carpentry: The UNIX Shell](https://github.com/LibraryCarpentry/lc-shell/) (on hold)
- - [Instructor Training](https://github.com/carpentries/instructor-training/) (pre-beta)
- - [Análisis y visualización de datos usando Python](https://github.com/datacarpentry/pthon-ecology-lesson-es/) (delayed by Zhian)
+During this last reorganisation of the beta phase schedule, all lessons will
+enter the beta phase stages at the same time. This means all communications
+will be synchronous so core team time can be dedicated to maintenance and
+addressing maintaing and instructor questions. 
 
 ### Lessons Currently In the Beta Phase
 
@@ -79,6 +84,8 @@ The table below shows the status of lessons that are currently in the beta phase
 | R for Social Scientists                                  | pre-beta  | <https://preview.carpentries.org/r-socialsci>                | 2023-02-06           |
 | Introduction to Geospatial Raster and Vector Data with R | pre-beta  | <https://preview.carpentries.org/r-raster-vector-geospatial> | 2023-02-06           |
 | Instructor Training                                      | pre-beta  | <https://preview.carpentries.org/instructor-training>        | 2023-02-06           |
+| Library Carpentry: The UNIX Shell                        |    -      |  https://preview.carpentries.org/lc-shell                    | 2023-12-12           |
+| Análisis y visualización de datos usando Python          |    -      |  https://preview.carpentries.org/python-ecology-lesson-es    | 2023-12-12           |
 
 [^1]: The Workbench Beta Phase is divided into three distinct stages, read more at <https://carpentries.github.io/workbench/beta-phase.html>.
 
