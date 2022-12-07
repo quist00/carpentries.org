@@ -26,15 +26,19 @@ Workbench, head over to our GitHub Discussions forum: <https://github.com/carpen
 In our [previous blog post]({{ site.url }}/blog/2022/11/dovetail-11/), we
 outlined the goals of the beta phase, acknowledged the very real situation of
 limited volunteer time, and announced that we will convert all of our lessons in
-mid-April 2023. Since it was published, I have had some struggles with my own
-health, did some thinking about the process, and decided to push back the
-deadline. Thus, **we will convert all of our lessons to use The Carpentries
-Workbench in May 2023.** Moreover, all of the [lessons in the Beta Phase](https://carpentries.github.io/workbench/beta-phase.html#beta) 
-will undergo their transitions at the same time in February and then April 2023. 
+mid-April 2023. Since it was published, personal considerations have required
+me to reconsider the timeline and extend it. Thus, **we will convert all of our
+lessons to use The Carpentries Workbench in May 2023.** Moreover, all of the
+[lessons in the beta
+phase](https://carpentries.github.io/workbench/beta-phase.html) will undergo
+their transitions to the [beta stage](https://carpentries.github.io/workbench/beta-phase.html#beta)
+synchronously in February 2023. In April 2023, these lessons will 
+[finalise their conversion](https://carpentries.github.io/workbench/beta-phase.html#pre-release)
+and the default website will use The Workbench.
 
 ## Communication Breakdown
 
-This post is difficult for me to write. When I [annouced the Beta Phase]({{ site.url }}/blog/2022/05/workbench-beta/),
+When I [annouced the Beta Phase]({{ site.url }}/blog/2022/05/workbench-beta/),
 I had intended for the Beta Phase to start in the middle of July and run
 through until the end of October, giving us time to transition all of the
 lessons by December. While I had taken into account [Hofstadter's law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
@@ -42,7 +46,7 @@ in planning the Beta Phase, situations beyond my control appeared and I had to
 delay the beta phase until October.
 
 Before the beta phase went live, I checked in with the maintainers to see if
-they were okay proceeding, but I had neglected to give our volunteers any space
+they were okay proceeding, but I had neglected to give them any space
 to let me know if they _could not_ continue with the beta testing of The
 Workbench. Moreover, I was not adequately prepared for an organisational or
 communication task of this magnitude. Thus, communications were often sent out
