@@ -565,7 +565,7 @@ In Q1 2019,  the Community Development Team worked on developing a communication
 
 ## Curriculum Team
 <br>Team Lead: Toby Hodges
-<br>Team Members: Erin Becker · Michael Culshaw-Maurer · Zhian Kamvar
+<br>Team Members: Erin Becker · Zhian Kamvar
 
 Led by Toby Hodges, the Curriculum Team guides and oversees curriculum
 development and maintenance and works closely with our Maintainer community and
