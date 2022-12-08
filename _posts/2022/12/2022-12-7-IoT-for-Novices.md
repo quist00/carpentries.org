@@ -9,7 +9,7 @@ tags: ["Africa", "Carpentries Incubator"]
 ---
 *Originally posted on the [Society of Research Software Engineering](https://society-rse.org/iot-for-novices-in-south-africa/) website, 
 this blog post highlights an Introduction to the Internet of Things workshop hosted 
-at Stellenbosch Univerisity, South Africa.* 
+at Stellenbosch University, South Africa.* 
 
 The Internet of Things (IoT) is one of the buzzwords that researchers would like to include in their research and grant applications, 
 but few actually understand what it is. So, when I was asked by Kim Martin whether I could run a workshop at Stellenbosch University in 
