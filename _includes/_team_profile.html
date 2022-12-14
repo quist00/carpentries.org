@@ -31,6 +31,10 @@
 <p class="text-muted">
 {{ member.position }}<br>
 
+{% if member.pronouns %}
+<i>Pronouns: {{ member.pronouns }}</i><br>
+{% endif %}
+
 {% if member.lead %}
 <i>{{ member.lead }}</i><br>
 {% endif %}
