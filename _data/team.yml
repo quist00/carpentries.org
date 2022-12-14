@@ -3,6 +3,7 @@
 people:
 
 - name: Kari L. Jordan, PhD
+  pronouns: she/ella
   pic: karijordan
   position: Executive Director
   lead: Business Team Lead
@@ -14,6 +15,7 @@ people:
   et: true
 
 - name: Erin Becker, PhD
+  pronouns: she/her/hers
   pic: erinbecker
   position: Associate Director
   lead: Membership Team Lead
@@ -25,6 +27,7 @@ people:
   et: true
 
 - name: Zhian N. Kamvar, PhD
+  pronouns:  he/him/his
   pic: zhiankamvar
   position: Lesson Infrastructure Developer
   email: zkamvar@carpentries.org
@@ -34,6 +37,7 @@ people:
   et: false
 
 - name: Toby Hodges, PhD
+  pronouns:  he/him/his
   pic: tobyhodges
   position: Director of Curriculum
   lead: Curriculum Team Lead
@@ -44,6 +48,7 @@ people:
   et: false
  
 - name: Talisha Sutton-Kennedy
+  pronouns: Any pronouns will do 
   pic: talishasuttonkennedy
   position: Operations Manager
   jobplan: https://docs.google.com/document/d/1Hza2oLS8iC-8k8niwpNVOcbxHsrwZOrYSDak2hmIQfw/edit
@@ -65,6 +70,7 @@ people:
  
 - name: Omar Khan
   pic: omarkhan
+  pronouns: he/his
   position: Communications Manager
   email: okhan@carpentries.org
   github: kmomar
@@ -72,6 +78,7 @@ people:
   et: false
  
 - name: Maneesha Sane
+  pronouns: Any pronouns will do
   pic: maneeshasane
   position: Deputy Director of Technology
   jobplan: https://docs.google.com/document/d/1vzvRaH-ilaAdkzk3LZCMvBsBYlokX_5mU5aA7Wvo9PQ/edit
@@ -82,6 +89,7 @@ people:
  
 - name: Kelly Barnes, PhD
   pic: kellybarnes
+  pronouns: she/her
   position: Director of Assessment
   email: kbarnes@carpentries.org
   github: klbarnes20
@@ -91,6 +99,7 @@ people:
   et: false
  
 - name: Karen Word, PhD      
+  pronouns: she/her/hers
   pic: karenword
   position: Director of Instructor Training
   lead: Instructor Training Team Lead
@@ -102,6 +111,7 @@ people:
   et: false
  
 - name: Danielle Sieh
+  pronouns: she/her/hers
   pic: daniellesieh
   position: Workshop Administrator
   github: danielle06
@@ -110,6 +120,7 @@ people:
   et: false
 
 - name: Brynn Elliott
+  pronouns: she/her/hers
   pic: brynnelliott
   position: Accessibility Manager
   email: brynn@carpentries.org
@@ -118,6 +129,7 @@ people:
   et: false
 
 - name: Angelique Trusler, PhD
+  pronouns: Any pronouns will do
   pic: angeliquetrusler
   position: African Capacity Development Manager
   email: angelique@carpentries.org
@@ -127,6 +139,7 @@ people:
   et: false
 
 - name: Alycia Crall, PhD
+  pronouns: she/her/hers
   pic: alyciacrall
   position: Director of Community
   lead: Community Development Team Lead
