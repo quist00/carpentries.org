@@ -17,7 +17,7 @@ The Sponsorship Application Form is also available as a [fillable PDF](/files/pd
 
 ## Our Sponsors
 
-<a href="https://www.rstudio.com/" style="text-decoration: none; border: 0 none;"><img src = "{{ site.urlimg }}/logos/RStudio-Logo.png" class="img-responsive" alt="RStudio logo" title="RStudio logo"></a>
+<a href="https://posit.co" style="text-decoration: none; border: 0 none;"><img src = "{{ site.urlimg }}/logos/Posit-Logo.jpg" class="img-responsive" alt="Posit logo" title="Posit logo"></a>
 
 <hr>
 
