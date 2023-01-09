@@ -37,8 +37,7 @@ of having completed a Carpentries workshop. The scale of responses was a 7-point
 (6), not all levels were spelled out in the survey questionnaire. The additional levels can be read as very rarely (1), rarely (2), often (4) and very 
 often (5).
 
-![Figure 3. Routines and behaviours adopted after attending a Carpentries workshop]({{ site.urlimg }}/blog/2023/01/image3.png) 
-_Figure 3. Routines and behaviours adopted after attending a Carpentries workshop_
+![Figure 3. Routines and behaviours adopted after attending a Carpentries workshop]({{ site.urlimg }}/blog/2023/01/image3.png)*Figure 3. Routines and behaviours adopted after attending a Carpentries workshop*
 
 About every second respondent reported improved data management and project organisation (48% often to regular), and adopted a new routine related to 
 re-organising and cleaning spreadsheets (46%). Version control (33%), reusing code (28%) as well as using programming languages (25%) have been adopted 
