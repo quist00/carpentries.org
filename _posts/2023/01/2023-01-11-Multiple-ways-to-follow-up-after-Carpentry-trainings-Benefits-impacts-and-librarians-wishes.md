@@ -22,14 +22,14 @@ The Carpentries. Reported job roles (cf. Figure 1, multiple choice) are strongly
 (research data management 32.4%, scholarly communication 28.7%), and reference and user services more generally (31.5%). Moreover, several respondents 
 manage collections, digital library services, research and development projects and information and data analytics. 
 
-![Figure 1. Job roles of respondents to the survey]({{ site.urlimg }}/blog/2023/01/image1.png) 
+![Figure 1. Job roles of respondents to the survey]({{ site.urlimg }}/blog/2023/01/job-roles-1.png) 
 _Figure 1. Job roles of respondents to the survey_
 
 Out of all respondents, 85 had attended at least one Carpentries workshop, 18 did not attend one yet but 7 planned to do so in the future. Most popular 
 (cf. Figure 2) were Library Carpentry (73), followed by Software (42) and Data Carpentry (38), with good degrees of overlap (45 already attended at least 
 two workshops). 
 
-![Figure 2. Combination of Carpentries workshops attended]({{ site.urlimg }}/blog/2023/01/image2.png) 
+![Figure 2. Combination of Carpentries workshops attended]({{ site.urlimg }}/blog/2023/01/workshop-attendance-content-2.png) 
 _Figure 2. Combination of Carpentries workshops attended_
 
 Respondents with experiences in Carpentries workshops were asked to assess to what degree they have adopted certain behaviours or routines as a result 
@@ -37,7 +37,8 @@ of having completed a Carpentries workshop. The scale of responses was a 7-point
 (6), not all levels were spelled out in the survey questionnaire. The additional levels can be read as very rarely (1), rarely (2), often (4) and very 
 often (5).
 
-![Figure 3. Routines and behaviours adopted after attending a Carpentries workshop]({{ site.urlimg }}/blog/2023/01/image3.png)
+![Figure 3. Routines and behaviours adopted after attending a Carpentries workshop]({{ site.urlimg 
+}}/blog/2023/01/routines-1.png)
 _Figure 3. Routines and behaviours adopted after attending a Carpentries workshop_
 
 About every second respondent reported improved data management and project organisation (48% often to regular), and adopted a new routine related to 
@@ -49,7 +50,8 @@ Librarians reported multiple benefits from participation in workshop(s) (cf. Fig
 skills, rethinking approaches for data processing and encouraging skills development of staff. Remarkable is also that about every second respondent 
 reported an improved relationship with academic or technical partners.  
 
-![Figure 4. Benefits reported from participation in a Carpentries workshop]({{ site.urlimg }}/blog/2023/01/image4.png) 
+![Figure 4. Benefits reported from participation in a Carpentries workshop]({{ site.urlimg 
+}}/blog/2023/01/application-engagement-1.png) 
 _Figure 4. Benefits reported from participation in a Carpentries workshop_
 
 Other behaviors that were reported through free text comments include the adoption of training methodologies from The Carpentries (e.g. didactics, 
