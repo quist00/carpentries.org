@@ -3,7 +3,7 @@ layout: page
 authors: ["Birgit Schmidt", "Phil Reed"]
 teaser: "Results from the Library Carpentry survey"
 title: "Multiple ways to follow-up after Carpentry trainings: Benefits, impacts and librarians’ wishes"
-date: 2022-12-XX
+date: 2023-01-11
 time: "09:00:00"
 tags: ["Library Carpentry", "Curriculum", "Survey", "Engagement", "Training Impact"]
 ---
