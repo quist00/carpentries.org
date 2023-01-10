@@ -9,6 +9,13 @@ Data Carpentry, Library Carpentry and Software Carpentry have been featured in m
 Do you know about other works that should be listed here? If so, please email <a href="mailto:{{site.contact}}">{{site.contact}}</a> to let us know.
 
 <ul>
+ 
+    <li>
+    <p>
+      Tami Albin, Jamene Brooks-Kieffer: "<a href="https://www.journalofplayinadulthood.org.uk/article/id/1030/">Git going with LEGO: A playful partnership for making sense of technology</a>",
+      December 2022
+    </p>
+  </li>
   
   <li>
     <p>
