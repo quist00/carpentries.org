@@ -40,7 +40,7 @@ We also have over 100 optional channels, ranging from local and regional communi
 
 ### Join a Community Event
 
-You can find a full list of The Carpentries activities on our [community calendar]({{site.handbook_url}}to add our calendar to yours.
+You can find a full list of The Carpentries activities on our [community calendar](/community/#community-events) to add our calendar to yours.
 
 - Community Discussions: Topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. Community Discussions are added to our [community calendar](/community/#community-events) and are also listed in our [Etherpad](https://pad.carpentries.org/community-discussions).
 - Regional Community Calls: Join a call with others from your region. [Call in details](https://pad.carpentries.org/community-discussions).
