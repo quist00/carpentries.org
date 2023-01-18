@@ -11,7 +11,7 @@ tags: ["Governance", "Community", "Data Carpentry", "Library Carpentry", "Softwa
 The Carpentries has three lesson programs, [Software Carpentry][swc], [Library Carpentry][lc], and [Data Carpentry][dc].
 In November, I published [a post describing the governance structure of each lesson program, and outlining a plan to 
 introduce more community governance in the form of _Lesson Program Governance Committees (LPGCs)_][lpgc-planning-post]. 
-**Today, we open the call for volunteers to form these new committees.**
+**Today, 19 January we open the call for volunteers to form these new committees.**
 The call for volunteers will remain open until the end of 5th February, and I encourage anyone interested in community 
 leadership and guiding the development of one of the lesson programs to apply.
 
@@ -54,7 +54,7 @@ Executive Council, etc.
 As with other committees in The Carpentries, each LPGC will include a Chair and Secretary. These officers will hold 
 additional responsibilities alongside those of a regular LPGC member, and will receive additional onboarding to ensure they 
 are well-prepared to take on the roles. The responsibilities associated with these officer roles will be almost identical to 
-[those of the Chair and Secretary of Curriculum Advisory Committees][cac-officers].
+[the Chair and Secretary of Curriculum Advisory Committees][cac-officers].
 
 ## Support for LPGCs
 Although they will act independently, LPGC members will be supported throughout their term, via:
@@ -80,7 +80,7 @@ interacting with Learners.
 the bigger picture of training and professional development in their context. 
 **Curriculum Advisors** could provide a vital bridge between the governance of curriculum and the lesson program as a whole.
 If you are reading this, would like to apply, but do not fit any of the roles mentioned above, you should still do so! If 
-you have any questions or concerns, please [reach out to me](mailto:tobyhodges@carpentries.org).
+you have any questions or concerns, please [contact me](mailto:tobyhodges@carpentries.org).
 
 ## What is the Time Requirement?
 As this is the first time that LPGCs are being established, we have no information about the time required for this role. 
@@ -90,11 +90,11 @@ Taking into account other time that may be taken up by communication and other t
 require a minimum of 3 hours every three months.
 
 ## How to Apply
-You can [volunteer to join a Lesson Program Governance Committee by filling out this short form][volunteer-application].
+You can volunteer to join a Lesson Program Governance Committee by filling out [this short form][volunteer-application].
 The call for volunteers will close at [the end of Sunday 5th February 2023 Anywhere on Earth][closing-date]
 After this, volunteer applications will be reviewed by members of the Core Team and Executive Council, as well as other 
 volunteers from the community.
-([If you would like to volunteer to review applications, please get in touch!](mailto:tobyhodges@carpentries.org))
+(If you would like to volunteer to review applications, please [contact me!](mailto:tobyhodges@carpentries.org))
 Onboarding will then take place in the first half of March 2023.
 
 [cac]: https://carpentries.org/curriculum-advisors/
