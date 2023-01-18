@@ -114,7 +114,17 @@ people:
   twitter: karen_word
   calendly: karenword
   et: false
- 
+  
+- name: Eli Chadwick
+  pronouns: he/him and they/them
+  pic: elichadwick
+  position: Information Technology Developer
+  email: elichadwick@carpentries.org
+  github: elichad
+  twitter: eelichad
+  calendly: elichadwick
+  et: false
+
 - name: Danielle Sieh
   pronouns: she/her/hers
   pic: daniellesieh
