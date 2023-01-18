@@ -11,7 +11,7 @@ tags: ["Governance", "Community", "Data Carpentry", "Library Carpentry", "Softwa
 The Carpentries has three lesson programs, [Software Carpentry][swc], [Library Carpentry][lc], and [Data Carpentry][dc].
 In November, I published [a post describing the governance structure of each lesson program, and outlining a plan to 
 introduce more community governance in the form of _Lesson Program Governance Committees (LPGCs)_][lpgc-planning-post]. 
-**Today, 19 January we open the call for volunteers to form these new committees.**
+**Today, 24 January we open the call for volunteers to form these new committees.**
 The call for volunteers will remain open until the end of 5th February, and I encourage anyone interested in community 
 leadership and guiding the development of one of the lesson programs to apply.
 
