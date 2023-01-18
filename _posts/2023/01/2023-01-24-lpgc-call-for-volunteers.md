@@ -98,17 +98,13 @@ volunteers from the community.
 Onboarding will then take place in the first half of March 2023.
 
 [cac]: https://carpentries.org/curriculum-advisors/
-[cac-officers]: 
-https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities
-[closing-date]: 
-https://www.timeanddate.com/worldclock/fixedtime.html?msg=LPGC+Call+for+Volunteers+2023+Closes&iso=20230205T2359&p1=3926
+[cac-officers]: https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities
+[closing-date]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=LPGC+Call+for+Volunteers+2023+Closes&iso=20230205T2359&p1=3926
 [dc]: https://datacarpentry.org/
 [exco]: https://carpentries.org/governance/
 [lc]: https://librarycarpentry.org/
-[lp-policy]: 
-https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-governance-policy
+[lp-policy]: https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-governance-policy
 [lpgc-planning-post]: https://carpentries.org/blog/2022/11/lesson-program-governance/
 [swc]: https://software-carpentry.org/
-[volunteer-application]: 
-https://docs.google.com/forms/d/e/1FAIpQLSeTbhWoL8WAL8poIs9KKQ3SwzSLy7s1n7P4uBgzyoFzxn3y6A/viewform?usp=sf_link
+[volunteer-application]: https://docs.google.com/forms/d/e/1FAIpQLSeTbhWoL8WAL8poIs9KKQ3SwzSLy7s1n7P4uBgzyoFzxn3y6A/viewform?usp=sf_link
 
