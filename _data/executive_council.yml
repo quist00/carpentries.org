@@ -34,7 +34,7 @@ people:
   github: anenadic
   orcid: 0000-0002-2269-3894
   country: GB
-  active: true
+  active: false
   term:
     - {type: Elected, start_year: 2021}
   roles:
@@ -70,7 +70,7 @@ people:
   pic: masami_yamaguchi.jpg
   github: 	masamiy
   country: AU
-  active: true
+  active: false
   term:
     - {type: Appointed, start_year: 2021}
   roles:
