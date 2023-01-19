@@ -1,5 +1,21 @@
 people:
 
+- person_name: Nisha Ghatak
+  pic: nisha_ghatak.jpg
+  country: NZ
+  active: true 
+  term: 
+    - {type: Appointed}
+
+- person_name: Jannetta Steyn
+  pic: jannetta_steyn.jpg
+  country: GB
+  active: true 
+  term:
+    - {type: Elected}
+
+
+
 - person_name: Sarah Stevens
   pic: sarah_stevens.jpg
   github: sstevens2
