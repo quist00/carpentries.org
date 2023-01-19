@@ -5,14 +5,14 @@ people:
   country: NZ
   active: true 
   term: 
-    - {type: Appointed}
+    - {type: Appointed, start_year: 2023}
 
 - person_name: Jannetta Steyn
   pic: jannetta_steyn.jpg
   country: GB
   active: true 
   term:
-    - {type: Elected}
+    - {type: Elected, start_year: 2023}
 
 
 
