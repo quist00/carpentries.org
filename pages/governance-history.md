@@ -11,10 +11,10 @@ permalink: /governance-history/
 
 ### 2022 Executive Council
 
-- Sarah Stevens [Elected since 2021]
-- Konrad Förstner [Appointed since 2020], 2021 Secretary, 2020 [Code of Conduct]({{ site.code_of_conduct_url }}) committee liaison
-- Aleksandra Nenadic [Elected since 2021]
-- Michael Smith [Appointed since 2021], 2021 Treasurer
+- Sarah Stevens [Elected since 2021], **2022 Chair**
+- Konrad Förstner [Appointed since 2020], **2022 Vice Chair**, 2021 Secretary, 2020 [Code of Conduct]({{ site.code_of_conduct_url }}) committee liaison
+- Aleksandra Nenadic [Elected since 2021], 2022 Secretary
+- Michael Smith [Appointed since 2021], 2021-2022 Treasurer
 - Yanina Bellini Saibene [Elected since 2022]
 - Masami Yamaguchi [Appointed since 2021], 2021 [Code of Conduct]({{ site.code_of_conduct_url }}) committee liaison
 - John Chodacki [Appointed since 2021]
