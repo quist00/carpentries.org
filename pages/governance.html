@@ -21,7 +21,7 @@ permalink: /governance/
     <div class="row">
       <div class="col-lg-12 text-center">
   
-      {% assign people_list = site.data.executive_council.people | where: "active", true  %}
+      {% assign people_list = site.data.executive_council.people | where: "active", true  | sort: "person_name" | reverse %}
       {% include executive_council_profiles.md %}  
       </div>
     </div>
