@@ -3,7 +3,7 @@ layout: page
 authors: ["Toby Hodges"]
 teaser: "Guide the development of Software Carpentry, Library Carpentry, or Data Carpentry"
 title: "Calling for Volunteers to join a Lesson Program Governance Committee"
-date: 2023-01-19
+date: 2023-01-24
 time: "09:00:00"
 tags: ["Governance", "Community", "Data Carpentry", "Library Carpentry", "Software Carpentry"]
 ---
