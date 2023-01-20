@@ -79,8 +79,12 @@ interacting with Learners.
 **Workshop Hosts** can speak to the value of the lesson program to their communities, and how Carpentries workshops fit into 
 the bigger picture of training and professional development in their context. 
 **Curriculum Advisors** could provide a vital bridge between the governance of curriculum and the lesson program as a whole.
-If you are reading this, would like to apply, but do not fit any of the roles mentioned above, you should still do so! If 
-you have any questions or concerns, please [contact me](mailto:tobyhodges@carpentries.org).
+If you are reading this, would like to apply, but do not fit any of the roles mentioned above, you should still do so! 
+If you would like to take on a role in The Carpentries community but this is not the right time for you to apply -
+or if you think a different role might be a better fit -
+we will also be opening a call for volunteers to join **Maintainer Onboarding** in mid-February,
+and are likely to be calling for **new Curriculum Advisors** in the middle of 2023 too.
+If you have any questions or concerns, please [contact me](mailto:tobyhodges@carpentries.org).
 
 ## What is the Time Requirement?
 As this is the first time that LPGCs are being established, we have no information about the time required for this role. 
