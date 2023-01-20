@@ -21,7 +21,7 @@ permalink: /governance/
     <div class="row">
       <div class="col-lg-12 text-center">
   
-      {% assign people_list = site.data.executive_council.people | where: "active", true  %}
+      {% assign people_list = site.data.executive_council.people | where: "active", true  | sort: "person_name" | reverse %}
       {% include executive_council_profiles.md %}  
       </div>
     </div>
@@ -37,37 +37,8 @@ permalink: /governance/
 <p>Standing Committees are used by the Executive Council as a practical way to manage the work and engagement of the Executive Council.
   For a description of the different Standing Committees, see <a href="{{site.handbook_url}}/topic_folders/governance/executive-council.html?#executive-council-s-standing-committees">the Carpentries&#39; Handbook</a>.</p>
 
-  <h3 id="officers-committee">Officers Committee</h3>
-  <ul>
-  <li>Sarah Stevens (Chair)</li>
-  <li>Konrad Förstner (Vice Chair)</li>
-  <li>Michael Smith (Treasurer) </li>
-  <li>Aleksandra Nenadic (Secretary)</li>
-  </ul>
-  <h3 id="governance-committee">Governance Committee</h3>
-  <ul>
-  <li>Konrad Förstner (Committee Chair)</li>
-  <li>Annajiat Alim Rasel</li>
-  <li>Yanina Bellini Saibene</li>
-  </ul>
-  <h3 id="finance-committee">Finance Committee</h3>
-  <ul>
-  <li>Michael Smith (Committee Chair)</li>
-  <li>John Chodacki</li>
-  <li>Masami Yamaguchi</li>
-  </ul>
-  <h3 id="communications-committee">Communications Committee</h3>
-  <ul>
-  <li>Masami Yamaguchi (Committee Chair)</li>
-  <li>Yanina Bellini Saibene</li>
-  <li>Omar Khan (Core Team member)</li>
-  </ul>
-  <h3 id="program-committee">Program Committee</h3>
-  <ul>
-  <li>Annajiat Alim Rasel</li>
-  <li>Aleksandra Nenadic (Committee Chair)</li>
-  <li>Sarah Stevens</li>
-  </ul>
+
+<p><i>Executive Council roles and committee service will be listed in February 2023.</i></p>
   
 <h2>Carpentries Bylaws and Policies</h2>
 
