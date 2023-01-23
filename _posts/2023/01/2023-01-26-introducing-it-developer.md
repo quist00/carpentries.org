@@ -13,7 +13,7 @@ We are pleased to welcome Eli Chadwick to The Carpentries Core Team! Eli joins t
 
 ----------------
 
-I studied Physics at the University of Birmingham in the UK. Over the course of my degree I learned how to program, culminating in a project [simulating observations of "tidal disruption events"](https://doi.org/10.1093/mnras/stz1970) – where stars are ripped apart by supermassive black holes at the centres of galaxies.
+I studied Physics at the University of Birmingham in the United Kingdom (UK). Over the course of my degree I learned how to program, culminating in a project [simulating observations of "tidal disruption events"](https://doi.org/10.1093/mnras/stz1970) – where stars are ripped apart by supermassive black holes at the centres of galaxies.
 
 Despite the appeal of cool-sounding astronomical events, I ultimately realised I didn't want to continue in a pure research career, but instead focus on software development for research applications. So upon my graduation in 2018, I joined the [Scientific Computing Department](https://www.scd.stfc.ac.uk/Pages/home.aspx) at the [Science and Technology Facilities Council](https://www.ukri.org/councils/stfc/) (STFC), a national laboratory in the UK. There, I worked on many projects, with the longest and most recent one focused on bringing the [Galaxy](https://galaxyproject.org) platform for FAIR data analysis to the materials science domain.
 
