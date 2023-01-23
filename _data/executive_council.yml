@@ -2,12 +2,17 @@ people:
 
 - person_name: Nisha Ghatak
   pic: nisha_ghatak.jpg
+  github: nishag90
   country: NZ
   active: true 
   term: 
     - {type: Appointed, start_year: 2023}
 
 - person_name: Jannetta Steyn
+  github: jsteyn
+  twitter: jannettas
+  mastodon: jannettas
+  linkedin: jannetta
   pic: jannetta_steyn.jpg
   country: GB
   active: true 
