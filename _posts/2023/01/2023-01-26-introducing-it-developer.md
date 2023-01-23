@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Eli Chadwick"]
+authors: ["Eli Chadwick", "Rob Davey"]
 teaser: "The Carpentries welcomes Eli Chadwick, Information Technology Developer"
 title: "Introducing The Carpentries Information Technology Developer, Eli Chadwick"
 date: 2023-01-26
