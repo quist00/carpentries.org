@@ -4,5 +4,7 @@ title: "Job Opportunities with The Carpentries"
 permalink: /jobs/
 ---
 
+## Communications Coordinator
+**_Priority Consideration Deadline: Thursday, 9 February midnight anytime on Earth_**
 
-There are no current job openings with The Carpentries.
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}{% link pages/communications-coordinator.md %}">Learn more about this position</a>
