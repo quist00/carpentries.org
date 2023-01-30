@@ -43,7 +43,7 @@ Set up your own workshop, or make sure you are subscribed to
 to hear about opportunities to teach the lesson.
 
 Some of the lesson Maintainers hosted [an Instructor Onboarding session][dc-image-instructor-onboarding]
-at CarpentryCon@Home 2022, which you can watch on [The Carpentries YouTube channel][carpentries-youtube].
+at CarpentryCon@Home 2022, which you can watch on [The Carpentries YouTube channel][carpentries-youtibe.
 
 
 ## Host a Data Carpentry: Image Processing Workshop
@@ -51,9 +51,10 @@ You can now [request a workshop][cow-request-form] teaching
 the _Image Processing with Python_ curriculum from The Carpentries,
 or [organise and host your own][sow-registration-form].
 We are expecting high demand for these workshops,
-and centrally-organised workshops (those administered by The Carpentries) 
+and Centrally-Organised workshops (those administered by The Carpentries) 
 will initially be limited in number while we assess 
-the Instructor community's capacity for teaching this new curriculum.
+the Instructor community's capacity for teaching this new curriculum. 
+The Workshop Administrator will work with every request on a case by case basis. 
 
 
 ## Curriculum Background and Acknowledgments
@@ -117,7 +118,6 @@ and how it evolves in the coming years.
 
 [call-for-beta-pilots]: https://carpentries.org/blog/2022/05/image-processing-beta-announcement/
 [call-for-contributors]: https://carpentries.topicbox.com/groups/discuss/Ta8ff359298db95c6-M390cec7393b29ed4b74bdda5/looking-for-contributors-maintainers-for-image-processing-with-python-lesson
-[carpentries-youtube]: https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA
 [cow-request-form]: https://amy.carpentries.org/forms/request_workshop/
 [dc-astro]: https://datacarpentry.org/astronomy-python/
 [dc-ecology]: https://datacarpentry.org/ecology-workshop/
