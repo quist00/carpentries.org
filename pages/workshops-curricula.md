@@ -4,9 +4,11 @@ title: "About The Carpentries Curricula"
 permalink: /workshops-curricula/
 ---
 
+* [Data Carpentry: Astronomy](#dc-astro)
 * [Data Carpentry: Ecology](#dc-ecology)
 * [Data Carpentry: Genomics](#dc-genomics)
 * [Data Carpentry: Geospatial](#dc-geospatial)
+* [Data Carpentry: Image Processing](#dc-image)
 * [Data Carpentry: Social Sciences](#dc-socialsci)
 * [Library Carpentry](#lc)
 * [Software Carpentry (All Workshops)](#swc-all)
@@ -16,6 +18,17 @@ permalink: /workshops-curricula/
 * [Software Carpentry (R for Reproducible Scientific Analysis)](#swc-repro-R)
 * [Community Developed Lessons](#community-lessons)
 
+
+## <a id="dc-astro"></a> Data Carpentry: Astronomy
+This [workshop][dc-astro] covers a range of core concepts necessary to
+efficiently study the ever-growing datasets developed in modern astronomy.
+In particular,
+this curriculum teaches learners to perform database operations (SQL queries, joins, filtering) and
+to create publication-quality data visualisations.
+The workshop uses two large astronomical datasets: data from the Gaia sattelite and the Pan-STARRS prohotmetric survey.
+Data Carpentry: Astronomy has more prerequisites than most of our workshops,
+requiring learners to have some familiarity with astronomical concepts
+and the Python programming language.
 
 ## <a id="dc-ecology"></a> Data Carpentry: Ecology
 This [workshop][dc-ecology] covers data organisation with spreadsheets, data cleaning with OpenRefine, and some data analysis and plotting (with your
@@ -38,6 +51,20 @@ introduction to essential geospatial concepts and a shortened version of our cor
 specialized geospatial packages in R. This workshop gets learners to a fairly advanced stage of creating geospatial plots (i.e. maps of
 data distributions), but does not cover data organisation or cleaning. For a more general workshop covering these topics, please check
 out our [Ecology](#dc-ecology) and [Social Sciences](#dc-socialsci) curricula.
+
+## <a id="dc-image"></a>Data Carpentry: Image Processing
+This [workshop][dc-image] teaches the concepts and skills needed to
+write automated processing pipelines for image data.
+Using examples from morphometrics, the curriculum covers
+the steps of a typical image processing workflow:
+loading images, masking, blurring and thresholding data,
+and ends with a capstone challenge to provide a chance for additional practice.
+The workshop uses a variety of example images that do not require any domain-specific knowledge.
+However, the curriculum does require learners to have gained some familiarity with
+the Python programming language,
+such as by attending a [Software Carpentry](#swc-all),
+[Data Carpentry: Ecology](#dc-ecology) or
+[Data Carpentry: Social Sciences](#dc-socialsci) workshop.
 
 ## <a id="dc-socialsci"></a>Data Carpentry: Social Sciences
 This [workshop][dc-socialsci] covers data organisation with spreadsheets, data cleaning with OpenRefine, and some data analysis and plotting with R. This
@@ -108,9 +135,11 @@ If you do learn or teach from any lesson under community development,
 please take the time to provide feedback on your experience to the authors.
 
 [community-lessons]: /community-lessons/
+[dc-astro]: https://datacarpentry.org/lessons/#astronomy-curriculum
 [dc-ecology]: https://datacarpentry.org/lessons/#ecology-workshop
 [dc-genomics]: https://datacarpentry.org/lessons/#genomics-workshop
 [dc-geospatial]: https://datacarpentry.org/lessons/#geospatial-curriculum
+[dc-image]: https://datacarpentry.org/lessons/#image-processing-curriculum
 [dc-socialsci]: https://datacarpentry.org/lessons/#social-science-curriculum
 [lc]: https://librarycarpentry.org/lessons/
 [swc-all]: https://software-carpentry.org/lessons/
