@@ -33,10 +33,6 @@ We would be happy to talk with you to learn more about your institution’s goal
 ### Do I need to renew my membership each year?
 Yes. The Carpentries memberships are annual memberships, extending for a period of one year. Renewing your membership in advance is a great way to avoid a lapse in membership. 
 
-### What if I don't use all of my membership benefits?
-We encourage you to use all of your benefits during your membership term. If there are unused benefits at the end of your membership term, and you 
-are renewing, we will roll over 50% of unused benefits (rounded up) to your new membership term, on request.  
-
 ### Is financial support available?
 Yes - organisations with financial need are encouraged to 
 [apply for financial support](https://carpentries.typeform.com/to/lZat2eO5). Financial support is available for Bronze, Silver, 
