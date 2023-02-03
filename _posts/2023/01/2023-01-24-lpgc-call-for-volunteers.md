@@ -8,6 +8,8 @@ time: "09:00:00"
 tags: ["Governance", "Community", "Data Carpentry", "Library Carpentry", "Software Carpentry"]
 ---
 
+_This post was updated on 3rd February 2023, extending the deadline for applications to [the end of Wednesday 15th February 2023 Anywhere on Earth][closing-date]._
+
 The Carpentries has three lesson programs, [Software Carpentry][swc], [Library Carpentry][lc], and [Data Carpentry][dc].
 In November, I published [a post][lpgc-planning-post] describing the governance structure of each lesson program, and outlining a plan to 
 introduce more community governance in the form of _Lesson Program Governance Committees (LPGCs)_. 
@@ -95,7 +97,7 @@ require a minimum of 3 hours every three months.
 
 ## How to Apply
 You can volunteer to join a Lesson Program Governance Committee by filling out [this short form][volunteer-application].
-The call for volunteers will close at [the end of Sunday 5th February 2023 Anywhere on Earth][closing-date]
+The call for volunteers will close at [the end of Wednesday 15th February 2023 Anywhere on Earth][closing-date]
 After this, volunteer applications will be reviewed by members of the Core Team and Executive Council, as well as other 
 volunteers from the community.
 (If you would like to volunteer to review applications, please [contact me!](mailto:tobyhodges@carpentries.org))
@@ -103,7 +105,7 @@ Onboarding will then take place in the first half of March 2023.
 
 [cac]: https://carpentries.org/curriculum-advisors/
 [cac-officers]: https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#roles-and-responsibilities
-[closing-date]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=LPGC+Call+for+Volunteers+2023+Closes&iso=20230205T2359&p1=3926
+[closing-date]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=LPGC+Call+for+Volunteers+2023+Closes&iso=20230215T2359&p1=3926
 [dc]: https://datacarpentry.org/
 [exco]: https://carpentries.org/governance/
 [lc]: https://librarycarpentry.org/
