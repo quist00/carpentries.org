@@ -3,7 +3,7 @@ layout: page
 authors: ["Alycia Crall"]
 teaser: "Updates on the Community Development Program"
 title: "Register your Carpentries Subcommunity"
-date: 2023-01-09
+date: 2023-02-09
 time: "00:00:00"
 tags: ["Community Development Program", "Community"]
 ---
