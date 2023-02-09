@@ -1,4 +1,3 @@
-
 ---
 layout: page
 authors: ["Alycia Crall"]
@@ -8,8 +7,6 @@ date: 2023-01-09
 time: "00:00:00"
 tags: ["Community Development Program", "Community"]
 ---
-
-
 
 The Community Development Program was launched in 2022 to support The Carpentries subcommunities. A subcommunity is a subset of the larger Carpentries community and can be local (e.g., University Carpentries Club), regional (e.g., Carpentries in Africa), domain-specific (e.g., HPC Carpentry), or a group of community members sharing a common language (e.g., Carpentries-es) or interests (e.g., Carpentries Offline). Communities of practice built around formal Carpentries roles (e.g., Instructors, Maintainers) are not included in this definition and are not considered subcommunities. The Community Development Program has been slowly taking action on addressing [fourteen recommendations that emerged from conversations with a number of leaders of Carpentries subcommunities throughout 2021 and 2022](https://carpentries.org/blog/2022/02/building-sustaining-community/). 
 
