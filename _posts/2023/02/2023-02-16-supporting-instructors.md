@@ -45,7 +45,7 @@ This will be a coordinated, collaborative effort: discussion sessions and skill-
 
 The drive will take place after The Carpentries Workbench has been rolled out across all of our lessons, allowing us to take advantage of the new inline Instructor Notes feature it introduces to lesson websites. One of the main goals of the Drive will be to relocate existing Instructor Notes to the place where they are most relevant within the lesson.
 
-## Instructor community meetings
+## Instructor monthly meetings
 The Workshop Administration Team has begun hosting monthly Instructor Meetings, every 2nd Tuesday of the month at 3pm UTC and 9pm UTC. These meetings will be for Certified Instructors to get to know and support each other, share and receive updates and tips, and for us to receive feedback from all of you!
 
 Instructors are encouraged to sign up on [the etherpad](https://pad.carpentries.org/InstructorMeetings) and obtain the meeting information. Feel free to [contact the Workshop Administration Team](mailto: workshops@carpentries.org) with any questions or concerns. 
