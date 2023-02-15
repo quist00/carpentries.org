@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Toby Hodges", "SherAaron Hurt", Zhian Kamvar"]
+authors: ["Toby Hodges", "SherAaron Hurt", "Zhian Kamvar"]
 teaser: "Read about our plans to improve Instructor onboarding and make it easier to teach our curricula."
 title: "Developing Support for Instructors in 2023"
 date: 2023-02-16
@@ -23,7 +23,7 @@ As you may have read in [other posts to this blog](https://carpentries.org/posts
 One big improvement that the Workbench will provide to Instructors is the addition of **an Instructor View** of the lesson. In this mode, Instructors will be presented with information hidden in the default Learner View, such as estimated timings for episodes and inline Instructor Notes.
 
 ![The Instructor View can be toggled from a dropdown menu at the top of any page of a lesson]({{ site.urlimg 
-}}/blog/2023/02/isntructor-view.png)
+}}/blog/2023/02/instructor-view.png)
 
 Providing guidance and advice for Instructors teaching the lesson, these Instructor Notes were previously located in a single page listed under "Extras". The Workbench allows the Instructor Notes to be placed where they will be most relevant and useful in the lesson, presenting them to the Instructor while they are teaching.
 
