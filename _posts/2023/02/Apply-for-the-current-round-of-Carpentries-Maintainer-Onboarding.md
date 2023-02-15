@@ -10,7 +10,7 @@ tags: ["Community", "Maintainers"]
 
 The Carpentries is preparing to onboard the next round of Maintainers.
 [Currently](https://github.com/carpentries/maintainer-RFCs/issues/11) we have 109 Maintainers serving across 56 core lessons. To keep the community 
-healthy, we need to plan for people wanting to step down from their current positions and finding new people to step into the role.
+healthy, we need to plan for offboarding people who want to step down from their current positions and finding new people to step into the role.
 
 You do not need to be a Git expert to be a Maintainer. If you are familiar with the Git lessons from either 
 [Library Carpentry](https://librarycarpentry.org/lc-git/) or [Software Carpentry](https://swcarpentry.github.io/git-novice/), 
