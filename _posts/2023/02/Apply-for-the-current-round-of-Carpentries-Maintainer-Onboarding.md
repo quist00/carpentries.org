@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Vini Salazar", "Erin Becker"]
-teaser: "The Carpentries is preparing to onboard the next round of Maintainers. Applications due March 1st"
+teaser: "The Carpentries is preparing to onboard the next cohort of Maintainers. Applications due March 1st."
 title: "Apply for the current round of Carpentries Maintainer Onboarding!"
 date: 2023-02-15
 time: "00:00:00"
