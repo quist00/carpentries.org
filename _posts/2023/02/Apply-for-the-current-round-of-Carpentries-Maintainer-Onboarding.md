@@ -8,7 +8,7 @@ time: "00:00:00"
 tags: ["Community", "Maintainers"]
 ---
 
-The Carpentries is preparing to onboard the next round of Maintainers.
+The Carpentries is preparing to onboard the next cohort of Maintainers.
 [Currently](https://github.com/carpentries/maintainer-RFCs/issues/11) we have 109 Maintainers serving across 56 core lessons. To keep the community 
 healthy, we need to plan for offboarding people who want to step down from their current positions and finding new people to step into the role.
 
