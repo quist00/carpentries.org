@@ -22,6 +22,9 @@ As you may have read in [other posts to this blog](https://carpentries.org/posts
 
 One big improvement that the Workbench will provide to Instructors is the addition of **an Instructor View** of the lesson. In this mode, Instructors will be presented with information hidden in the default Learner View, such as estimated timings for episodes and inline Instructor Notes.
 
+![The Instructor View can be toggled from a dropdown menu at the top of any page of a lesson]({{ site.urlimg 
+}}/blog/2023/02/isntructor-view.png)
+
 Providing guidance and advice for Instructors teaching the lesson, these Instructor Notes were previously located in a single page listed under "Extras". The Workbench allows the Instructor Notes to be placed where they will be most relevant and useful in the lesson, presenting them to the Instructor while they are teaching.
 
 The Workbench is currently being [beta tested](https://carpentries.github.io/workbench/beta-phase.html) on four lesson sites. If you are planning to teach any of these lessons in the next few weeks, please **try out the Workbench version of the site and [give feedback](https://carpentries.typeform.com/to/KRBl4IZM)** on what worked and what could be improved.
