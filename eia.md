@@ -1,9 +1,7 @@
-
 ---
 layout: page-fullwidth
 title: "Equity, Inclusion, and Accessibility"
 permalink: /eia/
-
 ---
 
 ## Accessibility Statement 
