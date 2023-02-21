@@ -1,4 +1,3 @@
-```
 ---
 layout: page
 authors: ["Alycia Crall"]
