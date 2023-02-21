@@ -7,8 +7,6 @@ date: 2023-02-23
 time: "00:00:00"
 tags: ["CarpentryCon", "Accessibility"]
 ---
-```
-
 
 CarpentryCon, The Carpentries’ conference, was initiated as a biannual event to offer professional development and networking opportunities for our community members. The first in-person event occurred in Dublin, Ireland in 2018 and the next one, planned for Madison, Wisconsin in 2020, was transitioned to a virtual space in response to the pandemic. The most recent CarpentryCon was also held online and occurred from 1-12 August 2022. Over the years, we have learned a lot about the ways in which virtual and hybrid events significantly increase accessibility and how we can best support the community through our event offerings.     
 
