@@ -17,7 +17,7 @@ Most recently, we collected feedback by distributing a survey to CarpentryCon 20
 
 The first recommendation stated that we need “to fully assess the capacity of the community and Core Team to support an event. Doing this will help identify the appropriate scope that builds in contingencies to adjust the event size, considering community engagement and availability of Core Team members.”
 
-Over the past few months, members of the Core Team have been discussing community needs, priorities, and our organisation’s capacity to support an international event in 2024. It had been announced at the end of CarpentryCon 2022 that the next conference would be in South Africa in 2024. However, following our assessment,** we have made the decision to host the next CarpentryCon in South Africa as a hybrid event in 2025 instead of 2024. **The remainder of this post outlines how we plan to support the community during this year-long hiatus from CarpentryCon planning.** **
+Over the past few months, members of the Core Team have been discussing community needs, priorities, and our organisation’s capacity to support an international event in 2024. It had been announced at the end of CarpentryCon 2022 that the next conference would be in South Africa in 2024. However, following our assessment,** we have made the decision to host the next CarpentryCon in South Africa as a hybrid event in 2025 instead of 2024. **The remainder of this post outlines how we plan to support the community during this year-long hiatus from CarpentryCon planning.**
 
 
 ## Increase professional development offerings
