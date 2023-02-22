@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Caroline Fadeke Ajilogba", "Serah Njambi Rono"]
+authors: ["Caroline Fadeke Ajilogba", "Serah Njambi Kiburu"]
 teaser: "New information about upcoming Discussion Host onboarding sessions for anyone interested in facilitating community calls and themed discussions in The Carpentries."
 title: "Attend an Onboarding Session to Become a Carpentries Discussion Host"
 date: 2021-05-20

@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono", "Toby Hodges"]
+authors: ["Serah Njambi Kiburu", "Toby Hodges"]
 teaser: "This post provides a summary of discussions and takeaways from the Community Sustainability session that Serah Njambi Kiburu and Toby Hodges facilitated at the March 2021 SORSE workshop"
 title: "Pondering on the Question of Community Sustainability"
 date: 2021-04-01

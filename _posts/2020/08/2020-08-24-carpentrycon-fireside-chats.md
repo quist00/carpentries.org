@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: " Here is a set of questions we hope to discuss on Wednesday, 26 August 2020 at 21h00 UTC and Thursday, 27 August 2020 at 15h00 UTC. Join us!"
 title: "What Will Constitute CarpentryCon @ Home Fireside Chat Discussions?" 
 date: 2020-08-24

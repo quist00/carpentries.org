@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Erin Becker", "Serah Njambi Rono", "The Carpentries Team"]
+authors: ["Erin Becker", "Serah Njambi Kiburu", "The Carpentries Team"]
 teaser: "Here's what The Carpentries team accomplished in Q2 and Q3 2019, and a look into work that will continue in Q4 2019."
 title: "Q3 and Q4 Project Work at The Carpentries"
 date: 2019-09-25

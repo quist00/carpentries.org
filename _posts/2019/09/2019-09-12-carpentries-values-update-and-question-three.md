@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "Find out more about The Carpentries values project. Answer three questions and help us articulate our community values"
 title: "Carpentries Values Project - An Update and Call for Input"
 date: 2019-09-12

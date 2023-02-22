@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono", "The Carpentries Team"]
+authors: ["Serah Njambi Kiburu", "The Carpentries Team"]
 teaser: "Here's what The Carpentries team is working on in the second quarter of 2019."
 title: "Q2 Project Work at The Carpentries"
 date: 2019-05-27

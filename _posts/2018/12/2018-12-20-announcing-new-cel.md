@@ -1,14 +1,14 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono", "Erin Becker"]
-teaser: "Please join us in welcoming Serah Njambi Rono!"
+authors: ["Serah Njambi Kiburu", "Erin Becker"]
+teaser: "Please join us in welcoming Serah Njambi Kiburu!"
 title: "Welcoming the New Community Engagement Lead"
 date: 2018-12-20
 time: "09:00:00"
 tags: ["Carpentries Team"]
 ---
 
-We are thrilled to announce that Serah Njambi Rono will be joining The Carpentries as Community Engagement Lead, starting 11 January 2019.
+We are thrilled to announce that Serah Njambi Kiburu will be joining The Carpentries as Community Engagement Lead, starting 11 January 2019.
 
 Serah has over five years experience as an open data and open source
 advocate, and brings with her a wealth of experience in community building and coordination, in developing and implementing curricula

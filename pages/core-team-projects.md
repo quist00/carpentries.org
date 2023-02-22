@@ -348,7 +348,7 @@ In Q3 of 2021, The Community Development team supported [CarpentryConnect South 
 <strong>April - June (Q2) 2021</strong>
 </summary>
 
-Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Rono · Toby Hodges
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Kiburu · Toby Hodges
 
 In Q2 2021,
 - Kelly completed work on, and released the Internal Instructor Training Report for the attention of The Carpentries Core Team and Executive Council,
@@ -375,7 +375,7 @@ In Q2 2021,
 <strong>January - March (Q1) 2021</strong>
 </summary>
 
-Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Rono · Toby Hodges
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Kiburu · Toby Hodges
 
 In Q1 2021,
 - Led by Angelique Trusler, planning work around CarpentryConnect South Africa began. CarpentryConnects are local and regional community events, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking. CarpentryConnect South Africa [is funded by Code for Science and Society’s Event Fund](https://eventfund.codeforscience.org/announcing/).

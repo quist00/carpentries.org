@@ -13,7 +13,7 @@ On March 17, The Carpentries convened a [Task Force](https://github.com/carpentr
 Task force members:
 * Angelique Trusler (Task Force Lead)
 * SherAaron Hurt (Workshop Administration Team Lead)
-* Serah Njambi Rono (Community Development Team Lead)
+* Serah Njambi Kiburu (Community Development Team Lead)
 * Karen Word (Instructor Training Team Lead)
 * Juan Steyn (Executive Council Liaison)
 * Elizabeth Wickes (Secondary Executive Council Liaison)

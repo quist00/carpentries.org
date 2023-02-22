@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "We are pleased to share a resource designed to guide community members as they organise local and regional Carpentries events, whether online or in-person."
 title: "Introducing The CarpentryConnect Planning Kit"
 date: 2020-04-06

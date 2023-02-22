@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "Call for applications to join our 2020 cohort of Carpentries Feedback Facilitators is now open."
 title: "Apply to Become a Carpentries Feedback Facilitator"
 date: 2020-09-16

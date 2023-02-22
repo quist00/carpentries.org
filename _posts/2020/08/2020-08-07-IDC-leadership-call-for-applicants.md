@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "Applications are now open to join the 2020-2021 cohort of leadership for the Instructor Development Committee"
 title: "2020 - 2021 IDC Leadership Call for Applications"
 date: 2020-08-07

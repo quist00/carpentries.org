@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "We have now selected and onboarded our first cohort of community facilitators, focussing on feedback facilitation. Read about them in this post."
 title: "Meet The Carpentries Feedback Facilitators"
 date: 2020-11-30

@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "We request your input in Carpentries Conversation 27 to help guide resource translation priorities and efforts by our community."
 title: "Help Inform Translation Priorities for Carpentries Resources"
 date: 2021-01-28

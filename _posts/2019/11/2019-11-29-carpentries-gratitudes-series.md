@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "We are taking time throughout December 2019 to reflect, write and share our community green stickies for the year"
 title: "Introducing The Carpentries Gratitudes Series"
 date: 2019-11-29

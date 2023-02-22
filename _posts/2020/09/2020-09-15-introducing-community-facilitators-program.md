@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "Read on and find out how to collaborate with us to develop resources under this program"
 title: "Introducing The Carpentries Community Facilitators Program"
 date: 2020-09-15
