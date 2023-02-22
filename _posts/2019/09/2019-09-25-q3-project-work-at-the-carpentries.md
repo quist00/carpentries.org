@@ -45,7 +45,7 @@ In Q2, we assembled a [Sponsorship Model Task Force](https://carpentries.org/blo
 
 ## Community Development Team
 
-Kari L. Jordan · Serah Rono
+Kari L. Jordan · Serah Njambi Kiburu
 
 ### Work outside the CoCc Mandate
 This quarter, we [assembled a task force](https://carpentries.org/blog/2019/07/incidents-outside-cocc-mandate/) to develop recommendations to the Executive Council for developing support structures and guidelines for incidents that happen outside the mandate of The Carpentries Code of Conduct committee. The task force [gathered feedback from our community](https://carpentries.org/blog/2019/08/collecting-incidents-community/) and released a [public report of their discussions and recommendations](https://carpentries.org/blog/2019/09/cocc-taskforce-summary-recommendations/). In Q4, staff and the Executive Council will work together in deciding follow-up actions on these recommendations.

@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Serah Njambi Rono", "Omar Khan", "Kari L. Jordan"]
-teaser: "Serah Rono is moving on from The Carpentries"
+teaser: "Serah Njambi Kiburu is moving on from The Carpentries"
 title: "Director of Community Development and Engagement Transition"
 date: 2021-06-17
 time: "00:00:00"

@@ -35,7 +35,7 @@ In their own words, here’s what each team was up to in Q1 2019, and how that w
 
 ## Community Development Team
 
-Kari L. Jordan · Serah Rono
+Kari L. Jordan · Serah Njambi Kiburu
 
 In the first quarter of 2019, we assessed all of The Carpentries communications channels, requested for input from the broader Carpentries community,  and developed a communications strategy to help define [how and why we communicate as a team at The Carpentries](https://carpentries.org/blog/2019/04/how-and-why-we-communicate/). The strategy includes measures to create awareness about the work that we do, encourage participation and collaboration, and empower and edify our community. But we are also convinced that a strategy is not sufficient in and of itself. Implementation is an important subsequent step.
 
@@ -49,9 +49,9 @@ While implementing the strategy is a continuous task that we hope to carve out i
  <ol style="list-style-type: lower-roman;">
   <li>we hosted Community Discussions on 21-22 May (<a href ="https://youtu.be/npJcMKUKVwc">view recording</a>) and learnt so much from you on paths to consider <a href = "https://carpentries.org/blog/2019/05/equity-inclusion-accessibility-roadmap/">as we work on our Equity, Inclusion, and Accessibility Roadmap</a>. </li>
 
-  <li>From our monthly Carpentries Instructors in Africa call, community members were really drawn to Bianca’s and Katrin’s creative ideas for teaching R workshops, and they agreed to collaborate on this informative blog post - <a href="https://carpentries.org/blog/2019/05/R-tips-and-tricks/">Tips and Tricks for Teaching R</a>. We are keen to receive more posts by the community for The Carpentries blog, and anyone interested in submitting a draft can <a href="https://forms.gle/dssvVNMqPrTQ3Ljs9">fill out this form</a> or <a href ="mailto:serah@carpentries.org">send it to Serah Rono</a> directly.</li>
+  <li>From our monthly Carpentries Instructors in Africa call, community members were really drawn to Bianca’s and Katrin’s creative ideas for teaching R workshops, and they agreed to collaborate on this informative blog post - <a href="https://carpentries.org/blog/2019/05/R-tips-and-tricks/">Tips and Tricks for Teaching R</a>. We are keen to receive more posts by the community for The Carpentries blog, and anyone interested in submitting a draft can <a href="https://forms.gle/dssvVNMqPrTQ3Ljs9">fill out this form</a> or <a href ="mailto:serah@carpentries.org">send it to Serah Njambi Kiburu</a> directly.</li>
 
-  <li>we were at <a href ="https://csvconf.com">CSV Conference</a> in early May 2019 and met lots of researchers, librarians and technologists there, some of whom will be facilitating our themed community discussions, also known as Carpentries Conversations, in the coming months. Look out for that. We’re also very excited to be attending <a href ="https://www.software.ac.uk/programmes-and-events/carpentryconnect">CarpentryConnect in Manchester</a> in June 2019, and Serah Rono will co-chair the Open Source communities track at <a href ="https://www.scipy2019.scipy.org">SciPy 2019</a> in Austin, Texas in July 2019. We look forward to meeting some of our community in person at these events!</li>
+  <li>we were at <a href ="https://csvconf.com">CSV Conference</a> in early May 2019 and met lots of researchers, librarians and technologists there, some of whom will be facilitating our themed community discussions, also known as Carpentries Conversations, in the coming months. Look out for that. We’re also very excited to be attending <a href ="https://www.software.ac.uk/programmes-and-events/carpentryconnect">CarpentryConnect in Manchester</a> in June 2019, and Serah Njambi Kiburu will co-chair the Open Source communities track at <a href ="https://www.scipy2019.scipy.org">SciPy 2019</a> in Austin, Texas in July 2019. We look forward to meeting some of our community in person at these events!</li>
  </ol>
 </ol>
 

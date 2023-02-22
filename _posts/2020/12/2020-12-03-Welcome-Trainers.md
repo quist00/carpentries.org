@@ -27,7 +27,7 @@ Our new Trainers are:
 - **Zhian Kamvar** (The Carpentries, USA)
 - **Jordan Pedersen** (University of Toronto, Canada)
 - **Adam Richie-Halford** (University of Washington eScience Institute, USA)
-- **Serah Rono**	(The Carpentries, Estonia)
+- **Serah Njambi Kiburu**	(The Carpentries, Estonia)
 
 Many thanks to these participants not only for their insightful contributions and leadership in our discussion meetings, but also for their feedback supporting the continued development of this training.
 Our [curriculum](https://carpentries.github.io/trainer-training/) for this program is freely available and can be taught by anyone. However, only trainees selected to participate in Carpentries Trainer Training events are eligible for badging as Instructor Trainers.

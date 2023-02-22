@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Executive Council"]
-teaser: "A summary of the two community conversations with the Carpentries Executive Council in February 2021, facilitated by Serah Rono and Dr. Kari L. Jordan"
+teaser: "A summary of the two community conversations with the Carpentries Executive Council in February 2021, facilitated by Serah Njambi Kiburu and Dr. Kari L. Jordan"
 title: "Carpentries Community Conversation with the Executive Council "
 date: 2021-06-10
 time: "00:00:00"

@@ -69,7 +69,7 @@ I have been following the Carpentries since the start of my role as Training Imp
 
 I joined The Carpentries with a desire to learn and pass on knowledge to the young researchers in East Africa, specifically in and around Makerere University, where I see some skills faps in relation to data in their research fields. I am so passionate about community events hosting but most importantly ensuring that quality and guided learning in research is ensured. This program will help me understand The Carpentries community more in-depth.
 
-A big thank you to Preethy Nair for her active participation and feedback during the onboarding process, and to Kari Jordan,  Lou Woodley and Camille Santistevan from the CSCCE for working with me (Serah Rono) to write the Feedback Facilitation module of the Carpentries Community Facilitators program and onboard this first cohort.
+A big thank you to Preethy Nair for her active participation and feedback during the onboarding process, and to Kari Jordan,  Lou Woodley and Camille Santistevan from the CSCCE for working with me (Serah Njambi Kiburu) to write the Feedback Facilitation module of the Carpentries Community Facilitators program and onboard this first cohort.
 
 ### Questions?
 Look out for updates and invitations to collaborate from our Feedback Facilitators in the coming months. In the meantime, [please reach out via email](mailto:serah@carpentries.org?subject=Interest%20in%20co-creating%20Community%20Facilitators%20Program%20resources) if you have any questions or ideas about the new Community Facilitators Program, or if you are keen to be involved in the six remainng modules of the program in the coming months.
