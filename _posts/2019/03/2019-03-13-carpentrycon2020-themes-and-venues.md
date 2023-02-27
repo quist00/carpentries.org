@@ -50,7 +50,7 @@ Have you got more questions that I didn't address here? Join us at the themed Co
 
 ### Update on the TaskForce
 
-Our [new TaskForce members](https://github.com/carpentries/carpentrycon) have assumed their roles of area chairs. Sher! will keep working with us as The Carpentries Liaison, and we are happy to welcome Serah Rono, the Community Engagement Lead, as a liaison as well. Fotis and I have taken our new supporting positions as coordinators/advisors with Mark Laufersweiler. You can see the complete CarpentryCon roles on [this GitHub repo](https://github.com/carpentries/carpentrycon/blob/master/roles_and_responsibilities.md) and the minutes from our meetings on [this etherpad](https://pad.carpentries.org/2020carpentrycontaskforce).
+Our [new TaskForce members](https://github.com/carpentries/carpentrycon) have assumed their roles of area chairs. Sher! will keep working with us as The Carpentries Liaison, and we are happy to welcome Serah Njambi Kiburu, the Community Engagement Lead, as a liaison as well. Fotis and I have taken our new supporting positions as coordinators/advisors with Mark Laufersweiler. You can see the complete CarpentryCon roles on [this GitHub repo](https://github.com/carpentries/carpentrycon/blob/master/roles_and_responsibilities.md) and the minutes from our meetings on [this etherpad](https://pad.carpentries.org/2020carpentrycontaskforce).
 
 We look forward to hearing your ideas for CarpentryCon 2020!
 

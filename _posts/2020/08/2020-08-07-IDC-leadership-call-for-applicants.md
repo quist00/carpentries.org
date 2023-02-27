@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "Applications are now open to join the 2020-2021 cohort of leadership for the Instructor Development Committee"
 title: "2020 - 2021 IDC Leadership Call for Applications"
 date: 2020-08-07
@@ -41,7 +41,7 @@ Here is an outline of what to expect when serving as an IDC leader:
 - Host one of the two monthly Instructor Development Committee meetings. We estimate that each meeting will last for 45 minutes to an hour.
 - Spend an average of two hours/week working on IDC projects and communications.
 - When possible, help host or co-host [community discussions](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Each discussion session lasts an hour.
-- Communicate challenges and opportunities with The Carpentries Core Team liaison to the Instructor Development Committee, Serah Rono.
+- Communicate challenges and opportunities with The Carpentries Core Team liaison to the Instructor Development Committee, Serah Njambi Kiburu.
 
 #### Learn More
 To understand more about the IDC Leadership program, its history, and other community members' experiences in serving in this role, here are a few more resources for you to look at:

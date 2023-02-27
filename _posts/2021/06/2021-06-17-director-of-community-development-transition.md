@@ -1,7 +1,7 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono", "Omar Khan", "Kari L. Jordan"]
-teaser: "Serah Rono is moving on from The Carpentries"
+authors: ["Serah Njambi Kiburu", "Omar Khan", "Kari L. Jordan"]
+teaser: "Serah Njambi Kiburu is moving on from The Carpentries"
 title: "Director of Community Development and Engagement Transition"
 date: 2021-06-17
 time: "00:00:00"
@@ -10,13 +10,13 @@ tags: ["Community", "Carpentries Team"]
 
 ## Announcement from The Carpentries
 
-We are writing to share the news that The Carpentries Director of Community Development and Engagement and [Community Development Team lead](https://carpentries.org/core-team-projects/#community-development-team), Serah Njambi Rono, is departing her position to pursue new opportunities. Her final working day at The Carpentries will be July 30. Erin Becker, the Associate Director of The Carpentries, will lead the Community Development team while we search for Serah’s successor.
+We are writing to share the news that The Carpentries Director of Community Development and Engagement and [Community Development Team lead](https://carpentries.org/core-team-projects/#community-development-team), Serah Njambi Kiburu, is departing her position to pursue new opportunities. Her final working day at The Carpentries will be July 30. Erin Becker, the Associate Director of The Carpentries, will lead the Community Development team while we search for Serah’s successor.
 
 “Serah is truly a thought leader in open science, and one of the most caring and compassionate advocates I have ever met. One of the many things I learned in my time working with Serah is the value of feedback, and creating space for **all the voices to be heard**,” says Kari L. Jordan, Executive Director of The Carpentries, ”Several programs that are core to our mission were developed by Serah during her time with The Carpentries. Her legacy is sound, and the organisation is better because of her contributions. We will miss you Serah!”
 
 In her time with The Carpentries, Serah has been an invaluable member of the team, helping guide the communications and community efforts of The Carpentries effectively and smoothly. While Serah’s accomplishments at The Carpentries are innumerable, we would like to specifically thank her for her tireless work on the CarpentryConnect Kit, Community Facilitators Program, Instructor Development Committee, and the virtual CarpentryCon @ Home.
 
-## Message from Serah Njambi Rono
+## Message from Serah Njambi Kiburu
 
 Dear Carpentries community, it has been thirty (30) months since I joined The Carpentries, and what an incredible time I have had collaborating with many of you to create, grow and support different initiatives in The Carpentries!
 

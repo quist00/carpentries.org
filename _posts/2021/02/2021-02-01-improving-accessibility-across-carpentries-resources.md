@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "We are keen to improve accessibility across our interactions and resources in The Carpentries, and invite you to help."
 title: "Improving Accessibility in The Carpentries"
 date: 2021-02-01

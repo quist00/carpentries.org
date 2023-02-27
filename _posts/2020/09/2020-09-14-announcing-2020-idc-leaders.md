@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "Our Instructor Development Committee has a strong team of seven to lead its activities over the next year"
 title: "Meet our 2020-2021 Cohort of Instructor Development Committee Leaders"
 date: 2020-09-14

@@ -11,6 +11,7 @@ tags: ["Curriculum", "Instructors", "Workbench"]
 In this post, we outline some of the activities the Core Team has planned to make the lives of Instructors easier in 2023.
 
 ## Developing Instructor onboarding materials
+
 The Workshop Administration Team is working with the Instructor Training Team and the Community Development Team to develop a **general Instructor Onboarding**. These onboarding events are intended to help prepare Instructors to teach their first workshops. During Instructor Training there is a plethora of information being shared and after certification the Instructors may still have questions directly related to workshop logistics. Updates to the development and launch of the Instructor Onboarding will become available as progress is made. 
 
 In addition to the general training and onboarding provided to Instructors, curriculum-specific onboarding content already exists for several Data Carpentry curricula, available as [videos on The Carpentries YouTube channel](https://www.youtube.com/playlist?list=PLXLapl_LKb4e73Vf2e3rS2q2TDJ7oh_DX). Curriculum onboarding is intended to provide Instructors with an overview of the lesson(s) to be taught at a workshop, and provide guidance about the required knowledge, skills, and technical setup required to teach the curriculum. 

@@ -83,7 +83,7 @@ and a group of volunteers who will facilitate Study Group discussions:
 * Kate Hertweck
 * Mateusz Kuzak
 * Aleksandra Nenadic
-* Serah Njambi Rono
+* Serah Njambi Kiburu
 * Sarah Stevens
 * Yuka Takemon
 

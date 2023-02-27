@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "Join The Carpentries Team in informal chat sessions at rstudio::global(2021)'s 24-hour conference on January 21 2021"
 title: "The Carpentries at rstudio::global(2021)"
 date: 2021-01-20

@@ -39,7 +39,7 @@ Several factors can influence acceptance, and these are good to know about befor
 
 ### Purchased vs. Sponsored Seats
 
-We have 2 main tiers for admission to this program. Like Instructor Training, we offer seats for purchase through 
+We have 2 main pathways for admission to this program. Like Instructor Training, we offer seats for purchase through 
 [Membership](https://carpentries.org/membership/) as well as Carpentries-sponsored admission with no cost 
 to trainees (beyond a textbook that must be purchased or borrowed from a library). 
 Unlike Instructor Training, **all applicants are subject to review and must be approved** by our panel of current Trainers, 

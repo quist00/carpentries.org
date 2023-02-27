@@ -28,7 +28,7 @@ ecosystem. They will work closely with the new
 who will develop infrastructure and processes to support hosting, curation, and discoverability of community-developed lessons.
 
 ## Communications Manager
-We are also hiring a [Communications Manager](https://carpentries.org/communications-manager/) to work closely with Serah Njambi Rono,
+We are also hiring a [Communications Manager](https://carpentries.org/communications-manager/) to work closely with Serah Njambi Kiburu,
 our Community Engagement Lead, to develop and execute the day-to-day internal and external communications workflows necessary to keep
 our community informed and engaged.
 
