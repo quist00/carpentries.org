@@ -348,13 +348,13 @@ In Q3 of 2021, The Community Development team supported [CarpentryConnect South 
 <strong>April - June (Q2) 2021</strong>
 </summary>
 
-Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Rono · Toby Hodges
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Kiburu · Toby Hodges
 
 In Q2 2021,
 - Kelly completed work on, and released the Internal Instructor Training Report for the attention of The Carpentries Core Team and Executive Council,
 - Omar worked on the [Financial and Annual Reports](https://carpentries.org/reports/) for the year 2020 in collaboration with the Business Team and the Executive Team,
 - Angelique continued to prepare for CarpentryConnect South Africa 2021, focussing on organising committee coordination, volunteer recruitment, developing outreach material, and managing the event budget,
-- Serah Rono developed the [CarpentryConnect ZA 2021 website](https://za2021.carpentryconnect.org) in an iterative process that incorporated feedback from the organising committee,
+- Serah Njambi Kiburu developed the [CarpentryConnect ZA 2021 website](https://za2021.carpentryconnect.org) in an iterative process that incorporated feedback from the organising committee,
 - Kelly designed and facilitated three skill-up sessions on the Community Development Team about Universal Design,
 - Omar developed a workflow to guide the Carpentries Core Team in delivering urgent communications,
 - Angelique continued to steer Instructor Training and instructor checkout efforts in South Africa by hosting two trainings in Q2 2021,
@@ -375,7 +375,7 @@ In Q2 2021,
 <strong>January - March (Q1) 2021</strong>
 </summary>
 
-Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Rono · Toby Hodges
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Kiburu · Toby Hodges
 
 In Q1 2021,
 - Led by Angelique Trusler, planning work around CarpentryConnect South Africa began. CarpentryConnects are local and regional community events, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking. CarpentryConnect South Africa [is funded by Code for Science and Society’s Event Fund](https://eventfund.codeforscience.org/announcing/).
@@ -399,7 +399,7 @@ In Q1 2021,
 <strong>October - December (Q4) 2020</strong>
 </summary>
 
-Angelique Trusler · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+Angelique Trusler · Kelly Barnes · Omar Khan · Serah Njambi Kiburu · Toby Hodges
 
 In Q4, the Community Development Team
 - worked with Toby Hodges and Zhian Kamvar to prepare [a video presentation aimed at introducing SORSE community members to The Carpentries](https://youtu.be/ANxr38dx9rw).
@@ -416,7 +416,7 @@ In Q4, the Community Development Team
 <strong>July - September (Q3) 2020</strong>
 </summary>
 
-Angelique Trusler · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Rono · Toby Hodges
+Angelique Trusler · Kari L. Jordan · Kelly Barnes · Omar Khan · Serah Njambi Kiburu · Toby Hodges
 
 In Q3, the Community Development Team
 - continued to **support the online workshops pilot project** by (i)soliciting for feedback about instructor and learner experiences in online workshops, (ii)drafting, editing and publishing community posts on the subject of online workshops and [collating these community contributions in The Carpentries Handbook for ease of access](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html), and (iii)presenting prominently occurring questions and tips for addition to our formal Carpentries recommendations around running online workshops. We also spent time engaging our community [on the question of accessibility of Carpentries resources and tools to community members in different settings around the world](https://github.com/carpentries/conversations/issues/26).
@@ -469,7 +469,7 @@ We worked with Sher! Hurt and the [CarpentryCon @ Home Task Force](https://2020.
 
 #### Developing a CarpentryConnect Planning Kit
 
-Serah Rono
+Serah Njambi Kiburu
 
 CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration and networking. In Q1 2020, we prioritised the development of the [CarpentryConnect Planning Kit](http://carpentryconnect.org), a resource designed to guide community members as they organise local and regional Carpentries events, whether online or in-person. [This blog post](https://carpentries.org/blog/2020/04/carpentryconnect-planning-kit/) provides context for the work we did, and summarises ways community members can contribute to the resource.
 
@@ -481,7 +481,7 @@ In Q1 2020, we assessed the communications platforms that were available to the 
 
 #### Hiring and Onboarding New Communications Manager
 
-Kari L. Jordan · Omar Khan · Serah Rono
+Kari L. Jordan · Omar Khan · Serah Njambi Kiburu
 
 In mid-March 2020, Omar Khan joined The Carpentries as communications manager. Read more about him and what his role in The Carpentries will entail [here](https://carpentries.org/blog/2020/03/carpentries-communications-manager/).
 
@@ -491,7 +491,7 @@ In mid-March 2020, Omar Khan joined The Carpentries as communications manager. R
 <summary>
 <strong>October - December (Q4) 2019</strong>
 </summary>
-Serah Rono · Kari L. Jordan · Tracy Teal
+Serah Njambi Kiburu · Kari L. Jordan · Tracy Teal
 
 #### The Carpentries Tagathon
 
@@ -515,7 +515,7 @@ Shared values and goals have long been the starting point of communities of prac
 <summary>
 <strong>July - September (Q3) 2019</strong>
 </summary>
-Serah Rono · Kari L. Jordan · Tracy Teal
+Serah Njambi Kiburu · Kari L. Jordan · Tracy Teal
 
 #### Communications Strategy and Implementation Plan
 
@@ -531,7 +531,7 @@ As our community coalesces into a shared identity as “The Carpentries”, defi
 <summary>
 <strong>April - June (Q2) 2019</strong>
 </summary>
-Serah Rono · Kari L. Jordan · Tracy Teal
+Serah Njambi Kiburu · Kari L. Jordan · Tracy Teal
 
   In the first quarter of 2019, we assessed all of The Carpentries communications channels, requested for input from the broader Carpentries community,  and developed a communications strategy to help define [how and why we communicate as a team at The Carpentries](https://carpentries.org/blog/2019/04/how-and-why-we-communicate/). The strategy includes measures to create awareness about the work that we do, encourage participation and collaboration, and empower and edify our community. But we are also convinced that a strategy is not sufficient in and of itself. Implementation is an important subsequent step.
 
@@ -545,9 +545,9 @@ Serah Rono · Kari L. Jordan · Tracy Teal
    <ol style="list-style-type: lower-roman;">
     <li>we hosted Community Discussions on 21-22 May (<a href ="https://youtu.be/npJcMKUKVwc">view recording</a>) and learnt so much from you on paths to consider <a href = "https://carpentries.org/blog/2019/05/equity-inclusion-accessibility-roadmap/">as we work on our Equity, Inclusion, and Accessibility Roadmap</a>. </li>
 
-    <li>From our monthly Carpentries Instructors in Africa call, community members were really drawn to Bianca’s and Katrin’s creative ideas for teaching R workshops, and they agreed to collaborate on this informative blog post - <a href="https://carpentries.org/blog/2019/05/R-tips-and-tricks/">Tips and Tricks for Teaching R</a>. We are keen to receive more posts by the community for The Carpentries blog, and anyone interested in submitting a draft can <a href="https://forms.gle/dssvVNMqPrTQ3Ljs9">fill out this form</a> or <a href ="mailto:serah@carpentries.org">send it to Serah Rono</a> directly.</li>
+    <li>From our monthly Carpentries Instructors in Africa call, community members were really drawn to Bianca’s and Katrin’s creative ideas for teaching R workshops, and they agreed to collaborate on this informative blog post - <a href="https://carpentries.org/blog/2019/05/R-tips-and-tricks/">Tips and Tricks for Teaching R</a>. We are keen to receive more posts by the community for The Carpentries blog, and anyone interested in submitting a draft can <a href="https://forms.gle/dssvVNMqPrTQ3Ljs9">fill out this form</a> or <a href ="mailto:serah@carpentries.org">send it to Serah Njambi Kiburu</a> directly.</li>
 
-    <li>we were at <a href ="https://csvconf.com">CSV Conference</a> in early May 2019 and met lots of researchers, librarians and technologists there, some of whom will be facilitating our themed community discussions, also known as Carpentries Conversations, in the coming months. Look out for that. We’re also very excited to be attending <a href ="https://www.software.ac.uk/programmes-and-events/carpentryconnect">CarpentryConnect in Manchester</a> in June 2019, and Serah Rono will co-chair the Open Source communities track at <a href ="https://www.scipy2019.scipy.org">SciPy 2019</a> in Austin, Texas in July 2019. We look forward to meeting some of our community in person at these events!</li>
+    <li>we were at <a href ="https://csvconf.com">CSV Conference</a> in early May 2019 and met lots of researchers, librarians and technologists there, some of whom will be facilitating our themed community discussions, also known as Carpentries Conversations, in the coming months. Look out for that. We’re also very excited to be attending <a href ="https://www.software.ac.uk/programmes-and-events/carpentryconnect">CarpentryConnect in Manchester</a> in June 2019, and Serah Njambi Kiburu will co-chair the Open Source communities track at <a href ="https://www.scipy2019.scipy.org">SciPy 2019</a> in Austin, Texas in July 2019. We look forward to meeting some of our community in person at these events!</li>
    </ol>
   </ol>
 </details>
@@ -556,7 +556,7 @@ Serah Rono · Kari L. Jordan · Tracy Teal
 <summary>
 <strong>January - March (Q1) 2019</strong>
 </summary>
-Serah Rono · Kari L. Jordan · Tracy Teal
+Serah Njambi Kiburu · Kari L. Jordan · Tracy Teal
 
 In Q1 2019,  the Community Development Team worked on developing a communications strategy and [updating our Code of Conduct documentation](https://github.com/carpentries/coc-guidelines-taskforce/issues) with [the Code of Conduct Committee](https://carpentries.org/coc-ctte/).  
 </details>
@@ -1119,7 +1119,7 @@ Al Obayuwana · Angelique Trusler · Kari Jordan · Talisha Sutton-Kennedy
 <summary>
 <strong>October - December (Q4) 2020</strong>
 </summary>
-Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt · Angelique Trusler
+Erin Becker · François Michonneau · Karen Word · Kari L. Jordan · Serah Njambi Kiburu · Sher! Hurt · Angelique Trusler
 
 #### Platinum Membership Update and New Team Member
 In Q4, the Membership Team [updated our Platinum membership tier](https://carpentries.org/blog/2020/10/platinum-memberships/) to improve transparency of this customizable membership level and ensure the way we work with Platinum members is equitable across different organizations. We also reintroduced our Bronze tier as an entry-level membership for organizations who want to support The Carpentries and do not yet plan to train local Instructors. This quarter also saw the first pilot of a New Member Onboarding program - details to follow in Q1 2021!

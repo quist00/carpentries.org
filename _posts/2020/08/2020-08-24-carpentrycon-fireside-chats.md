@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: " Here is a set of questions we hope to discuss on Wednesday, 26 August 2020 at 21h00 UTC and Thursday, 27 August 2020 at 15h00 UTC. Join us!"
 title: "What Will Constitute CarpentryCon @ Home Fireside Chat Discussions?" 
 date: 2020-08-24
@@ -18,7 +18,7 @@ Our CarpentryCon Fireside Chat panelists include:
 - Kate Hertweck from [Fred Hutchinson Cancer Research Center](https://fredhutch.org/)
 - Angela Li, [former Maintainer Community Lead for The Carpentries](https://carpentries.org/blog/2020/01/maintainer-community-lead/)
 - Abigail Cabunoc Mayes from [Mozilla Foundation](https://foundation.mozilla.org/) and the [Open Leaders Program](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/)
-- Serah Rono from The Carpentries will moderate the fireside chat sessions.
+- Serah Njambi Kiburu from The Carpentries will moderate the fireside chat sessions.
 
 A few weeks ago, [we asked you](https://docs.google.com/forms/d/e/1FAIpQLSc5bHp5nYG8XV1-WNQqZ_sm6h0T4G8Kp6M9biqbyRW1GrXNoA/viewform) to help shape the Fireside Chats by sharing your questions with us. Here are some of the questions we received from you that we will touch on in the ninety-minute sessions: 
 

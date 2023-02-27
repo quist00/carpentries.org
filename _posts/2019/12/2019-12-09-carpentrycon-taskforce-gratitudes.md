@@ -16,13 +16,13 @@ _**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for givin
 
 Organising a conference requires harmonisation of numerous moving parts and the need for persons with various skills to work out the symphony. It takes time and resources, however, the best asset is passion, which has glued together awesome people from different backgrounds and geographies, with and without experience, into the CarpentryCon 2020 Task Force. 
 
-Many people have contributed - from writing blog posts to chairing subcommittees, to developing new materials - and we could not have done it without them! These people are: Aleksandra Nenadic, Anne Fouilloux, Bianca Peterson, Christina Koch, Cody Hennesy, Daniel Kerchner, Elizabeth Wickes, Elizabeth Williams, Gabriel Salubi, Jesse A Lambertson, Jessica Upani, Marco Chiapello, Mina Zamani, Ouso Daniel, Rohit Goswami, Sarah Stevens, Sateesh Peri, Serah Rono, Shaily Gandhi, SherAaron Hurt and Silvia Di Giorgio. Fotis Psomopoulos, Malvika Sharan and Mark Laufersweiler have also been very instrumental, especially in the early stages of the Task Force, with their experiences as the Task Force members of the inaugural CarpentryCon in 2018. For detailed Task Force members’ roles, visit our [CarpentryCon website](https://2020.carpentrycon.org/)).
+Many people have contributed - from writing blog posts to chairing subcommittees, to developing new materials - and we could not have done it without them! These people are: Aleksandra Nenadic, Anne Fouilloux, Bianca Peterson, Christina Koch, Cody Hennesy, Daniel Kerchner, Elizabeth Wickes, Elizabeth Williams, Gabriel Salubi, Jesse A Lambertson, Jessica Upani, Marco Chiapello, Mina Zamani, Ouso Daniel, Rohit Goswami, Sarah Stevens, Sateesh Peri, Serah Njambi Kiburu, Shaily Gandhi, SherAaron Hurt and Silvia Di Giorgio. Fotis Psomopoulos, Malvika Sharan and Mark Laufersweiler have also been very instrumental, especially in the early stages of the Task Force, with their experiences as the Task Force members of the inaugural CarpentryCon in 2018. For detailed Task Force members’ roles, visit our [CarpentryCon website](https://2020.carpentrycon.org/)).
 
 Here are some stand out moments from the Task Force subcommittees so far: 
 
 ### Website/Outreach
 
-The website committee worked very hard to put together a totally new, fancy website for CarpentryCon -- [check it out here](https://2020.carpentrycon.org/). The idea of this new fancy website came from Serah Rono and we are so grateful. Before that, we had plenty of discussions about the style of the CarpentryCon website but never really took the initiative to move forward and change it. Thanks Serah!
+The website committee worked very hard to put together a totally new, fancy website for CarpentryCon -- [check it out here](https://2020.carpentrycon.org/). The idea of this new fancy website came from Serah Njambi Kiburu and we are so grateful. Before that, we had plenty of discussions about the style of the CarpentryCon website but never really took the initiative to move forward and change it. Thanks Serah!
 Beyond setting up the website, the subcommittee has enjoyed working together so much that they decided to jointly submit two session proposals for the CarpentryCon 2020 programme. Aleksandra Nenadic has done a great job leading the Website subcommittee.  She does a wonderful job leading the meetings.  She has done a lot of the work herself but is also great at delegating and setting deadlines. 
 
 ### Program
@@ -36,7 +36,7 @@ Sarah Stevens’ involvement in the Task Force has been phenomenal! As co-chair 
 ### Communications
 
 Like the program committee, these folks are always busy! Without this committee, nobody would know about CarpentryCon! Thanks to all of the members for writing blog posts, tweets, and generally getting the word out.
-Special mention of Serah Rono whois always helpful with reviewing content and scheduling them for release on various platforms to ensure everyone is informed and in time. 
+Special mention of Serah Njambi Kiburu whois always helpful with reviewing content and scheduling them for release on various platforms to ensure everyone is informed and in time. 
 We are deeply appreciative of Mina Zamani, our subcommittee co-chair. She is from Iran, and despite all the communication challenges she faces in plugging in on platforms such as Slack, Zoom etc, ,Mina has consistently found ways to participate in Task Force and subcommittee meetings. Thank you Mina!
 
 ### Budget

@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "We are releasing our community communications plan and introducing how-to guides for community-led communications"
 title: "Releasing The Carpentries Communications Strategy and Implementation Plan"
 date: 2019-07-14

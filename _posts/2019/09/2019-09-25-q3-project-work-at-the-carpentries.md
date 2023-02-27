@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Erin Becker", "Serah Njambi Rono", "The Carpentries Team"]
+authors: ["Erin Becker", "Serah Njambi Kiburu", "The Carpentries Team"]
 teaser: "Here's what The Carpentries team accomplished in Q2 and Q3 2019, and a look into work that will continue in Q4 2019."
 title: "Q3 and Q4 Project Work at The Carpentries"
 date: 2019-09-25
@@ -45,7 +45,7 @@ In Q2, we assembled a [Sponsorship Model Task Force](https://carpentries.org/blo
 
 ## Community Development Team
 
-Kari L. Jordan · Serah Rono
+Kari L. Jordan · Serah Njambi Kiburu
 
 ### Work outside the CoCc Mandate
 This quarter, we [assembled a task force](https://carpentries.org/blog/2019/07/incidents-outside-cocc-mandate/) to develop recommendations to the Executive Council for developing support structures and guidelines for incidents that happen outside the mandate of The Carpentries Code of Conduct committee. The task force [gathered feedback from our community](https://carpentries.org/blog/2019/08/collecting-incidents-community/) and released a [public report of their discussions and recommendations](https://carpentries.org/blog/2019/09/cocc-taskforce-summary-recommendations/). In Q4, staff and the Executive Council will work together in deciding follow-up actions on these recommendations.

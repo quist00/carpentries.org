@@ -72,7 +72,7 @@ Study Groups:
 and to the following people who provided ideas and support at various stages of the process:
 
 - Kelly Barnes
-- Serah Njambi Rono
+- Serah Njambi Kiburu
 - Malvika Sharan
 - Allegra Via
 - Greg Wilson

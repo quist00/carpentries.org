@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Njambi Rono"]
+authors: ["Serah Njambi Kiburu"]
 teaser: "We appreciate the enthusiasm and creativity with which community members communicate in, about and in support of The Carpentries"
 title: "Thank You for Supporting our Outreach Efforts"
 date: 2019-12-05
