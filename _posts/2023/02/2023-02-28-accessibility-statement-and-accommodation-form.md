@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Accessibility", "Equity and Inclusion"]
 ---
 
-We are excited to announce that we have developed an [Accessibility Statement](link/pages/eia) for The Carpentries. Our team is committed to providing an inclusive and accessible experience for all users, and this statement is an important step towards achieving that goal.
+We are excited to announce that we have developed an [Accessibility Statement]({% link pages/eia.md %}) for The Carpentries. Our team is committed to providing an inclusive and accessible experience for all users, and this statement is an important step towards achieving that goal.
 
 Our Accessibility Statement outlines our commitment to meeting the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA standards, as well as our ongoing efforts to ensure our lessons, events, and website, are inclusive and user-friendly. We have implemented a number of accessibility features to help achieve this goal, such as:
 
