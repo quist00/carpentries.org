@@ -3,7 +3,7 @@ layout: page
 authors: [Brynn Elliott]
 teaser: "The Carpentries develops an Accessibility Statement!"
 title: "The Carpentries Accessibility Statement and Accommodation Form"
-date: 28 February 2023
+date: 2023-02-28
 time: "09:00:00"
 tags: ["Accessibility", "Equity and Inclusion"]
 ---
