@@ -18,13 +18,13 @@ Our Accessibility Statement outlines our commitment to meeting the Web Content A
 
 We also recognize that accessibility is an ongoing process, and we are committed to continually improving our lessons and events to meet the needs of all users. We welcome feedback from our community, and we will use that feedback to inform our ongoing efforts to make The Carpentries more accessible.
 
-# The Carpentries Accessibility Statement 
+## The Carpentries Accessibility Statement 
 
 The Carpentries is committed to providing inclusive and accessible content that enables all individuals, including those with disabilities, to participate and engage fully. We are actively working to increase the accessibility and usability of Carpentries’ content and in doing so adhere to many of the available standards and guidelines including those from the World Wide Web Consortium. If you have questions or would like to request an accommodation please email us. 
 
 If there are any aspects of our community including the website, community discussions,  instruction, or the design of our lessons that result in barriers to your inclusion, please email us with as much information as possible including the name, location, and date of the event you attended, or any relevant links that provide context (e.g. Slack, GitHub). 
 
-# Accommodatoin Request Form 
+## Accommodation Request Form 
 
 In addition to our Accessibility Statement, we are excited to announce the launch of our [new accommodation request form](https://carpentries.typeform.com/to/B2OSYaD0)! At The Carpentries, we understand that everyone has different needs, and we want to ensure that all individuals have the support they need to fully participate in our community.
 
