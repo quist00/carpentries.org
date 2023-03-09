@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt", “Danielle Sieh”]
+authors: [SherAaron Hurt, Danielle Sieh]
 teaser: "Calling ALL Instructors, Experienced Instructors and New Instructors"
 title: "Join the Monthly Instructor Meetings"
 date: 2023-03-09
