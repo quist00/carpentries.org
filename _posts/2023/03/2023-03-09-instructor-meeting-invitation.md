@@ -24,7 +24,7 @@ If you will be teaching a workshop and have questions or have recently taught a 
 ## Tips and Trick
 If you have advice or pointers that you use as an Instructor to help you in the classroom we would love for you to share those with the Instructor Community. You may have several tricks up your sleeve and we would like to learn all about them during this section of the meeting. You can add your name to the “Tips and Tricks” section of the etherpad. 
 
-##Topic for Discussion
+## Topic for Discussion
 There may be a specific area you would like to discuss with the entire Instructor community. Please add your suggestions to the etherpad. The Workshop Administration Team will review the etherpad prior to the meeting and select the topic for the month. If your topic is not selected for that month, no worries, it will be listed for an upcoming meeting. 
 
 It is our hope that we use this time to connect, share and learn as much as possible. These meetings are for all Instructors! Yes, new Instructors, experienced Instructors, Instructors who may have stepped away for a while, and/or recently badged Instructors. The Workshop Administration Team strives to make the Instructor’s teaching experience meaningful. We need to hear from you to ensure that our recommendations are working. 
