@@ -3,7 +3,7 @@ layout: page
 authors: ["Karen Word"]
 teaser: "Meet the representatives making decisions for our Instructor Trainer community in 2023"
 title: " Welcome to the 2023 Trainers Leadership Committee!"
-date: 2023-04-13
+date: 2023-03-13
 time: "00:00:00"
 tags: ["Instructor Trainers", "Instructor Training", "Governance"]
 ---
@@ -14,20 +14,12 @@ decisions on behalf of that community that affect our Instructor Training progra
 
 In their second year as an elected body, the Trainers Leadership Committee (TLC!) oversaw many important changes. These included:
 
-* Establishing meeting procedures, adopting a variation on Martha’s Rules, identifying ways to use public and private channels to prioritize 
-transparency, and creating GitHub templates and other structures to facilitate future work.
-* Reviewing and planning a replacement for the (former) Trainer Agreement. A new proposal for a 
-[Certification Renewal Process](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#certification-renewal-process) for 
-Trainers was presented to the full community and ratified during the election in February.
-* Detailing governance and management structure for relevant processes, including oversight of Instructor checkout, Instructor Training 
-curriculum maintenance, and the process of scheduling Trainer community meetings.
-* Overseeing a [major update to the Instructor Training Curriculum](https://carpentries.org/blog/2021/11/IT-curriculum-update/)
-* Defining a decision-making partnership with the Trainer community. Conversations so far suggest that Leadership is trusted and expected 
-to take responsibility for action, reserving community consultation for focused, impactful choices. 
-* Seeking and receiving approval from The Carpentries Executive Council as a formal Committee! This took time because this group has a governance role, 
-making it different from other [Committees](https://docs.carpentries.org/topic_folders/governance/committee-policy.html#the-carpentries-committee-policy), 
-and there were not yet any guidelines for that aspect of their role. Trainers Leadership will continue to report to the EC as a Committee, but they 
-can also now look to the new [Lesson Program Governance policies](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs) where applicable.
+* The first implementation of a backwards-looking Certification Renewal process for Trainers. Their care and 
+attention was insstrumental in making this important step towards maintaining an active, sustainable, and inclusive community a success.
+* Design and approval of recommendations to make changes to the Instructor Checkout process, based on a broad community assessment project 
+implemented in 2022. These changes will be implemented in 2023, with oversight by this year's Committee.
+* Updating community documentation to better reflect policies and procedures, including changes to the Certification Renewal process and 
+documentation for this Committee. These changes were presented to the full community and ratified during the election in February.
 
 Details on these and other accomplishments of this Committee are available in the 
 [reports](https://github.com/carpentries/trainers/tree/main/reports) and [issues](https://github.com/carpentries/trainers/issues) sections on the 
