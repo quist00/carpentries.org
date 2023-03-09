@@ -4,7 +4,7 @@ authors: [SherAaron Hurt, Danielle Sieh]
 teaser: "Calling ALL Instructors, Experienced Instructors and New Instructors"
 title: "Join the Monthly Instructor Meetings"
 date: 2023-03-09
-time: "09:00:00"
+time: "16:00:00"
 tags: ["Workshops", "Instructors"]
 ---
 
