@@ -58,3 +58,17 @@ For more information about membership and other options for group access to trai
 2\. **Apply through the Open Instructor Training Program** 
 
 The Open Instructor Training Program is a Carpentries-sponsored program in which individual applicants may be invited to receive training at no cost. Applications are scored and accepted on a rolling basis in order of scoring. This program is not for groups; multiple individuals from a single institution or cohort may be considered but will not be admitted simultaneously. [Apply to our Open Instructor Training Program]({{site.instructor_training_app}}).
+
+## Group Training & Priority Access Fees
+Organisations may pay a fee to gain priority access to Instructor Training events and train a group of individuals. Once invoiced, we will create a unique registration code for your trainees to access registration. 
+
+|                     | Instructor Training Seat Fee (USD) |
+|---------------------|------------------------------------|
+| High Income         | $1,500                             |
+| Upper-Middle Income | $1,125                             |
+| Lower-Middle Income | $750                               |
+| Low Income          | $375                               |
+
+The per seat fee is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html). All fees listed are in USD and represent costs for not-for-profit or academic organisations. Costs for for-profit organisations are four times the fee listed for not-for-profit organisations
+
+If you are seeking to train six (6) or more individuals, please check out our [Membership page]({{site.url}}/membership/) as the rate may be lower.
