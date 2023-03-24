@@ -60,7 +60,7 @@ For more information about membership and other options for group access to trai
 The Open Instructor Training Program is a Carpentries-sponsored program in which individual applicants may be invited to receive training at no cost. Applications are scored and accepted on a rolling basis in order of scoring. This program is not for groups; multiple individuals from a single institution or cohort may be considered but will not be admitted simultaneously. [Apply to our Open Instructor Training Program]({{site.instructor_training_app}}).
 
 ## Group Training & Priority Access Fees
-Organisations may pay a fee to gain priority access to Instructor Training events and train a group of individuals. Once invoiced, we will create a unique registration code for your trainees to access registration. 
+Individuals and organisations may pay a fee to gain access to Instructor Training. Once invoiced, we will create a unique registration code that trainees can use to access registration for any event on our quarterly [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/index.html). 
 
 |                     | Instructor Training Seat Fee (USD) |
 |---------------------|------------------------------------|
