@@ -216,17 +216,16 @@
 - name: Eirini Zormpa
   github: eirini-zormpa
   curriculum: socialsci
-  position: member
+  position: chair
 
-- name: Julieta Arancio
-  github: thessaly
+- name: Macarena Quiroga
+  github: msquiroga89
   curriculum: socialsci
-  position:  chair
 
 - name: Nathaniel Porter
   github: ndporter
   curriculum: socialsci
-  position: member
+  position: chair
 
 - name: Alex Pakalniskis
   github: alex-pakalniskis
