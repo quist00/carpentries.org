@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Registration Confirmation Page
+title: Instructor Training Registration Confirmation Page
 permalink: instructor-training/confirmation/
 exclude: true
 ---
 
-# Thank you for registering!
+## Thank you for registering!
 
 Thank you for registering for a Carpentries Instructor Training event. You should be getting an email from Eventbrite to confirm your registration.
 
