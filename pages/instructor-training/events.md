@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructor Training Calendar
-permalink: /instructor-training/events
+permalink: /instructor-training/events/
 ---
 
 ### About Carpentries Instructor Training
