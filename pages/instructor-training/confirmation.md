@@ -28,7 +28,7 @@ Before your training, please visit our [Preparing for Instructor Training page](
 3. Please read the following:
   
   - ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
-  - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
+  - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/2021%20Carpentries%20Annual%20Report_Final.pdf)
 
 ## Checkout: The Instructor Certification Process
 
