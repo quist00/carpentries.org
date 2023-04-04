@@ -67,7 +67,7 @@ demonstrates what can happen if you do not delete your fork.
 
 Because we are now out of Beta, but not yet deployed to all of our lessons, The
 Workbench will be in a feature freeze until May. This means that if you request
-new features in The Workbench, you will have to wait until May to see the
+new features in The Workbench, you will have to wait until May at the earliest to see the
 implementations.
 
 ## Thank You
