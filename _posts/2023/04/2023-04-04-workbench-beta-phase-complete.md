@@ -56,7 +56,7 @@ in April. The reason for this is that after the transition, any old forks will
 be invalid and cannot be used to contribute. 
 
 If you have made a contribution to our lessons in the past and want to do so in
-the future, you will want to [delete and re-fork your fork of the lesson](https://carpentries.github.io/workbench/faq.html#update-fork-from-styles).
+the future, you will need to [delete and re-fork your fork of the lesson](https://carpentries.github.io/workbench/faq.html#update-fork-from-styles).
 Below is a video that describes the process in under four minutes and then 
 demonstrates what can happen if you do not delete your fork. 
 
