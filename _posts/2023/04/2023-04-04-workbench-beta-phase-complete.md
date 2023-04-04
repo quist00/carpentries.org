@@ -43,7 +43,7 @@ This transition will do two things:
 The transition process is automated in
 [carpentries/lesson-transition](https://github.com/carpentries/lesson-transition#readme)
 and lesson Maintainers will have the opportunity to audit the transformed
-lessons before it is transformed. A list of lessons and their transformation
+lessons before the changes are finalised. A list of lessons and their transformation
 status can be found at <https://github.com/carpentries/lesson-transition/issues/23>.
 
 ### Avoid making pull requests until May
