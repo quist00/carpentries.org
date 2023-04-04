@@ -34,6 +34,8 @@ version that is built using The Carpentries Workbench.
 
 ## Workbench Transition to happen in May 2023
 
+The beta phase was a success,
+and we can now begin final preparations for a full rollout of the new infrastructure.
 In May 2023, we will transition all of our official lessons to use The Workbench.
 This transition will do two things:
 
