@@ -53,7 +53,7 @@ Member organisations have agreements with The Carpentries that include a specifi
 
 If you have received an access code, you are ready to use your code to [sign up for an Instructor Training event](https://carpentries.github.io/instructor-training/training_calendar/index.html)! When you register, you will also be asked to [create a profile in our database]({{site.instructor_training_app}}).
 Where membership is not possible, The Carpentries occasionally sponsors groups for Instructor Training. At this time, applications for group sponsorship are available by invitation only. However, if you have a group that you believe will advance The Carpentries’ goal of reaching historically under-represented groups through sponsorship, you are welcome to [contact us](mailto:{{site.instructor_training_contact}}) with inquiries. 
-For more information about membership and other options for group access to training, visit our [Membership page]({{site.url}}/membership/). 
+Group pricing for Instructor Training is listed below. 
 
 2\. **Apply through the Open Instructor Training Program** 
 
@@ -71,4 +71,4 @@ Individuals and organisations may pay a fee to gain access to Instructor Trainin
 
 The per seat fee is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html). All fees listed are in USD and represent costs for not-for-profit or academic organisations. Costs for for-profit organisations are four times the fee listed for not-for-profit organisations
 
-If you are seeking to train six (6) or more individuals, please check out our [Membership page]({{site.url}}/membership/) as the rate may be lower.
+If you are seeking to train six (6) or more individuals, please check out our [Membership page]({{site.url}}/membership/) as the rate may be lower. 
