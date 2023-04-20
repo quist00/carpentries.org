@@ -39,7 +39,7 @@ highlighting Glosario, monthly meetups, and other achievements to build regional
 
 One of the ways we are incorporating equity, inclusion, and accessibility is by making the Instructor checkout process more accessible and inclusive 
 across our global community (see [changes we are working to implement](https://github.com/carpentries/trainers/issues/226)). We have also designated funds in our fiscal 
-year budget to translate key resources like the Code of Conduct. We are in our final round of functionality updates for our website and will soon move into community review and launch. And finally, in an effort to improve the accessibility of our workshops and community spaces, we developed an [Accessibility Accommodation Form](https://carpentries.typeform.com/to/B2OSYaD0) and released an [Accessibility Statement](https://carpentries.org/blog/2023/03/accessibility-statement-and-accommodation-form/). 
+year budget to translate key resources like the Code of Conduct. We are in our final round of functionality updates for our website (www.carpentries.org) and will soon move into community review and launch. And finally, in an effort to improve the accessibility of our workshops and community spaces, we developed an [Accessibility Accommodation Form](https://carpentries.typeform.com/to/B2OSYaD0) and released an [Accessibility Statement](https://carpentries.org/blog/2023/03/accessibility-statement-and-accommodation-form/)
 
 ## Goal 3: Provide opportunities for growth and professional development of our volunteers and Core Team.
 
