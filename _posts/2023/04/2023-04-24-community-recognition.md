@@ -64,7 +64,7 @@ Routine emails to existing Members, including benefit usage reports, [are now au
 
 ## Goal 6: Advocate for our values and vision to empower more people to work with data and software.
 
-We are proud to announce we are coordinating with the HPC Carpentry community on their application for lesson program incubation. Additionally, we have 
+We are proud to announce we are coordinating with the [HPC Carpentry](https://www.hpc-carpentry.org/) community on their application to become an official lesson program within The Carpentries. Additionally, we have 
 presented lesson infrastructure and lesson development pathways at conferences and other events. We are collaborating with several partners, including 
 [2i2c](https://2i2c.org/) and [MetaDocencia](https://www.metadocencia.org/) on a CZI-funded project to empower research communities in the Global South 
 to use open science cloud technologies. Lastly, several of our Core Team and community members serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision. Examples include the Education Committee for Ecological Society of America, AG2PI Scientific Advisory Board, and NASA’s Transform to Open Science (TOPS) panel.
