@@ -45,7 +45,7 @@ year budget to translate key resources like the Code of Conduct. We are in our f
 
 We learned so much implementing CarpentryCon 2022, including how beneficial skill-up sessions are for our community. We are excited to share that we’ll 
 provide ongoing programming similar to what you’d see at CarpentryCon, throughout the year to develop our community members’ skills in teaching, lesson 
-development, and community building. We also launched a Supervisor Pilot Program for Core Team members interested in growing their supervisory skills.
+development, and community building. Within the Core Team, we also launched a Supervisor Pilot Program for Core Team members interested in growing their supervisory skills.
 
 ## Goal 4: Facilitate the creation and maintenance of relevant, high-quality, community-curated curricula.
 
