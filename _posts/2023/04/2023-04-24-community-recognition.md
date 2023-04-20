@@ -70,7 +70,7 @@ presented lesson infrastructure and lesson development pathways at conferences a
 to use open science cloud technologies. Lastly, several of our Core Team and community members serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision. Examples include the Education Committee for Ecological Society of America, AG2PI Scientific Advisory Board, and NASA’s Transform to Open Science (TOPS) panel.
 
 ## What is next?
-We will continue to monitor and improve services, tools and virtual infrastructure to achieve reliability, efficiency and safety and security for our 
+We will continue to monitor and improve services, tools and virtual infrastructure to enhance reliability, efficiency and safety and security for our 
 community. The Strategic Plan is the plan! Watch this short video of Dr. Kari L. Jordan and Tara Robertson discussing The Carpentries’ Strategic Plan 
 for 2020-2025 and how it aligns with our efforts in equity, inclusion, and accessibility. We also encourage you to follow updates in our 
 [Strategic Plan GitHub repository](https://github.com/carpentries/strategic-plan). 
