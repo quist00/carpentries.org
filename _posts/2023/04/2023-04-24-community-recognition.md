@@ -31,7 +31,7 @@ each goal, and follow the [Strategic Plan GitHub repository](https://github.com/
 For us to empower our regional and local communities, we need to know who leads those efforts. As part of our Community Development Program, we opened 
 a [subcommunity registry](https://carpentries.org/blog/2023/02/register-your-subcommunity/). By registering your sub-community, help us raise awareness 
 about the wonderful Carpentries activities happening worldwide. Your registration will also help guide how we recognise and appreciate you for your work 
-to advance our mission. Are you following the Carpentries activities across Africa? Check out this 
+in advancing our mission. Are you following the Carpentries activities across Africa? Check out this 
 [retrospective 2022](https://docs.google.com/presentation/d/1p2t_kxMN8GWV_ddZpgOENVq7OAns_nD8lGq5hJu_xIk/edit#slide=id.g102fef8a4b2_0_14) 
 highlighting Glosario, monthly meetups, and other achievements to build regional capacity in our African communities.
 
