@@ -49,7 +49,7 @@ development, and community building. Within the Core Team, we also launched a Su
 
 ## Goal 4: Facilitate the creation and maintenance of relevant, high-quality, community-curated curricula.
 
-Our new lesson infrastructure is to be rolled out on 1 May 2023, redesigned with a focus on accessibility and ease of maintenance. Additionally, we are 
+[The Carpentries Workbench](https://carpentries.github.io/workbench/), to be rolled out in May, greatly simplifies the process of contributing to lessons. Additionally, we are 
 piloting a new curriculum for Collaborative Lesson Development Training, meeting demand from the community. We’ve also updated and expanded our 
 Maintainer onboarding program to support this essential role in the community better and established Curriculum Advisory Committees to guide the development of all official curricula.
 In case you missed it, we recently published a [new Data Carpentry curriculum: Image Processing with Python](https://carpentries.org/blog/2023/01/dc-image-processing-stable-release/)! 
