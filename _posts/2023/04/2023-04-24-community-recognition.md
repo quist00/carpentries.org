@@ -43,7 +43,7 @@ year budget to translate key resources like the Code of Conduct. We are in our f
 
 ## Goal 3: Provide opportunities for growth and professional development of our volunteers and Core Team.
 
-We learned so much implementing CarpentryCon, including how beneficial skill-up sessions are for our community. We are excited to share that we’ll 
+We learned so much implementing CarpentryCon 2022, including how beneficial skill-up sessions are for our community. We are excited to share that we’ll 
 provide ongoing programming similar to what you’d see at CarpentryCon, throughout the year to develop our community members’ skills in teaching, lesson 
 development, and community building. We also launched a Supervisor Pilot Program for Core Team members interested in growing their supervisory skills.
 
