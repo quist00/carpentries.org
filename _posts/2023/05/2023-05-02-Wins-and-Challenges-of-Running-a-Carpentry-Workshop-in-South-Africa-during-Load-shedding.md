@@ -6,7 +6,7 @@ title: "Wins and Challenges of Running a Carpentry Workshop in South Africa duri
 date: 2023-05-01
 time: "00:00:00"
 tags: ["Community", “Africa”]
-—
+---
 
 Millions of people in Southern Africa are left without power for up to 12.5 hours daily due to [load shedding](https://en.wikipedia.org/wiki/South_African_energy_crisis). This is when a power supply can not provide enough electricity for all at once, and to 
 avoid a total blackout, power is turned off in part or parts of a power grid. In the wake of COVID-19 in early 2020, The Carpentries transitioned to 
