@@ -16,20 +16,20 @@ workshop online during load shedding.
 The University of Venda, in Limpopo, South Africa, hosted an Online Data Carpentry (Ecology for R) workshop from 19-20 April 2023. We asked the Host, 
 Alphonce Bere, to give us feedback on how they dealt with the challenge of load shedding: 
 
-‘With regards to the load shedding, it was helpful that we had booked a lab in a building which has a backup generator. There are still problems though, 
+>‘With regards to the load shedding, it was helpful that we had booked a lab in a building which has a backup generator. There are still problems though, 
 in that the generator has to be manually switched on when the power goes off. Also, I have noticed that during the load shedding, the internet 
 availability is limited. We will therefore be grateful for any initiatives that will help to improve these two issues’.
 
 Even though they experienced some challenges with internet availability, the host praised the instructors: 
 
-“It was quite helpful that the team of instructors had thoroughly prepared and they made excellent presentations. They did their best to move along 
+>“It was quite helpful that the team of instructors had thoroughly prepared and they made excellent presentations. They did their best to move along 
 with all the participants. The feedback I got from the participants was very positive.”
 
-Feedback from Kudakwashe, Mpilo and Gorata included difficulties with software installation, the quiet nature of online workshops, and the challenges in covering all 
-the content in two days online. On a positive note, since the instructors knew the load shedding schedule, they had a plan for how to deal with it, and 
+Feedback from Kudakwashe, Mpilo and Gorata included **difficulties with software installation**, the **quiet nature of online workshops**, and the challenges in **covering all 
+the content** in two days online. On a positive note, since the instructors **knew the load shedding schedule**, they had a plan for how to deal with it, and 
 they felt they were well equipt to teach during these two days. An instructor teaching for the first time stated: 
 
-“Working with experienced co-instructors helped put me at ease, especially seeing how they handled some setbacks and delays during the workshop.”
+>“Working with experienced co-instructors helped put me at ease, especially seeing how they handled some setbacks and delays during the workshop.”
 
 We urge the Carpentries community to share their experiences when in challenging contexts. Please feel free to reach out to us at 
 community@carpentries.org. 
