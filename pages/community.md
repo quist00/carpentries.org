@@ -227,7 +227,6 @@ The Carpentries Instructor community in Africa is growing, with over a hundred c
 Here are details about The Carpentries Instructor community in  Canada:
 
 * [Join Vancouver's mailing list](https://carpentries.topicbox.com/groups/local-vancouver)
-* [Contact the Regional Coordinator](mailto:{{site.contact_ca}})
 
 #### Carpentries in Middle East and North Africa
 
