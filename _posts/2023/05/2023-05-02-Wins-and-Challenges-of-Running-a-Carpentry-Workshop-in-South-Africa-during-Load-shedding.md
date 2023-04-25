@@ -3,7 +3,7 @@ layout: page
 authors: [Angelique Trusler, Alphonce Bere, Mpilo Khumalo, Gorata Bridget Malose]
 teaser: "It was helpful that we had booked a lab in a building which has a backup generator"
 title: "Wins and Challenges of Running a Carpentry Workshop in South Africa during Load shedding"
-date: 2023-05-01
+date: 2023-05-03
 time: "00:00:00"
 tags: ["Community", “Africa”]
 ---
