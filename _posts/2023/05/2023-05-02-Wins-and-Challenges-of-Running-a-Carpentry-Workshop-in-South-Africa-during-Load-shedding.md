@@ -32,7 +32,7 @@ they felt they were well equipt to teach during these two days. An instructor te
 >“Working with experienced co-instructors helped put me at ease, especially seeing how they handled some setbacks and delays during the workshop.”
 
 We urge the Carpentries community to share their experiences when in challenging contexts. Please feel free to reach out to us at 
-community@carpentries.org. 
+[community@carpentries.org](mailto:community@carpentries.org). 
 
 Read more blog post about The Carpentries in Africa [here](https://carpentries.org/posts-by-tags/#blog-tag-africa)
 
