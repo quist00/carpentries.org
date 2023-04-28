@@ -30,8 +30,8 @@ We know that many of you come to this community to learn and share knowledge, an
 * Would you like to learn from community members who have relevant experience or expertise ? Host a panel as a **Community Discussion Session!** 
 * Are you thinking about how Artificial Intelligence (AI) could impact how we teach coding and computer skills? You can create space for the community to have that conversation in a facilitated **Community Discusion Session**.
 * Do you have a colleague who you would love The Carpentries community to hear from? Invite them to present at a **Community Discussion** **Session** you host.
-* Do you like gaming? Consider hosting a networking event as a **Community Discussion **to lead the community in an online game.
-* Do you have expertise in teaching, coding, lesson development, community building, or institutional change? What about physical fitness or mindfulness? Host a **Skill-up Session! **
+* Do you like gaming? Consider hosting a networking event as a **Community Discussion** to lead the community in an online game.
+* Do you have expertise in teaching, coding, lesson development, community building, or institutional change? What about physical fitness or mindfulness? Host a **Skill-up Session!**
 * Are you working on a lesson in The Carpentries incubator that is ready for some fresh eyes? Are you a Maintainer in need of extra hands to address a backlog of issues in your curriculum? Would you like to offer a Skill-up Session but want to start with a collaborative push? Host a **Collaboration Session**!
 
 
