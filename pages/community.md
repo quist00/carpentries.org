@@ -325,7 +325,7 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 
 ### Community events
 There are many opportunities to join community meetings, subcommittees
-and debriefing sessions. Find links to them on this <a href="http://pad.carpentries.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
+and debriefing sessions. Find links to them on this <a href="http://pad.carpentries.org/pad-of-pads">Etherpad</a>, and subscribe to the Google calendar below or use [this ics feed](https://calendar.google.com/calendar/ical/oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com/public/basic.ics) to watch all that is
 going on throughout our community.
 
 <div id='calendar' markdown="0"></div>
