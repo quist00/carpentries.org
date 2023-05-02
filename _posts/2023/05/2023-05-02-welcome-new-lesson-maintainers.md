@@ -4,7 +4,7 @@ authors: ["Erin Becker"]
 teaser: "Nineteen new Lesson Maintainers badged"
 title: "Welcome to our Newest Lesson Maintainers!"
 date: 2023-05-02
-time: "15:00:00"
+time: "20:15:00"
 tags: ["Lessons", "Maintainers", "Community"]
 ---
 
