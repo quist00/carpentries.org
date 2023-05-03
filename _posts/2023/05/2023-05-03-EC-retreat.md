@@ -4,7 +4,7 @@ authors: ["Executive Council"]
 teaser: "EC members reflect on how to best support The Carpentries as a multicultural organisation by expanding our thinking and discussing power and privilege."
 title: "Highlights from the 2023 Executive Council Retreat"
 date: 2023-05-03
-time: "09:00:00"
+time: "21:00:00"
 tags: ["Executive Council", "Community"]
 ---
 
