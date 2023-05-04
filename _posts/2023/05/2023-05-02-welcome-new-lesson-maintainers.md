@@ -29,7 +29,7 @@ For Data Carpentry - Social Sciences
 
 
 * April Moreno
-* Bernard Kwame Soldzi
+* Bernard Kwame Solodzi
 * Jean Baptiste Fankam Fankam
 * Johanna Bayer
 
