@@ -139,4 +139,4 @@ please [contact Toby Hodges](mailto:tobyhodges@carpentries.org).
 [dc-ecology-python-es]:https://datacarpentry.org/python-ecology-lesson-es/
 [video-general-instructor-notes]: FIXME
 [video-inline-instructor-notes]: FIXME
-
+[workbench-docs-fenced-divs]: https://carpentries.github.io/sandpaper-docs/episodes.html#callout-blocks
