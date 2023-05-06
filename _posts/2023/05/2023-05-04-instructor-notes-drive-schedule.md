@@ -3,14 +3,14 @@ layout: page
 authors: ["Toby Hodges"]
 teaser: "Everything you need to get involved and make Carpentries lessons easier to teach."
 title: "The 2023 Instructor Notes Drive Starts Next Week!"
-date: 2023-05-04
+date: 2023-05-06
 time: "09:00:00"
 tags: ["Curriculum", "Community", "Workbench", "Lessons"]
 ---
 
 [The 2023 Instructor Notes Drive](https://carpentries.org/blog/2023/04/instructor-notes-drive-announcement/)
 will take place from 8th to 19th May.
-During there two weeks, we call on the community to help us expand, update, and improve
+During these two weeks, we call on the community to help us expand, update, and improve
 the guidance provided to Instructors on Carpentries lessons.
 It is a great opportunity to make an impact on the effectiveness of Carpentries lessons,
 to learn more about how to contribute to lessons,
@@ -45,7 +45,7 @@ To suggest updates, improvements, additions, and other changes to
 the Instructor Notes of a Carpentries lesson,
 open a pull request on the relevant lesson repository.
 (If you do not yet know how to do this,
-see the [_More Detailed Instructions_](#more-detailed-instructions) section below.)
+check out the [_More Detailed Instructions_](#more-detailed-instructions) section below.)
 
 **General Instructor Notes** for a lesson are stored in 
 the `instructors/instructor-notes.md` file of a lesson repository.
@@ -76,8 +76,8 @@ To help those still learning to use GitHub to edit files,
 and/or who need more context for following the instructions above,
 we have prepared a couple of short videos:
 
-1. [Editing the Instructors Notes page of a lesson][video-general-instructor-notes]
-2. [Adding an inline Instructor Note to a lesson][video-inline-instructor-notes]
+1. [Editing the Instructors Notes page of a lesson](https://youtu.be/UL1Zd8Ivjg8)
+2. [Adding an inline Instructor Note to a lesson](https://youtu.be/mGHZwb28Cwo)
 
 
 We also provide [a set of more detailed written Instructions](https://docs.google.com/document/d/1HCvnxPWulAzIFrRSe3GdRHOKERDSoufyatwYz5TxMxk/edit?usp=sharing) that include
@@ -112,7 +112,7 @@ The following coworking sessions are scheduled for the 2023 Instructor Notes Dri
 5. [**18th May 2023, 00:00 UTC**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Coworking%3A+Instructor+Notes+Drive+2023&iso=20230518T00&p1=%3A&ah=1), hosted by Erin Becker
 6. [**19th May 2023, 12:00 UTC**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Coworking%3A+Instructor+Notes+Drive+2023&iso=20230519T12&p1=%3A&ah=1), hosted by Toby Hodges
 
-([See these events in The Carpentries Community Calendar](https://carpentries.org/community/#community-events).)
+([Check out these events in The Carpentries Community Calendar](https://carpentries.org/community/#community-events).)
 
 
 ## What contributions are most needed, and where?
