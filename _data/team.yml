@@ -82,6 +82,17 @@ people:
   calendly: froggleston
   et: false 
  
+- name: Oscar Masinyana
+  pic: oscarmasinyana
+  pronouns: he/him/they/them
+  position: Communications Manager
+  email: oscar.masinyana@carpentries.org
+  github: OscarSiba
+  twitter: oscarsibabalwe
+  linkedin: oscar-masinyana
+  calendly: oscar-masinyana-carpentries
+  et: false
+
 - name: Maneesha Sane
   pronouns: Any pronouns will do
   pic: maneeshasane
