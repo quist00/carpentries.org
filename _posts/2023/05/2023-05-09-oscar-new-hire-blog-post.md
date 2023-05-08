@@ -28,7 +28,7 @@ As the Communications Manager for our community, please feel free to leave a com
 
 * On The Carpentries [Twitter](https://twitter.com/thecarpentries) and [Facebook](https://www.facebook.com/carpentries/) accounts
 * Or get in touch on [Slack](https://swc-slack-invite.herokuapp.com/) 
-* Or email me at oscar.masinyana@carpentries.org 
+* Or email me at [oscar.masinyana@carpentries.org](mailto:oscar.masinyana@carpentries.org)
 * Or schedule a meeting with me [at my Calendly](https://calendly.com/oscar-masinyana-carpentries)
 * Or connect with me on my Twitter [personal profile](https://twitter.com/oscarsibabalwe).
 
