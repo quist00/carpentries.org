@@ -26,19 +26,19 @@ Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org).
 
 _Our Governance Structure:_ Please see the [Code of Conduct Committee (CoCc) Governance document]({{site.handbook_url}}/topic_folders/policies/coc-governance.html) to find details on membership, onboarding, administration, positions, roles, and responsibilities.
 
-#### Current Committee Members
+## Current Committee Members
 
-**Chairs**
+### Chair
 
 [**D. Sarah Stamps**](https://github.com/dsarahstamps) is an Associate Professor of Geophysics at Virginia Tech in the Department of Geosciences. She runs the Geodesy and Tectonophysics Laboratory, which is a research group that conducts research that entails measuring the Earth's surface motions with millimeter precision and using computational modeling to understand the physical processes driving the Earth's volcanoes, earthquakes, and continental deformation while training future leaders that are culturally effective. She is the current chair of the CoC committee.
 
-**CoC Liaisons**
+### CoC Liaisons
 
 **Core Team Liaison**: [**Alycia Crall**](https://github.com/acrall) is the Director of Community for The Carpentries, and serves as the [core team]({{site.url}}/team/) liaison to the CoC Committee.
 
 **Executive Council Liaison**: [Annajiat Alim Rasel](http://annajiat.googlepages.com/) is a Sr. Lecturer at the Department of Computer Science and Engineering under the School of Data and Sciences (SDS), Brac University, Bangladesh. He teaches problem-solving skills using Java and Python while trying to explore the exciting fields of Natural Language Processing (NLP) and Parallel, Distributed, and High-Performance Computing (HPC). He hopes to build a Carpentries community in Bangladesh while promoting diversity; enhancing awareness for FAIR and CARE principles; and working on localization and accessibility in technology. Annajiat joined [The Carpentries Executive Council](https://carpentries.org/governance/) in 2022 and serves as the Liaison to CoC Committee.
 
-**Volunteer Members**
+### Volunteer Members
 
 [**Karin Lagesen**](https://github.com/karinlag) is a bioinformatician working at the Norwegian Veterinary Institute. Her time is spent building pipelines, teaching people how to analyze their data, and finding new and better ways of using bioinformatics for microbial surveillance. She was the chair of the CoC committee for 2 years, member of the Software Carpentry Steering Committee for three years, and is also an instructor trainer. Karin is part of this committee because she believes it is very important to ensure that The Carpentries is a safe and inclusive community. 
 
