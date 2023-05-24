@@ -41,8 +41,11 @@ and Gold memberships only, and is subject to availability. Organisations awarded
 
 ### Are any other discounts available?
 Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), who engage in
-service activities to teach and support newly trained Instructors across our global community, are eligible for a discount to their membership fee 
-equivalent to six (6) seats in Instructor Training per active Instructor Trainer. Members can choose whether they would like to have the Trainer discount applied as a monetary discount, or as added benefits.  This discount is available at any membership level. 
+service activities to teach and support newly trained Instructors across our global community, may be eligible for a discount to their membership fee 
+equivalent to six (6) seats in Instructor Training per active Instructor Trainer. Members can choose whether they would like to have the Trainer discount applied as a monetary discount, or as added benefits.  This discount is available at any membership level, for each trainer who has participated in the following activities up to 1 year prior to renewal:
+* teach at least two (2) Instructor Training events for the global Carpentries community,
+* host at least two (2) teaching demonstrations for the global Carpentries community, and
+* attend virtual Trainer community meetings
 
 ### How can I find out if my institution already has a membership?
 A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like 
