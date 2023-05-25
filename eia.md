@@ -4,6 +4,11 @@ title: "Equity, Inclusion, and Accessibility"
 permalink: /eia/
 ---
 
+## Diversity Equity and Inclusion Statement 
+
+### Our Community is Our Strength
+At The Carpentries, we are committed to building an equitable, diverse, and inclusive community that values all individuals and their unique identities. We prioritise accessibility and inclusivity in our curricula and programs and value transparency, fairness, and honesty to build trust within our community. Building an inclusive community is an ongoing process that requires consistent effort and commitment, and we strive for continuous improvement.
+
 ## Accessibility Statement 
 
 The Carpentries is committed to providing inclusive and accessible content that enables all individuals, including those with disabilities, to participate and engage fully. We are actively working to increase the accessibility and usability of Carpentries’ content and in doing so adhere to many of the available standards and guidelines including those from the World Wide Web Consortium. 
