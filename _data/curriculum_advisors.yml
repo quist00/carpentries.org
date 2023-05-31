@@ -28,24 +28,9 @@
   curriculum: astronomy
   position: member
 
-- name: Phil Rosenfield
-  github: philrosenfield
-  curriculum: astronomy
-  position: member
-
 - name: Rachel Lee McClure
   github: rlmcclure
   curriculum: astronomy
-  position: member
-
-- name: Alison Meynert
-  github: ameynert
-  curriculum: genomics
-  position: member
-
-- name: Anita Schurch
-  github: aschuerch
-  curriculum: genomics
   position: member
 
 - name: Elizabeth McDaniel
@@ -122,11 +107,6 @@
   github: annajiat
   curriculum: software
   position: member
-
-- name: Byron J. Smith
-  github: bsmith89
-  curriculum: software
-  position: chair
 
 - name: James Balamuta
   github: coatless
@@ -208,20 +188,15 @@
   curriculum: socialsci
   position: member
 
-- name: Edwin Bakiza
-  github: edwinbakiza
-  curriculum: socialsci
-  position:  secretary
-
 - name: Eirini Zormpa
   github: eirini-zormpa
   curriculum: socialsci
-  position: chair
+  position: member
 
 - name: Macarena Quiroga
   github: msquiroga89
   curriculum: socialsci
-  position: member
+  position: secretary
 
 - name: Nathaniel Porter
   github: ndporter
@@ -241,4 +216,4 @@
 - name: Georgina Pegu
   github: Gina123-P
   curriculum: software
-  position:  secretary
+  position:  chair
