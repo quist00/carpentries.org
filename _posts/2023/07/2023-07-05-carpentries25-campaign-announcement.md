@@ -1,4 +1,3 @@
-
 ---
 layout: page
 authors: ["Alycia Crall”, “Oscar Masinyana”]
@@ -9,7 +8,8 @@ time: "18:00:00"
 tags: ["Carpentries25", “community”, “events”, “Africa”, “Australasia”, “North America”, “Latin America”]
 ---
 
-On 24 July 1998, the first Software Carpentry workshop, led by Greg Wilson and Brent Gorda,  came to a close. The workshop aimed to teach researchers skills to work more effectively with their data. 
+On 24 July 1998, the first Software Carpentry workshop, led by Greg Wilson and Brent Gorda,  came to a close. The workshop aimed to teach researchers skills 
+to work more effectively with their data. 
   
 ![Image of the attendees of the first ever Software Carpentries workshop]({{ site.urlimg }}/blog/2023/07/1998-07-24-first-carpentries-workshop.jpg)_Attendees at the first Software Carpentry workshop in 1998. Image: Greg Wilson_
 
