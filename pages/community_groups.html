@@ -1,0 +1,188 @@
+---
+layout: page-fullwidth
+title: "The Carpentries Subcommunities"
+permalink: "/community-groups/"
+---
+
+
+{% assign groups = site.data.subcommunity %}
+
+{% for subcomm in groups.subcommunities %}
+<!-- Name with link to website if applicable  -->
+{% if subcomm.website %}
+<h2> 
+{% if subcomm.logo %}
+<img src="/assets/img/subcommunities/{{ subcomm.logo }}" class="img-responsive img-circle" alt="logo"  width="24" height="24" >
+{% endif %}
+<a href="{{subcomm.website}}">{{ subcomm.name }}</a>
+</h2>
+
+{% else %}
+<h2 id = "{{ subcomm.name }}">{{ subcomm.name }}</h2>
+{% endif %}
+
+
+
+<!-- Group type -->
+
+<b>About us </b><br>
+<div>
+    {% assign group_type = subcomm.type %}
+    {% assign group_type_text = "&#9679; " %}
+    
+    {% if group_type.geographic_local %}
+    {% assign group_type_text = group_type_text | append: "Local Group &#9679; " %}
+    {% endif %}
+    
+    {% if group_type.geographic_regional %}
+    {% assign group_type_text = group_type_text | append: "Regional Group &#9679; " %}
+    {% endif %}
+    
+    {% if group_type.language %}
+    {% assign group_type_text = group_type_text | append: "Language Group &#9679; " %}
+    {% endif %}
+    
+    {% if group_type.domain %}
+    {% assign group_type_text = group_type_text | append: "Domain Specific Group &#9679; " %}
+    {% endif %}
+    
+    {% if group_type.interest == true %}
+    {% assign group_type_text = group_type_text | append: "Special Interest Group &#9679; " %}
+    {% endif %}
+    
+    {% if group_type.other %}
+    {% assign other_type = group_type.other %}
+    {% assign group_type_text = group_type_text | append: other_type %}
+    {% endif %}
+</div>
+
+<div>{{ group_type_text }}</div>
+
+<!-- Group Description -->
+
+<div>{{ subcomm.description }}</div>
+
+
+<!-- Group Accepting volunteers -->
+<div>
+    <b>Accepting new volunteers?</b>
+    {% if subcomm.volunteers == true %} Yes
+    {% else %} No
+    {% endif %}
+</div>
+
+
+<!-- Group Activities -->
+
+<b>Our Activities</b>
+<div>
+    {% assign all_activities = subcomm.activities %}
+    {% assign activities_text = " &#9679; " %}
+
+    {% if all_activities.carpentry_connect %}
+    {% assign activities_text =  activities_text | append: "Carpentry Connect &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.communication %}
+    {% assign activities_text =  activities_text | append: "Support Communication &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.prof_dev %}
+    {% assign activities_text =  activities_text | append: "Professional Development &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.sow %}
+    {% assign activities_text =  activities_text | append: "Self Organised Workshops &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.fundraising %}
+    {% assign activities_text =  activities_text | append: "Fundraising &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.student_programs %}
+    {% assign activities_text =  activities_text | append: "Student Programs &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.translation %}
+    {% assign activities_text =  activities_text | append: "Translation &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.mentoring %}
+    {% assign activities_text =  activities_text | append: "Mentoring &#9679; " %}
+    {% endif %}
+
+    {% if all_activities.other %}
+    {% assign activities_other = all_activities_other %}
+    {% assign activities_text =  activities_text | append: all_activities_other %}
+    {% endif %}
+
+    {{ activities_text }}
+</div>
+
+<!-- Group Contact -->
+
+<b>Contact us</b>
+<div>
+    <ul>
+    {% if subcomm.website %}
+    <li>our website: <a href="{{ subcomm.website }}">{{ subcomm.website }}</a> </li>
+    {% endif %}
+
+    {% assign all_contact_info = subcomm.contact %}
+
+    {% if all_contact_info.mailing_list %}
+    <li>our mailing list: <a href="{{ all_contact_info.mailing_list }}">{{ all_contact_info.mailing_list }}</a></li>
+    {% endif %}
+
+    {% if all_contact_info.email %}
+    <li>email us: {{ all_contact_info.email }}</li>
+    {% endif %}
+
+    {% if all_contact_info.slack %}
+    <li>on Slack: {{ all_contact_info.slack }}</li>
+    {% endif %}
+
+    {% if all_contact_info.contact_form %}
+    <li>our contact form: {{ all_contact_info.contact_form }}</li>
+    {% endif %}
+
+
+    <li>On social media: 
+    {% assign all_social_media = subcomm.social_media %}
+
+    {% if all_social_media.twitter %}
+    <a href="https://twitter.com/{{ all_contact_info.twitter }}"> <i class="fab fa-twitter" title="Twitter"></i> </a> 
+    {% endif %}
+
+    {% if all_social_media.mastodon %}
+    <a rel="me" href="{{ all_contact_info.mastodon }}"><i class="fab fa-mastodon"></i></a>
+    {% endif %}    
+
+    {% if all_social_media.instagram %}
+    <a rel="me" href="{{ all_contact_info.instagram }}"><i class="fab fa-instagram"></i></a>
+    {% endif %}  
+
+    {% if all_social_media.facebook %}
+    <a rel="me" href="{{ all_contact_info.facebook }}"><i class="fab fa-facebook-f"></i></a>
+    {% endif %}  
+
+    {% if all_social_media.linkedin %}
+    <a rel="me" href="{{ all_contact_info.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+    {% endif %}  
+</li>
+
+</ul>
+
+</div>
+<br><br>
+{% endfor %}
+
+
+<div>
+<ul class="list-inline social-buttons">
+<li><a href="https://twitter.com/thecarpentries"> <i class="fab fa-facebook-f" title="Twitter"></i> </a></li>
+<li><a href="https://twitter.com/thecarpentries"> <i class="fab fa-linkedin-in" title="Twitter"></i> </a></li>
+<li><a href="https://twitter.com/thecarpentries"> <i class="fab fa-mastodon" title="Twitter"></i> </a></li>
+</ul>
+</div>
+
