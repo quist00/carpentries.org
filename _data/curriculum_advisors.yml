@@ -43,20 +43,20 @@
   curriculum: genomics
   position: member
 
+- name: Graeme Grimes
+  github: ggrimes
+  curriculum: genomics
+  position: member
+
 - name: Jeff Hollister
   github: jhollist
   curriculum: geospatial
   position: chair
 
-- name: Ming Tang
-  github: crazyhottommy
-  curriculum: genomics
-  position: chair
-
 - name: Naupaka Zimmerman
   github: naupaka
   curriculum: genomics
-  position: member
+  position: chair
 
 - name: Jeff Hollister
   github: jhollist
