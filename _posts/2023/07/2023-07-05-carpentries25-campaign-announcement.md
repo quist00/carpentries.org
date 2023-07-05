@@ -11,9 +11,13 @@ tags: ["Carpentries25", "Community", "Events", "Africa", "Australasia", "North A
 On 24 July 1998, the first Software Carpentry workshop, led by Greg Wilson and Brent Gorda,  came to a close. The workshop aimed to teach researchers skills 
 to work more effectively with their data. 
   
-![Image of the attendees of the first ever Software Carpentries workshop]({{ site.urlimg }}/blog/2023/07/1998-07-24-first-carpentries-workshop.jpg)_Image by Greg Wilson of attendees at the first Software Carpentry workshop in 1998_
+![Image of the attendees of the first ever Software Carpentries workshop]({{ site.urlimg }}/blog/2023/07/1998-07-24-first-carpentries-workshop.jpg)
 
-![Timeline of the history of the Carpentries]({{ site.urlimg }}/blog/2023/07/2023-07-05-carpentries-timeline.png)_Timeline signifying milestones in the history of The Carpentries_
+*Image by Greg Wilson of attendees at the first Software Carpentry workshop in 1998*
+
+![Timeline of the history of the Carpentries]({{ site.urlimg }}/blog/2023/07/2023-07-05-carpentries-timeline.png)
+
+*Timeline signifying milestones in the history of The Carpentries*
 
 This year, 25 years later, on that same day, we will launch a series of events to celebrate this milestone. This launch event will include a conversation with founders and past and present Directors reflecting on the beginnings and evolution of the organisation. After the launch event, from August to December 2023, we plan to spotlight a region of the world each month to demonstrate the contributions and impact of our global community. We will be featuring the regions in the following order:
 
