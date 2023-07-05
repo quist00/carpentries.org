@@ -1,19 +1,19 @@
 ---
 layout: page
-authors: ["Alycia Crall”, “Oscar Masinyana”]
+authors: ["Alycia Crall", "Oscar Masinyana"]
 teaser: "Join us in sharing the contributions and impact the community has made over the years."
 title: "Celebrating 25 Years of The Carpentries"
 Date: 2023-07-05
 time: "18:00:00"
-tags: ["Carpentries25", “Community”, “Events”, “Africa”, “Australasia”, “North America”, “Latin America”]
+tags: ["Carpentries25", "Community", "Events", "Africa", "Australasia", "North America", "Latin America"]
 ---
 
 On 24 July 1998, the first Software Carpentry workshop, led by Greg Wilson and Brent Gorda,  came to a close. The workshop aimed to teach researchers skills 
 to work more effectively with their data. 
   
-![Image of the attendees of the first ever Software Carpentries workshop]({{ site.urlimg }}/blog/2023/07/1998-07-24-first-carpentries-workshop.jpg) _Attendees at the first Software Carpentry workshop in 1998. Image: Greg Wilson_
+![Image of the attendees of the first ever Software Carpentries workshop]({{ site.urlimg }}/blog/2023/07/1998-07-24-first-carpentries-workshop.jpg) _Image by Greg Wilson of attendees at the first Software Carpentry workshop in 1998_
 
-![Timeline of the history of the Carpentries]({{ site.urlimg }}/blog/2023/07/2023-07-05-carpentries-timeline.png) _Timeline signifying milestones in the history of The Carpentries._
+![Timeline of the history of the Carpentries]({{ site.urlimg }}/blog/2023/07/2023-07-05-carpentries-timeline.png) _Timeline signifying milestones in the history of The Carpentries_
 
 This year, 25 years later, on that same day, we will launch a series of events to celebrate this milestone. This launch event will include a conversation with founders and past and present Directors reflecting on the beginnings and evolution of the organisation. 
 
