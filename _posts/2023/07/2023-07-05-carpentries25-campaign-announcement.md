@@ -5,7 +5,7 @@ teaser: "Join us in sharing the contributions and impact the community has made 
 title: "Celebrating 25 Years of The Carpentries"
 Date: 2023-07-05
 time: "18:00:00"
-tags: ["Carpentries25", “community”, “events”, “Africa”, “Australasia”, “North America”, “Latin America”]
+tags: ["Carpentries25", “Community”, “Events”, “Africa”, “Australasia”, “North America”, “Latin America”]
 ---
 
 On 24 July 1998, the first Software Carpentry workshop, led by Greg Wilson and Brent Gorda,  came to a close. The workshop aimed to teach researchers skills 
