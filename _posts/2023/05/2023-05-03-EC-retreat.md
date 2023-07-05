@@ -16,7 +16,7 @@ The hybrid agenda included team-building activities for the Council as a whole, 
 
 ## Goals, achievements, and highlights
 
-The EC participated in a robust discussion about the [strategic plan](https://carpentries.org/strategic-plan/) for 2020-2025 and what potential revisions, new goals and objectives, or updates to metrics are needed. The discussion included a deep dive into the strengths, weaknesses, and opportunities for growth and change supporting the 3-5 year strategic plan. The Core Team updated the EC about their activities and how their work, in collaboration with our community, supports our strategic objectives. There were opportunities for questions, comments, interactions with each Team Lead, and acknowledgment of their efforts towards our strategic goals.
+The EC participated in a robust discussion about the [strategic plan](https://carpentries.org/strategic-plan/) for 2020-2025 and what potential revisions, new goals and objectives, or updates to metrics are needed. The discussion included a deep dive into the strengths, weaknesses, and opportunities for growth and change supporting the 3-5 year strategic plan. The Core Team updated the EC about their activities and how their work, in collaboration with our community, supports our strategic objectives. There were opportunities for questions, comments, interactions with each Team Lead, and acknowledgement of their efforts towards our strategic goals.
 
 Additionally, a succession plan for The Carpentries’ Executive Director was approved to ensure processes are identified for maintaining this leadership role.
 
@@ -36,4 +36,4 @@ One EC member reflects, “I appreciate learning so much about The Carpentries o
 
 ## Join an upcoming Community Discussion
 
-Join us for a discussion of our quarter one and two meetings at the upcoming Community Discussion on (UTC) Wednesday 14 June 2023 20:00 PM. Sign up to attend on the [community-discussions etherpad](https://pad.carpentries.org/community-discussions), and read the minutes from our recent meetings on the [executive-council-info repository](https://github.com/carpentries/executive-council-info/tree/main/minutes/2023). 
+Join us for a discussion of our quarter one and two meetings at the upcoming Community Discussion on (UTC) Wednesday, 14 June 2023, at 20:00 PM. Sign up to attend on the [community-discussions etherpad](https://pad.carpentries.org/community-discussions), and read the minutes from our recent meetings on the [executive-council-info repository](https://github.com/carpentries/executive-council-info/tree/main/minutes/2023). 
