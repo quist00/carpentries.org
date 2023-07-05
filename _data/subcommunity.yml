@@ -1,0 +1,446 @@
+subcommunities:
+
+- name: Carpentries Italia
+  type:
+    geographic_local: 
+    geographic_regional: true 
+    language: true
+    domain:
+    interest:
+    other: 
+  member: false 
+  description: We are a small group of Italian Carpentries instructors, many of whom are living abroad. In the last couple of years we organized 3 SWC workshops in collaboration with ELIXIR. We also have our own slack workspace and have attempted some translations.
+  activities: 
+    carpentry_connect:
+    communication: true
+    prof_dev: 
+    sow: true 
+    fundraising: true 
+    student_programs:
+    translation: true 
+    mentoring:
+    other: 
+  volunteers: true
+  logo:
+  location: Italy
+  country: IT
+  website: https://carpentriesitalia.github.io/ 
+  tags:
+    assessment:
+    carpentry_connect:
+    communication:
+    community_discussion:
+    curriculum:
+    events:
+    governance:
+    inperson_workshops:
+    instructor_development:
+    instructor_training:
+    internationalization: true 
+    membership:
+    mentoring:
+    online_workshops: true 
+    teaching:
+    other: 
+  contact:
+    email:
+    slack:
+    mailing_list: local-italia@lists.carpentries.org
+    contact_form: https://carpentriesitalia.github.io/ 
+    contact_person: Martino Sorbaro martino.sorbaro@posteo.net
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
+ 
+- name: The Carpentries in Australia
+  type:
+    geographic_local:
+    geographic_regional: true 
+    language: 
+    domain:
+    interest:
+    other: 
+  member: False
+  description: A subcommunity for Carpentries activity in Australia. We often link our activities with the equivalent subcommunity in New Zealand.
+  activities: 
+    carpentry_connect: true 
+    communication: true 
+    prof_dev: 
+    sow: true 
+    fundraising:
+    student_programs:
+    translation:
+    mentoring: true 
+    other:   
+  volunteers: true 
+  logo:
+  location: Australia
+  country: AU 
+  website: https://carpentries.org/regions_au/
+  tags:
+    assessment:
+    carpentry_connect: true 
+    communication:
+    community_discussion: true 
+    curriculum:
+    events:
+    governance:
+    inperson_workshops: true 
+    instructor_development: true 
+    instructor_training: true 
+    internationalization:
+    membership:
+    mentoring: true 
+    online_workshops: true 
+    teaching:
+    other: 
+  contact:
+    email: admin-au@carpentries.org
+    slack:
+    mailing_list: https://carpentries.topicbox.com/groups/local-aunz
+    contact_form:
+    contact_person: Damien Irving, irving.damien@gmail.com
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
+ 
+
+
+- name: PyAOS Carpentry 
+  type:
+    geographic_local: true
+    geographic_regional:  
+    language: 
+    domain: true 
+    interest:
+    other: 
+  member:
+  description: The Python for Atmosphere and Ocean Science (PyAOS) subcommunity focuses on running workshops for those working / studying in the weather, ocean and climate sciences. It does this through maintaining lesson materials and supporting instructors. 
+  activities: 
+    carpentry_connect: true 
+    communication: true 
+    prof_dev: 
+    sow: true 
+    fundraising:
+    student_programs:
+    translation:
+    mentoring: true 
+    other:   
+  volunteers: true 
+  logo:
+  location:
+  country:
+  website:  https://github.com/carpentries-lab/python-aos-lesson
+  tags:
+    assessment:
+    carpentry_connect:
+    communication:
+    community_discussion:
+    curriculum: true 
+    events:
+    governance:
+    inperson_workshops: true 
+    instructor_development:
+    instructor_training:
+    internationalization:
+    membership:
+    mentoring: true 
+    online_workshops: true 
+    teaching:
+    other: 
+  contact:
+    email: Damien Irving, irving.damien@gmail.com
+    slack:
+    mailing_list:
+    contact_form:
+    contact_person:
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin: pyaos
+ 
+
+
+
+- name: Carpentries Offline
+  type:
+    geographic_local:
+    geographic_regional:
+    language: 
+    domain: 
+    interest: true 
+    other:  
+  member:
+  description:  CarpentriesOffline aims to provide a solution for instructors to run workshops in areas where there is no or limited Internet access.
+  activities: 
+    carpentry_connect:
+    communication:
+    prof_dev: 
+    sow: true 
+    fundraising:
+    student_programs:
+    translation:
+    mentoring:
+    other: Monthly developer meetings
+  volunteers: true 
+  logo: carpentries_offline.png
+  location: Global
+  country:
+  website: https://CarpentriesOffline.org
+  tags:
+    assessment:
+    carpentry_connect:
+    communication:
+    community_discussion:
+    curriculum:  
+    events:
+    governance:
+    inperson_workshops: true 
+    instructor_development:
+    instructor_training:
+    internationalization:
+    membership:
+    mentoring:  
+    online_workshops:  
+    teaching: true 
+    other: 
+  contact:
+    email:
+    slack:
+    mailing_list:
+    contact_form:
+    contact_person:
+  social_media: 
+    twitter: offline_twit
+    mastodon: 
+    instagram: offline_ig
+    facebook: 
+    linkedin:  
+ 
+
+
+
+# - name: 
+#   type:
+#     - geographic_local:
+#     - geographic_regional:
+#     - language: 
+#     - domain: 
+#     - interest:
+#     - other: 
+#   member:
+#   description: 
+#   activities: 
+#     - carpentry_connect:
+#     - communication:
+#     - prof_dev: 
+#     - sow:  
+#     - fundraising:
+#     - student_programs:
+#     - translation:
+#     - mentoring:
+#     - other: 
+#   volunteers:  
+#   logo:
+#   location:
+#   country:
+#   website:
+#   tags:
+#     - assessment:
+#     - carpentry_connect:
+#     - communication:
+#     - community_discussion:
+#     - curriculum:  
+#     - events:
+#     - governance:
+#     - inperson_workshops:  
+#     - instructor_development:
+#     - instructor_training:
+#     - internationalization:
+#     - membership:
+#     - mentoring:  
+#     - online_workshops:  
+#     - teaching:
+#     - other: 
+#   contact:
+#     - email:
+#     - slack:
+#     - mailing_list:
+#     - contact_form:
+#     - twitter:
+#     - mastodon:
+#     - instagram:
+#     - facebook:
+#     - linkedin:
+#     - contact_person:
+
+# - name: 
+#   type:
+#     - geographic_local:
+#     - geographic_regional:
+#     - language: 
+#     - domain: 
+#     - interest:
+#     - other: 
+#   member:
+#   description: 
+#   activities: 
+#     - carpentry_connect:
+#     - communication:
+#     - prof_dev: 
+#     - sow:  
+#     - fundraising:
+#     - student_programs:
+#     - translation:
+#     - mentoring:
+#     - other: 
+#   volunteers:  
+#   logo:
+#   location:
+#   country:
+#   website:
+#   tags:
+#     - assessment:
+#     - carpentry_connect:
+#     - communication:
+#     - community_discussion:
+#     - curriculum:  
+#     - events:
+#     - governance:
+#     - inperson_workshops:  
+#     - instructor_development:
+#     - instructor_training:
+#     - internationalization:
+#     - membership:
+#     - mentoring:  
+#     - online_workshops:  
+#     - teaching:
+#     - other: 
+#   contact:
+#     - email:
+#     - slack:
+#     - mailing_list:
+#     - contact_form:
+#     - twitter:
+#     - mastodon:
+#     - instagram:
+#     - facebook:
+#     - linkedin:
+#     - contact_person:
+
+# - name: 
+#   type:
+#     - geographic_local:
+#     - geographic_regional:
+#     - language: 
+#     - domain: 
+#     - interest:
+#     - other: 
+#   member:
+#   description: 
+#   activities: 
+#     - carpentry_connect:
+#     - communication:
+#     - prof_dev: 
+#     - sow:  
+#     - fundraising:
+#     - student_programs:
+#     - translation:
+#     - mentoring:
+#     - other: 
+#   volunteers:  
+#   logo:
+#   location:
+#   country:
+#   website:
+#   tags:
+#     - assessment:
+#     - carpentry_connect:
+#     - communication:
+#     - community_discussion:
+#     - curriculum:  
+#     - events:
+#     - governance:
+#     - inperson_workshops:  
+#     - instructor_development:
+#     - instructor_training:
+#     - internationalization:
+#     - membership:
+#     - mentoring:  
+#     - online_workshops:  
+#     - teaching:
+#     - other: 
+#   contact:
+#     - email:
+#     - slack:
+#     - mailing_list:
+#     - contact_form:
+#     - twitter:
+#     - mastodon:
+#     - instagram:
+#     - facebook:
+#     - linkedin:
+#     - contact_person:
+
+
+# - name: 
+#   type:
+#     - geographic_local:
+#     - geographic_regional:
+#     - language: 
+#     - domain: 
+#     - interest:
+#     - other: 
+#   member:
+#   description: 
+#   activities: 
+#     - carpentry_connect:
+#     - communication:
+#     - prof_dev: 
+#     - sow:  
+#     - fundraising:
+#     - student_programs:
+#     - translation:
+#     - mentoring:
+#     - other: 
+#   volunteers:  
+#   logo:
+#   location:
+#   country:
+#   website:
+#   tags:
+#     - assessment:
+#     - carpentry_connect:
+#     - communication:
+#     - community_discussion:
+#     - curriculum:  
+#     - events:
+#     - governance:
+#     - inperson_workshops:  
+#     - instructor_development:
+#     - instructor_training:
+#     - internationalization:
+#     - membership:
+#     - mentoring:  
+#     - online_workshops:  
+#     - teaching:
+#     - other: 
+#   contact:
+#     - email:
+#     - slack:
+#     - mailing_list:
+#     - contact_form:
+#     - twitter:
+#     - mastodon:
+#     - instagram:
+#     - facebook:
+#     - linkedin:
+#     - contact_person:
