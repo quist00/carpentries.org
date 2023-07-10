@@ -15,7 +15,6 @@ for beta testing.
 **teach this alternative version of the lesson and provide feedback**,
 to inform their discussions as they consider formally adopting it and replacing the [current version in the curriculum][r-ecology-current].
 
-![Overview of the redesigned lesson content]({{ site.urlimg }}/blog/2023/07/2023-07-10-r-ecology-alt-beta-overview.svg)
 
 ## About the Redesigned Lesson
 The lesson was redesigned and developed by [Michael Culshaw-Maurer][mcm]
@@ -26,6 +25,8 @@ as a post-doc at [CyVerse][cyverse].
 The redesigned lesson teaches the same fundamental skills in data handling, analysis, and visualisation
 as the current Data Carpentry lesson,
 but the narrative structure and key packages used are notably different.
+
+![Overview of the redesigned lesson content]({{ site.urlimg }}/blog/2023/07/2023-07-10-r-ecology-alt-beta-overview.svg)
 
 After orienting learners to R and RStudio 
 and motivating them to adopt a scripting approach to data analysis,
@@ -38,6 +39,7 @@ and the instructions - using packages from the _tidyverse_ to filter, process, s
 of the recipe.
 
 ![Screenshot of the 'Changing Labels' section of the redesigned version of the Data Carpentry R Ecology lesson]({{ site.urlimg }}/blog/2023/07/2023-07-10-r-ecology-alt-beta-screenshot.png)
+_A screenshot of one section from the second episode of the redesigned lesson._
 
 After initial development was completed, 
 the lesson was alpha tested by Michael at a workshop at Rice University,
