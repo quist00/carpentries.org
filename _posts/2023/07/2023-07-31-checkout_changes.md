@@ -16,13 +16,6 @@ Summary of the updated checkout process:
 * [Attend a Welcome Session](#Community-Discussion--gt-Welcome-Session), a new type of community discussion focused on new community members
 * [Get Involved with the Carpentries in any way that suits you](#Lesson-Contribution--gt-%E2%80%9CGet-Involved%E2%80%9D-Step) (no longer limited to lesson contributions!)
 
-## Why make changes to the Instructor Checkout process?
-[In 2022, Kelly Barnes led a project team to evaluate the existing checkout process](https://carpentries.org/blog/2022/09/checkout-project/). This included extensive conversations and focus groups across our communities. 
-
-The project team reviewed the feedback shared during this assessment and generated a set of recommended changes. These recommendations were shared for discussion with the Trainer community, which oversees changes to our Instructor Training program, after which they were [submitted to Trainers Leadership for approval](https://github.com/carpentries/trainers/issues/226). 
-
-Preparing for these changes has taken time, and we still are not able to pursue all of the changes recommended based on community feedback. However, the Carpentries database (AMY), documentation, and Trainer community are finally ready to roll out the most important elements: changes to trainee requirements to receive certification.
-
 
 ## What has changed?
  
@@ -31,17 +24,25 @@ Preparing for these changes has taken time, and we still are not able to pursue 
 Caption: A visual guide to the changes we are making to The Carpentries Instructor checkout process. For more details, each step is described below.
 
 ### Teaching Demonstration
-A teaching demonstration is an online session where trainees perform 5-minutes of teaching, receive feedback, and share feedback for others. Teaching demos are hosted by Carpentries certified Instructor Trainers, who report this step as "passed" when have successfully demonstrated essential Carpentries teaching practices.
+A teaching demonstration is an online session where trainees perform 5-minutes of teaching, receive feedback, and share feedback for others. 
+Teaching demos are hosted by Carpentries certified Instructor Trainers, 
+who report this step as "passed" when trainees have successfully demonstrated essential Carpentries teaching practices.
 
-[Rob: I think the "previously" and "now" should put the change in bold at the start of each section here...]
-**Previously: Trainees were required to prepare to teach the full lesson prior to performing their teaching demonstration.** The Trainer hosting the session would then select a starting point within the lesson during the demonstration. This supported Instructor preparation for their first teaching experience, but it also made the demo more challenging and created inequities among lessons based on the number of usable episodes they contained. 
-**Now: Trainees will now be allowed to select a specific episode (or section of a lesson) with live coding, or other participatory content, to present at their demo.** Since the primary purpose of the teaching demonstration is to evaluate teaching practices, it was determined that this can be evaluated without asking trainees to prepare every episode in a  lesson. **** [Eli: changed "any" to "a specific" - trying to be clearer from this sentence alone that the preparation burden is reduced.]
+**Previously: Trainees were required to prepare to teach the full lesson prior to performing their teaching demonstration.** 
+The Trainer hosting the session would select a starting point within the lesson during the demonstration. 
+This supported Instructor preparation for their first teaching experience, 
+but it also made the demo more challenging and created inequities among lessons based on the number of usable episodes they contained.  
+
+**Now: Trainees will now be allowed to select a specific episode (a section of a Carpentries lesson) with live coding, or other participatory content, to present at their demo.** 
+Since the primary purpose of the teaching demonstration is to evaluate teaching practices, 
+it was determined that this can be evaluated without asking trainees to prepare every episode in a lesson.
 
 This will reduce the stress of preparing for the teaching demonstration and allow trainees to focus on their teaching style. 
+It does add a new responsibility to select a suitable episode with participatory content. 
+[A list of episodes eligible for use in teaching demonstrations may be found in our Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons.html).
 
-<!--- Consider adding a link to upcoming Teaching Demonstrations
-
-[Upcoming Teaching Demonstrations](https://pad.carpentries.org/teaching-demos)
+We will not be making any changes to the process for signing up for teaching demonstrations at this time. 
+To sign up, trainees should visit the [Teaching Demonstrations Etherpad](https://pad.carpentries.org/teaching-demos)
 
 --->
 
@@ -73,6 +74,12 @@ A "lesson contribution" includes many forms of engagement on and off GitHub, but
 ### How will the Checkout steps be tracked?
 **For the "Get Involved" step trainees must login to AMY to report which participation option they have completed.** Teaching Demonstrations and Welcome Sessions will be tracked automatically based on data shared by session hosts.  This includes events where attendance is taken (e.g. a regional call) -- it is still necessary to login and report that event as your choice for the Get Involved step. 
 
+## Why make changes to the Instructor Checkout process?
+[In 2022, Kelly Barnes led a project team to evaluate the existing checkout process](https://carpentries.org/blog/2022/09/checkout-project/). This included extensive conversations and focus groups across our communities. 
+
+The project team reviewed feedback and shared a set of recommended changes for discussion with the Trainer community. After Trainer community review, these recommendations were [submitted to Trainers Leadership for approval](https://github.com/carpentries/trainers/issues/226). 
+
+Preparations take time, and not all recommendations could be implemented with this update! However, all recommended changes to trainee requirements are complete with this update. In the future, we hope that additional changes to our infrastructure will allow us to address recommendations regarding scheduling and trainee support.  
 
 ## FAQ
 ### I am currently in the process of completing checkout. What are my options?
