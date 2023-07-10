@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: [Mike Trizna", "Jen Thomas", "Reinder Radersma", "Adriana De Palma", "Sichong Peng", "Michael Culshaw-Maurer", "Toby Hodges", "Erin Becker"]
-teaser: "Trialing a reimagined version of the popular Data Carpentry: _Data Analysis and Visualization in R for Ecologists_ lesson."
+teaser: "Trialing a reimagined version of the popular Data Carpentry lesson: Data Analysis and Visualization in R for Ecologists."
 title: "Beta Testing an Alternative Version of R Ecology lesson"
 date: 2023-07-10
 time: "09:00:00"
