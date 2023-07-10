@@ -11,7 +11,6 @@ tags: ["Instructor Training", "Membership"]
 
 Starting today, there are more options available for trainees to complete the process of certifying as a Carpentries Instructor! 
 
-[Eli: added this summary of the changes with links to the sections, please rephrase as you like]
 Summary of the updated checkout process:
 * [Teaching Demonstration requires less preparation](#Teaching-Demonstration)
 * [Attend a Welcome Session](#Community-Discussion--gt-Welcome-Session), a new type of community discussion focused on new community members
@@ -26,8 +25,6 @@ Preparing for these changes has taken time, and we still are not able to pursue 
 
 
 ## What has changed?
-
-[Eli: added emphasis to one sentence in each step so the new requirements can be found more easily in the text]
  
 ![A diagram showing relationships between previous and new checkout requirements](https://codimd.carpentries.org/uploads/upload_199bf6b9b4294b76b5aecce63782de65.png)
 
