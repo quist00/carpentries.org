@@ -5,7 +5,7 @@ permalink: /assessment/
 ---
 
 
-At The Carpentries we are "[Always Learning](https://carpentries.org/values/)". We embody the [growth mindset we teach](https://carpentries.github.io/instructor-training/aio.html#encourage-a-growth-mindset) using data and community feedback to measure our impact and foster continuous improvement.   
+At The Carpentries we are "[Always Learning](https://carpentries.org/values/)". We embody the [growth mindset we teach](https://carpentries.github.io/instructor-training/08-motivation.html#encourage-a-growth-mindset) using data and community feedback to measure our impact and foster continuous improvement.   
 
 <hr>
 
