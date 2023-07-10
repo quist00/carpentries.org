@@ -26,8 +26,7 @@ Preparing for these changes has taken time, and we still are not able to pursue 
 
 ## What has changed?
  
-![A diagram showing relationships between previous and new checkout requirements](https://codimd.carpentries.org/uploads/upload_199bf6b9b4294b76b5aecce63782de65.png)
-
+![A diagram showing relationships between previous and new checkout requirements]({{ site.urlimg }}/blog/2023/07/Checkout-2023-07-10-1417.svg) A visual guide to the changes we are making to The Carpentries Instructor checkout process. For more details, each step is described below.
 
 Caption: A visual guide to the changes we are making to The Carpentries Instructor checkout process. For more details, each step is described below.
 
