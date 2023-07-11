@@ -90,11 +90,11 @@ While this procedure is essentially almost identical, note that there is an impo
   
 
 ## Why make changes to the Instructor Checkout process?
-[In 2022, Kelly Barnes led a project team to evaluate the existing checkout process](https://carpentries.org/blog/2022/09/checkout-project/). This included extensive conversations and focus groups across our communities. 
+At The Carpentries, we are "[Always Learning](https://carpentries.org/values/)," seeking continuous improvement in our programs! We also champion Community Collaboration, especially in impactful decisions like this. [In 2022, Kelly Barnes led a project team to evaluate the existing checkout process](https://carpentries.org/blog/2022/09/checkout-project/). This included extensive conversations and focus groups across our communities. 
 
-The project team reviewed feedback and shared a set of recommended changes for discussion with the Trainer community. After Trainer community review, these recommendations were [submitted to Trainers Leadership for approval](https://github.com/carpentries/trainers/issues/226). 
+The project team reviewed feedback and shared a set of recommended changes for discussion with the [Trainer community](https://carpentries.org/trainers/). After Trainer community review, these recommendations were [submitted to Trainers Leadership for approval](https://github.com/carpentries/trainers/issues/226). 
 
-Preparations take time, and not all recommendations could be implemented with this update! However, all recommended changes to trainee requirements are complete with this update. In the future, we hope that additional changes to our infrastructure will allow us to address recommendations regarding scheduling and trainee support.  
+Preparations take time, and we were still not able to implement all of the recommendations with this update! However, all recommended changes to trainee requirements are now complete. In the future, we hope that additional changes to our evolving infrastructure will allow us to address additional recommendations, such as those regarding scheduling, signups, and trainee support.  
 
 ## FAQ
 ### I am currently in the process of completing checkout. What are my options?
@@ -102,9 +102,9 @@ You can choose to follow the old ways or the new ways!
 
 | Checkout Step                 | If not yet completed                                                                                                              | If previously completed          |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| Teaching demo        | Only required to prepare 1 episode                                                                                            | Counts as Teaching Demonstration |
-| Community Discussion | Sign up for a Welcome Session (or see more FAQ below)       | May count as Get Involved step or Welcome Session (but not both)|
-| Lesson contribution    | Select an option from the Get Involved recommendations                                                                     | Counts as Get Involved step |
+| Teaching Demonstration        | Can choose any [recommended starting episode](https://carpentries.github.io/instructor-training/demo_lessons.html) for your 5 min demo                                                                                            | Counts as Teaching Demonstration |
+| Community Discussion | Sign up for a [Welcome Session](https://pad.carpentries.org/welcome-sessions-2023) (or see more FAQ below)       | Counts as Welcome Session; contact us if you wish to change this to your "Get Involved" step and attend a Welcome Session instead|
+| Lesson contribution    | See recommended Carpentries activities for your "Get Involved" step                                                                      | Counts as "Get Involved" step |
 
 
 ### I am in the process of completing checkout and have already finished my Community Discussion requirement. How will that be recorded?
