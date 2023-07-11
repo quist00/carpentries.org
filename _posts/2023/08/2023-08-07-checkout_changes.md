@@ -79,14 +79,14 @@ Any participation will be accepted, but we suggest one of the following activiti
 - [ ] Attend an Instructor Meeting, regional call, or other community event
 - [ ] Submit a contribution to a Lesson, Glossario, or other Carpentries repository
 
-Signup procedures will vary by activity. Once an activity is completed, it must be submitted for credit directly in [AMY, our database](https://amy.carpentries.org) (see below).
+Signup procedures will vary by activity. Once an activity is completed, it must be submitted for credit directly in [AMY, our database](https://amy.carpentries.org) (discussed below).
 
 ### Tracking Checkout progress
 **Previously: Teaching Demonstrations and Community Discussions were automatically recorded. After submitting a lesson contribution, trainees could receive credit by reporting their contribution in AMY, our database, or by emailing it to the Instructor Training team.**  
 
 **Now: Teaching Demonstrations and Welcome Sessions will be automatically recorded for each trainee. After completing a "Get Involved" activity, trainees must [login to AMY](https://amy.carpentries.org) to report which participation option they wish to have credited.** 
 Trainees can still [email us](mailto:instructor.training@carpentries.org) if they have difficulty accessing the database.
-While this procedure is essentially almost identical, note that there is an important change to how Community Discussions will be handled. Since these are now one of many options that can be counted towards the "Get Involved" step, **Community Discussion attendance will no longer be automatically recorded for checkout credit.** It is necessary to login and report attendance at a Community Discussion if a trainee wishes to apply it to satisfy the "Get Involved" step. (Also, see FAQ below for requests to substitute a community session for a welcome session.) 
+While this procedure is essentially almost identical, note that there is an important change to how Community Discussions will be handled. Since these are now one of many options that can be counted towards the "Get Involved" step, **Community Discussion attendance will no longer be automatically recorded for checkout credit.** It is necessary to login and report attendance at a Community Discussion if a trainee wishes to apply it to satisfy the "Get Involved" step. (Also, refer to FAQ below for requests to substitute a community session for a welcome session.) 
   
 
 ## Why make changes to the Instructor Checkout process?
@@ -103,8 +103,8 @@ You can choose to follow the old ways or the new ways!
 | Checkout Step                 | If not yet completed                                                                                                              | If previously completed          |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | Teaching Demonstration        | Can choose any [recommended starting episode](https://carpentries.github.io/instructor-training/demo_lessons.html) for your 5 min demo                                                                                            | Counts as Teaching Demonstration |
-| Community Discussion | Sign up for a [Welcome Session](https://pad.carpentries.org/welcome-sessions-2023) (or see more FAQ below)       | Counts as Welcome Session, but see next FAQ|
-| Lesson contribution    | See recommended Carpentries activities for your "Get Involved" step                                                                      | Counts as "Get Involved" step |
+| Community Discussion | Sign up for a [Welcome Session](https://pad.carpentries.org/welcome-sessions-2023) (or refer to FAQ below)       | Counts as Welcome Session, or next FAQ|
+| Lesson contribution    | Review recommended Carpentries activities for your "Get Involved" step                                                                      | Counts as "Get Involved" step |
 
 ### I am in the process of completing checkout and have already finished my Community Discussion requirement. How will that be applied?
 If you have already attended a Community Discussion (or other commumity event) as part of checkout, we have automatically transferred this activity to complete your Welcome Session step.
