@@ -103,30 +103,36 @@ You can choose to follow the old ways or the new ways!
 | Checkout Step                 | If not yet completed                                                                                                              | If previously completed          |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | Teaching Demonstration        | Can choose any [recommended starting episode](https://carpentries.github.io/instructor-training/demo_lessons.html) for your 5 min demo                                                                                            | Counts as Teaching Demonstration |
-| Community Discussion | Sign up for a [Welcome Session](https://pad.carpentries.org/welcome-sessions-2023) (or see more FAQ below)       | Counts as Welcome Session; contact us if you wish to change this to your "Get Involved" step and attend a Welcome Session instead|
+| Community Discussion | Sign up for a [Welcome Session](https://pad.carpentries.org/welcome-sessions-2023) (or see more FAQ below)       | Counts as Welcome Session, but see next FAQ|
 | Lesson contribution    | See recommended Carpentries activities for your "Get Involved" step                                                                      | Counts as "Get Involved" step |
 
-
-### I am in the process of completing checkout and have already finished my Community Discussion requirement. How will that be recorded?
+### I am in the process of completing checkout and have already finished my Community Discussion requirement. How will that be applied?
 If you have already attended a Community Discussion (or other commumity event) as part of checkout, we have automatically transferred this activity to complete your Welcome Session step.
 
 This means:
 - You do not need to attend a Welcome Session unless you want to.
 - If you do attend a Welcome Session, we will use the Welcome Session towards your Welcome Session requirement and the previously attended community Discussion to complete your Get Involved step.
 
-### I am in the process of completing checkout and I don't want to attend a welcome session. 
-**Community Discussion attendance will be accepted for the next 90 days [Eli: include the specific date] as a means to fulfill the Welcome Session step.** However, from this point forward, Community Discussion attendance will **not** automatically be counted towards this step because some trainees will choose to submit these for their "Get Involved" step instead. If you would like to have a Community Discussion that is not a welcome session counted for your welcome session, please contact us at instructor.training@carpentries.org.
+### I am in the process of completing checkout. I haven't completed my Community Discussion but I had planned to attend a Community Session rather than Welcome Session. Do I have to attend a Welcome Session?
+**Community Session attendance will be accepted as a means to fulfill the Welcome Session step through 31 October, 2023.** However, from this point forward, Community Discussion attendance will **not** automatically be counted towards this step because some trainees will choose to submit these for their "Get Involved" step instead. If you would like to have a Community Discussion that is not a Welcome Session counted for your Welcome Session step, please contact us at instructor.training@carpentries.org.
 
 
 ### I am experiencing a barrier to accessibility during the Instructor checkout process. How can I get help?
 We want to help! Please use our [accommodation request form](https://carpentries.typeform.com/to/B2OSYaD0) and a member of our team will get back to you. 
 
 ### I was trained a long time ago and never completed checkout. These new rules seem more achievable to me. Can I re-start my checkout process?
-These changes are being made, in part, because we recognize that the challenges of our checkout process have prevented skilled and enthusiastic Instructors from completing their certification. However, it is also important that trainees begin their Instructor role with Carpentries training and ethos fresh in their mind. For the next 90 days, we will offer the following accommodations for anyone previously trained:
-- **If you attended an Instructor Training event after 1 January 2022,** you may [email us](mailto:instructor.training@carpentries.org) to request a 90-day extension on your time to complete checkout. 
-- **If you attended an Instructor Training event before 1 January 2022,** you may [email us](mailto:instructor.training@carpentries.org) to request a Carpentries-sponsored code to re-take Instructor Training. If you have been highly active in Carpentries activities during this period (e.g. as a Helper or non-certified co-Instructor), you may share a list of those activities and ask for a 90-day extension instead.
+These changes are being made, in part, because we recognize that the challenges of our checkout process have prevented skilled and enthusiastic Instructors from completing their certification. 
+However, it is also important that trainees begin their Instructor role with Carpentries' training and ethos fresh in their mind. 
+Now through **31 October, 2023**, we will offer the following accommodations for anyone previously trained:
+- **If you attended an Instructor Training event after 1 January 2022,** you may [email us](mailto:instructor.training@carpentries.org) to request a new 90-day extension on your time to complete checkout. 
+- **If you attended an Instructor Training event before 1 January 2022,** you may [email us](mailto:instructor.training@carpentries.org) to request a Carpentries-sponsored code to re-take Instructor Training. 
+If you have been highly active in Carpentries activities during this period (e.g. as a Helper or non-certified co-Instructor), you may share a list of those activities and ask for a 90-day extension instead.
 
 ### I have another question! How can I get an answer?
-Have a look at our new **#checkout-support** channel on Slack. Someone might have already asked your question, so the answer may be there! If not, consider sharing your question there for others to find. Depending on the question and time of day, you may receive a reply immediately or within 1 business day. You can [join The Carpentries Slack using this link](https://swc-slack-invite.herokuapp.com/).
+The fastest way to get help is to [join The Carpentries on Slack](https://swc-slack-invite.herokuapp.com/), then search for our new **#checkout-support** channel! (To search, click the word "Channels" -> "Manage" -> "Browse Channels" and use the search bar.)
+If someone has already asked the same question, the answer may be there already! 
+If not, consider sharing your question there for others to find. 
+Depending on the question and time of day, you may receive a reply immediately or within 1 business day. 
 
-For more detailed or personal questions, please [email our Instructor Training team](mailto:instructor.training@carpentries.org).
+If you prefer not to use Slack or have questions that are too personalized or 
+detailed to share there, please [email our Instructor Training team](mailto:instructor.training@carpentries.org).
