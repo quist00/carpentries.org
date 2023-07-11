@@ -44,21 +44,21 @@ It does add a new responsibility to select a suitable episode with participatory
 We will not be making any changes to the process for signing up for teaching demonstrations at this time. 
 To sign up, trainees should visit the [Teaching Demonstrations Etherpad](https://pad.carpentries.org/teaching-demos)
 
---->
 
 ### Community Discussion -> Welcome Session
-"Community Discussion" describes many types of events hosted through The Carpentries. A Welcome Session is a specific type of Community Discussion that serves as an onboarding for new community members.
+"Community Discussion" has historically described a wide variety of events hosted through The Carpentries. A Welcome Session is a new type of Community Discussion that is specifically for new community members. 
+(With [recent changes](https://carpentries.org/blog/2023/04/new-community-programming/), Community Discussions are now more narrowly defined as a sub-type of Community Sessions - 
+you can read more about that in our [Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html))
 
-**Previously: Community Discussion was optional as a part of checkout.** Any type of community meeting or event could fulfill this requirement. This resulted in inconsistent experiences that did not always match the goals of this step, which were to support Instructors in joining the community and preparing to teach.
-**Now: Welcome Sessions will be specifically required as a part of checkout.** Welcome sessions are designed to onboard new community-members to The Carpentries community. Welcome sessions have been expanded to offer more time slots and include an breakout session especially for new Instructors.
+**Previously: Many types of Carpentries community events could fulfill the Community Discussion requirement,** including CarpentryCon or CarpentryConnect events, skill-ups, and regional meetings. 
+This resulted in inconsistent experiences that did not always match the goals of this step, which were to support Instructors in joining the community and preparing to teach.
+**Now: Welcome Sessions will be specifically required as a part of checkout.** Welcome sessions are designed to onboard new community-members to The Carpentries. 
+Welcome sessions are being expanded for accessibility across time zones and include a breakout session especially for new Instructors. 
 
-*Note: Other community events will continue to be accepted towards checkout as part of our "Get Involved" step (more on this below).* 
+Visitors to our previous Community Discussions Etherpad will now be redirected to pads for Welcome Sessions and other Community Sessions for the current year. 
+To sign up, trainees should visit the [Welcome Sessions Etherpad](https://pad.carpentries.org/welcome-sessions-2023)
 
-<!--- Consider adding a link to upcoming Welcome Session calendar. NB: this will need to be updated on an annual basis, if the 2023 qualifier convention continues. Currently there are no Welcome sessions for Q3 accessible to AUNZ timezones. Possibly this could be raised in an upcoming community subcommittee quarterly meeting.
-
-[Upcoming Welcome Sessions](https://pad.carpentries.org/community-sessions-2023)
-
---->
+*Note: Other community sessions will continue to be accepted towards checkout as part of our "Get Involved" step (more on this below).* 
 
 
 ### Lesson Contribution -> "Get Involved" Step
