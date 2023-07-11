@@ -51,7 +51,8 @@ To sign up, trainees should visit the [Teaching Demonstrations Etherpad](https:/
 you can read more about that in our [Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html))
 
 **Previously: Many types of Carpentries community events could fulfill the Community Discussion requirement,** including CarpentryCon or CarpentryConnect events, skill-ups, and regional meetings. 
-This resulted in inconsistent experiences that did not always match the goals of this step, which were to support Instructors in joining the community and preparing to teach.
+This resulted in inconsistent experiences that did not always match the goals of this step, which were to support Instructors in joining the community and preparing to teach.  
+
 **Now: Welcome Sessions will be specifically required as a part of checkout.** Welcome sessions are designed to onboard new community-members to The Carpentries. 
 Welcome sessions are being expanded for accessibility across time zones and include a breakout session especially for new Instructors. 
 
@@ -62,17 +63,31 @@ To sign up, trainees should visit the [Welcome Sessions Etherpad](https://pad.ca
 
 
 ### Lesson Contribution -> "Get Involved" Step
-A "lesson contribution" includes many forms of engagement on and off GitHub, but is narrowly directed at participating in maintenance and improvement of Carpentries materials. There are now many more ways to "get involved" with The Carpentries for this step!
+A "lesson contribution" includes engagement on GitHub around maintenance and improvement of Carpentries materials or relevant suggestions contributed 
+via email or Google form. 
+We will continue to encourage new trainees to engage with lesson maintenance and improvement! 
+However, for those with other interests, there are now many more ways to "get involved" with The Carpentries for this step.
 
-**Previously: Trainees were required to make a contribution to the content or conversation around our lessons and other resources on GitHub.** This was intended to support Instructors in learning to share feedback that contributes to the maintenance of our materials. However, many trainees found this step to be a barrier to completing checkout, and we could not find clear evidence that that this step was achieving its intended goals. 
-**Now: Lesson contributions will no longer be required, but will continue to be welcomed as part of the checkout process.** The "Get Involved" step allows Trainees to choose from a variety of options, with the goal that they will take the next step in their involvement in The Carpentries community. Any participation will be accepted, but we suggest one of the following activities:
-- [ ] Serve as an Instructor or a Helper at a workshop
+**Previously: Trainees were required to make a contribution to the content or conversation around our lessons and other resources on GitHub.** 
+This was intended to support Instructors in learning to share feedback that contributes to the maintenance of our materials. 
+However, many trainees found this step to be a barrier to completing checkout, and we could not find clear evidence that that this step was achieving its intended goals.  
+
+**Now: Lesson contributions will no longer be required, but will continue to be welcomed as part of the checkout process.** 
+The "Get Involved" step allows Trainees to choose from a variety of options, with the goal that they will take the next step in their involvement in The Carpentries community. 
+Any participation will be accepted, but we suggest one of the following activities:
+- [ ] Serve as an Instructor or a Helper at a Carpentries workshop
 - [ ] Attend an Instructor Meeting, regional call, or other community event
 - [ ] Submit a contribution to a Lesson, Glossario, or other Carpentries repository
 
+Signup procedures will vary by activity. Once an activity is completed, it must be submitted for credit directly in [AMY, our database](https://amy.carpentries.org) (see below).
 
-### How will the Checkout steps be tracked?
-**For the "Get Involved" step trainees must login to AMY to report which participation option they have completed.** Teaching Demonstrations and Welcome Sessions will be tracked automatically based on data shared by session hosts.  This includes events where attendance is taken (e.g. a regional call) -- it is still necessary to login and report that event as your choice for the Get Involved step. 
+### Tracking Checkout progress
+**Previously: Teaching Demonstrations and Community Discussions were automatically recorded. After submitting a lesson contribution, trainees could receive credit by reporting their contribution in AMY, our database, or by emailing it to the Instructor Training team.**  
+
+**Now: Teaching Demonstrations and Welcome Sessions will be automatically recorded for each trainee. After completing a "Get Involved" activity, trainees must [login to AMY](https://amy.carpentries.org) to report which participation option they wish to have credited.** 
+Trainees can still [email us](mailto:instructor.training@carpentries.org) if they have difficulty accessing the database.
+While this procedure is essentially almost identical, note that there is an important change to how Community Discussions will be handled. Since these are now one of many options that can be counted towards the "Get Involved" step, **Community Discussion attendance will no longer be automatically recorded for checkout credit.** It is necessary to login and report attendance at a Community Discussion if a trainee wishes to apply it to satisfy the "Get Involved" step. (Also, see FAQ below for requests to substitute a community session for a welcome session.) 
+  
 
 ## Why make changes to the Instructor Checkout process?
 [In 2022, Kelly Barnes led a project team to evaluate the existing checkout process](https://carpentries.org/blog/2022/09/checkout-project/). This included extensive conversations and focus groups across our communities. 
