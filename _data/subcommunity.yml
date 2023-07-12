@@ -225,222 +225,1217 @@ subcommunities:
     facebook: 
     linkedin:  
  
+- name: Carpentries @ Stanford University
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+- name:  New Zealand 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+- name: Midwest (US) Carpentries Community
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: UW-Madison Carpentries Community
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: Smithsonian Institution Carpentries 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: Heidelberg Carpentries
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
 
 
 
-# - name: 
-#   type:
-#     - geographic_local:
-#     - geographic_regional:
-#     - language: 
-#     - domain: 
-#     - interest:
-#     - other: 
-#   member:
-#   description: 
-#   activities: 
-#     - carpentry_connect:
-#     - communication:
-#     - prof_dev: 
-#     - sow:  
-#     - fundraising:
-#     - student_programs:
-#     - translation:
-#     - mentoring:
-#     - other: 
-#   volunteers:  
-#   logo:
-#   location:
-#   country:
-#   website:
-#   tags:
-#     - assessment:
-#     - carpentry_connect:
-#     - communication:
-#     - community_discussion:
-#     - curriculum:  
-#     - events:
-#     - governance:
-#     - inperson_workshops:  
-#     - instructor_development:
-#     - instructor_training:
-#     - internationalization:
-#     - membership:
-#     - mentoring:  
-#     - online_workshops:  
-#     - teaching:
-#     - other: 
-#   contact:
-#     - email:
-#     - slack:
-#     - mailing_list:
-#     - contact_form:
-#     - twitter:
-#     - mastodon:
-#     - instagram:
-#     - facebook:
-#     - linkedin:
-#     - contact_person:
-
-# - name: 
-#   type:
-#     - geographic_local:
-#     - geographic_regional:
-#     - language: 
-#     - domain: 
-#     - interest:
-#     - other: 
-#   member:
-#   description: 
-#   activities: 
-#     - carpentry_connect:
-#     - communication:
-#     - prof_dev: 
-#     - sow:  
-#     - fundraising:
-#     - student_programs:
-#     - translation:
-#     - mentoring:
-#     - other: 
-#   volunteers:  
-#   logo:
-#   location:
-#   country:
-#   website:
-#   tags:
-#     - assessment:
-#     - carpentry_connect:
-#     - communication:
-#     - community_discussion:
-#     - curriculum:  
-#     - events:
-#     - governance:
-#     - inperson_workshops:  
-#     - instructor_development:
-#     - instructor_training:
-#     - internationalization:
-#     - membership:
-#     - mentoring:  
-#     - online_workshops:  
-#     - teaching:
-#     - other: 
-#   contact:
-#     - email:
-#     - slack:
-#     - mailing_list:
-#     - contact_form:
-#     - twitter:
-#     - mastodon:
-#     - instagram:
-#     - facebook:
-#     - linkedin:
-#     - contact_person:
-
-# - name: 
-#   type:
-#     - geographic_local:
-#     - geographic_regional:
-#     - language: 
-#     - domain: 
-#     - interest:
-#     - other: 
-#   member:
-#   description: 
-#   activities: 
-#     - carpentry_connect:
-#     - communication:
-#     - prof_dev: 
-#     - sow:  
-#     - fundraising:
-#     - student_programs:
-#     - translation:
-#     - mentoring:
-#     - other: 
-#   volunteers:  
-#   logo:
-#   location:
-#   country:
-#   website:
-#   tags:
-#     - assessment:
-#     - carpentry_connect:
-#     - communication:
-#     - community_discussion:
-#     - curriculum:  
-#     - events:
-#     - governance:
-#     - inperson_workshops:  
-#     - instructor_development:
-#     - instructor_training:
-#     - internationalization:
-#     - membership:
-#     - mentoring:  
-#     - online_workshops:  
-#     - teaching:
-#     - other: 
-#   contact:
-#     - email:
-#     - slack:
-#     - mailing_list:
-#     - contact_form:
-#     - twitter:
-#     - mastodon:
-#     - instagram:
-#     - facebook:
-#     - linkedin:
-#     - contact_person:
+- name: University of California Santa Barbara
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
 
 
-# - name: 
-#   type:
-#     - geographic_local:
-#     - geographic_regional:
-#     - language: 
-#     - domain: 
-#     - interest:
-#     - other: 
-#   member:
-#   description: 
-#   activities: 
-#     - carpentry_connect:
-#     - communication:
-#     - prof_dev: 
-#     - sow:  
-#     - fundraising:
-#     - student_programs:
-#     - translation:
-#     - mentoring:
-#     - other: 
-#   volunteers:  
-#   logo:
-#   location:
-#   country:
-#   website:
-#   tags:
-#     - assessment:
-#     - carpentry_connect:
-#     - communication:
-#     - community_discussion:
-#     - curriculum:  
-#     - events:
-#     - governance:
-#     - inperson_workshops:  
-#     - instructor_development:
-#     - instructor_training:
-#     - internationalization:
-#     - membership:
-#     - mentoring:  
-#     - online_workshops:  
-#     - teaching:
-#     - other: 
-#   contact:
-#     - email:
-#     - slack:
-#     - mailing_list:
-#     - contact_form:
-#     - twitter:
-#     - mastodon:
-#     - instagram:
-#     - facebook:
-#     - linkedin:
-#     - contact_person:
+- name: HPC Carpentry
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+
+- name: Carpentries-ja
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: Carpentry @ UiO
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+
+- name: The Carpentries in Africa
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: DACH-Region
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
+
+
+- name: 
+  type:
+    - geographic_local:
+    - geographic_regional:
+    - language: 
+    - domain: 
+    - interest:
+    - other: 
+  member:
+  description: 
+  activities: 
+    - carpentry_connect:
+    - communication:
+    - prof_dev: 
+    - sow:  
+    - fundraising:
+    - student_programs:
+    - translation:
+    - mentoring:
+    - other: 
+  volunteers:  
+  logo:
+  location:
+  country:
+  website:
+  tags:
+    - assessment:
+    - carpentry_connect:
+    - communication:
+    - community_discussion:
+    - curriculum:  
+    - events:
+    - governance:
+    - inperson_workshops:  
+    - instructor_development:
+    - instructor_training:
+    - internationalization:
+    - membership:
+    - mentoring:  
+    - online_workshops:  
+    - teaching:
+    - other: 
+  contact:
+    - email:
+    - slack:
+    - mailing_list:
+    - contact_form:
+    - twitter:
+    - mastodon:
+    - instagram:
+    - facebook:
+    - linkedin:
+    - contact_person:
