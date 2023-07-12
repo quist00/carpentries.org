@@ -219,9 +219,9 @@ subcommunities:
     contact_form:
     contact_person:
   social_media: 
-    twitter: offline_twit
+    twitter: 
     mastodon: 
-    instagram: offline_ig
+    instagram: 
     facebook: 
     linkedin:  
  
