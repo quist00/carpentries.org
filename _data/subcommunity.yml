@@ -227,14 +227,14 @@ subcommunities:
  
 - name: Carpentries @ Stanford University
   type:
-    - geographic_local:
+    - geographic_local: true
     - geographic_regional:
     - language: 
     - domain: 
     - interest:
     - other: 
   member:
-  description: 
+  description: The Carpentries at Stanford are administered by the University Libraries. This group coordinates workshops, events, and other trainings for the needs of the university community. 
   activities: 
     - carpentry_connect:
     - communication:
