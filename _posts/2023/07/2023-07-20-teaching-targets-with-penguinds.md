@@ -1,14 +1,14 @@
 ---
 layout: page
 authors: ["Athanasia Mo Mowinckel", "Joel Nitta"]
-teaser: "... we decided to switch to the palmerpenguins dataset. palmerpenguins has some excellent properties for teaching data analysis."
+teaser: ""
 title: "Teaching targets with Penguins"
 date: 2023-07-20
 time: "09:00:00"
 tags: ["Workshops"]
 ---
 
-*Originally posted on the [ROpenScie website](https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/)*
+*Originally posted on the [rOpenSci website](https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/)*
 
 Many researchers are becoming more aware of the importance of reproducibility. Although reproducibility involves a diverse array of topics and tools, one rOpenSci package has gained considerable attention for enabling reproducible analysis pipelines in R: [targets](https://books.ropensci.org/targets/), by Will Landau.
 
