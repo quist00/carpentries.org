@@ -5,7 +5,7 @@ teaser: "... we decided to switch to the palmerpenguins dataset. palmerpenguins 
 title: "Teaching targets with Penguins"
 date: 2023-07-20
 time: "09:00:00"
-tags: ["Workshops", "Communications"]
+tags: ["Workshops"]
 ---
 
 *Originally posted on the [ROpenScie website](https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/)*
