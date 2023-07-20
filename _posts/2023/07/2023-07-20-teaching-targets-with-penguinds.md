@@ -58,4 +58,4 @@ Overall, feedback was quite positive, so we feel that we are definitely on the r
 We are very happy with the success of the first (unofficial) [Carpentries targets workshop](https://github.com/joelnitta/targets-workshop). Our biggest hope is that more people will teach the workshop and contribute back to it. If you have any suggestions about the material, please feel free to submit a PR or [file an issue](https://github.com/joelnitta/targets-workshop/issues), or just reach out to us by email.
 Happy workflowing!
 
-![Joel and Mo after the workshop]({{ site.urlimg }}/blog/2023/07/2023-07-20-mo-joel-2.png) _Joel and Mo after the workshop_
+![Joel and Mo after the workshop]((https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/mo-joel.jgp)https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/mo-joel.jgp) _Joel and Mo after the workshop_
