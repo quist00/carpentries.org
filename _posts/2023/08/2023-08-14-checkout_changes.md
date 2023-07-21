@@ -3,13 +3,13 @@ layout: page
 authors: ["Karen Word"]
 teaser: "Effective today, there are new rules to complete the 'checkout' process for certification as a Carpentries Instructor!"
 title: "Changes to Instructor Checkout"
-date: 2023-08-07
+date: 2023-08-14
 time: "09:00:00"
 tags: ["Instructor Training", "Membership"]
 ---
 # Changes to Instructor Checkout
 
-Starting today, there are more options available for trainees to complete the process of certifying as a Carpentries Instructor! 
+Starting 14 August, 2023 (today!), there are more options available for trainees to complete the process of certifying as a Carpentries Instructor! 
 
 Summary of the updated checkout process:
 * [Teaching Demonstration requires less preparation](#Teaching-Demonstration)
