@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Carpentries25", "Community"]
 ---
 
-Greg Wilson, who co-founded Software Carpentry with Brent Gorda in July 1998, reflects on how The Carpetries has contributed to the world of research as it is today, 25 years later. 
+Greg Wilson, who co-founded Software Carpentry with Brent Gorda in July 1998, reflects on how The Carpentries has contributed to the world of research as it is today, 25 years later. 
 
 _This post was originally published with [The Third Bit](https://third-bit.com/2023/07/19/twenty-five-years-and-counting/)._
 
