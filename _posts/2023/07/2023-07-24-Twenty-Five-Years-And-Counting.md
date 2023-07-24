@@ -36,11 +36,11 @@ This is often how change happens: an organization created to address one problem
 
 Five years ago I [spoke](https://www.youtube.com/watch?v=7xR50ty5DZ0) about what it was like to step away from Software Carpentry after putting so much into it for so many years. I said then that if we want to get through the next fifty years we’re going to need more science and more courage. I now believe that we also need to learn how to organize, just as we have learned how to code and how to teach. It’s a lot to ask of people who are already working a lot harder than they should have to, but the alternative is to spend the rest of our lives rolling the same rocks up the same hills. So, one more time:
 
-<div align="center">Start where you are.</div>
+<div align="center">Start where you are. </div>
 
-<div align="center">Use what you have.</div>
+<div align="center">Use what you have. </div>
 
-<div align="center">Help who you can.</div>
+<div align="center">Help who you can. </div>
 
 Further reading:
 
