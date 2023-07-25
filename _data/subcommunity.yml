@@ -445,19 +445,19 @@ subcommunities:
 
 - name: Smithsonian Institution Carpentries 
   type:
-    - geographic_local:
+    - geographic_local: true
     - geographic_regional:
     - language: 
     - domain: 
     - interest:
     - other: 
-  member:
-  description: 
+  member: true
+  description: The Smithsonian Institution has been a Carpentries member organization since 2017, and a Platinum Member since 2021. 
   activities: 
     - carpentry_connect:
-    - communication:
-    - prof_dev: 
-    - sow:  
+    - communication: true
+    - prof_dev: true
+    - sow: true
     - fundraising:
     - student_programs:
     - translation:
@@ -465,9 +465,9 @@ subcommunities:
     - other: 
   volunteers:  
   logo:
-  location:
-  country:
-  website:
+  location: Mostly Washington, DC, but also Cambridge, MA (Smithsonian Astrophysical Observatory) and Panama (Smithsonian Tropical Research Institute)
+  country: US
+  website: https://datascience.si.edu/carpentries
   tags:
     - assessment:
     - carpentry_connect:
@@ -480,22 +480,22 @@ subcommunities:
     - instructor_development:
     - instructor_training:
     - internationalization:
-    - membership:
+    - membership: true
     - mentoring:  
     - online_workshops:  
     - teaching:
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
+    - email: carpentries@si.edu
+    - slack: Workspace: smithsonian.slack.com; Channel: #carpentries-alumni
+    - mailing_list: Smithsonian carpentries-announce mailing list button at the top of https://datascience.si.edu/carpentries
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Mike Trizna, triznam@si.edu
 
 
 - name: Heidelberg Carpentries
