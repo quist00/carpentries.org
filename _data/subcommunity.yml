@@ -281,49 +281,49 @@ subcommunities:
 
 - name:  New Zealand 
   type:
-    - geographic_local:
-    - geographic_regional:
+    - geographic_local: true
+    - geographic_regional: true
     - language: 
-    - domain: 
-    - interest:
+    - domain: true 
+    - interest: true
     - other: 
-  member:
-  description: 
+  member: true
+  description: The New Zealand subcommunity focuses on building community relationships within the Carpentries community in Aotearoa New Zealand. New Zealand has several Carpentries members and is represented on the Executive Council of the organisation as well. 
   activities: 
-    - carpentry_connect:
-    - communication:
-    - prof_dev: 
-    - sow:  
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true
+    - sow: true  
     - fundraising:
     - student_programs:
     - translation:
     - mentoring:
-    - other: 
-  volunteers:  
+    - other: Executive Council representation 
+  volunteers: true  
   logo:
-  location:
-  country:
+  location: New Zealand
+  country: NZ
   website:
   tags:
     - assessment:
-    - carpentry_connect:
-    - communication:
-    - community_discussion:
+    - carpentry_connect: true
+    - communication: true
+    - community_discussion: true
     - curriculum:  
-    - events:
+    - events: true
     - governance:
-    - inperson_workshops:  
-    - instructor_development:
-    - instructor_training:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
     - internationalization:
     - membership:
-    - mentoring:  
-    - online_workshops:  
-    - teaching:
+    - mentoring: true  
+    - online_workshops: true  
+    - teaching: true
     - other: 
   contact:
-    - email:
-    - slack:
+    - email: nisha.ghatak@nesi.org.nz
+    - slack: https://nesi.slack.com/archives/CH9MDCTSM
     - mailing_list:
     - contact_form:
     - twitter:
@@ -331,7 +331,7 @@ subcommunities:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Nisha Ghatak, nisha.ghatak@nesi.org.nz
 
 - name: Midwest (US) Carpentries Community
   type:
