@@ -669,55 +669,55 @@ subcommunities:
   type:
     - geographic_local:
     - geographic_regional:
-    - language: 
+    - language: true 
     - domain: 
     - interest:
     - other: 
   member:
-  description: 
+  description: Carpentries-ja is a subcommunity translating the Carpentries teaching materials into Japanese and conducting workshops in Japanese.
   activities: 
     - carpentry_connect:
-    - communication:
+    - communication: true
     - prof_dev: 
-    - sow:  
+    - sow: true
     - fundraising:
     - student_programs:
-    - translation:
+    - translation: true
     - mentoring:
     - other: 
-  volunteers:  
+  volunteers: true  
   logo:
-  location:
+  location: Currently active members are located near Tokyo, Japan, in Australia, and in California, USA.
   country:
-  website:
+  website: https://swcarpentry-ja.github.io/
   tags:
     - assessment:
     - carpentry_connect:
-    - communication:
+    - communication: true
     - community_discussion:
     - curriculum:  
     - events:
     - governance:
-    - inperson_workshops:  
+    - inperson_workshops: true
     - instructor_development:
     - instructor_training:
-    - internationalization:
+    - internationalization: true
     - membership:
     - mentoring:  
-    - online_workshops:  
-    - teaching:
+    - online_workshops: true
+    - teaching: true
     - other: 
   contact:
-    - email:
-    - slack:
+    - email: kozo.nishida@gmail.com
+    - slack: Workspace: swcarpentry.slack.com, Channel: #local-japan
     - mailing_list:
     - contact_form:
-    - twitter:
+    - twitter: @swcarpentry_ja
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Kozo Nishida, kozo.nishida@gmail.com
 
 
 - name: Carpentry @ UiO
