@@ -722,57 +722,57 @@ subcommunities:
 
 - name: Carpentry @ UiO
   type:
-    - geographic_local:
+    - geographic_local: true
     - geographic_regional:
     - language: 
     - domain: 
     - interest:
     - other: 
-  member:
-  description: 
+  member: true
+  description: We are a local community of Instructors, helpers, trainers and fans of The Carpentries. The community grew out of a couple of Instructors in 2015 and found its home at the University of Oslo Library, which became a member institution.
   activities: 
-    - carpentry_connect:
-    - communication:
-    - prof_dev: 
-    - sow:  
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true
+    - sow: true
     - fundraising:
     - student_programs:
     - translation:
-    - mentoring:
-    - other: 
-  volunteers:  
+    - mentoring: true
+    - other: study group
+  volunteers: true
   logo:
-  location:
-  country:
-  website:
+  location: University of Oslo
+  country: "NO"
+  website: https://uio-carpentry.github.io/
   tags:
     - assessment:
-    - carpentry_connect:
+    - carpentry_connect: true
     - communication:
     - community_discussion:
     - curriculum:  
-    - events:
+    - events: true
     - governance:
-    - inperson_workshops:  
-    - instructor_development:
+    - inperson_workshops: true
+    - instructor_development: true
     - instructor_training:
     - internationalization:
     - membership:
-    - mentoring:  
+    - mentoring: true
     - online_workshops:  
-    - teaching:
+    - teaching: true
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
+    - email: contact-us@carpentry.uio.no
+    - slack: https://swcarpentry.slack.com/archives/C04EUGYHPM4
+    - mailing_list: only for active instructors and helpers in the Oslo region
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Annika Rockenberger, annika.rockenberger@ub.uio.no
 
 
 
