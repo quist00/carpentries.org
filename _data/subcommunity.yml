@@ -614,54 +614,54 @@ subcommunities:
     - geographic_local:
     - geographic_regional:
     - language: 
-    - domain: 
+    - domain: true
     - interest:
     - other: 
   member:
-  description: 
+  description: HPC Carpentry represents a global community interested in documenting and teaching better practices in cluster-based scientific computing, especially the fundamentals of interacting with a large-scale, parallel, shared computing resource. 
   activities: 
-    - carpentry_connect:
-    - communication:
+    - carpentry_connect: true
+    - communication: true
     - prof_dev: 
-    - sow:  
+    - sow: true
     - fundraising:
     - student_programs:
     - translation:
     - mentoring:
-    - other: 
-  volunteers:  
+    - other: developing a lesson program and curriculum 
+  volunteers: true  
   logo:
   location:
   country:
-  website:
+  website: https://www.hpc-carpentry.org
   tags:
     - assessment:
     - carpentry_connect:
     - communication:
-    - community_discussion:
-    - curriculum:  
+    - community_discussion: true
+    - curriculum: true  
     - events:
-    - governance:
+    - governance: true
     - inperson_workshops:  
-    - instructor_development:
-    - instructor_training:
-    - internationalization:
+    - instructor_development: true
+    - instructor_training: true
+    - internationalization: true
     - membership:
-    - mentoring:  
-    - online_workshops:  
-    - teaching:
+    - mentoring: true
+    - online_workshops: true
+    - teaching: true
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
-    - contact_form:
-    - twitter:
+    - email: trevor.keller@nist.gov
+    - slack: #hpc-carpentry
+    - mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
+    - contact_form: https://www.hpc-carpentry.org/contact/
+    - twitter: @hpccarpentry
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: maintainers-hpc@lists.carpentries.org
 
 
 
