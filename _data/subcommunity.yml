@@ -233,51 +233,51 @@ subcommunities:
     - domain: 
     - interest:
     - other: 
-  member:
+  member: false
   description: The Carpentries at Stanford are administered by the University Libraries. This group coordinates workshops, events, and other trainings for the needs of the university community. 
   activities: 
     - carpentry_connect:
-    - communication:
-    - prof_dev: 
-    - sow:  
+    - communication: true
+    - prof_dev: true  
+    - sow: true  
     - fundraising:
-    - student_programs:
+    - student_programs: true
     - translation:
     - mentoring:
     - other: 
-  volunteers:  
+  volunteers: true  
   logo:
-  location:
-  country:
-  website:
+  location: Stanford, CA
+  country: US
+  website: https://library.stanford.edu/research/carpentries-stanford
   tags:
     - assessment:
     - carpentry_connect:
     - communication:
     - community_discussion:
-    - curriculum:  
-    - events:
+    - curriculum: true  
+    - events: true
     - governance:
-    - inperson_workshops:  
-    - instructor_development:
-    - instructor_training:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
     - internationalization:
     - membership:
     - mentoring:  
-    - online_workshops:  
-    - teaching:
+    - online_workshops: true  
+    - teaching: true
     - other: 
   contact:
     - email:
     - slack:
-    - mailing_list:
+    - mailing_list: carpentry@lists.stanford.edu
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Zac Painter, zwp@stanford.edu
 
 - name:  New Zealand 
   type:
