@@ -779,7 +779,7 @@ subcommunities:
 - name: The Carpentries in Africa
   type:
     - geographic_local:
-    - geographic_regional:
+    - geographic_regional: true
     - language: 
     - domain: 
     - interest:
@@ -787,48 +787,48 @@ subcommunities:
   member:
   description: 
   activities: 
-    - carpentry_connect:
-    - communication:
-    - prof_dev: 
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true
     - sow:  
     - fundraising:
     - student_programs:
     - translation:
-    - mentoring:
+    - mentoring: true
     - other: 
   volunteers:  
   logo:
-  location:
+  location: Countries in Africa
   country:
-  website:
+  website: https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html
   tags:
     - assessment:
-    - carpentry_connect:
+    - carpentry_connect: true
     - communication:
-    - community_discussion:
+    - community_discussion: true
     - curriculum:  
-    - events:
+    - events: true
     - governance:
-    - inperson_workshops:  
-    - instructor_development:
-    - instructor_training:
-    - internationalization:
+    - inperson_workshops: true
+    - instructor_development: true
+    - instructor_training: true
+    - internationalization:  true
     - membership:
-    - mentoring:  
-    - online_workshops:  
-    - teaching:
+    - mentoring: true
+    - online_workshops: true
+    - teaching: true
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
+    - email: angelique@carpentries.org
+    - slack: Workspace:swcarpentry.slack.com; Channel: #local-africa
+    - mailing_list: local-africa@lists.carpentries.org
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Angelique Trusler, angelique@carpentries.org
 
 
 - name: DACH-Region
