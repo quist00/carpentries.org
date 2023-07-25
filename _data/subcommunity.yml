@@ -390,57 +390,57 @@ subcommunities:
 
 - name: UW-Madison Carpentries Community
   type:
-    - geographic_local:
+    - geographic_local: true
     - geographic_regional:
     - language: 
     - domain: 
     - interest:
     - other: 
-  member:
-  description: 
+  member: true
+  description: This local subcommunity of workshop Instructors, helpers, and lesson developers includes research support staff from across the University of Wisconsin-Madison campus, faculty members, and graduate students. 
   activities: 
     - carpentry_connect:
     - communication:
-    - prof_dev: 
-    - sow:  
+    - prof_dev: true 
+    - sow: true  
     - fundraising:
     - student_programs:
     - translation:
-    - mentoring:
+    - mentoring: true
     - other: 
   volunteers:  
   logo:
-  location:
-  country:
-  website:
+  location: Madison, Wisconsin
+  country: US
+  website: https://datascience.wisc.edu/uw-madison-carpentries-community/
   tags:
     - assessment:
     - carpentry_connect:
     - communication:
-    - community_discussion:
-    - curriculum:  
-    - events:
+    - community_discussion: true
+    - curriculum: true  
+    - events: true
     - governance:
-    - inperson_workshops:  
-    - instructor_development:
-    - instructor_training:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
     - internationalization:
     - membership:
-    - mentoring:  
-    - online_workshops:  
-    - teaching:
+    - mentoring: true  
+    - online_workshops: true  
+    - teaching: true
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
+    - email: facilitator@datascience.wisc.edu
+    - slack: data-science-hubgroup workspace, #uw_carpentries channel
+    - mailing_list: carpentries@g-groups.wisc.edu
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: facilitator@datascience.wisc.edu
 
 
 - name: Smithsonian Institution Carpentries 
