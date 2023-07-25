@@ -556,57 +556,57 @@ subcommunities:
 
 - name: University of California Santa Barbara
   type:
-    - geographic_local:
+    - geographic_local: true
     - geographic_regional:
     - language: 
     - domain: 
     - interest:
     - other: 
-  member:
-  description: 
+  member: true
+  description: The Univeristy of California Santa Barbara subcommunity hosts and organises data science workshops for the UCSB community. They also sponsor community members for Instructor certification.
   activities: 
-    - carpentry_connect:
-    - communication:
-    - prof_dev: 
-    - sow:  
+    - carpentry_connect: true
+    - communication: true
+    - prof_dev: true 
+    - sow: true  
     - fundraising:
     - student_programs:
     - translation:
-    - mentoring:
+    - mentoring: true
     - other: 
-  volunteers:  
+  volunteers: true 
   logo:
-  location:
-  country:
-  website:
+  location: Santa Barbara, California
+  country: US
+  website: https://ucsbcarpentry.github.io/
   tags:
     - assessment:
-    - carpentry_connect:
+    - carpentry_connect: true
     - communication:
     - community_discussion:
-    - curriculum:  
+    - curriculum: true  
     - events:
     - governance:
-    - inperson_workshops:  
-    - instructor_development:
-    - instructor_training:
+    - inperson_workshops: true  
+    - instructor_development: true
+    - instructor_training: true
     - internationalization:
     - membership:
     - mentoring:  
-    - online_workshops:  
-    - teaching:
+    - online_workshops: true  
+    - teaching: true
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
+    - email: dreamlab@library.ucsb.edu
+    - slack: ucsbcarpentry.slack.com
+    - mailing_list: Request via Google Groups: https://groups.google.com/a/library.ucsb.edu/g/carpentry/about
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Seth Erickson, serickson@ucsb.edu
 
 
 - name: HPC Carpentry
