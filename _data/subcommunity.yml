@@ -9,7 +9,7 @@ subcommunities:
     interest:
     other: 
   member: false 
-  description: We are a small group of Italian Carpentries instructors, many of whom are living abroad. In the last couple of years we organized 3 SWC workshops in collaboration with ELIXIR. We also have our own slack workspace and have attempted some translations.
+  description: We are a small group of Italian Carpentries Instructors, many of whom are living abroad. In the last couple of years we organized three Software Carpentry workshops in collaboration with ELIXIR. We also have our own Slack workspace and have attempted some translations.
   activities: 
     carpentry_connect:
     communication: true
