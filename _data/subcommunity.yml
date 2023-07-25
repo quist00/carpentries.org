@@ -500,16 +500,16 @@ subcommunities:
 
 - name: Heidelberg Carpentries
   type:
-    - geographic_local:
+    - geographic_local: true
     - geographic_regional:
     - language: 
     - domain: 
     - interest:
     - other: 
   member:
-  description: 
+  description: The Heidelberg Carpentries subcommunity organises semi-regular, informal meetups for community members in the area. These social events are an opportunity for community members to meet and talk about teaching and other Carpentries-related topics.
   activities: 
-    - carpentry_connect:
+    - carpentry_connect: true
     - communication:
     - prof_dev: 
     - sow:  
@@ -518,10 +518,10 @@ subcommunities:
     - translation:
     - mentoring:
     - other: 
-  volunteers:  
+  volunteers: true  
   logo:
-  location:
-  country:
+  location: Heidelberg
+  country: DE
   website:
   tags:
     - assessment:
@@ -529,7 +529,7 @@ subcommunities:
     - communication:
     - community_discussion:
     - curriculum:  
-    - events:
+    - events: true
     - governance:
     - inperson_workshops:  
     - instructor_development:
@@ -543,14 +543,14 @@ subcommunities:
   contact:
     - email:
     - slack:
-    - mailing_list:
+    - mailing_list: Join the mailing list by visiting https://carpentries.topicbox.com/groups/local-heidelberg
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Toby Hodges, tbyhdgs@gmail.com
 
 
 
