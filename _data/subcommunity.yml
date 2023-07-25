@@ -834,33 +834,33 @@ subcommunities:
 - name: DACH-Region
   type:
     - geographic_local:
-    - geographic_regional:
+    - geographic_regional: true  
     - language: 
     - domain: 
     - interest:
     - other: 
-  member:
-  description: 
+  member: true  
+  description: The DACH Region includes community members in the countries Germany, Austria, and Switzerland.
   activities: 
     - carpentry_connect:
-    - communication:
+    - communication: true
     - prof_dev: 
     - sow:  
-    - fundraising:
+    - fundraising: true
     - student_programs:
     - translation:
     - mentoring:
     - other: 
-  volunteers:  
+  volunteers: true
   logo:
-  location:
-  country:
+  location: DACH region
+  country: DE, AT, CH
   website:
   tags:
     - assessment:
     - carpentry_connect:
-    - communication:
-    - community_discussion:
+    - communication: true
+    - community_discussion: true
     - curriculum:  
     - events:
     - governance:
@@ -874,16 +874,16 @@ subcommunities:
     - teaching:
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
+    - email: muellerr@zbmed.de
+    - slack: Workspace:swcarpentry.slack.com; Channel: #local-dach
+    - mailing_list: https://carpentries.topicbox.com/groups/local-dach
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: Rabea Müller, muellerr@zbmed.de
 
 
 
