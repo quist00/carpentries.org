@@ -336,17 +336,17 @@ subcommunities:
 - name: Midwest (US) Carpentries Community
   type:
     - geographic_local:
-    - geographic_regional:
+    - geographic_regional: true
     - language: 
     - domain: 
     - interest:
     - other: 
   member:
-  description: 
+  description: The Midwest (US) Carpentries Community is a regional subcommunity providing space to support workshop Instructors, hosts, and local institution organisers in the region to learn from one another. 
   activities: 
     - carpentry_connect:
-    - communication:
-    - prof_dev: 
+    - communication: true
+    - prof_dev: true 
     - sow:  
     - fundraising:
     - student_programs:
@@ -357,12 +357,12 @@ subcommunities:
   logo:
   location:
   country:
-  website:
+  website: https://pad.carpentries.org/local-us-midwest
   tags:
     - assessment:
     - carpentry_connect:
     - communication:
-    - community_discussion:
+    - community_discussion: true
     - curriculum:  
     - events:
     - governance:
@@ -371,21 +371,21 @@ subcommunities:
     - instructor_training:
     - internationalization:
     - membership:
-    - mentoring:  
+    - mentoring: true  
     - online_workshops:  
     - teaching:
     - other: 
   contact:
-    - email:
-    - slack:
-    - mailing_list:
+    - email: sarah.stevens@wisc.edu, wjohn@illinois.edu, jgraham@illinois.edu
+    - slack: #local-us-midwest
+    - mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     - contact_form:
     - twitter:
     - mastodon:
     - instagram:
     - facebook:
     - linkedin:
-    - contact_person:
+    - contact_person: MacMullen, John <wjohn@illinois.edu>, Graham, J.D. <jgraham@illinois.edu>, Sarah Stevens <sarah.stevens@wisc.edu>
 
 
 - name: UW-Madison Carpentries Community
