@@ -121,7 +121,7 @@ subcommunities:
     interest:
     other: 
   member:
-  description: The Python for Atmosphere and Ocean Science (PyAOS) subcommunity focuses on running workshops for those working / studying in the weather, ocean and climate sciences. It does this through maintaining lesson materials and supporting instructors. 
+  description: The Python for Atmosphere and Ocean Science (PyAOS) subcommunity focuses on running workshops for those working / studying in the weather, ocean and climate sciences. It does this through maintaining lesson materials and supporting Instructors. 
   activities: 
     carpentry_connect: true 
     communication: true 
@@ -179,7 +179,7 @@ subcommunities:
     interest: true 
     other:  
   member:
-  description:  CarpentriesOffline aims to provide a solution for instructors to run workshops in areas where there is no or limited Internet access.
+  description:  CarpentriesOffline aims to provide a solution for Instructors to run workshops in areas where there is no or limited Internet access.
   activities: 
     carpentry_connect:
     communication:
