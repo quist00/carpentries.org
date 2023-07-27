@@ -12,7 +12,7 @@ _In July 2023, The Carpentries turned 25 years! On July 24th we [launched our #C
 
 _This #Carpentries25 Testimonial Series is one way we will celebrate this milestone. If you wish to contribute to this testimonial series please [find the instructions in this announcement](https://carpentries.org/blog/2023/07/carpentries25-campaign-announcement/) and reach out to us. Also, be sure to register to receive communications about [upcoming monthly regional events](https://www.eventbrite.com/e/the-carpentries-25th-anniversary-celebration-series-tickets-653267058357?aff=oddtdtcreator)._
 
-In our first testimonial contribution below, Executive Council member Jannetta Steyn reflects on what being part of The Carpentries has entailed and what it has all meant for them.
+In our first testimonial contribution below, Executive Council member Jannetta Steyn reflects on what being part of The Carpentries has entailed and how that has impacted her.
 
 ----------------
 
