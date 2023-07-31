@@ -377,7 +377,7 @@ subcommunities:
     - other: 
   contact:
     - email: sarah.stevens@wisc.edu, wjohn@illinois.edu, jgraham@illinois.edu
-    - slack: #local-us-midwest
+    - slack: swcarpentry.slack.com; local-us-midwest channel
     - mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     - contact_form:
     - twitter:
@@ -432,7 +432,7 @@ subcommunities:
     - other: 
   contact:
     - email: facilitator@datascience.wisc.edu
-    - slack: data-science-hubgroup workspace, #uw_carpentries channel
+    - slack: data-science-hubgroup workspace, uw_carpentries channel
     - mailing_list: carpentries@g-groups.wisc.edu
     - contact_form:
     - twitter:
@@ -599,7 +599,7 @@ subcommunities:
   contact:
     - email: dreamlab@library.ucsb.edu
     - slack: ucsbcarpentry.slack.com
-    - mailing_list: Request via Google Groups: https://groups.google.com/a/library.ucsb.edu/g/carpentry/about
+    - mailing_list: Request via Google Groups (https://groups.google.com/a/library.ucsb.edu/g/carpentry/about)
     - contact_form:
     - twitter:
     - mastodon:
@@ -629,7 +629,7 @@ subcommunities:
     - translation:
     - mentoring:
     - other: developing a lesson program and curriculum 
-  volunteers: true  
+  volunteers: true
   logo:
   location:
   country:
@@ -639,7 +639,7 @@ subcommunities:
     - carpentry_connect:
     - communication:
     - community_discussion: true
-    - curriculum: true  
+    - curriculum: true
     - events:
     - governance: true
     - inperson_workshops:  
@@ -653,7 +653,7 @@ subcommunities:
     - other: 
   contact:
     - email: trevor.keller@nist.gov
-    - slack: #hpc-carpentry
+    - slack:  swcarpentry.slack.com; hpc-carpentry channel
     - mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
     - contact_form: https://www.hpc-carpentry.org/contact/
     - twitter: @hpccarpentry
@@ -709,7 +709,7 @@ subcommunities:
     - other: 
   contact:
     - email: kozo.nishida@gmail.com
-    - slack: Workspace: swcarpentry.slack.com, Channel: #local-japan
+    - slack: swcarpentry.slack.com, local-japan channel
     - mailing_list:
     - contact_form:
     - twitter: @swcarpentry_ja
@@ -743,7 +743,7 @@ subcommunities:
   volunteers: true
   logo:
   location: University of Oslo
-  country: "NO"
+  country: Norway
   website: https://uio-carpentry.github.io/
   tags:
     - assessment:
@@ -820,7 +820,7 @@ subcommunities:
     - other: 
   contact:
     - email: angelique@carpentries.org
-    - slack: Workspace:swcarpentry.slack.com; Channel: #local-africa
+    - slack: swcarpentry.slack.com; local-africa Channel 
     - mailing_list: local-africa@lists.carpentries.org
     - contact_form:
     - twitter:
@@ -875,7 +875,7 @@ subcommunities:
     - other: 
   contact:
     - email: muellerr@zbmed.de
-    - slack: Workspace:swcarpentry.slack.com; Channel: #local-dach
+    - slack: swcarpentry.slack.com; local-dach channel
     - mailing_list: https://carpentries.topicbox.com/groups/local-dach
     - contact_form:
     - twitter:
