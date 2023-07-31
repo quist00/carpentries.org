@@ -186,8 +186,8 @@ subcommunities:
     prof_dev: 
     sow: true 
     fundraising:
-    student_programs:
-    translation:
+    student_programs: 
+    translation: 
     mentoring:
     other: Monthly developer meetings
   volunteers: true 
@@ -213,7 +213,7 @@ subcommunities:
     teaching: true 
     other: 
   contact:
-    email:
+    email: team@carpentries.org 
     slack:
     mailing_list:
     contact_form:
@@ -225,10 +225,10 @@ subcommunities:
     facebook: 
     linkedin:  
  
-- name: Carpentries @ Stanford University
+- name: Carpentries at Stanford University
   type:
     - geographic_local: true
-    - geographic_regional:
+    - geographic_regional: true
     - language: 
     - domain: 
     - interest:
@@ -656,7 +656,7 @@ subcommunities:
     - slack:  swcarpentry.slack.com; hpc-carpentry channel
     - mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
     - contact_form: https://www.hpc-carpentry.org/contact/
-    - twitter: @hpccarpentry
+    - twitter: https://twitter.com/hpccarpentry
     - mastodon:
     - instagram:
     - facebook:
@@ -712,7 +712,7 @@ subcommunities:
     - slack: swcarpentry.slack.com, local-japan channel
     - mailing_list:
     - contact_form:
-    - twitter: @swcarpentry_ja
+    - twitter: https://twitter.com/swcarpentry_ja
     - mastodon:
     - instagram:
     - facebook:
