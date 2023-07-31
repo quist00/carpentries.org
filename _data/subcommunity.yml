@@ -268,16 +268,17 @@ subcommunities:
     teaching: true
     other: 
   contact:
-    email:
+    email: 
     slack:
     mailing_list: carpentry@lists.stanford.edu
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: Zac Painter, zwp@stanford.edu
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
 
 - name:  New Zealand 
   type:
@@ -322,16 +323,17 @@ subcommunities:
     teaching: true
     other: 
   contact:
-    email: nisha.ghatak@nesi.org.nz
-    slack: https://nesi.slack.com/archives/CH9MDCTSM
+    email:  nisha.ghatak@nesi.org.nz
+    slack:  https://nesi.slack.com/archives/CH9MDCTSM
     mailing_list:
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: Nisha Ghatak, nisha.ghatak@nesi.org.nz
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
 
 - name: Midwest (US) Carpentries Community
   type:
@@ -380,13 +382,13 @@ subcommunities:
     slack: swcarpentry.slack.com; local-us-midwest channel
     mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
+    contact_person:  MacMullen, John <wjohn@illinois.edu>, Graham, J.D. <jgraham@illinois.edu>, Sarah Stevens <sarah.stevens@wisc.edu>
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
     linkedin:
-    contact_person: MacMullen, John <wjohn@illinois.edu>, Graham, J.D. <jgraham@illinois.edu>, Sarah Stevens <sarah.stevens@wisc.edu>
-
 
 - name: UW-Madison Carpentries Community
   type:
@@ -433,14 +435,17 @@ subcommunities:
   contact:
     email: facilitator@datascience.wisc.edu
     slack: data-science-hubgroup workspace, uw_carpentries channel
-    mailing_list: carpentries@g-groups.wisc.edu
+    mailing_list:  carpentries@g-groups.wisc.edu
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: facilitator@datascience.wisc.edu
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
+
+
 
 
 - name: Smithsonian Institution Carpentries 
@@ -490,13 +495,13 @@ subcommunities:
     slack: smithsonian.slack.com (carpentries-alumni channel)
     mailing_list: Smithsonian carpentries-announce mailing list button at the top of https://datascience.si.edu/carpentries
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: Mike Trizna, triznam@si.edu
-
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
 
 - name: Heidelberg Carpentries
   type:
@@ -541,17 +546,18 @@ subcommunities:
     teaching:
     other: 
   contact:
-    email:
+    email: 
     slack:
-    mailing_list: Join the mailing list by visiting https://carpentries.topicbox.com/groups/local-heidelberg
+    mailing_list:  Join the mailing list by visiting https://carpentries.topicbox.com/groups/local-heidelberg
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: Toby Hodges, tbyhdgs@gmail.com
-
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
+    
 
 
 - name: University of California Santa Barbara
@@ -601,12 +607,13 @@ subcommunities:
     slack: ucsbcarpentry.slack.com
     mailing_list: Request via Google Groups (https://groups.google.com/a/library.ucsb.edu/g/carpentry/about)
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: Seth Erickson, serickson@ucsb.edu
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
 
 - name: HPC Carpentry
   type:
@@ -655,13 +662,13 @@ subcommunities:
     slack:  swcarpentry.slack.com; hpc-carpentry channel
     mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
     contact_form: https://www.hpc-carpentry.org/contact/
-    twitter: https://twitter.com/hpccarpentry
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: maintainers-hpc@lists.carpentries.org
-
+  social_media: 
+    twitter: hpccarpentry
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
 
 
 - name: Carpentries-ja
@@ -711,13 +718,14 @@ subcommunities:
     slack: swcarpentry.slack.com, local-japan channel
     mailing_list:
     contact_form:
-    twitter: https://twitter.com/swcarpentry_ja
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: Kozo Nishida, kozo.nishida@gmail.com
-
+  social_media: 
+    twitter: swcarpentry_ja
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
+    
 
 - name: Carpentry @ UiO
   type:
@@ -766,13 +774,13 @@ subcommunities:
     slack: https://swcarpentry.slack.com/archives/C04EUGYHPM4
     mailing_list: only for active instructors and helpers in the Oslo region
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
-    contact_person: Annika Rockenberger, annika.rockenberger@ub.uio.no
-
+    contact_person:  Annika Rockenberger, annika.rockenberger@ub.uio.no
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
 
 
 - name: The Carpentries in Africa
@@ -822,13 +830,13 @@ subcommunities:
     slack: swcarpentry.slack.com; local-africa Channel 
     mailing_list: local-africa@lists.carpentries.org
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
     contact_person: Angelique Trusler, angelique@carpentries.org
-
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
 
 - name: DACH-Region
   type:
@@ -883,4 +891,16 @@ subcommunities:
     facebook:
     linkedin:
     contact_person: Rabea Müller, muellerr@zbmed.de
-
+  contact:
+    email: muellerr@zbmed.de
+    slack: swcarpentry.slack.com; local-dach channel
+    mailing_list: https://carpentries.topicbox.com/groups/local-dach
+    contact_form:
+    contact_person:  Rabea Müller, muellerr@zbmed.de
+  social_media: 
+    twitter: 
+    mastodon: 
+    instagram: 
+    facebook: 
+    linkedin:  
+    
