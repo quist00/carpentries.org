@@ -213,7 +213,7 @@ subcommunities:
     teaching: true 
     other: 
   contact:
-    email: team@carpentries.org 
+    email: 
     slack:
     mailing_list:
     contact_form:
