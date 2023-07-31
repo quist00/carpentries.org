@@ -112,8 +112,8 @@ permalink: "/community-groups/"
     {% endif %}
 
     {% if all_activities.other %}
-    {% assign activities_other = all_activities_other %}
-    {% assign activities_text =  activities_text | append: all_activities_other %}
+    {% assign activities_other = all_activities.other %}
+    {% assign activities_text =  activities_text | append: activities_other %}
     {% endif %}
 
     {{ activities_text }}
