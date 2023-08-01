@@ -146,30 +146,31 @@ permalink: "/community-groups/"
     <li>our contact form: {{ all_contact_info.contact_form }}</li>
     {% endif %}
 
-
-    <li>On social media: 
     {% assign all_social_media = subcomm.social_media %}
+    {% if all_social_media.size > 0 %}
+    <li>On social media: 
+            
+        {% if all_social_media.twitter %}
+        <a href="https://twitter.com/{{ all_social_media.twitter }}"> <i class="fab fa-twitter" title="Twitter"></i> </a> 
+        {% endif %}
 
-    {% if all_social_media.twitter %}
-    <a href="https://twitter.com/{{ all_contact_info.twitter }}"> <i class="fab fa-twitter" title="Twitter"></i> </a> 
+        {% if all_social_media.mastodon %}
+        <a rel="me" href="{{ all_social_media.mastodon }}"><i class="fab fa-mastodon"></i></a>
+        {% endif %}    
+
+        {% if all_social_media.instagram %}
+        <a rel="me" href="{{ all_social_media.instagram }}"><i class="fab fa-instagram"></i></a>
+        {% endif %}  
+
+        {% if all_social_media.facebook %}
+        <a rel="me" href="{{ all_social_media.facebook }}"><i class="fab fa-facebook-f"></i></a>
+        {% endif %}  
+
+        {% if all_social_media.linkedin %}
+        <a rel="me" href="https://linkedin.com/in/{{ all_social_media.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+        {% endif %}  
+    </li>
     {% endif %}
-
-    {% if all_social_media.mastodon %}
-    <a rel="me" href="{{ all_contact_info.mastodon }}"><i class="fab fa-mastodon"></i></a>
-    {% endif %}    
-
-    {% if all_social_media.instagram %}
-    <a rel="me" href="{{ all_contact_info.instagram }}"><i class="fab fa-instagram"></i></a>
-    {% endif %}  
-
-    {% if all_social_media.facebook %}
-    <a rel="me" href="{{ all_contact_info.facebook }}"><i class="fab fa-facebook-f"></i></a>
-    {% endif %}  
-
-    {% if all_social_media.linkedin %}
-    <a rel="me" href="{{ all_contact_info.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
-    {% endif %}  
-</li>
 
 </ul>
 

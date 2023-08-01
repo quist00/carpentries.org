@@ -49,11 +49,11 @@ subcommunities:
     contact_form: https://carpentriesitalia.github.io/ 
     contact_person: Martino Sorbaro martino.sorbaro@posteo.net
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
  
 - name: The Carpentries in Australia
   type:
@@ -104,11 +104,11 @@ subcommunities:
     contact_form:
     contact_person: Damien Irving, irving.damien@gmail.com
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
  
 
 
@@ -161,10 +161,10 @@ subcommunities:
     contact_form:
     contact_person:
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
     linkedin: pyaos
  
 
@@ -219,11 +219,11 @@ subcommunities:
     contact_form:
     contact_person:
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
  
 - name: Carpentries at Stanford University
   type:
@@ -274,11 +274,11 @@ subcommunities:
     contact_form:
     contact_person: Zac Painter, zwp@stanford.edu
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 - name:  New Zealand 
   type:
@@ -329,11 +329,11 @@ subcommunities:
     contact_form:
     contact_person: Nisha Ghatak, nisha.ghatak@nesi.org.nz
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 - name: Midwest (US) Carpentries Community
   type:
@@ -384,11 +384,11 @@ subcommunities:
     contact_form:
     contact_person:  MacMullen, John <wjohn@illinois.edu>, Graham, J.D. <jgraham@illinois.edu>, Sarah Stevens <sarah.stevens@wisc.edu>
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:
 
 - name: UW-Madison Carpentries Community
   type:
@@ -439,11 +439,11 @@ subcommunities:
     contact_form:
     contact_person: facilitator@datascience.wisc.edu
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 
 
@@ -497,11 +497,11 @@ subcommunities:
     contact_form:
     contact_person: Mike Trizna, triznam@si.edu
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 - name: Heidelberg Carpentries
   type:
@@ -552,11 +552,11 @@ subcommunities:
     contact_form:
     contact_person: Toby Hodges, tbyhdgs@gmail.com
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
     
 
 
@@ -609,11 +609,11 @@ subcommunities:
     contact_form:
     contact_person: Seth Erickson, serickson@ucsb.edu
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 - name: HPC Carpentry
   type:
@@ -665,10 +665,10 @@ subcommunities:
     contact_person: maintainers-hpc@lists.carpentries.org
   social_media: 
     twitter: hpccarpentry
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 
 - name: Carpentries-ja
@@ -721,10 +721,10 @@ subcommunities:
     contact_person: Kozo Nishida, kozo.nishida@gmail.com
   social_media: 
     twitter: swcarpentry_ja
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
     
 
 - name: Carpentry @ UiO
@@ -776,11 +776,11 @@ subcommunities:
     contact_form:
     contact_person:  Annika Rockenberger, annika.rockenberger@ub.uio.no
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 
 - name: The Carpentries in Africa
@@ -832,11 +832,11 @@ subcommunities:
     contact_form:
     contact_person: Angelique Trusler, angelique@carpentries.org
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
 
 - name: DACH-Region
   type:
@@ -898,9 +898,9 @@ subcommunities:
     contact_form:
     contact_person:  Rabea Müller, muellerr@zbmed.de
   social_media: 
-    twitter: 
-    mastodon: 
-    instagram: 
-    facebook: 
-    linkedin:  
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
     
