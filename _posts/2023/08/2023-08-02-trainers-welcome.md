@@ -50,6 +50,10 @@ When not teaching or programming, Fredo enjoys nerding about almost any topic he
 
 ### Heladia Salgado
 
+Heladia Salgado studied Computer Science at the Technological Institute of Zacatepec. She currently works at the Program of Computational Genomics of the Center for Genomic Sciences, UNAM. One of her interests is the development of scientific software attached to the FAIR principles and software development models. She coordinates the development of the RegulonDB database software. Her research contributions are mainly focused on the field of bioinformatics. 
+
+She participates as a teacher in bioinformatics courses in the Degree in Genomic Sciences and in the Doctoral Program in Biomedical Sciences at UNAM.  She strives to contribute to the growth of The Carpentries and other open communities in his mission to facilitate the teaching of informatics and bioinformatics in Mexico and Latin America.
+
 
 ### Jesica Formoso
 
@@ -69,7 +73,7 @@ Macarena Quiroga is a PhD Student at University of Buenos Aires, Argentina, and 
 ### Mmasibidi Setaka
 
 
-# Mmasibidi Setaka is a Digital Humanities Researcher focusing on the Sesotho language at the South African Centre for Digital Language Resource ([SADiLaR](https://sadilar.org/index.php/en/)). Her research interests lie in Lexicography for Sesotho. She has been involved in organising and teaching the Carpentries, to increase capacity in computational skills in South Africa specifically for the Humanities and Social Sciences and is part of the Executive Committee of the Digital Humanities Association of Southern Africa. She has organised conferences such as the Digital Humanities Association of Southern Africa[ DHASA 2021](https://dh2021.digitalhumanities.org.za/) and workshops such as the Resources for African Indigenous Languages (RAIL[ 2020](https://sadilar.org/index.php/en/8-home/181-rail2020),[ 2021](https://www.sadilar.org/index.php/en/2-general/286-rail-2021) and[ 2022](https://sadilar.org/index.php/en/2-general/329-third-workshop-on-resources-for-african-indigenous-language-rail) and 2023) and Technologies for Enhanced Documentation of African Languages ([TEDAL](http://2021.wocal.net/lorentzworkshop/)). She is also a member of the organising committee for Hundzula retreat that brings together linguists and NLP practitioners in one space to discuss challenges and opportunities that arise between the two disciplines.
+Mmasibidi Setaka is a Digital Humanities Researcher focusing on the Sesotho language at the South African Centre for Digital Language Resource ([SADiLaR](https://sadilar.org/index.php/en/)). Her research interests lie in Lexicography for Sesotho. She has been involved in organising and teaching the Carpentries, to increase capacity in computational skills in South Africa specifically for the Humanities and Social Sciences and is part of the Executive Committee of the Digital Humanities Association of Southern Africa. She has organised conferences such as the Digital Humanities Association of Southern Africa[ DHASA 2021](https://dh2021.digitalhumanities.org.za/) and workshops such as the Resources for African Indigenous Languages (RAIL[ 2020](https://sadilar.org/index.php/en/8-home/181-rail2020),[ 2021](https://www.sadilar.org/index.php/en/2-general/286-rail-2021) and[ 2022](https://sadilar.org/index.php/en/2-general/329-third-workshop-on-resources-for-african-indigenous-language-rail) and 2023) and Technologies for Enhanced Documentation of African Languages ([TEDAL](http://2021.wocal.net/lorentzworkshop/)). She is also a member of the organising committee for Hundzula retreat that brings together linguists and NLP practitioners in one space to discuss challenges and opportunities that arise between the two disciplines.
 
 
 ### Paula Pappalardo
@@ -107,7 +111,7 @@ She actually collaborate with the “Unidad Universitaria de Secuenciación Masi
 
 Co-founder of Rladies Cuernavaca, Morelos, México. She has a Sofware-Carpentry certification for teaching computer courses for scientists and is part of their group of translators and maintenance of courses for Latin America. She also has the Oracle Database Administration Certification.
 
-Greg Chism
+### Greg Chism
 
 Dr. Greg Chism is a data scientist, educator, and behavioral ecologist with a passion for open access data science and democratising education. As an assistant Professor of Practice at the University of Arizona Data Science Institute, he develops open source statistics, data visualisation, and reproducible research curriculum, while measuring their educational impact.
 
