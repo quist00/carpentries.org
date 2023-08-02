@@ -692,7 +692,7 @@ subcommunities:
     mentoring:
     other: 
   volunteers: true  
-  logo:
+  logo: carpentries-japan.jpg
   location: Currently active members are located near Tokyo, Japan, in Australia, and in California, USA.
   country:
   website: https://swcarpentry-ja.github.io/
@@ -748,7 +748,7 @@ subcommunities:
     mentoring: true
     other: study group
   volunteers: true
-  logo:
+  logo: carpentries-oslo.png
   location: University of Oslo
   country: Norway
   website: https://uio-carpentry.github.io/
