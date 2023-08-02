@@ -5,9 +5,9 @@ permalink: "/community-groups/"
 ---
 
 
-{% assign groups = site.data.subcommunity %}
+{% assign groups = site.data.subcommunity.subcommunities | sort: "name" %}
 
-{% for subcomm in groups.subcommunities %}
+{% for subcomm in groups %}
 <!-- Name with link to website if applicable  -->
 
 <h2 id = "{{ subcomm.name }}">
