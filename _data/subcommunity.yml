@@ -493,7 +493,7 @@ subcommunities:
   contact:
     email: carpentries@si.edu
     slack: smithsonian.slack.com (carpentries-alumni channel)
-    mailing_list: Smithsonian carpentries-announce mailing list button at the top of https://datascience.si.edu/carpentries
+    mailing_list: https://si-listserv.si.edu/cgi-bin/wa?SUBED1=CARPENTRIES-ANNOUNCE&A=1
     contact_form:
     contact_person: Mike Trizna, triznam@si.edu
   social_media: 
@@ -548,7 +548,7 @@ subcommunities:
   contact:
     email: 
     slack:
-    mailing_list:  Join the mailing list by visiting https://carpentries.topicbox.com/groups/local-heidelberg
+    mailing_list:  https://carpentries.topicbox.com/groups/local-heidelberg
     contact_form:
     contact_person: Toby Hodges, tbyhdgs@gmail.com
   social_media: 
@@ -605,7 +605,7 @@ subcommunities:
   contact:
     email: dreamlab@library.ucsb.edu
     slack: ucsbcarpentry.slack.com
-    mailing_list: Request via Google Groups (https://groups.google.com/a/library.ucsb.edu/g/carpentry/about)
+    mailing_list: https://groups.google.com/a/library.ucsb.edu/g/carpentry/about
     contact_form:
     contact_person: Seth Erickson, serickson@ucsb.edu
   social_media: 
@@ -772,7 +772,7 @@ subcommunities:
   contact:
     email: contact-us@carpentry.uio.no
     slack: https://swcarpentry.slack.com/archives/C04EUGYHPM4
-    mailing_list: only for active instructors and helpers in the Oslo region
+    mailing_list: 
     contact_form:
     contact_person:  Annika Rockenberger, annika.rockenberger@ub.uio.no
   social_media: 
