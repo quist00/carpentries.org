@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Request for Quotation (RFQ) - Website Development for The Carpentries"
 permalink: /rfq-web-development/
 ---
-[This page is also available as a PDF file.](https://carpentries.org/files/pdf/RFQ-Website-Development-Carpentries.pdf)
+[This page is also available as a PDF file.](/files/pdf/online-workshop-recommendations.pdf)
 
 ## About The Carpentries
 [The Carpentries](https://carpentries.org/) is an organisation building capacity in essential data and computational skills for conducting efficient, open, and reproducible research. Our community comprises Instructors, Trainers, Maintainers, Member Organisations, and more from institutions around the world who share our [mission](https://carpentries.org/about/) and [core values](https://carpentries.org/values/). The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityin.org/), a registered 501(c)3 non-profit organisation.
