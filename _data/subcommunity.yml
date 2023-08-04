@@ -43,11 +43,11 @@ subcommunities:
     teaching:
     other: 
   contact:
-    email:
+    email: martino.sorbaro@posteo.net
     slack:
     mailing_list: https://carpentries.topicbox.com/groups/local-italia
     contact_form: https://carpentriesitalia.github.io/ 
-    contact_person: Martino Sorbaro martino.sorbaro@posteo.net
+    contact_person: Martino Sorbaro
   social_media: 
     # twitter: 
     # mastodon: 
@@ -155,11 +155,11 @@ subcommunities:
     teaching:
     other: 
   contact:
-    email: Damien Irving, irving.damien@gmail.com
+    email: irving.damien@gmail.com
     slack:
     mailing_list:
     contact_form:
-    contact_person:
+    contact_person: Damien Irving
   social_media: 
     # twitter: 
     # mastodon: 
@@ -268,11 +268,11 @@ subcommunities:
     teaching: true
     other: 
   contact:
-    email: 
+    email: zwp@stanford.edu
     slack:
     mailing_list: carpentry@lists.stanford.edu
     contact_form:
-    contact_person: Zac Painter, zwp@stanford.edu
+    contact_person: Zac Painter 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -327,7 +327,7 @@ subcommunities:
     slack:  https://nesi.slack.com/archives/CH9MDCTSM
     mailing_list:
     contact_form:
-    contact_person: Nisha Ghatak, nisha.ghatak@nesi.org.nz
+    contact_person: Nisha Ghatak
   social_media: 
     # twitter: 
     # mastodon: 
@@ -546,11 +546,11 @@ subcommunities:
     teaching:
     other: 
   contact:
-    email: 
+    email: tbyhdgs@gmail.com
     slack:
     mailing_list:  https://carpentries.topicbox.com/groups/local-heidelberg
     contact_form:
-    contact_person: Toby Hodges, tbyhdgs@gmail.com
+    contact_person: Toby Hodges 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -718,7 +718,7 @@ subcommunities:
     slack: swcarpentry.slack.com, local-japan channel
     mailing_list:
     contact_form:
-    contact_person: Kozo Nishida, kozo.nishida@gmail.com
+    contact_person: Kozo Nishida
   social_media: 
     twitter: swcarpentry_ja
     # mastodon: 
@@ -830,7 +830,7 @@ subcommunities:
     slack: swcarpentry.slack.com; local-africa Channel 
     mailing_list: local-africa@lists.carpentries.org
     contact_form:
-    contact_person: Angelique Trusler, angelique@carpentries.org
+    contact_person: Angelique Trusler
   social_media: 
     # twitter: 
     # mastodon: 
@@ -890,13 +890,13 @@ subcommunities:
     instagram:
     facebook:
     linkedin:
-    contact_person: Rabea Müller, muellerr@zbmed.de
+    contact_person: Rabea Müller
   contact:
     email: muellerr@zbmed.de
     slack: swcarpentry.slack.com; local-dach channel
     mailing_list: https://carpentries.topicbox.com/groups/local-dach
     contact_form:
-    contact_person:  Rabea Müller, muellerr@zbmed.de
+    contact_person:  Rabea Müller
   social_media: 
     # twitter: 
     # mastodon: 
