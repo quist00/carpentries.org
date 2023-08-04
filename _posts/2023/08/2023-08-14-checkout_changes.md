@@ -76,7 +76,7 @@ However, many trainees found this step to be a barrier to completing checkout, a
 The "Get Involved" step allows Trainees to choose from a variety of options, with the goal that they will take the next step in their involvement in The Carpentries community. 
 Any participation will be accepted, but we suggest one of the following activities:
 - [ ] Serve as an Instructor or a Helper at a Carpentries workshop
-- [ ] Attend an Instructor Meeting, regional call, or other community event
+- [ ] Attend a regional call, skill-up session, or other community event
 - [ ] Submit a contribution to a Lesson, Glossario, or other Carpentries repository
 
 Signup procedures will vary by activity. Once an activity is completed, it must be submitted for credit directly in [AMY, our database](https://amy.carpentries.org) (discussed below).
