@@ -3,6 +3,7 @@ layout: page-fullwidth
 title: "Request for Quotation (RFQ) - Website Development for The Carpentries"
 permalink: /rfq-web-development/
 ---
+
 [This page is also available as a PDF file.](/files/pdf/online-workshop-recommendations.pdf)
 
 ## About The Carpentries
@@ -92,3 +93,5 @@ Submit your organisation for consideration by emailing the following to [team@ca
 ## Questions
 Please send any questions concerning the RFQ to [team@carpentries.org](mailto:team@carpentries.org)
 
+
+[This page is also available as a PDF file.](/files/pdf/online-workshop-recommendations.pdf)
