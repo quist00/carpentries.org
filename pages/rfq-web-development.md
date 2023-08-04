@@ -27,7 +27,7 @@ We are looking for a developer to build a theme using the [Hugo static site gene
 - Site Generator
   - Hugo static site generator
 - Modular Page layouts
-  -Templated layouts built from reusable components (header, footer, navbar, main page content, etc) to facilitate the following page types:
+  -Templated layouts built from reusable components (header, footer, navbar, main page content, etc.) to facilitate the following page types:
     - Home page (example)
     - Page with sidebar content (example)
       - Used to generate program information pages
@@ -74,15 +74,15 @@ The organisation selected to support this project will be contracted via an Inde
 
 
 ## Timeline
-- RFQ Published: 7 August, 2023
-- Submissions Due: 2 September, 2023
-- Organisations Selected & Contacted for Interview: 11 September, 2023
-- Final Organisation Selected & Contacted: 6 October, 2023
-- Project Kick-off Target Date: 1 November, 2023
-- Project Completion Target Date: 31 December, 2023
+- RFQ Published: 7 August 2023
+- Submissions Due: 1 September 2023
+- Organisations Selected & Contacted for Interview: 11 September 2023
+- Final Organisation Selected & Contacted: 6 October 2023
+- Project Kick-off Target Date: 1 November 2023
+- Project Completion Target Date: 31 December 2023
 
 ## Submission Instructions
-All submissions must be received by 2 September, 2023 at 12:00 PM UTC.
+All submissions must be received by 1 September 2023 at midnight anywhere on earth.
 
 Submit your organisation for consideration by emailing the following to [team@carpentries.org](mailto:team@carpentries.org):
 - Overview of your organisation’s experience and approach
