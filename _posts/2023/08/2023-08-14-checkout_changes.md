@@ -114,7 +114,7 @@ This means:
 - If you do attend a Welcome Session, we will use the Welcome Session towards your Welcome Session requirement and the previously attended community Discussion to complete your Get Involved step.
 
 ### I am in the process of completing checkout. I haven't completed my Community Discussion but I had planned to attend a Community Session rather than Welcome Session. Do I have to attend a Welcome Session?
-**Community Session attendance will be accepted as a means to fulfill the Welcome Session step through 31 October, 2023.** However, from this point forward, Community Discussion attendance will **not** automatically be counted towards this step because some trainees will choose to submit these for their "Get Involved" step instead. If you would like to have a Community Discussion that is not a Welcome Session counted for your Welcome Session step, please contact us at instructor.training@carpentries.org.
+**Community Session attendance will be accepted as a means to fulfill the Welcome Session step through 14 November, 2023.** However, from this point forward, Community Discussion attendance will **not** automatically be counted towards this step because some trainees will choose to submit these for their "Get Involved" step instead. If you would like to have a Community Discussion that is not a Welcome Session counted for your Welcome Session step, please contact us at instructor.training@carpentries.org.
 
 
 ### I am experiencing a barrier to accessibility during the Instructor checkout process. How can I get help?
@@ -123,7 +123,7 @@ We want to help! Please use our [accommodation request form](https://carpentries
 ### I was trained a long time ago and never completed checkout. These new rules seem more achievable to me. Can I re-start my checkout process?
 These changes are being made, in part, because we recognize that the challenges of our checkout process have prevented skilled and enthusiastic Instructors from completing their certification. 
 However, it is also important that trainees begin their Instructor role with Carpentries' training and ethos fresh in their mind. 
-Now through **31 October, 2023**, we will offer the following accommodations for anyone previously trained:
+Now through **14 November, 2023**, we will offer the following accommodations for anyone previously trained:
 - **If you attended an Instructor Training event after 1 January 2022,** you may [email us](mailto:instructor.training@carpentries.org) to request a new 90-day extension on your time to complete checkout. 
 - **If you attended an Instructor Training event before 1 January 2022,** you may [email us](mailto:instructor.training@carpentries.org) to request a Carpentries-sponsored code to re-take Instructor Training. 
 If you have been highly active in Carpentries activities during this period (e.g. as a Helper or non-certified co-Instructor), you may share a list of those activities and ask for a 90-day extension instead.
