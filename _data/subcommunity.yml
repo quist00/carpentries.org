@@ -885,17 +885,6 @@ subcommunities:
     slack: swcarpentry.slack.com; local-dach channel
     mailing_list: https://carpentries.topicbox.com/groups/local-dach
     contact_form:
-    twitter:
-    mastodon:
-    instagram:
-    facebook:
-    linkedin:
-    contact_person: Rabea Müller
-  contact:
-    email: muellerr@zbmed.de
-    slack: swcarpentry.slack.com; local-dach channel
-    mailing_list: https://carpentries.topicbox.com/groups/local-dach
-    contact_form:
     contact_person:  Rabea Müller
   social_media: 
     # twitter: 
