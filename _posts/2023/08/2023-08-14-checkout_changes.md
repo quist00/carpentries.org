@@ -82,9 +82,9 @@ Any participation will be accepted, but we suggest one of the following activiti
 Signup procedures will vary by activity. Once an activity is completed, it must be submitted for credit directly in [AMY, our database](https://amy.carpentries.org) (discussed below).
 
 ### Tracking Checkout progress
-**Previously: Teaching Demonstrations and Community Discussions were automatically recorded. After submitting a lesson contribution, trainees could receive credit by reporting their contribution in AMY, our database, or by emailing it to the Instructor Training team.**  
+Previously: **Most types of Community Sessions were automatically recorded as meeting the Community Discussion requirement. After submitting a lesson contribution, trainees could receive credit by sharing a link in AMY (our database) or by emailing it to the Instructor Training team.**  
 
-**Now: Teaching Demonstrations and Welcome Sessions will be automatically recorded for each trainee. After completing a "Get Involved" activity, trainees must [login to AMY](https://amy.carpentries.org) to report which participation option they wish to have credited.**  [Read more about how to access and update your AMY profile](https://carpentries.github.io/amy/users_guide/community_index/)
+**Now: Teaching Demonstrations and Welcome Sessions will continue to be automatically recorded for each trainee. After completing a "Get Involved" activity, trainees must [login to AMY](https://amy.carpentries.org) to report which participation option they wish to have credited.**  [Read more about how to access and update your AMY profile](https://carpentries.github.io/amy/users_guide/community_index/)
 Trainees can still [email us](mailto:instructor.training@carpentries.org) if they have difficulty accessing the database.
 While this procedure is essentially almost identical, note that there is an important change to how Community Discussions will be handled. Since these are now one of many options that can be counted towards the "Get Involved" step, **Community Discussion attendance will no longer be automatically recorded for checkout credit.** It is necessary to login and report attendance at a Community Discussion if a trainee wishes to apply it to satisfy the "Get Involved" step. (Also, refer to FAQ below for requests to substitute a community session for a welcome session.) 
   
