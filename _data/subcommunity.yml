@@ -45,7 +45,7 @@ subcommunities:
   contact:
     email:
     slack:
-    mailing_list: local-italia@lists.carpentries.org
+    mailing_list: https://carpentries.topicbox.com/groups/local-italia
     contact_form: https://carpentriesitalia.github.io/ 
     contact_person: Martino Sorbaro martino.sorbaro@posteo.net
   social_media: 
@@ -569,7 +569,7 @@ subcommunities:
     interest:
     other: 
   member: true
-  description: The Univeristy of California Santa Barbara subcommunity hosts and organises data science workshops for the UCSB community. They also sponsor community members for Instructor certification.
+  description: The University of California Santa Barbara subcommunity hosts and organises data science workshops for the UCSB community. They also sponsor community members for Instructor certification.
   activities: 
     carpentry_connect: true
     communication: true
