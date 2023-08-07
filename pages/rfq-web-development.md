@@ -25,15 +25,15 @@ We are looking for a developer to build a theme using the [Hugo static site gene
   
 ### Functionality Considerations:
 - Site Generator
-  - Hugo static site generator
+  - [Hugo static site generator](https://gohugo.io/)
 - Modular Page layouts
   -Templated layouts built from reusable components (header, footer, navbar, main page content, etc.) to facilitate the following page types:
-    - Home page (example)
-    - Page with sidebar content (example)
+    - Home page ([example](https://beta.carpentries.org/))
+    - Page with sidebar content ([example](https://beta.carpentries.org/about-us/))
       - Used to generate program information pages
-    - Catalog page with search/filter/sort options (example 1, example 2)
+    - Catalog page with search/filter/sort options ([example 1](https://beta.carpentries.org/workshops/upcoming-workshops/), [example 2](https://beta.carpentries.org/blog/))
       - Used to generate lists of workshops, curricula, etc.
-    - Profile pages (example 1, example 2)
+    - Profile pages ([example 1](https://carpentries.org/team/), [example 2](https://carpentries.org/instructors/))
       - Used to generate Person profiles for our various community segments 
     - Page without sidebar content
       - Used to generate general information pages 
