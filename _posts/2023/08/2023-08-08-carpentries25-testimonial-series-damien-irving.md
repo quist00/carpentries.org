@@ -31,7 +31,7 @@ It seemed like pure benevolence on my part (and to an extent it was), but the wo
 After a decade of running Carpentries workshops and writing lesson materials (shameless plug: and a textbook, [_Research Software Engineering with Python_](https://drclimate.wordpress.com/2021/07/08/we-wrote-a-book/)) my scientific programming is still very much a work in progress, but unlike most of my peers I have a whole community I can ask for help, a strong foundation in the basics and extra motivation to keep up with the latest advances. In a research environment where software development skills have gone from an optional extra to an essential skill in just a matter of years, these are the superpowers The Carpentries has given me.
 
 
-![Image of a group of 53 adults standing, kneeling and sitting on a concrete floor surrounded by ornate pillars under a university cloister]({{ site.urlimg }}/blog/2023/08/2023-08-08-inaugural-research-bazaar-in-AUS.jpg)
+![Image of a group of 53 adults standing, kneeling and sitting on a concrete floor surrounded by ornate pillars under a university cloister]({{site.urlimg }}/blog/2023/08/2023-08-08-inaugural-research-bazaar-in-AUS.jpg)
 
 *Instructor trainees from all over Australia and New Zealand at the inaugural Research Bazaar (University of Melbourne, February 2015).* Image credit: Nicole La Mela
 
