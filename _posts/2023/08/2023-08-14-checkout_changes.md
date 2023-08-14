@@ -1,15 +1,13 @@
 ---
 layout: page
 authors: ["Karen Word"]
-teaser: "Effective today, there are new rules to complete the 'checkout' process for certification as a Carpentries Instructor!"
+teaser: "Starting 14 August, 2023 (today!), there are more options available for trainees to complete the process of certifying as a Carpentries Instructor!"
 title: "Changes to Instructor Checkout"
 date: 2023-08-14
 time: "09:00:00"
 tags: ["Instructor Training", "Membership"]
 ---
-# Changes to Instructor Checkout
 
-Starting 14 August, 2023 (today!), there are more options available for trainees to complete the process of certifying as a Carpentries Instructor! 
 
 Summary of the updated checkout process:
 * [Teaching Demonstration requires less preparation](#Teaching-Demonstration)
@@ -20,8 +18,6 @@ Summary of the updated checkout process:
 ## What has changed?
  
 ![A diagram showing relationships between previous and new checkout requirements]({{ site.urlimg }}/blog/2023/07/Checkout-2023-07-10-1417.svg) A visual guide to the changes we are making to The Carpentries Instructor checkout process. For more details, each step is described below.
-
-Caption: A visual guide to the changes we are making to The Carpentries Instructor checkout process. For more details, each step is described below.
 
 ### Teaching Demonstration
 A teaching demonstration is an online session where trainees perform 5-minutes of teaching, receive feedback, and share feedback for others. 
