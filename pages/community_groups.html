@@ -11,18 +11,11 @@ permalink: "/community-groups/"
 <!-- Name with link to website if applicable  -->
 
 <h2 id = "{{ subcomm.name }}">
-{% if subcomm.logo %}
-<img src="/assets/img/subcommunities/{{ subcomm.logo }}" class="img-responsive img-circle" alt="logo"  width="24" height="24" >
-{% else %}
-<img src="/assets/img/subcommunities/carpentries.png" class="img-responsive img-circle" alt="logo"  width="24" height="24" >
-{% endif %}
-
 {% if subcomm.website %}
 <a href="{{subcomm.website}}">{{ subcomm.name }}</a>
 {% else %}
 {{ subcomm.name }}
 {% endif %}
-
 </h2>
 
 <!-- Group type -->
