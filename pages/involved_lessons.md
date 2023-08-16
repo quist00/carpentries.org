@@ -27,11 +27,11 @@ Any lesson that uses The Carpentries [lesson template][lesson-template], follows
 
 The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. The [Community Developed Lessons][community-lessons] page lists all lessons currently hosted in The Carpentries Incubator. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a ["standard" Carpentries 2-day workshop](/workshops/#workshop-core). The lessons can also be used by independent learners, outside of workshops.  Read more about how to contribute to these lessons in [The Carpentries Incubator Proposals Repository on GitHub](https://github.com/carpentries-incubator/proposals#readme).
 
-In the near future, we will also provide a friendly, community-supported, peer-review process for lessons.
-After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed
-by The Carpentries as high-quality resources. At this time, we are not accepting lesson submissions to The Carpentries Lab. If you
-are interested in having a lesson reviewed for inclusion in The Lab, please submit it first to The Incubator through our
-[GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
+We also provide a friendly, community-supported, peer-review process for lessons. 
+Peer-reviewed lessons are hosted in [The Carpentries Lab][carpentries-lab] and endorsed
+by The Carpentries as high-quality resources. 
+If you are interested in having a lesson in the Incubator reviewed for inclusion in the Lab, 
+please [submit an issue to the Reviews repository](https://github.com/carpentries-lab/reviews/issues/new?assignees=tobyhodges&labels=review&projects=&template=review_submission.yml&title=%5BReview%5D%3A+).
 
 
 [git-tutorial]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
