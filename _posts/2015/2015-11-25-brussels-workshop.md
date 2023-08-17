@@ -3,8 +3,6 @@ layout: page
 subheadline: "Workshops"
 title: "Workshop in Brussels, 2-3 Nov 2015"
 teaser: "At the beginning of November, Belgium held its first Data Carpentry workshop."
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

@@ -3,8 +3,6 @@ layout: page
 subheadline: "CarpentryCon 2018"
 title: "Volunteering for CarpentryCon 2018"
 teaser: "CarpentryCon 2018 Needs YOUR help"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

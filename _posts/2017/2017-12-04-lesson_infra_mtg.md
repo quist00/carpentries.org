@@ -3,8 +3,6 @@ layout: page
 subheadline: ""
 title: "Lesson Infrastructure Subcommittee 2017 November meeting"
 teaser: ""
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

@@ -3,8 +3,6 @@ layout: page
 subheadline: "Lessons"
 title: Data Carpentry Genomics and Asssessment Hackathon
 teaser: "Announcing a Data Carpentry Genomics and Assessment Hackathon"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

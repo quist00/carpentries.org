@@ -3,8 +3,6 @@ layout: page
 subheadline: ""
 title: "North West University Mafikeng Data Carpentry workshop"
 teaser: " "
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

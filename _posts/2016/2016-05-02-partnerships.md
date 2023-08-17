@@ -3,8 +3,6 @@ layout: page
 subheadline: "Partnerships"
 title: "Announcing Partnerships"
 teaser: "There are now opportunities to be partners with Data Carpentry and Software Carpentry"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

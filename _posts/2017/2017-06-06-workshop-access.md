@@ -3,8 +3,6 @@ layout: page
 subheadline:
 title: "Instructor Access to Workshops"
 teaser: "Working with hosts and instructors on workshop access"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

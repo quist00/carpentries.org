@@ -3,8 +3,6 @@ layout: page
 subheadline:
 title: "Announcing Belinda Weaver as our Community Development Lead"
 teaser: "Please welcome her to our staff!"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

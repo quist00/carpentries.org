@@ -3,8 +3,6 @@ layout: page
 title: "Invitación a Participar / Invitation to Participate"
 teaser: 
 date: 2017-09-25
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

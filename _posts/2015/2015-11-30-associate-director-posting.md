@@ -3,8 +3,6 @@ layout: page
 subheadline: "Staff"
 title: "Hiring an Associate Director"
 teaser: "We're hiring an Associate Director to lead community engagement and education efforts"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

@@ -3,8 +3,6 @@ layout: page
 subheadline: "Lessons"
 title: Social Sciences Lessons Published!
 teaser: "Announcing publication of a Data Carpentry curriculum for social scientists."
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

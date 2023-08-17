@@ -3,8 +3,6 @@ layout: page
 subheadline: "Community"
 title: Feedback on Communications
 teaser: "Creating a transparent and community-driven communications strategy."
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

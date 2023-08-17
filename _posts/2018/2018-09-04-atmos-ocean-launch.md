@@ -3,8 +3,6 @@ layout: page
 subheadline: "Lessons"
 Title: Data Carpentry for Atmosphere and Ocean Scientists
 teaser: "Want to teach data science skills to people working with weather, climate and ocean data?"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

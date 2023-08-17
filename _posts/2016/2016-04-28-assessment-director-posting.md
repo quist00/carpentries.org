@@ -3,8 +3,6 @@ layout: page
 subheadline: "Staff"
 title: "Hiring a Deputy Director of Assessment"
 teaser: "We're hiring a Deputy Director of Assessment to study the impact we are having"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

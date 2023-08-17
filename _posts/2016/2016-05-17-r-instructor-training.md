@@ -3,8 +3,6 @@ layout: page
 subheadline: "Instructors"
 title: "R Instructor Training"
 teaser: "Applications are now open for R instructor training"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

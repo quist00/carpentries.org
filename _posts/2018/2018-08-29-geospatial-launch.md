@@ -3,8 +3,6 @@ layout: page
 subheadline: "Lessons"
 Title: Geospatial Workshop is Now Ready to Teach!
 teaser: "Want to teach geospatial skills? Sign up for onboarding or to host a pilot workshop today."
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

@@ -3,8 +3,6 @@ layout: page
 subheadline: "Lessons"
 title: Guiding Data Carpentry
 teaser: "Guidelines and directions for Data Carpentry"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

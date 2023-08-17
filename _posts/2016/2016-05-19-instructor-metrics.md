@@ -3,8 +3,6 @@ layout: page
 subheadline: "Instructors"
 title: "Instructor and trainee involvement"
 teaser: "Analysis of checkout completion rates and time to first workshop for new instructors"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

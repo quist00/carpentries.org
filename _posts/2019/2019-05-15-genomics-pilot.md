@@ -3,8 +3,6 @@ layout: page
 subheadline: "Lessons"
 title: Genomics Workshop Pilot and BugBBQ at University of Arizona
 teaser: "Help prepare the Genomics lessons for release in June!"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

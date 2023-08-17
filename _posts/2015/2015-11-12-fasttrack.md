@@ -3,8 +3,6 @@ layout: page
 subheadline: "Instructors"
 title: "Data Carpentry Instructor Certification <br>for Software Carpentry Instructors"
 teaser: "Already a Software Carpentry instructor? Become a Data Carpentry instructor too!"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

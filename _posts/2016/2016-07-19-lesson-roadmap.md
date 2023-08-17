@@ -3,8 +3,6 @@ layout: page
 subheadline: "Curriculum"
 title: "A Roadmap for Lesson Development"
 teaser: ""
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

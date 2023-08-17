@@ -3,8 +3,6 @@ layout: page
 subheadline: "Curriculum"
 title: "Data Carpentry to adopt Reproducible Research Curriculum"
 teaser: "Curriculum added to Data Carpentry to further support training in reproducible research"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

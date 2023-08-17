@@ -3,8 +3,6 @@ layout: page
 subheadline: "Workshops"
 title: "Hello, Spatio-temporal Data Carpentry"
 teaser: "News from the pilot of the spatial data Data Carpentry workshop"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

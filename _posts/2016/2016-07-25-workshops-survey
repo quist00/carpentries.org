@@ -3,8 +3,6 @@ layout: page
 subheadline: "Community"
 title: "Survey on workshops for for-profit organizations"
 teaser: "Requesting community feedback on workshops for for-profit organizations"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

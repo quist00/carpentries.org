@@ -3,8 +3,6 @@ layout: page
 subheadline: "Instructors"
 title: "Reopening Instructor Training"
 teaser: "Two open instructor training classes this fall"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true

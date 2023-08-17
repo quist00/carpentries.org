@@ -3,8 +3,6 @@ layout: page
 subheadline: "Community"
 title: "Carpentries Career Pathways Panel: Raniere Silva, Geneviève Smith, Tiffany Timbers"
 teaser:
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
  - blog
 comments: true

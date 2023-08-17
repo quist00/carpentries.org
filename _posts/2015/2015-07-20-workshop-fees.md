@@ -4,8 +4,6 @@ subheadline: "Administration"
 title: Data Carpentry Workshop Fees
 teaser: "Workshop fees to increase for workshops scheduled after September 1, 2015 to help
 with organization sustainability"
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true
