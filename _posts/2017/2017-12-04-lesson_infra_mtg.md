@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: ""
 title: "Lesson Infrastructure Subcommittee 2017 November meeting"
 teaser: ""

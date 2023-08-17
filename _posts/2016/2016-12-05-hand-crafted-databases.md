@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Data in the Field"
 title: "Hand-crafted relational databases for fun and science"
 teaser: ""

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Instructor Access to Workshops"
 teaser: "Working with hosts and instructors on workshop access"

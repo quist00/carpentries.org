@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Mentoring"
 title: "Carpentries Mentorship Program - 2.0"
 teaser: "We’re starting a new round of mentoring groups, centered on specific lessons."

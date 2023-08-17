@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: "Join our new Mentorship Program!"
 teaser: ""

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "A Response to the 'Null Effects' paper from Feldon et al."
 title: "When Do Workshops Work?"
 teaser:

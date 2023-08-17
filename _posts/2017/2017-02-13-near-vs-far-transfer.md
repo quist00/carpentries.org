@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Science of Learning"
 title: "Transfer of Learning"
 teaser: “How to navigate the inevitably awkward.”

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: 2018-04-05-github-labels
 title: "Developing GitHub labels for The Carpentries lessons"
 teaser: "The process of developing GitHub labels for our lessons."

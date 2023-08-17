@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Data in the Field"
 title: "Making use of Data Skills"
 teaser: "How our community uses data skills in their work"

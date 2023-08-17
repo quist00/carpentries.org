@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "A Week o' Carpentry"
 teaser: "Bringing Carpentries Training to the Federal Reserve Board"

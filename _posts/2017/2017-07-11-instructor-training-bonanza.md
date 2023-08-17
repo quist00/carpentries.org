@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Help Update the Instructor Training Materials"
 teaser: We’re releasing a new version of the Carpentry Instructor Training curriculum - learn how you can help!

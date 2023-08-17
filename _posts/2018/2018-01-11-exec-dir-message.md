@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "New Year Message from the Carpentries' Executive Director"
 teaser:

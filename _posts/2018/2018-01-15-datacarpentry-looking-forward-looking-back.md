@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Data Carpentry: Building Community Teaching Universal Data Literacy"
 title: "A Look Back and A Look Ahead from the Data Carpentry Steering Committee"
 teaser: 

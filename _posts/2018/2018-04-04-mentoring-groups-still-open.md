@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Mentoring Groups Open for Multiple Timezones"
 teaser:

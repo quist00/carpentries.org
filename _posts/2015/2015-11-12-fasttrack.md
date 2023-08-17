@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Instructors"
 title: "Data Carpentry Instructor Certification <br>for Software Carpentry Instructors"
 teaser: "Already a Software Carpentry instructor? Become a Data Carpentry instructor too!"

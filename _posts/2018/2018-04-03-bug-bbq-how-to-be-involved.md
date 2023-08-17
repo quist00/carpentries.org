@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: 2018-04-03-bug-bbq-involved
 subheadline: "What can I do during the Bug BBQ?"
 title: "How to be involved in the Bug BBQ?"

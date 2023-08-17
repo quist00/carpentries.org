@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Science of Learning"
 title: "I think I can - Self-Efficacy and the Carpentry Learner"
 teaser: "Linking self-efficacy to learner success in carpentry workshops."

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Meet the Candidates"
 teaser: "Applicants for the 2018 Merged Carpentries Steering Committee"

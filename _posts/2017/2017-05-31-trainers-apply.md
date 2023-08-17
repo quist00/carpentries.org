@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Apply to Become a Carpentry Instructor Trainer!"
 teaser:

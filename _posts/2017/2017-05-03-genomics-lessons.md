@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Call for Contributions: Moving Ahead with Genomics Data Carpentry"
 teaser: “Get involved as we prepare for our first Issue Bonanza and Bug BBQ on the Data Carpentry Genomics lessons”

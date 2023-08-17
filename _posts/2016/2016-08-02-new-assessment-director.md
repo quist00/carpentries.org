@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Staff"
 title: "Announcing our new Deputy Director of Assessment"
 teaser: "Dr. Kari L. Jordan joins Data Carpentry as the new Deputy Director of Assessment"

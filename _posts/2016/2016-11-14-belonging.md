@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Science of Learning"
 title: "Belonging: Developing a Community of Practice among Data Carpentry Learners"
 teaser: "When did you realize you belonged to the Carpentry community?"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Lessons"
 title: Guiding Data Carpentry
 teaser: "Guidelines and directions for Data Carpentry"

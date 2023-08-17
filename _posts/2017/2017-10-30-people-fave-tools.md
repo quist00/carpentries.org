@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "People's Favourite Tools"
 teaser:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "My Favorite Tool is Git"
 teaser:

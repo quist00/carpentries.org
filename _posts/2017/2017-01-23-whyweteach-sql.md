@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Why we teach what we teach"
 title: "The SQL Ecology Lessons"
 teaser:

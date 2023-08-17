@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Work Cycle Ganymede Wraps Up"
 teaser: "Here's what we accomplished"

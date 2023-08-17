@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Curriculum"
 title: "Reproducible Research using Jupyter Notebooks: Curriculum Development Hackathon"
 teaser: "Apply to participate!"

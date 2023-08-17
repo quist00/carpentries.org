@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Mentoring is Back!"
 title: "Round Two of the Carpentries Mentoring Program begins October 25th"
 teaser: "Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building."

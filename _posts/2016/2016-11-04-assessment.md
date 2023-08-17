@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Assessment"
 title: "Analysis of Data Carpentry Workshop Impact"
 teaser: "Data Carpentry workshops have made a meaningful impact on the way learners view their ability to complete computational tasks."

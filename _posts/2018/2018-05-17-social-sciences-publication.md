@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Lessons"
 title: Social Sciences Lessons Published!
 teaser: "Announcing publication of a Data Carpentry curriculum for social scientists."

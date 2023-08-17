@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Invitación a Participar / Invitation to Participate"
 teaser: 
 date: 2017-09-25

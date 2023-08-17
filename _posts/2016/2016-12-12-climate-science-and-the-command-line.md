@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Data in the Field"
 tags: ["Skillshare", "Data Carpentry"]
 authors: ["Damien Irving"]

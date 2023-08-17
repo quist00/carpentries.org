@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Open Con Berlin - Impressions"
 teaser:

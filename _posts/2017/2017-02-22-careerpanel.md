@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: Carpentries Career Pathways Panel - Marianne Corvellec, Bernhard Konrad, Aleksandra Pawlik
 header:

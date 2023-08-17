@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Administration"
 title: Data Carpentry Workshop Fees
 teaser: "Workshop fees to increase for workshops scheduled after September 1, 2015 to help

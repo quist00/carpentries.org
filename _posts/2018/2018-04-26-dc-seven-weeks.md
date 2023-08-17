@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "An extended Data Carpentry Workshop over 7 weeks instead of 2 days"
 teaser: "Background to the workshop and lessons learned"

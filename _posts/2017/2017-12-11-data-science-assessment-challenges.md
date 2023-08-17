@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Challenges Assessing Data Science"
 Teaser: What is data science? What are the core competencies?

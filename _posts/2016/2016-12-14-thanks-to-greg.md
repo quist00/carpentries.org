@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Gratitude"
 title: "Congratulations to Greg on his new position!"
 teaser: "Thanks for all his amazing and inspirational work"

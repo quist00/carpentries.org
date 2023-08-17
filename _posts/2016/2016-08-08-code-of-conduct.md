@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: "Code of Conduct and Call for Volunteers for Policy Subcommittee"
 teaser: "The Carpentries seek your involvement in developing conduct-related policy."

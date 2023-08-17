@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Building Community"  
 title: A Year to Build a Software and Data Carpentry Community at the University of Florida - The Impact of a Local Instructor Training Workshop on Building Computing Capacity
 teaser:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Curriculum"
 title: "Data Carpentry to adopt Reproducible Research Curriculum"
 teaser: "Curriculum added to Data Carpentry to further support training in reproducible research"

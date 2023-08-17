@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Updates on the new Geospatial and Social Sciences lessons"
 teaser:

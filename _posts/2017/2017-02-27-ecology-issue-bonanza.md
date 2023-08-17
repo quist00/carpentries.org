@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: Ecology Issue Bonanza!!!
 teaser: We’re planning our first lesson release - learn how you can contribute!

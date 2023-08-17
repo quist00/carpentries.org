@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Science of Learning"
 title: "Growth Mindset"
 teaser: “No matter how hard I practice I’ll never be able to dunk a basketball.”

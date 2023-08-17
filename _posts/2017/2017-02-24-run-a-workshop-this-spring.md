@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: "Run a workshop this Spring!"
 teaser: "Attend our new ‘Run a Workshop!’ office hours."

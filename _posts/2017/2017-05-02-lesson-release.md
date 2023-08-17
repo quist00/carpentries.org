@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "First Data Carpentry Lesson Publication"
 teaser: “Hundreds of contributors to the Ecology lessons first official release”

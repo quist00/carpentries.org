@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Curriculum"
 title: "Collaborative Lesson Development for Semester-long Courses"
 teaser: "Building on Data Carpentry's core strength of collaborative lesson development."

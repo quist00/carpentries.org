@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Building Community"
 title: "Building Genomics Data Analysis Capacity at NWU"
 teaser: ""

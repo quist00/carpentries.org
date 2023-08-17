@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "A Mentoring Subcommittee Co-Chair position has just opened!"
 teaser: Work first-hand on developing our ever growing instructor pool.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Expanding Library Carpentry: Hiring a Library Carpentry Coordinator"
 header:

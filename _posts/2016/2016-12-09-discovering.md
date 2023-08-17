@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Building Community"
 title: "Discovering the data science community, becoming part of it, and expanding it"
 teaser: ""

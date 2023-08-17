@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Our first work cycle, Prometheus"
 teaser: “Here’s what we accomplished.”

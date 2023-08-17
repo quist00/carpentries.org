@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Announcing the 2018 Executive Council for the Carpentries"
 teaser:

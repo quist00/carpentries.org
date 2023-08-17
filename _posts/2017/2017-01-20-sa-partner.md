@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Partnerships"
 title: "South Africa's North-West University Becomes Software and Data Carpentry’s first African Partner"
 teaser:

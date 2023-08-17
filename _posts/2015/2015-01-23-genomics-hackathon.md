@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Lessons"
 title: Data Carpentry Genomics and Asssessment Hackathon
 teaser: "Announcing a Data Carpentry Genomics and Assessment Hackathon"

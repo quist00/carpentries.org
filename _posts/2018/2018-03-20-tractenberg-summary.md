@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Webinar with Rochelle Tractenberg: Debrief"
 teaser:

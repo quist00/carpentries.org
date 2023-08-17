@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Our 2017 Community Service Award winner: Anelda van der Walt"
 teaser:

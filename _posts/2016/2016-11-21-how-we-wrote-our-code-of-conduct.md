@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: "Forming a Community-Developed Code of Conduct: What we learned."
 teaser: ""

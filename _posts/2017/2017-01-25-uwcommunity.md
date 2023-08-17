@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Building Community"
 title: "The Community of Carpentry Enthusiasts at the University of Wisconsin"
 teaser:

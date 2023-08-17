@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Cycle Deimos wrapup"
 teaser: “Here’s what we accomplished.”

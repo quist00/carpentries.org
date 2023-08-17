@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: "September Data Carpentry All-Stars!"
 teaser: "Recognizing volunteers for their outstanding work in the community."

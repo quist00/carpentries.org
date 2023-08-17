@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Workshops"
 title: "Hello, Spatio-temporal Data Carpentry"
 teaser: "News from the pilot of the spatial data Data Carpentry workshop"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Updates from the Data Carpentry Steering Committee annual in-person meeting"
 teaser: "A brief review of the past year and plans for the year ahead"

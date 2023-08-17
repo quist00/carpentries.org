@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Mentoring"
 title: "Mentoring Groups Showcase their Accomplishments"
 teaser: "Community members engage during the mentoring groups virtual showcase."

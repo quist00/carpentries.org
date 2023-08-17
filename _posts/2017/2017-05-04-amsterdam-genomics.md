@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Data Carpentry Genomics comes to the Netherlands"
 teaser: The Netherlands eScience Center in collaboration with University Medical Center Utrecht, SURFsara and DTL/ELIXIR-NL organized one of the first Data Carpentry Genomics workshops in Europe.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Staff"
 title: "Welcoming our new Associate Director"
 teaser: "Dr. Erin Becker starts as the new Data Carpentry Associate Director"

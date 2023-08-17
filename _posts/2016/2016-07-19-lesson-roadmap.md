@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Curriculum"
 title: "A Roadmap for Lesson Development"
 teaser: ""

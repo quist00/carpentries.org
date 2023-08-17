@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 tags: ["Discussion Sessions", "Data Carpentry"]
 authors: ["Tracy Teal", "Kate Hertweck"]

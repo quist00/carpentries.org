@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Skills Training for Librarians: Expanding Library Carpentry"
 header:

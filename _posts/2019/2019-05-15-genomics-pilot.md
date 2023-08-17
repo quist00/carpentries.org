@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Lessons"
 title: Genomics Workshop Pilot and BugBBQ at University of Arizona
 teaser: "Help prepare the Genomics lessons for release in June!"

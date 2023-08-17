@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "How we’re getting things done"
 teaser:

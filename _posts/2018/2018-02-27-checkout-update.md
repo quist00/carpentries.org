@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "State of the State: Instructor Checkout"
 teaser: “An updated history of how new Instructors become certified”

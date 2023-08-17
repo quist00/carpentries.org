@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Valerie Aurora to Keynote at CarpentryCon 2018"
 teaser:

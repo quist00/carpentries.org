@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Lessons"
 Title: Geospatial Workshop is Now Ready to Teach!
 teaser: "Want to teach geospatial skills? Sign up for onboarding or to host a pilot workshop today."

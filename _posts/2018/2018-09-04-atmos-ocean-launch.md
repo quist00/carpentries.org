@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Lessons"
 Title: Data Carpentry for Atmosphere and Ocean Scientists
 teaser: "Want to teach data science skills to people working with weather, climate and ocean data?"

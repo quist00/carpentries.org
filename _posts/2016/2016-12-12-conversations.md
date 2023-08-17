@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: Feedback on Communications
 teaser: "Creating a transparent and community-driven communications strategy."

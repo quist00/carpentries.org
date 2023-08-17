@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Instructors"
 title: "Reopening Instructor Training"
 teaser: "Two open instructor training classes this fall"

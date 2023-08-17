@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Assessment"
 title: "Pilot Survey Focus Group Update"
 teaser: "Outcomes from focus group to discuss Data Carpentry’s survey instruments"

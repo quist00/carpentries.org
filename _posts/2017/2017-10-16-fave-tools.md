@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Blogging for the Carpentries - We Want to Hear From You"
 teaser: "Share your knowledge to help others work more efficiently"

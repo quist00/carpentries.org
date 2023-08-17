@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page  
 subheadline: Community  
 title: "Standing for Inclusivity: a Foundation for Our Teaching and Community"  
 teaser:  

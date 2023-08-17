@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Call for Contributions: Geospatial and Social Sciences Lessons"
 teaser: “Get involved as we prepare to publish two new Data Carpentry curricula” 

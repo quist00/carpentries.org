@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Science of Learning"
 title: "Responding to your Learners"
 teaser: "The importance of formative assessment"

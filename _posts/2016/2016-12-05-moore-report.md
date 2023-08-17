@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Support"
 title: "A Year in Review: Annual Moore Progress Report"
 teaser: ""

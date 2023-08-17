@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Assessment"
 title: "Long-Term Assessment Strategy"
 teaser: "With the help of our community we added skills-based questions to our surveys!"

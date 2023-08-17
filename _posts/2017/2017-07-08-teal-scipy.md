@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Meet the Folks"
 teaser: "Use our meetups page to find Carpenters at conferences"

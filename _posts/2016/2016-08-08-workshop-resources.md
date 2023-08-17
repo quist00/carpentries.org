@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Workshops"
 title: "Resources for Running Workshops"
 teaser: ""

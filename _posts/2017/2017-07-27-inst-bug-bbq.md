@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Bug BBQ to Update Instructor Training Materials"
 teaser: "Two days of bug squashing coming up!"

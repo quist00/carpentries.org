@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page  
 subheadline:  
 title: "Upcoming Publication of Genomics Materials"  
 teaser:   

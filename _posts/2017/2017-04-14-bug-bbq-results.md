@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Bug BBQ squashes bugs!"
 teaser: “Over 75 pull requests from the Issue Bonanza and Bug BBQ”

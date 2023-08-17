@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Introducing Elizabeth Williams and Karen Word"
 teaser:

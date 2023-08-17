@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Call for Contributions: Data Carpentry Ecology and Software Carpentry Curriculum Advisory Committees"
 teaser: “Be part of a team providing oversight, vision, and leadership for Carpentry curriculum.” 

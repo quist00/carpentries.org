@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: " "
 title: "Pack Your Bags for Dublin!"
 teaser: "Ireland the venue for inaugural CarpentryCon"

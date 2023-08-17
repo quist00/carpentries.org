@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Instructors"
 title: "Instructor and trainee involvement"
 teaser: "Analysis of checkout completion rates and time to first workshop for new instructors"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "DC Genomics Workshop, UC Davis, January 2018"
 teaser:

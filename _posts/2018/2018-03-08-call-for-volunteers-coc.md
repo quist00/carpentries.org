@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: 
 title: "Call for Code of Conduct Committee Volunteers"
 Teaser: Be a part of a committee that ensures that our community continues to thrive on diversity of thought and perspective.

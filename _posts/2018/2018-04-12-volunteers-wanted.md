@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "CarpentryCon 2018"
 title: "Volunteering for CarpentryCon 2018"
 teaser: "CarpentryCon 2018 Needs YOUR help"

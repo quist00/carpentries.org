@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Partnerships"
 title: "Announcing Partnerships"
 teaser: "There are now opportunities to be partners with Data Carpentry and Software Carpentry"

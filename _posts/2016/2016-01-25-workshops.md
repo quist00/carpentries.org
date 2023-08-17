@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Workshops"
 title: "Starting off Data Carpentry in 2016"
 teaser: "Several workshops starting off Data Carpentry in 2016"

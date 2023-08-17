@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Get Involved With Mentoring"
 teaser: "Meet other instructors and help the community grow."

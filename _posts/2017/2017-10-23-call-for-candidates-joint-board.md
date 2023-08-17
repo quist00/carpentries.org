@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Call for Joint Carpentries Leadership"
 title: "Call for Nominations to Joint Steering Committee"
 teaser: "Stand for election to the joint Steering Committee of the merged Carpentries organization"

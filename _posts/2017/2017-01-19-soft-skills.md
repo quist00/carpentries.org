@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Data in the Field"
 title: "Soft(ware) Skills"
 teaser:

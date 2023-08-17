@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Reproducible Data-Driven Discovery"
 teaser: Report back from the Curriculum Development Hackathon for Reproducible Research using Jupyter Notebooks and the Moore Foundation Early Career Researcher Symposium

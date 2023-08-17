@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Announcing Belinda Weaver as our Community Development Lead"
 teaser: "Please welcome her to our staff!"

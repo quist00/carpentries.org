@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: "A Welcoming Community"
 teaser: "We're committed to a friendly and respectful community for learning, teaching and contributing"

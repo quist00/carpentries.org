@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Launching The Carpentries Website"
 teaser: “We release our new merged website to celebrate our new merged identity, and to complement information in The Carpentries Handbook.”

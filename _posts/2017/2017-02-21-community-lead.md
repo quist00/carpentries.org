@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Job Opportunity: Community Development Lead"
 teaser:

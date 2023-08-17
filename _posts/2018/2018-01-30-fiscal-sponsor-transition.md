@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Carpentries Transition From Fiscally Sponsored Project to NumFOCUS Community Alliance Member"
 teaser:

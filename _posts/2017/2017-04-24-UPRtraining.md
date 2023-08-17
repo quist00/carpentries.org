@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Instructor Training in Puerto Rico"
 teaser: “Building community through training and coding” 

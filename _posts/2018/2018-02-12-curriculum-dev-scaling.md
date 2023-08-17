@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Scaling Collaborative Curriculum Development for Data Skills Training"
 teaser:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Building Library Carpentry Community and Development"
 teaser:

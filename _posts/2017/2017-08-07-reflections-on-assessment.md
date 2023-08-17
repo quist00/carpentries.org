@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Assessment"
 title: "Reflections on Assessment"
 teaser: "Data Carpentry launches Skills-Based Pre- and Post-Workshop Surveys"

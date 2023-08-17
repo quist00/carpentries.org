@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "The Magic of Minute Cards"
 teaser: "Formative assessment for instructors!"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Why we teach what we teach"
 tags: ["Curriculum", "Data Carpentry"]
 authors: ["April Wright"]

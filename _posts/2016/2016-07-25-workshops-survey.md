@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Community"
 title: "Survey on workshops for for-profit organizations"
 teaser: "Requesting community feedback on workshops for for-profit organizations"

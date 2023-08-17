@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "The Carpentries' In-Person Staff Meeting"
 teaser:

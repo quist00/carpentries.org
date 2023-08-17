@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Instructors"
 title: "Open Instructor Training"
 teaser: "Thank you to all of our amazing applicants!"

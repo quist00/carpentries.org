@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page  
 subheadline: Instructor Training   
 title: "Moving Forward"  
 teaser:  

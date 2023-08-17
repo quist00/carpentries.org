@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "State of the State: Carpentry Maintainers"
 teaser: 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "New Trainers On Board"
 teaser:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Dyslexia and Coding"
 teaser: "What we can do in workshops to help people with dyslexia"
 date: 2017-09-17

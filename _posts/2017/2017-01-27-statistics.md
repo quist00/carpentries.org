@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Best recipe - just add statistics and science"
 teaser:
