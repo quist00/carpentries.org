@@ -1,4 +1,3 @@
-
 ---
 layout: page
 authors: ["Eric Jankowski", "François Michonneau", "Jennifer Stubbs", "Laurent Gatto", "Charlotte Soneson", "Malvika Sharan", "Alycia Crall", "Toby Hodges"]
@@ -8,7 +7,6 @@ Date: 2023-08-21
 time: "18:00:00"
 tags: ["Carpentries Workbench", "Community", "Lesson Infrastructure", "Lessons"]
 ---
-
 
 
 In May 2023, a significant milestone was reached as The Carpentries transitioned all 43 of its official lessons to a new lesson infrastructure, [The Carpentries Workbench](https://carpentries.github.io/workbench/). This project, led by Zhian Kamvar our Lesson Infrastructure Developer, was a three-year coordinated effort requiring input and contributions from many members of our community. We asked six of them to provide their reflections on the project, its impact, and Zhian’s leadership.
