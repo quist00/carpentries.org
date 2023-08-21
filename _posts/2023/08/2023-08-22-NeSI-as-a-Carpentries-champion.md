@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Nick Jones"]
-teaser: "NeSI celebrates being a Carpentries champion on our 25th Anniversary."
+teaser: "NeSI celebrates being a Carpentries champion on our 25th Anniversary"
 title: "#Carpentries25 Testimonial Series: The New Zealand eScience Infrastructure (NeSI)"
 date: 2023-08-22
 time: "09:00:00"
