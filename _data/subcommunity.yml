@@ -9,7 +9,7 @@ subcommunities:
     interest:
     other: 
   member: false 
-  description: We are a small group of Italian Carpentries Instructors, many of whom are living abroad. In the last couple of years we organized three Software Carpentry workshops in collaboration with ELIXIR. We also have our own Slack workspace and have attempted some translations.
+  description: We are a small group of Italian Carpentries Instructors, many of whom are living abroad. In the last couple of years, we organized three Software Carpentry workshops in collaboration with ELIXIR. We also have our own Slack workspace and have attempted some translations.
   activities: 
     carpentry_connect:
     communication: true
@@ -102,7 +102,7 @@ subcommunities:
     slack:
     mailing_list: https://carpentries.topicbox.com/groups/local-aunz
     contact_form:
-    contact_person: Damien Irving, irving.damien@gmail.com
+    contact_person: Damien Irving
   social_media: 
     # twitter: 
     # mastodon: 
@@ -324,7 +324,7 @@ subcommunities:
     other: 
   contact:
     email:  nisha.ghatak@nesi.org.nz
-    slack:  https://nesi.slack.com/archives/CH9MDCTSM
+    slack:  NESI workspace
     mailing_list:
     contact_form:
     contact_person: Nisha Ghatak
@@ -378,11 +378,11 @@ subcommunities:
     teaching:
     other: 
   contact:
-    email: sarah.stevens@wisc.edu, wjohn@illinois.edu, jgraham@illinois.edu
-    slack: swcarpentry.slack.com; local-us-midwest channel
+    email: wjohn@illinois.edu
+    slack: Carpentries workspace, #local-us-midwest
     mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     contact_form:
-    contact_person:  MacMullen, John <wjohn@illinois.edu>, Graham, J.D. <jgraham@illinois.edu>, Sarah Stevens <sarah.stevens@wisc.edu>
+    contact_person:  John MacMullen
   social_media: 
     # twitter: 
     # mastodon: 
@@ -434,7 +434,7 @@ subcommunities:
     other: 
   contact:
     email: facilitator@datascience.wisc.edu
-    slack: data-science-hubgroup workspace, uw_carpentries channel
+    slack: data-science-hubgroup workspace, #uw_carpentries
     mailing_list:  carpentries@g-groups.wisc.edu
     contact_form:
     contact_person: facilitator@datascience.wisc.edu
@@ -492,10 +492,10 @@ subcommunities:
     other: 
   contact:
     email: carpentries@si.edu
-    slack: smithsonian.slack.com (carpentries-alumni channel)
+    slack: Smithsonian workspace, #carpentries-alumni
     mailing_list: https://si-listserv.si.edu/cgi-bin/wa?SUBED1=CARPENTRIES-ANNOUNCE&A=1
     contact_form:
-    contact_person: Mike Trizna, triznam@si.edu
+    contact_person: Mike Trizna
   social_media: 
     # twitter: 
     # mastodon: 
@@ -604,7 +604,7 @@ subcommunities:
     other: 
   contact:
     email: dreamlab@library.ucsb.edu
-    slack: ucsbcarpentry.slack.com
+    slack: ucsbcarpentry workspace
     mailing_list: https://groups.google.com/a/library.ucsb.edu/g/carpentry/about
     contact_form:
     contact_person: Seth Erickson, serickson@ucsb.edu
@@ -659,7 +659,7 @@ subcommunities:
     other: 
   contact:
     email: trevor.keller@nist.gov
-    slack:  swcarpentry.slack.com; hpc-carpentry channel
+    slack:  Carpentries workspace, #hpc-carpentry
     mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
     contact_form: https://www.hpc-carpentry.org/contact/
     contact_person: maintainers-hpc@lists.carpentries.org
@@ -715,7 +715,7 @@ subcommunities:
     other: 
   contact:
     email: kozo.nishida@gmail.com
-    slack: swcarpentry.slack.com, local-japan channel
+    slack: Carpentries workspace, #local-japan
     mailing_list:
     contact_form:
     contact_person: Kozo Nishida
@@ -771,10 +771,10 @@ subcommunities:
     other: 
   contact:
     email: contact-us@carpentry.uio.no
-    slack: https://swcarpentry.slack.com/archives/C04EUGYHPM4
+    slack: Carpentries workspace, #oslo-community
     mailing_list: 
     contact_form:
-    contact_person:  Annika Rockenberger, annika.rockenberger@ub.uio.no
+    contact_person:  Annika Rockenberger
   social_media: 
     # twitter: 
     # mastodon: 
@@ -827,7 +827,7 @@ subcommunities:
     other: 
   contact:
     email: angelique@carpentries.org
-    slack: swcarpentry.slack.com; local-africa Channel 
+    slack: Carpentries workspace, #local-africa 
     mailing_list: local-africa@lists.carpentries.org
     contact_form:
     contact_person: Angelique Trusler
@@ -882,10 +882,10 @@ subcommunities:
     other: 
   contact:
     email: muellerr@zbmed.de
-    slack: swcarpentry.slack.com; local-dach channel
+    slack: Carpentries workspace, #local-dach
     mailing_list: https://carpentries.topicbox.com/groups/local-dach
     contact_form:
-    contact_person:  Rabea Müller
+    contact_person:  Rabea Müeller
   social_media: 
     # twitter: 
     # mastodon: 
