@@ -43,11 +43,11 @@ subcommunities:
     teaching:
     other: 
   contact:
-    email: martino.sorbaro@posteo.net
+    email: 
     slack:
     mailing_list: https://carpentries.topicbox.com/groups/local-italia
     contact_form: https://carpentriesitalia.github.io/ 
-    contact_person: Martino Sorbaro
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -102,7 +102,7 @@ subcommunities:
     slack:
     mailing_list: https://carpentries.topicbox.com/groups/local-aunz
     contact_form:
-    contact_person: Damien Irving
+    contact_person:
   social_media: 
     # twitter: 
     # mastodon: 
@@ -159,7 +159,7 @@ subcommunities:
     slack:
     mailing_list:
     contact_form:
-    contact_person: Damien Irving
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -213,7 +213,7 @@ subcommunities:
     teaching: true 
     other: 
   contact:
-    email: 
+    email: jannetta.steyn@newcastle.ac.uk
     slack:
     mailing_list:
     contact_form:
@@ -268,11 +268,11 @@ subcommunities:
     teaching: true
     other: 
   contact:
-    email: zwp@stanford.edu
+    email: 
     slack:
     mailing_list: carpentry@lists.stanford.edu
     contact_form:
-    contact_person: Zac Painter 
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -327,7 +327,7 @@ subcommunities:
     slack:  NESI workspace
     mailing_list:
     contact_form:
-    contact_person: Nisha Ghatak
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -382,7 +382,7 @@ subcommunities:
     slack: Carpentries workspace, #local-us-midwest
     mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     contact_form:
-    contact_person:  John MacMullen
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -437,7 +437,7 @@ subcommunities:
     slack: data-science-hubgroup workspace, #uw_carpentries
     mailing_list:  carpentries@g-groups.wisc.edu
     contact_form:
-    contact_person: facilitator@datascience.wisc.edu
+    contact_person:
   social_media: 
     # twitter: 
     # mastodon: 
@@ -495,7 +495,7 @@ subcommunities:
     slack: Smithsonian workspace, #carpentries-alumni
     mailing_list: https://si-listserv.si.edu/cgi-bin/wa?SUBED1=CARPENTRIES-ANNOUNCE&A=1
     contact_form:
-    contact_person: Mike Trizna
+    contact_person:
   social_media: 
     # twitter: 
     # mastodon: 
@@ -546,11 +546,11 @@ subcommunities:
     teaching:
     other: 
   contact:
-    email: tbyhdgs@gmail.com
+    email: 
     slack:
     mailing_list:  https://carpentries.topicbox.com/groups/local-heidelberg
     contact_form:
-    contact_person: Toby Hodges 
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -607,7 +607,7 @@ subcommunities:
     slack: ucsbcarpentry workspace
     mailing_list: https://groups.google.com/a/library.ucsb.edu/g/carpentry/about
     contact_form:
-    contact_person: Seth Erickson, serickson@ucsb.edu
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -658,11 +658,11 @@ subcommunities:
     teaching: true
     other: 
   contact:
-    email: trevor.keller@nist.gov
+    email: maintainers-hpc@lists.carpentries.org
     slack:  Carpentries workspace, #hpc-carpentry
     mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
     contact_form: https://www.hpc-carpentry.org/contact/
-    contact_person: maintainers-hpc@lists.carpentries.org
+    contact_person: 
   social_media: 
     twitter: hpccarpentry
     # mastodon: 
@@ -718,7 +718,7 @@ subcommunities:
     slack: Carpentries workspace, #local-japan
     mailing_list:
     contact_form:
-    contact_person: Kozo Nishida
+    contact_person: 
   social_media: 
     twitter: swcarpentry_ja
     # mastodon: 
@@ -774,7 +774,7 @@ subcommunities:
     slack: Carpentries workspace, #oslo-community
     mailing_list: 
     contact_form:
-    contact_person:  Annika Rockenberger
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -828,9 +828,9 @@ subcommunities:
   contact:
     email: angelique@carpentries.org
     slack: Carpentries workspace, #local-africa 
-    mailing_list: local-africa@lists.carpentries.org
+    mailing_list: https://carpentries.topicbox.com/groups/local-africa
     contact_form:
-    contact_person: Angelique Trusler
+    contact_person: 
   social_media: 
     # twitter: 
     # mastodon: 
@@ -885,7 +885,7 @@ subcommunities:
     slack: Carpentries workspace, #local-dach
     mailing_list: https://carpentries.topicbox.com/groups/local-dach
     contact_form:
-    contact_person:  Rabea Müeller
+    contact_person:  
   social_media: 
     # twitter: 
     # mastodon: 
