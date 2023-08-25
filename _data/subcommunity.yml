@@ -214,9 +214,9 @@ subcommunities:
     other: 
   contact:
     email: jannetta.steyn@newcastle.ac.uk
-    slack:
+    slack: Carpentries workspace, #carpentries-offline
     mailing_list:
-    contact_form:
+    contact_form: http://carpentriesoffline.org/contactus
     contact_person:
   social_media: 
     # twitter: 
