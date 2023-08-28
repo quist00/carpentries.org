@@ -214,7 +214,7 @@ subcommunities:
     other: 
   contact:
     email: jannetta.steyn@newcastle.ac.uk
-    slack: Carpentries workspace, #carpentries-offline
+    slack: "Carpentries workspace, #carpentries-offline"
     mailing_list:
     contact_form: http://carpentriesoffline.org/contactus
     contact_person:
@@ -379,7 +379,7 @@ subcommunities:
     other: 
   contact:
     email: wjohn@illinois.edu
-    slack: Carpentries workspace, #local-us-midwest
+    slack: "Carpentries workspace, #local-us-midwest"
     mailing_list: https://carpentries.topicbox.com/groups/local-us-midwest
     contact_form:
     contact_person: 
@@ -659,7 +659,7 @@ subcommunities:
     other: 
   contact:
     email: maintainers-hpc@lists.carpentries.org
-    slack:  Carpentries workspace, #hpc-carpentry
+    slack:  "Carpentries workspace, #hpc-carpentry"
     mailing_list: https://carpentries.topicbox.com/groups/discuss-hpc
     contact_form: https://www.hpc-carpentry.org/contact/
     contact_person: 
@@ -715,7 +715,7 @@ subcommunities:
     other: 
   contact:
     email: kozo.nishida@gmail.com
-    slack: Carpentries workspace, #local-japan
+    slack: "Carpentries workspace, #local-japan"
     mailing_list:
     contact_form:
     contact_person: 
@@ -771,7 +771,7 @@ subcommunities:
     other: 
   contact:
     email: contact-us@carpentry.uio.no
-    slack: Carpentries workspace, #oslo-community
+    slack: "Carpentries workspace, #oslo-community"
     mailing_list: 
     contact_form:
     contact_person: 
@@ -827,7 +827,7 @@ subcommunities:
     other: 
   contact:
     email: angelique@carpentries.org
-    slack: Carpentries workspace, #local-africa 
+    slack: "Carpentries workspace, #local-africa" 
     mailing_list: https://carpentries.topicbox.com/groups/local-africa
     contact_form:
     contact_person: 
@@ -882,7 +882,7 @@ subcommunities:
     other: 
   contact:
     email: muellerr@zbmed.de
-    slack: Carpentries workspace, #local-dach
+    slack: "Carpentries workspace, #local-dach"
     mailing_list: https://carpentries.topicbox.com/groups/local-dach
     contact_form:
     contact_person:  
