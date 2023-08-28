@@ -96,6 +96,8 @@
     url: "/committees/"
   - title: "Current Member Organisations"
     url: "/members/"
+    title: "Our Subcommunities"
+    url: /community-groups/"
 
 
 - title: Connect
