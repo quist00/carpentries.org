@@ -21,8 +21,6 @@ and research software development through building local and global communities 
 	* Infrastructure - those who work to support our infrastructure
 	* [Regional Coordinators](#regional-coordinators) - those who coordinate workshops regionally
 	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
-	* Feedback Facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
-	* Code of Conduct Facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who serve as a bridge between community members at events and our Code of Conduct processes
 
 * Supporting regional communities of practice:
 	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building The Carpentries community across Latin America
@@ -38,20 +36,13 @@ and research software development through building local and global communities 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
 	*	[CarpentryCon](#carpentrycon) - our annual in-person meetup for our global community
 	*	[CarpentryConnects](#carpentryconnects) - regional community conferences organised by regional coordinators and local community members in The Carpentries
-	*	[Community discussions](#community-events)
+	*	[Community sessions](#community-events)
 	*	[Mailing lists](https://carpentries.topicbox.com/latest)
 
 * Here are some currently inactive roles that community members have fulfilled in the past:
 	* [Champions](#champions) - those who work to spread our impact locally
 	* [Assessment Committee](#assessment-network) - those who help us understand our impact
 	* [Lesson infrastructure Committee](#lesson-infrastructure) - those who support lesson building and styling
-
-* Here are new roles we are planning on onboarding community members to in the near future
-	* Technology facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
-	* Community buddies - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
-	* Communications facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns
-	* Resource-enhancement facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
-	* Accessibility facilitators - [community facilitators](/blog/2020/09/introducing-community-facilitators-program/) who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
 
 
 ### Executive Council
@@ -74,7 +65,7 @@ The Carpentries Instructors are the core of our community. Instructors organise 
 ### Instructor Development
 
 Instructor development is how our global instructors come together to support each other and develop new teaching and
-technical skills. We create an open and inviting environment through community discussions and project-based small group mentoring.
+technical skills. We create an open and inviting environment through community sessions and project-based small group mentoring.
 
 #### Mentoring Groups
 
@@ -122,37 +113,6 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 * [Slack]({{site.slack_invite}})
 * [Contact](mailto:francois@carpentries.org)
 
-### Community Facilitators
-
-[Community Facilitators](/blog/2020/09/introducing-community-facilitators-program/) are people who are empowered to advocate for others in the community and guide community members as they navigate The Carpentries global community. Seven facilitation roles have been identified in The Carpentries community:
-
-#### Feedback Facilitators
-
-Feedback facilitators are community facilitators who collect and organise feedback shared publicly and informally in our community spaces for ease of filtering, action and response in The Carpentries
-
-#### Code of Conduct Facilitators
-
-Code of Conduct Facilitators will be community facilitators who serve as a bridge between community members at events and our Code of Conduct processes
-
-#### Technology facilitators
-
-Technology facilitators will be community facilitators who address everyday ‘how-do-I’ questions that newcomers have as they collaborate with others on platforms The Carpentries uses i.e. GitHub
-
-#### Community buddies
-
-Community buddies will be community facilitators who spearhead the onboarding of new community members - saying hello and ‘come to me with any questions’, etc
-
-#### Communications facilitators
-
-Communications facilitators will be community facilitators who help translate key communications so we can share these in languages other than English across our socials and lead region-specific outreach campaigns
-
-#### Resource-enhancement facilitators
-
-Resource-enhancement facilitators will be community facilitators who spearhead discussions around content design  to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
-
-#### Accessibility facilitators
-
-Accessibility facilitators will be community facilitators who lead conversations to review, update and implement Carpentries accessibility guidelines that guide interactions in online and in-person spaces, as well as the creation of written and audio-visual content and choice of platforms.
 
 ### Curriculum Advisors
 Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum,
@@ -167,11 +127,11 @@ network with other domain experts in The Carpentries community. We are not curre
 
 ### Lesson Developers
 
-The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.
+The Carpentries community is committed to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.
 
 [The Carpentries Incubator](https://carpentries-incubator.org/) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
-[The Carpentries Lab](https://carpentries-lab.org/) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
+[The Carpentries Lab](https://carpentries-lab.org/) is for sharing peer-reviewed lessons, vetted by The Carpentries. We are currently piloting [an open peer review process for lessons entering The Carpentries Lab](https://github.com/carpentries-lab/reviews/). Although the system is open for submissions, we can currently only commit to review those lessons that have been invited. If you would like to volunteer as a reviewer for The Carpentries Lab, please send an email to [incubator@carpentries.org](mailto:incubator@carpentries.org).
 
 Those looking for ways to contribute to existing lesson material can find
 a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
