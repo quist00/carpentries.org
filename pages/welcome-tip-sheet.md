@@ -25,7 +25,7 @@ Glad you asked! Here are a few things we recommend to everyone:
 
 The Carpentries offers many options for connecting, collaborating and networking within the community. Worried about too many communications? Don’t be! Only subscribe to the communications you want, and you can unsubscribe at any time. 
 
-* **The Carpentries Slack**([Join Link](https://swc-slack-invite.herokuapp.com/)) ([Slack Quickstart Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide))
+* **The Carpentries Slack**([Join Link]({{site.slack_invite}})) ([Slack Quickstart Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide))
 * **Email Mailing Lists** ([Mailing List Directory](https://carpentries.topicbox.com/latest))
 * **Monthly Newsletter - The Carpentries Clippings**([Subscribe](https://carpentries.org/newsletter/))
 * **Blog**([Posts](https://carpentries.org/blog/))

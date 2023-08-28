@@ -62,7 +62,7 @@ Your voice is important in developing this roadmap. It is not your responsibilit
 
 - Attend the [community discussion](https://pad.carpentries.org/community-discussions),     
 - File or comment on an [issue](https://github.com/carpentries/equity-and-inclusion/issues) in the equity-and-inclusion repo,   
-- Discuss on the #accessibility [Slack channel](https://swc-slack-invite.herokuapp.com),  
+- Discuss on the #accessibility [Slack channel]({{site.slack_invite}}),  
 - Send an email to team@carpentries.org or [get in touch with me directly](mailto:kariljordan@carpentries.org).   
 
 We thank you in advance for your engagement in this process, and hope to hear and learn from you.

@@ -29,4 +29,4 @@ Applications may be submitted until
 
 If you have any questions about the application or about being a Maintainer, please reach out to [The Carpentries team](team@carpentries.org) or to the 
 Maintainer Community Lead, Vini Salazar.
-To contact Vini, please send him a message on [The Carpentries Slack workspace](https://swc-slack-invite.herokuapp.com/).
+To contact Vini, please send him a message on [The Carpentries Slack workspace]({{site.slack_invite}}/).

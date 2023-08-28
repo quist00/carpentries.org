@@ -36,6 +36,8 @@ filesurl: 'https://carpentries.org/files'
 
 # Other URLs
 handbook_url: "https://docs.carpentries.org"
+slack_invite: "https://slack-invite.carpentries.org/"
+
 
 # Helpscout boxes
 contact: "team@carpentries.org"

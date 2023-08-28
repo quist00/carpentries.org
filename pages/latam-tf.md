@@ -15,7 +15,7 @@ _Our vision is to form a community that provides public and free quality knowled
 
 * [Repositorio GitHub para lecciones y recursos](https://github.com/Carpentries-ES)
 * [El Handbook de Carpentries]({{site.handbook_url}}/topic_folders/regional_communities/carpentries_en_latinoamerica.html)
-* Canal de Slack [#carpentries_es](https://swc-slack-invite.herokuapp.com/)
+* Canal de Slack [#carpentries_es]({{site.slack_invite}})
 * [Minutos de las reuniones](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos). 
 * [Lista de correo de América Latina ](https://carpentries.topicbox.com/groups/local-latinoamerica)
 * [Lista de correo de traductores de español](https://groups.google.com/forum/#!forum/carpentries-traductores)

@@ -62,7 +62,7 @@ We’re so happy you want to join us as an Instructor Trainer! The application i
 
 **Any questions?**
 
-Ask Karen Word, our Deputy Director of Instructor Training, by [email](mailto:krword@carpentries.org) or on [The Carpentries Slack!](https://swc-slack-invite.herokuapp.com/).
+Ask Karen Word, our Deputy Director of Instructor Training, by [email](mailto:krword@carpentries.org) or on [The Carpentries Slack!]({{site.slack_invite}}/).
 
 **Help us spread the word!**
 

@@ -19,7 +19,7 @@
   title: ""
 
 - name: Slack
-  url: https://swc-slack-invite.herokuapp.com/
+  url: https://slack-invite.carpentries.org/
   class: fa-slack 
   title: ""
   

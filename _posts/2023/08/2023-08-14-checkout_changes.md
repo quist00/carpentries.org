@@ -125,7 +125,7 @@ Now through **14 November, 2023**, we will offer the following accommodations fo
 If you have been highly active in Carpentries activities during this period (e.g. as a Helper or non-certified co-Instructor), you may share a list of those activities and ask for a 90-day extension instead.
 
 ### I have another question! How can I get an answer?
-The fastest way to get help is to [join The Carpentries on Slack](https://swc-slack-invite.herokuapp.com/), then search for our new **#checkout-support** channel! (To search, click the word "Channels" -> "Manage" -> "Browse Channels" and use the search bar.)
+The fastest way to get help is to [join The Carpentries on Slack]({{site.slack_invite}}/), then search for our new **#checkout-support** channel! (To search, click the word "Channels" -> "Manage" -> "Browse Channels" and use the search bar.)
 If someone has already asked the same question, the answer may be there already! 
 If not, consider sharing your question there for others to find. 
 Depending on the question and time of day, you may receive a reply immediately or within 1 business day. 

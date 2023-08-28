@@ -82,7 +82,7 @@ Mentoring Groups support Instructors in a variety of ways. Whether you are a new
 
 * [Training materials]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html)
 * [Duties]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
-* [Join the #mentoring Slack channel](https://swc-slack-invite.herokuapp.com/)
+* [Join the #mentoring Slack channel]({{site.slack_invite}})
 * For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
 #### Instructor Development Committee
@@ -108,7 +108,7 @@ The Trainer community is a group of experienced Instructors, local champions, an
 Private resources for current Trainers:
 * [Upcoming meetings](http://pad.carpentries.org/trainers) *Meetings are private to Trainers and invited guests*
 * [Mailing list]({{site.mailing_lists}}/trainers) *This list is private to Trainers*
-* [Slack](https://swc-slack-invite.herokuapp.com/) *This Slack channel is private to Trainers*
+* [Slack]({{site.slack_invite}}) *This Slack channel is private to Trainers*
 
 
 
@@ -119,7 +119,7 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 * [Maintainer guidelines]({{site.handbook_url}}/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
 * [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
-* [Slack](https://swc-slack-invite.herokuapp.com/)
+* [Slack]({{site.slack_invite}})
 * [Contact](mailto:francois@carpentries.org)
 
 ### Community Facilitators
@@ -241,8 +241,8 @@ We have a budding Carpentries Instructor community in Middle East and North Afri
 
 Here are details about The Carpentries Instructor community in Australia and New Zealand:
 
-* [Join Carpentries AU-NZ on Slack](https://swcarpentry.slack.com/archives/CH9MDCTSM)
-* [Join mailing list](https://carpentries.topicbox.com/groups/local-aunz)
+* [Join Carpentries AU-NZ on Slack]({{site.slack_invite}})
+* [Join mailing list]({{site.slack_invite}})
 * [Contact](mailto:local-aunz@lists.carpentries.org)
 
 
@@ -274,7 +274,7 @@ Here are details about The Carpentries Instructor community in the Nordics:
 
 #### Carpentries in the UK
 
-* [Join Carpentries UK on Slack](https://swcarpentry.slack.com/archives/CLE8WUGMA)
+* [Join Carpentries UK on Slack]({{site.slack_invite}})
 * [Join mailing list](https://carpentries.topicbox.com/groups/local-uk)
 * [Contact](mailto:local-uk@lists.carpentries.org)
 

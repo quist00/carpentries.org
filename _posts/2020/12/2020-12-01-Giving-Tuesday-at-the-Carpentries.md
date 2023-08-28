@@ -21,7 +21,7 @@ Community Discussions and Themed Discussions in The Carpentries are a great way 
 If you are interested in hosting one of these discussions, please [follow our Twitter](https://twitter.com/thecarpentries) as we post regular calls to host.
 
 ### 3. Join A New Community Channel
-The Carpentries has many avenues by which to engage with the community. Some of these include [The Carpentries TopicBox](https://carpentries.topicbox.com/latest) and [Slack Channels](https://swc-slack-invite.herokuapp.com). Consider joining a group or channel that you are not a part of yet, so we can increase the number of voices and perspectives in all of our channels.
+The Carpentries has many avenues by which to engage with the community. Some of these include [The Carpentries TopicBox](https://carpentries.topicbox.com/latest) and [Slack Channels]({{site.slack_invite}}). Consider joining a group or channel that you are not a part of yet, so we can increase the number of voices and perspectives in all of our channels.
 
 ### 4. Thank Yourself and Other Carpentries Community Members
 Every Carpentries Community member provides an invaluable resource to the community. We want to thank every instructor, maintainer, instructor trainer, learner, lesson contributor, regional coordinator, and more for everything they have already given to The Carpentries. By taking the time to reflect on your own and others’ contributions to The Carpentries this year, we hope you are able to appreciate all you have given. The Carpentries is a community-first organisation and always will be, so thank you again for all your contributions.

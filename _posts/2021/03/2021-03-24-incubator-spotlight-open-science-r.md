@@ -33,7 +33,7 @@ Development of the lesson is about halfway as six hours of the workshop have rea
 
 ## How You Can Help Develop This Lesson
 
-Contributions to help develop some episodes of the lesson further would be helpful, especially regarding functions or more advanced data analysis methods (e.g. nesting). The lesson authors (Marc Galland, Stijn Van Hoey, Tijs Bliek) would prefer potential contributors to contact them via The Carpentries Slack workspace where possible. If you are not already a member, you can [use this link to join the Slack workspace](https://swc-slack-invite.herokuapp.com/).
+Contributions to help develop some episodes of the lesson further would be helpful, especially regarding functions or more advanced data analysis methods (e.g. nesting). The lesson authors (Marc Galland, Stijn Van Hoey, Tijs Bliek) would prefer potential contributors to contact them via The Carpentries Slack workspace where possible. If you are not already a member, you can [use this link to join the Slack workspace]({{site.slack_invite}}/).
 
 ------
 
