@@ -132,7 +132,8 @@ permalink: "/community-groups/"
     {% endif %}
 
     {% if all_contact_info.email %}
-    <li>email us: {{ all_contact_info.email }}</li>
+    
+        <li>email us: <a href="mailto:{{ all_contact_info.email }}">{{ all_contact_info.email }}</a></li>
     {% endif %}
 
     {% if all_contact_info.slack %}
