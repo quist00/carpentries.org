@@ -42,5 +42,5 @@ In terms of specific action items, as Regional Coordinator for Australia I'll be
 
 If you'd like to be a part of the discussion going forward, make sure to sign up to the
 [AU-NZ mailing list](https://carpentries.topicbox.com/groups/local-aunz)
-as well as the au-nz channel on [Slack](https://swc-slack-invite.herokuapp.com/).
+as well as the au-nz channel on [Slack]({{site.slack_invite}}/).
 You can also get in touch with me directly at admin-au@carpentries.org.

@@ -37,7 +37,7 @@ data and computational science for people new to working with data and software.
 welcome new learners at our workshops, new instructors to teach the material, and new lesson developers and maintainers. 
 See [our website](https://carpentries.org/) or get in touch with us at [team@carpentries.org](mailto:team@carpentries.org) 
 for information on any of our programs. Additionally if you're interested in open education and community lessons in 
-general, join our [Slack channel](https://swc-slack-invite.herokuapp.com/) on #openeducation.
+general, join our [Slack channel]({{site.slack_invite}}/) on #openeducation.
 
 Please contact [the Executive Council](mailto:carpentries-executive-council@carpentries.org) or Executive Director, 
 [Tracy Teal](mailto:tkteal@carpentries.org), if you have inquiries regarding this statement. 

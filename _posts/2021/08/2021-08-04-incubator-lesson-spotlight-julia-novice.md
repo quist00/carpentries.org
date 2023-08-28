@@ -41,7 +41,7 @@ We are looking for people
  * adding content (e.g. multiple dispatch)
  * providing more visuals and interactive content
 
-Join [the _juliaswc_ channel](https://swcarpentry.slack.com/archives/CBJ8C7NE6) in [The Carpentries Slack workspace](https://swc-slack-invite.herokuapp.com/) or open an issue on [the lesson repository on GitHub](https://github.com/carpentries-incubator/julia-novice)
+Join [the _juliaswc_ channel](https://swcarpentry.slack.com/archives/CBJ8C7NE6) in [The Carpentries Slack workspace]({{site.slack_invite}}/) or open an issue on [the lesson repository on GitHub](https://github.com/carpentries-incubator/julia-novice)
 
 ------
 

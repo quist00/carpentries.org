@@ -37,7 +37,7 @@ The lesson is in the initial stages of development (_pre-alpha_).
 
 We are looking forward to collaborate on the early stages of design and development of the lesson.
 
-Contact Annajiat about this lesson by [opening an Issue on the GitHub lesson repository](https://github.com/carpentries-incubator/foundational-computer-skills/issues) and/or [via the Carpentries Slack workspace](https://app.slack.com/client/T03LE485Y/C0241FK7L11). (You will need to [join the Slack workspace](https://swc-slack-invite.herokuapp.com/) first.)
+Contact Annajiat about this lesson by [opening an Issue on the GitHub lesson repository](https://github.com/carpentries-incubator/foundational-computer-skills/issues) and/or [via the Carpentries Slack workspace](https://app.slack.com/client/T03LE485Y/C0241FK7L11). (You will need to [join the Slack workspace]({{site.slack_invite}}/) first.)
 
 ------
 

@@ -27,7 +27,7 @@ I look forward to continuing my learning journey with all of you as members of t
 As the Communications Manager for our community, please feel free to leave a comment or reach out to me in the comments section below or 
 
 * On The Carpentries [Twitter](https://twitter.com/thecarpentries) and [Facebook](https://www.facebook.com/carpentries/) accounts
-* Or get in touch on [Slack](https://swc-slack-invite.herokuapp.com/) 
+* Or get in touch on [Slack]({{site.slack_invite}}/) 
 * Or email me at [oscar.masinyana@carpentries.org](mailto:oscar.masinyana@carpentries.org)
 * Or schedule a meeting with me [at my Calendly](https://calendly.com/oscar-masinyana-carpentries)
 * Or connect with me on my Twitter [personal profile](https://twitter.com/oscarsibabalwe).
