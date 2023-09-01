@@ -111,7 +111,7 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 * [Upcoming meetings](https://codimd.carpentries.org/maintainers?both)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
 * [Slack]({{site.slack_invite}})
-* [Contact](mailto:francois@carpentries.org)
+* [Contact](mailto:curriculum@carpentries.org)
 
 
 ### Curriculum Advisors
@@ -277,9 +277,9 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 
 <mark>This is an inactive subcommunity in The Carpentries</mark>. Members of the Lesson Infrastructure Committee used to serve as Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
 
-* [Current members](https://github.com/carpentries/lesson-infrastructure#members)
-* [Upcoming meetings](http://pad.carpentries.org/infrastructure-subcommittee)
-* [Contact](mailto:francois@carpentries.org)
+* [Past members](https://github.com/carpentries/lesson-infrastructure#members)
+* [Meetings](http://pad.carpentries.org/infrastructure-subcommittee)
+* [Contact](mailto:curriculum@carpentries.org)
 
 <hr>
 
