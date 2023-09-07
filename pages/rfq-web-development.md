@@ -72,23 +72,21 @@ The organisation selected to support this project will be contracted via an Inde
 - Cost-Benefit Evaluation
 - A minimum of $1M General/Professional Liability Insurance coverage
 
-
 ## Timeline
-- RFQ Published: 7 August 2023
-- Submissions Due: 1 September 2023
-- Organisations Selected & Contacted for Interview: 11 September 2023
-- Final Organisation Selected & Contacted: 6 October 2023
-- Project Kick-off Target Date: 1 November 2023
-- Project Completion Target Date: 31 December 2023
+- Project Kick-off Target Date: To be determined with contractor
+- Project Completion Target Date: To be determined with contractor
+
+## Budget
+- $10,000 - $25,000 USD
 
 ## Submission Instructions
-All submissions must be received by 1 September 2023 at midnight anywhere on earth.
-
 Submit your organisation for consideration by emailing the following to [team@carpentries.org](mailto:team@carpentries.org):
 - Overview of your organisation’s experience and approach
 - Drafted statement of work (including deliverables and a proposed timeline from kickoff to completion)
 - Share portfolio of 2-3 static site projects
 - Itemized price quotation (including currency)
+
+_Deadline: Submissions will be accepted until a contractor has been selected._
 
 ## Questions
 Please send any questions concerning the RFQ to [team@carpentries.org](mailto:team@carpentries.org)
