@@ -18,7 +18,7 @@ permalink: /governance-history/
 - Yanina Bellini Saibene [Elected since 2022]
 - Masami Yamaguchi [Appointed since 2021], 2021 [Code of Conduct]({{ site.code_of_conduct_url }}) committee liaison
 - John Chodacki [Appointed since 2021]
-- Annajiat Alim Rasel [Appointed since 2022]
+- Annajiat Alim Rasel [Appointed since 2022], 2022 [Code of Conduct]({{ site.code_of_conduct_url }}) committee liaison
 - Abdulai Imoro [Appointed since 2022]
 
 ### 2021 Executive Council
