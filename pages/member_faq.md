@@ -81,7 +81,7 @@ Our current [pricing is here](/membership/#a-la-carte-pricing/).
 The Carpentries [Instructor Training](https://carpentries.github.io/instructor-training/) is a high-engagement, interactive,
 multi-day training, led by pedagogically trained community members (Trainers). Once your membership is in place, you will be 
 provided with a registration code which your selected trainees can use to register for an event of their choice from our 
-[Instructor Training calendar](https://carpentries.github.io/instructor-training/training_calendar/). Contact us at 
+[Instructor Training calendar](https://carpentries.github.io/instructor-training/training_calendar.html). Contact us at 
 [{{site.instructor_training_contact}}](mailto:{{site.instructor_training_contact}}) to learn more about our Instructor Training 
 program.
 
