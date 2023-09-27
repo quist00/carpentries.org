@@ -493,7 +493,7 @@ subcommunities:
   contact:
     email: carpentries@si.edu
     slack: Smithsonian workspace, #carpentries-alumni
-    mailing_list: https://si-listserv.si.edu/cgi-bin/wa?SUBED1=CARPENTRIES-ANNOUNCE&A=1
+    mailing_list: 
     contact_form:
     contact_person:
   social_media: 
