@@ -5,7 +5,7 @@ teaser: "It was helpful that we had booked a lab in a building which has a backu
 title: "Wins and Challenges of Running a Carpentry Workshop in South Africa during Load shedding"
 date: 2023-05-03
 time: "00:00:00"
-tags: ["Community", “Africa”]
+tags: ["Community","Africa"]
 ---
 
 Millions of people in Southern Africa are left without power for up to 12.5 hours daily due to [load shedding](https://en.wikipedia.org/wiki/South_African_energy_crisis). This is when a power supply can not provide enough electricity for all at once, and to 
