@@ -55,30 +55,6 @@ Meet our Regional Coordinators and Carpentries communities in these regions.  Cl
     </tr>
 <!--  End Australia  -->  
 
-<!--  Begin DACH Countries  -->
-
-<tr>
-    <td align="center"><h3><a href="{% link pages/regional_dach.html %}">DACH Countries</a></h3><a href="mailto:{{site.contact_dach}}">{{site.contact_dach}}</a></td>
-    <td>
-        {% assign regional_coordinators_dach = site.data.regional_coordinators | where: "region", "DACH Countries"  %}
-
-        {% for person in regional_coordinators_dach %}
-        {% if regional_coordinators_dach.size > 1 %}
-        <div class="medium-6 columns">
-        {% else %}
-        <div class="medium columns">
-        {% endif %}
-
-        <div class="team-member">
-        {% include single_profile.md %}
-        </div></div>
-
-    {% endfor %}
-    </td>
-</tr>
-
-<!--  End DACH Countries -->
-
 <!-- Begin South Africa -->
 
     <tr>
