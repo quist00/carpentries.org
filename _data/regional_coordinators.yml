@@ -46,16 +46,3 @@
       url: mailto:workshops@carpentries.org
     - icon: fab fa-github
       url: https://github.com/danielle06
-
-- name: Rabea Müller
-  region: DACH Countries
-  pronoun_subjective: she
-  pronoun_objective: her
-  pronoun_possessive: hers
-  pic: https://avatars.githubusercontent.com/RabeaMue
-  position: Regional Coordinator (DACH Countries)
-  social:
-    - icon: fa fa-envelope
-      url: mailto:admin-dach@carpentries.org
-    - icon: fab fa-github
-      url: https://github.com/RabeaMue
