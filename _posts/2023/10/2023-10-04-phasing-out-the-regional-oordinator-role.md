@@ -18,7 +18,7 @@ Regional Coordinators may no longer assist with workshops, but that doesn’t me
 
 - Rabea Müller, DACH Region (Germany, Austria and Switzerland)
 - Damien Irving, Australia*
-- Andelda van der Walt, Africa 
+- Anelda van der Walt, Africa 
 - Erika Mias, Africa
 - Aleksandra Nenadic, United Kingdom
 - Giacomo Peru, United Kingdom
@@ -31,4 +31,4 @@ Regional Coordinators may no longer assist with workshops, but that doesn’t me
 
 *Damien will still be supporting the Australian community with workshop coordination 
 
-Remember, if you have any questions concerning workshops you can contact [the Workshop Adminstration Team](mailto:workshops@carpentries.org)!
+Remember, if you have any questions concerning workshops, you can contact [the Workshop Adminstration Team](mailto:workshops@carpentries.org)!
