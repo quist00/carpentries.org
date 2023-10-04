@@ -27,7 +27,7 @@ Regional Coordinators may no longer assist with workshops, but that doesn’t me
 - Naoe Tatara, Nordic Region
 - Megan Guidry, New Zealand
 - Georgiana Rae, New Zealand
-- Nooriyan Poonawala-Lohani
+- Nooriyan Poonawala-Lohani, New Zealand
 
 *Damien will still be supporting the Australian community with workshop coordination 
 
