@@ -18,6 +18,7 @@ Regional Coordinators may no longer assist with workshops, but that does not mea
 
 - Rabea Müller, DACH Region (Germany, Austria and Switzerland)
 - Damien Irving, Australia*
+- Matthias Liffers, Australia
 - Anelda van der Walt, Africa 
 - Erika Mias, Africa
 - Aleksandra Nenadic, United Kingdom
