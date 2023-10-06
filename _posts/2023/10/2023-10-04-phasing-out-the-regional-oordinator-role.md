@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["SherAaron Hurt", "Danielle Sieh"]
 teaser: "Phasing out the Regional Coordinator role"
 title: "Thank You to our Regional Coordinators"
 date: 2023-10-04
