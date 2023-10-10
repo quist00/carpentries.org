@@ -4,15 +4,15 @@
   title: ""
 
 - name: Mastodon
-  url: https://fosstodon.org/@thecarpentries
+  url: https://hachyderm.io/@thecarpentries
   class: fa-mastodon
   title: ""
-  
+
 - name: Twitter
   url: https://twitter.com/thecarpentries
   class: fa-twitter
   title: ""
-  
+
 - name: Facebook
   url: http://www.facebook.com/carpentries
   class: fa-facebook
@@ -20,12 +20,12 @@
 
 - name: Slack
   url: https://slack-invite.carpentries.org/
-  class: fa-slack 
+  class: fa-slack
   title: ""
-  
+
 - name: YouTube
   url: http://www.youtube.com/c/TheCarpentries
-  class: fa-youtube 
+  class: fa-youtube
   title: ""
 
 - name: LinkedIn
