@@ -15,18 +15,9 @@ Welcome to our community!
 
 ## Social Media
 
-- Twitter
-  + [The Carpentries](https://twitter.com/thecarpentries)
-  + [Software Carpentry](https://twitter.com/swcarpentry)
-  + [Data Carpentry](https://twitter.com/datacarpentry)
-  + [Library Carpentry](https://twitter.com/LibCarpentry)
-  
-- [Facebook](https://www.facebook.com/carpentries/)
+- [Mastodon](https://hachyderm.io/@thecarpentries)
 
 - [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
-
-- [Mastodon](https://fosstodon.org/@thecarpentries)
-
 
 
 ## Slack
