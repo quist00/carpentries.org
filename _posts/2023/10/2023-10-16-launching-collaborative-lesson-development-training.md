@@ -37,7 +37,7 @@ After attending this training, participants will be able to:
   that are readily available for collaboration
 * identify and correct accessibility issues in a lesson built on The Carpentries lesson infrastructure
 * use feedback and reflection from teaching to update and improve lesson material
-* review and provide constructive feedback on lessons
+* review and provide constructive feedback on lessons.
 
 The training includes regular and extended activities to apply what is being learned,
 with participants drafting their new lessons as they progress.
