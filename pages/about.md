@@ -46,7 +46,7 @@ Individuals and organisations are welcome to <a href="{{site.fundraising_link}}"
 What is common across The Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while specific Lesson Program material, will remain on the individual [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), and <a href="https://librarycarpentry.org/">Library Carpentry</a> sites. We will increasingly post on The Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
 through our [Carpentries Mastodon][mastodon] account.
 
-#### Join Us
+#### Join Us!
 
 Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We
 welcome <a href="{{site.url}}/volunteer/">new people</a> to our community. We have
