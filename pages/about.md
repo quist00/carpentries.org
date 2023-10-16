@@ -69,3 +69,6 @@ We appreciate being mentioned in the acknowledgments sections of papers, theses,
 Software Carpentry, Data Carpentry, and Library Carpentry have been featured in many publications, and some members of The Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
 
 Do you know about other works that should be listed here? If so, please email <a href="mailto:{{site.contact}}">{{site.contact}}</a> to let us know.
+
+<!-- URLs -->
+[mastodon]: https://hachyderm.io/@thecarpentries
