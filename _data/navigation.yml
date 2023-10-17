@@ -116,8 +116,8 @@
     url: "/newsletter/"
   - title: "Carpentries Podcast"
     url: "/podcasts/"
-  - title: "Twitter"
-    url: "https://twitter.com/thecarpentries/"
+  - title: "Mastodon"
+    url: "https://hachyderm.io/@thecarpentries"
 
 - title: "Donate"
   url: "http://give.communityin.org/TheCarpentries"

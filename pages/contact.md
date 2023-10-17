@@ -38,25 +38,6 @@ USA
 
 <div class="medium-3 columns"> <strong>on Mastodon:</strong>
 <br>
-<a rel="me" href="https://fosstodon.org/@thecarpentries"><i class="fab fa-mastodon"></i>@TheCarpentries@fosstodon.org</a>
+<a rel="me" href="https://hachyderm.io/@thecarpentries"><i class="fab fa-mastodon"></i>@TheCarpentries@hachyderm.io</a>
 
    </div>
-
-    
-<div class="medium-3 columns"> <strong>on Twitter:</strong>
-<br><br>
-<a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thecarpentries</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/datacarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @datacarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/swcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @swcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/libcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @libcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-   </div>
-
-
-
-
-

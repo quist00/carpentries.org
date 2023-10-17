@@ -44,19 +44,16 @@ Individuals and organisations are welcome to <a href="{{site.fundraising_link}}"
 #### What Information is Where?
 
 What is common across The Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while specific Lesson Program material, will remain on the individual [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), and <a href="https://librarycarpentry.org/">Library Carpentry</a> sites. We will increasingly post on The Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
-through our [Carpentries Twitter](https://twitter.com/thecarpentries) account. 
+through our [Carpentries Mastodon][mastodon] account.
 
-  
 #### Join Us!
-            
-Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We 
-welcome <a href="{{site.url}}/volunteer/">new people</a> to our community. We have 
-<a href="{{site.url}}/volunteer/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a> feed, our <a href="{{site.slack_invite}}">Slack</a> channel, 
+
+Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We
+welcome <a href="{{site.url}}/volunteer/">new people</a> to our community. We have
+<a href="{{site.url}}/volunteer/">many ways to engage</a>, including The Carpentries [Mastodon][mastodon] feed, our <a href="{{site.slack_invite}}">Slack</a> channel,
 subscribing to <em>Carpentries Clippings</em>, our twice-monthly <a href="{{site.url}}/newsletter/">newsletter</a>, following our [Facebook](https://www.facebook.com/carpentries/) page, and by joining some of our <a href="https://carpentries.topicbox.com/groups">email lists</a>.
 
-We announce a lot of what we do via our Twitter feed. [Follow us on Twitter](https://twitter.com/thecarpentries). 
-
-You can also follow the [Software Carpentry](https://twitter.com/swcarpentry), [Data Carpentry](https://twitter.com/datacarpentry), and [Library Carpentry](https://twitter.com/LibCarpentry) Twitter feeds. 
+We announce a lot of what we do via our Mastodon feed. [Follow us on Mastodon][mastodon].
 
 #### Referencing The Carpentries
 
@@ -72,3 +69,6 @@ We appreciate being mentioned in the acknowledgments sections of papers, theses,
 Software Carpentry, Data Carpentry, and Library Carpentry have been featured in many publications, and some members of The Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
 
 Do you know about other works that should be listed here? If so, please email <a href="mailto:{{site.contact}}">{{site.contact}}</a> to let us know.
+
+<!-- URLs -->
+[mastodon]: https://hachyderm.io/@thecarpentries
