@@ -38,6 +38,6 @@ USA
 
 <div class="medium-3 columns"> <strong>on Mastodon:</strong>
 <br>
-<a rel="me" href="https://fosstodon.org/@thecarpentries"><i class="fab fa-mastodon"></i>@TheCarpentries@fosstodon.org</a>
+<a rel="me" href="https://hachyderm.io/@thecarpentries"><i class="fab fa-mastodon"></i>@TheCarpentries@hachyderm.io</a>
 
    </div>
