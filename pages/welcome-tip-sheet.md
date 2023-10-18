@@ -30,7 +30,7 @@ The Carpentries offers many options for connecting, collaborating and networking
 * **Monthly Newsletter - The Carpentries Clippings**([Subscribe](https://carpentries.org/newsletter/))
 * **Blog**([Posts](https://carpentries.org/blog/))
 * **Social media:** Follow our organisation’s activities on 
-    * [Mastodon](https://fosstodon.org/@thecarpentries), [LinkedIn](https://www.linkedin.com/company/the-carpentries/), [Facebook](https://www.facebook.com/carpentries), [Twitter](https://twitter.com/thecarpentries), and [YouTube](https://www.youtube.com/c/TheCarpentries).
+    * [Mastodon](https://hachyderm.io/@thecarpentries), [LinkedIn](https://www.linkedin.com/company/the-carpentries/), and [YouTube](https://www.youtube.com/c/TheCarpentries).
 
 
 ## How Do I Get Involved?
