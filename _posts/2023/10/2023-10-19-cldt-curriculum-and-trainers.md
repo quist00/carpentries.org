@@ -124,6 +124,6 @@ While following these elements of the training, trainees will:
 
 * create a lesson website
 * add pages to that site, creating the structure of the lesson
-* draft accessible content for those pages, including exercises, images, and examle code blocks
+* draft accessible content for those pages, including exercises, images, and example code blocks
 
 The [Collaborative Lesson Development Training curriculum](https://carpentries.github.io/lesson-development-training/) is available online, for those who want to explore it in more detail. We hope the community will find it useful, and we look forward to seeing them create even more, even better lessons together in the future!
