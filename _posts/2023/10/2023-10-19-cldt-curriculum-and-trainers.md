@@ -80,7 +80,7 @@ While following these elements of the training, trainees will:
 * define the desired outcomes of their lesson - what learners should know how to do when they finish the lesson - and the fine-grained objectives of individual sections to the lesson that will lead to these higher-level goals.
 * design exercises in a variety of formats to help assess and provide actionable feedback on learners' progress
 * choose an appropriate narrative and/or example dataset to use in their lesson
-* teach selected sections of the lesson and gather feedback to inform subsequent iterations on their lesosn content
+* teach selected sections of the lesson and gather feedback to inform subsequent iterations on their lesson content
 
 
 
