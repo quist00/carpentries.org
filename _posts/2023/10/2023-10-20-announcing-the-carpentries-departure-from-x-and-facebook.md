@@ -26,15 +26,13 @@ We will be utilising the following hashtags in our social media, and we encourag
 * #Carpentries 
 * #CarpentriesCommunity: for posts relevant to our community
 * #CarpentriesWorkshops: for posts about Carpentries workshops 
-* #CarpentriesInstructors: for posts relevant to our Instructors 
-* #CarpentriesTrainers: for posts relevant to our Trainers
-* #CarpentriesMaintainers: for posts relevant to our Maintainers
-* #CarpentriesGratitudes: for posts sharing gratitude within the community 
-* #CarpentryCon: for posts relevant to CarpentryCon as our CarpentryCon Twitter / X account will be inactive 
-* #CarpentryConnect: for posts relevant to CarpentryConnect 
-* #CarpentriesLessons: for posts relevant to Carpentries lessons 
-* #CarpentriesCommunitySessions 
+* #Carpentries(community role; e.g. #CarpentriesInstructor): for posts relevant to a specific community role 
 * #Carpentries(subcommunity; e.g. #CarpentriesAfrica): for posts relevant to a specific subcommunity 
+* #CarpentriesGratitudes: for posts sharing gratitude within the community 
+* #CarpentriesLessons: for posts about Carpentries lessons 
+* #CarpentryCon: for posts relevant to CarpentryCon as our CarpentryCon Twitter / X account will be inactive 
+* #CarpentryConnect: for posts about CarpentryConnect events 
+* #CarpentriesCommunitySessions: for posts announcing upcoming Community Sessions 
 * #CarpentriesLocalisation: for posts relevant to our localisation efforts
 
 If there are other platforms that you know that we should consider and where our community is active, please let us know as we are continuing to monitor the developments on the social media landscape. You can email us at [community@carpentries.org](mailto:community@carpentries.org). 
