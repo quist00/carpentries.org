@@ -27,4 +27,4 @@ His answers are based on both his own experience and his comprehensive knowledge
 and is a solid, readable, and purposeful introduction to the latter.
 It's definitely going to be on the reading list for future instructor training classes...
 
-[![book cover]({{site.filesurl}}/2016/01/guzdial-lcd-cover.png)](http://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/)
+[![book cover]({{site.filesurl}}/swc_blog/2016/01/guzdial-lcd-cover.png)](http://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/)

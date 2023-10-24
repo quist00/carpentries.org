@@ -42,7 +42,7 @@ where he worked with Professor John Storey. His interests include
 statistics, data analysis, genomics, education, and programming in R
 and Python.
 
-<img src="{{site.filesurl}}/2016/10/jane-austen.png" alt="Words in Jane Austen's Novels" />
+<img src="{{site.filesurl}}/swc_blog/2016/10/jane-austen.png" alt="Words in Jane Austen's Novels" />
 
 *If you are the author of a book that is related to Software Carpentry
 or Data Carpentry's mission, and would like to announce it here,
