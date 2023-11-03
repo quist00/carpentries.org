@@ -3,7 +3,7 @@ layout: page
 authors: ["Nathaniel Porter"]
 teaser: "Announcing our new Maintainer Community Lead"
 title: "Join us in welcoming Nathaniel Porter as our new Maintainer Community Lead!"
-date: 2023-11-10
+date: 2023-11-08
 time: "09:00:00"
 tags: ["Community", "Maintainers"]
 ---
