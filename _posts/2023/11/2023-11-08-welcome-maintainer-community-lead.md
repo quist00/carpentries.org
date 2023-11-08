@@ -42,7 +42,7 @@ Thanks to the flexibility of my data education role, I've been involved
 in The Carpentries in a variety of ways - as an
 [Instructor](https://carpentries.org/instructors/),
 [Trainer](https://carpentries.org/trainers/) and local community lead,
-as well as a [Maintainer](https://carpentries.org/maintainers/),
+as well as a [Maintainer](https://carpentries.org/maintainers/)
 ([Instructor
 Training](https://github.com/carpentries/instructor-training)),
 [Curriculum Advisory
