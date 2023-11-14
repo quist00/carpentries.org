@@ -10,6 +10,8 @@ Click on an individual event to learn more about that event, including contact i
      
      {% if tags contains "ttt" %}
          {% continue %}
+     {% elsif tags contains "cldt" %}
+         {% continue %}
      {% elsif tags contains "swc" %}
          {% assign workshop_type = "swc" %}
      {% elsif tags contains "dc" %}
