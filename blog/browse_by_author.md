@@ -5,7 +5,7 @@ teaser: "Browse the posts on The Carpentries blog by authors"
 header:
   image_fullwidth: "header-workshop-participants.jpg"
 comments: false
-permalink: "/posts-by-authors/"
+permalink: "blog/posts-by-authors/"
 ---
 
 {% include expand-side-column %}
