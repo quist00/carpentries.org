@@ -10,7 +10,8 @@ tags: ["Philanthropy", "Gratitudes"]
 
 Hi Carpentries Community!
 
-Today is #GivingTuesday, a global opportunity for us to use the individual power of generosity to support communities and important causes. At The Carpentries, we ***value all contributions*** and celebrate every act of generosity we offer! I have given a great deal of time to this wonderful community over the years as an Instructor, Trainer, Executive Council Member, local community organizer, and Lesson Developer because I believe sharing our training efforts across a community makes them better and I working with The Carpentries makes my work better. Today, ***I am recruiting donors*** to contribute to the work of the organisation and want to share what I have learned about supporting The Carpentries financially.
+Today is #GivingTuesday, a global opportunity for us to use the individual power of generosity to support communities and important causes. At The Carpentries, we ***value all contributions*** and celebrate every act of generosity we offer! I have given a great deal of time to this wonderful community over the years as an Instructor, Trainer, Executive Council Member, local community organizer, and Lesson Developer because I believe sharing our training efforts across a community makes them better and working with The Carpentries makes my work better. Today, ***I am recruiting donors*** to contribute to the work of the organisation and want to share what I have learned about supporting The Carpentries financially.
+
 
 <a href="https://carpentries.org/donate/">
         <button class="btn">
