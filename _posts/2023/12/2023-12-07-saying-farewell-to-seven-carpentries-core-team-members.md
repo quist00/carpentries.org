@@ -10,7 +10,7 @@ tags: ["Core Team"]
 
 Dear Carpentries Community,
 
-Today, I write to share news that profoundly impacts our community and [Core Team](https://carpentries.org/team/). With a heavy heart, we announce a series of layoffs within our organisation.
+Today, I write to share the news that profoundly impacts our community and [Core Team](https://carpentries.org/team/). With a heavy heart, we announce a series of layoffs within our organisation.
 
 Change is never easy, especially when it affects the talented individuals who have contributed so much to our community. Each Core Team member has played a crucial role in shaping the welcoming and inclusive environment we cherish. Their dedication and hard work have been instrumental in bringing our vision of  _**being the leading inclusive community teaching data and coding skills**_ to life.
 
@@ -24,7 +24,7 @@ We are saying farewell to the following Core Team members at the end of the mont
 * [Talisha Sutton-Kennedy](https://carpentries.org/blog/2023/01/announcing-our-new-deputy-director-of-business/), Deputy Director of Business
 * [Dr. Zhian Kamvar](https://carpentries.org/blog/2020/03/lesson-infrastructure-technology-developer/), Lesson Infrastructure Developer
 
-We have previously released [an announcement of Zhian’s departure at the end of this month](https://carpentries.org/blog/2023/06/lesson-infrastructure-updates/) citing financial constraints. Since then, we sadly had no option but to sunset more Core Team member roles to secure the organisation’s long-term sustainability. 
+We have previously released [an announcement of Zhian’s departure at the end of this month](https://carpentries.org/blog/2023/06/lesson-infrastructure-updates/), citing financial constraints. Since then, we sadly had no option but to sunset more Core Team member roles to secure the organisation’s long-term sustainability. 
 
 We did not make these decisions lightly and assure you that they were driven by carefully considering our organisation's finances and the steps necessary to ensure we can continue to deliver our core programs. We had to make tough choices to adapt and navigate these challenging times.
 
