@@ -9,6 +9,8 @@ tags: ["Instructor Training", "Instructors", "Instructor Development"]
 
 ---
 
+{% include alert text='Note: Our checkout requirements have changed since this blog post was published. Read about [how we made these changes](/blog/2023/08/checkout_changes/) and about the [new checkout requirements](https://carpentries.github.io/instructor-training/checkout), effective August 14, 2023.' %}
+
 We are improving the Instructor Training Checkout process to remove accessibility barriers and make the process more worthwhile for trainees and the Carpentries community. But, we need your help to make sure we get this right!  
 
 The [Core Team](https://carpentries.org/team/), in partnership with [Trainers Leadership](https://github.com/carpentries/trainers/blob/main/governance.md), is working on the first systematic review and improvements to the Checkout process since 2018.  
