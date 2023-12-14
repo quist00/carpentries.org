@@ -892,4 +892,59 @@ subcommunities:
     # instagram: 
     # facebook: 
     # linkedin:  
-    
+
+    - name: Carpentries @ VT
+  type:
+    geographic_local: true
+    geographic_regional: 
+    language:
+    domain:
+    interest:
+    other: 
+  member: true 
+  description: Carpentries @ VT is a community of Carpentries Instructors and Trainees connected to Virginia Tech. We organize 8-10 local workshops a year and meet monthly to support pedagogy and engagement with regional and international Carpentries communities. 
+  activities: 
+    carpentry_connect: true
+    communication: true
+    prof_dev: true
+    sow: true 
+    fundraising:
+    student_programs:
+    translation: 
+    mentoring: true
+    other: 
+  volunteers: False
+  logo:
+  location: Blacksburg, Virginia
+  country: US
+  website: 
+  tags:
+    assessment:
+    carpentry_connect: true
+    communication:
+    community_discussion:
+    curriculum:
+    events:
+    governance:
+    inperson_workshops: true
+    instructor_development: true
+    instructor_training:
+    internationalisation:
+    membership:
+    mentoring: true
+    online_workshops: true 
+    teaching: true
+    other: 
+  contact:
+    email: ndporter@vt.edu
+    slack:
+    mailing_list: 
+    contact_form: 
+    contact_person: 
+  social_media: 
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin:  
+ 
