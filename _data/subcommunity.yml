@@ -893,7 +893,7 @@ subcommunities:
     # facebook: 
     # linkedin:  
 
-    - name: Carpentries @ VT
+- name: Carpentries @ VT
   type:
     geographic_local: true
     geographic_regional: 
