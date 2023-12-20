@@ -25,5 +25,5 @@ If you have questions or need assistance with the accommodation form please [ema
 
 ## Resources 
 
-[The Carpentries Toolkit of IDEAS | Zenodo](https://zenodo.org/record/7041935#.Y--_MWnMJD9)
+[The Carpentries Toolkit of IDEAS | Zenodo](https://zenodo.org/records/10391883)
 The Toolkit of IDEAS (Inclusion, Diversity, Equity and Accessibility Strategies) is a practical resource for Carpentries’ Instructors, helpers, and workshop hosts. We know that many people care about inclusion, diversity, equity and accessibility but are not sure how it connects to teaching foundational coding and data science skills. This toolkit aims to bridge this gap. This is version 1, which means it is a starting point and not a fully comprehensive resource. The hope is that the Core Team and community members will continue to update and extend this resource over time.
