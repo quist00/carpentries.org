@@ -5,7 +5,7 @@ teaser: "Introducing Version 2.0 "
 title: "Enhancements to the Toolkit of IDEAS"
 date: 2023-12-21
 time: "09:00:00"
-tags: ["Communications", "Community Development Team", "Community", "Equity and Inclusion" "Accessibility"]
+tags: ["Communications", "Community Development Team", "Community", "Equity and Inclusion", "Accessibility"]
 ---
 
 The [Toolkit of IDEAS](https://zenodo.org/records/10391883) emerged from recommendations provided by ReadySet, a diversity, equity, and inclusion consulting firm that conducted an organisational assessment of The Carpentries in 2020. Thanks to the dedicated efforts of Kari L. Jordan, Executive Director of The Carpentries, and the generous support of the Chan Zuckerberg Initiative, this project became a reality. Tara Robertson Consulting Inc. was enlisted in March 2022 to lead this initiative, working closely with the Carpentries Core Team’ Team Leads and the broader community.
