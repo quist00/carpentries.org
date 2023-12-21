@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Toby Hodges", "SherAaron Hurt", "Zhian Kamvar"]
+authors: ["Toby Hodges", "SherAaron Hurt", "Zhian N. Kamvar"]
 teaser: "Read about our plans to improve Instructor onboarding and make it easier to teach our curricula."
 title: "Developing Support for Instructors in 2023"
 date: 2023-02-16
