@@ -18,20 +18,8 @@ and research software development through building local and global communities 
 	* [Lesson developers](#lesson-developers) - those who create new lessons
 	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
 	* [Lesson maintainers](#maintainers) - those who support existing lessons
-	* Infrastructure - those who work to support our infrastructure
 	* [Regional Coordinators](#regional-coordinators) - those who coordinate workshops regionally
 	* [Code of Conduct Committee](#code-of-conduct-committee) - those who keep our community friendly and welcoming
-
-* Supporting regional communities of practice:
-	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building The Carpentries community across Latin America
-	* [Carpentries community in Africa](#carpentries-in-africa)  - building The Carpentries community across Africa
-	* [Carpentries community in Middle East and North Africa](#carpentries-in-middle-east-and-north-africa)
-	* [Carpentries community in New Zealand and Australia](#carpentries-in-new-zealand-and-australia)
-	* [Carpentries community in the Nordics and Baltics](#carpentries-in-the-nordics-and-baltics)
-	* [Carpentries community in Japan](#carpentries-in-japan)
-	* [Carpentries community in DACH countries](#carpentries-in-dach-countries)
-	* [Carpentries community in the UK](#carpentries-in-the-uk)
-	* [Carpentries community in Canada](#carpentries-in-canada)
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
 	*	[CarpentryCon](#carpentrycon) - our annual in-person meetup for our global community
@@ -40,6 +28,7 @@ and research software development through building local and global communities 
 	*	[Mailing lists](https://carpentries.topicbox.com/latest)
 
 * Here are some currently inactive roles that community members have fulfilled in the past:
+	* [Mentors](#mentoring-groups) - those who provide support to other instructors
 	* [Champions](#champions) - those who work to spread our impact locally
 	* [Assessment Committee](#assessment-network) - those who help us understand our impact
 	* [Lesson infrastructure Committee](#lesson-infrastructure) - those who support lesson building and styling
