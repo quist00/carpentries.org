@@ -67,15 +67,6 @@ The Carpentries Instructors are the core of our community. Instructors organise 
 Instructor development is how our global instructors come together to support each other and develop new teaching and
 technical skills. We create an open and inviting environment through community sessions and project-based small group mentoring.
 
-#### Mentoring Groups
-
-Mentoring Groups support Instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
-
-* [Training materials]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html)
-* [Duties]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
-* [Join the #mentoring Slack channel]({{site.slack_invite}})
-* For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
-
 #### Instructor Development Committee
 
 The Instructor Development Committee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
@@ -210,6 +201,15 @@ Here is a list of all CarpentryConnect events held in the past: [carpentryconnec
 * [Past members](https://github.com/carpentries/lesson-infrastructure#members)
 * [Meetings](http://pad.carpentries.org/infrastructure-subcommittee)
 * [Contact](mailto:curriculum@carpentries.org)
+
+#### Mentoring Groups
+
+<mark>This is an inactive subcommunity in The Carpentries</mark>. Mentoring Groups support Instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned Instructor hoping to launch workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
+
+* [Training materials]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html)
+* [Duties]({{site.handbook_url}}/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
+* [Join the #mentoring Slack channel]({{site.slack_invite}})
+* For more information, contact [Alycia Crall](mailto:alycia@carpentries.org).
 
 <hr>
 
