@@ -21,7 +21,7 @@ This year, let The Carpentries community be a catalyst for positive change and a
 
 Thank you for your dedication, passion, and unwavering belief in the power of data. As we embark on this new year, let us _Empower One Another_ and _Value All Contributions_ to create a lasting impact in open science.
 
-I wish you a joyous New Year filled with _Community Collaboration_ and  _Access for All.
+I wish you a joyous New Year filled with _Community Collaboration_ and  _Access for All_.
 
 In service,
 
