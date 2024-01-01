@@ -26,17 +26,6 @@ people:
   et: true
   alt_text: 
 
-- name: Zhian N. Kamvar, PhD
-  pronouns:  he/him/his
-  pic: zhiankamvar
-  position: Lesson Infrastructure Developer
-  email: zkamvar@carpentries.org
-  github: zkamvar
-  twitter: zkamvar
-  calendly: zkamvar
-  et: false
-  alt_text: 
-
 - name: Toby Hodges, PhD
   pronouns:  he/him/his
   pic: tobyhodges
@@ -47,18 +36,6 @@ people:
   twitter: tbyhdgs
   calendly: tobyhodges
   et: false
- 
-- name: Talisha Sutton-Kennedy
-  pronouns: Any pronouns will do 
-  pic: talishasuttonkennedy
-  position: Deputy Director of Business
-  lead: Business Team Lead
-  jobplan: https://docs.google.com/document/d/1Hza2oLS8iC-8k8niwpNVOcbxHsrwZOrYSDak2hmIQfw/edit
-  email: talishask@carpentries.org
-  github: talishask
-  calendly: talishask
-  et: false
-  alt_text: 
  
 - name: SherAaron Hurt
   pic: sheraaronhurt
@@ -110,31 +87,6 @@ people:
   calendly: maneesha
   et: false
   alt_text: 
- 
-- name: Kelly Barnes, PhD
-  pic: kellybarnes
-  pronouns: she/her
-  position: Director of Assessment
-  email: kbarnes@carpentries.org
-  github: klbarnes20
-  linkedin: klbarnes20
-  twitter: kbarne2
-  calendly: klbarnes
-  et: false
-  alt_text: 
- 
-- name: Karen Word, PhD      
-  pronouns: she/her/hers
-  pic: karenword
-  position: Director of Instructor Training
-  lead: Instructor Training Team Lead
-  jobplan: https://docs.google.com/document/d/1l-5DV7-NvJLg60lCjNVabXmRGXFJ-oll3x1IbdZvK0c/edit
-  email: krword@carpentries.org
-  github: karenword
-  twitter: karen_word
-  calendly: karenword
-  et: false
-  alt_text: 
   
 - name: Danielle Sieh
   pronouns: she/her/hers
@@ -143,16 +95,6 @@ people:
   github: danielle06
   email: danielle@carpentries.org
   calendly: daniellesieh
-  et: false
-  alt_text: 
-
-- name: Brynn Elliott
-  pronouns: she/her/hers
-  pic: brynnelliott
-  position: Accessibility Manager
-  email: brynn@carpentries.org
-  github:  brynnelliott
-  calendly: brynnelliott
   et: false
   alt_text: 
 
@@ -167,15 +109,3 @@ people:
   et: false
   alt_text: 
 
-- name: Alycia Crall, PhD
-  pronouns: she/her/hers
-  pic: alyciacrall
-  position: Director of Community
-  lead: Community Development Team Lead
-  email: alycia@carpentries.org
-  github: acrall
-  linkedin: alycia-crall-5a842646
-  twitter: alycrall
-  calendly: alycia-carpentries
-  et: false
-  alt_text: 
