@@ -11,19 +11,19 @@ excerpt: A guide to Carpentries activities and key links for new members
 
 # Welcome to the Carpentries Community
 
-We are happy that you are here! [The Carpentries](https://carpentries.org/about/) is an organisation that teaches foundational coding and data science skills to researchers worldwide using open software. It relies on volunteer contributions to support the [community of practice](https://carpentries.org/community/) whose members share [our core values](https://carpentries.org/values/). This document is intended to help you get started in The Carpentries community by highlighting some key links and activities.
+We are happy that you are here! [The Carpentries](https://carpentries.org/about/) is an organisation that teaches foundational coding and data science skills to researchers worldwide using open software. It relies on volunteer contributions to support the [community of practice](https://carpentries.org/community/) whose members share [our core values](https://carpentries.org/values/). This document will help you get started in The Carpentries community by highlighting some key links and activities.
 
 ## Where Do I Get Started?
 
 Glad you asked! Here are a few things we recommend to everyone:
 
 * **[Review the Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html)**: We are dedicated to providing a welcoming and supportive environment for all people. By participating in this community, you agree to abide by our Code of Conduct.
-* **[Attend a Welcome Session!](https://pad.carpentries.org/welcome-sessions-2023)**: Join members of the Core Team and community to learn about the organisation, ways to engage, and an opportunity to have your questions answered. 
+* **[Attend a Welcome Session!](https://pad.carpentries.org/welcome-sessions-2024)**: Join members of the Core Team and community to learn about the organisation, ways to engage, and an opportunity to have your questions answered. 
 
 
 ## How Do I Get Connected?
 
-The Carpentries offers many options for connecting, collaborating and networking within the community. Worried about too many communications? Don’t be! Only subscribe to the communications you want, and you can unsubscribe at any time. 
+The Carpentries offers many options for connecting, collaborating, and networking within the community. Worried about too many communications? Don’t be! Only subscribe to the communications you want, and you can unsubscribe anytime. 
 
 * **The Carpentries Slack**([Join Link]({{site.slack_invite}})) ([Slack Quickstart Guide](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html#slack-quick-start-guide))
 * **Email Mailing Lists** ([Mailing List Directory](https://carpentries.topicbox.com/latest))
@@ -60,7 +60,7 @@ If you are already involved in The Carpentries community, you may find another T
 
 ## Questions
 
-If you have questions, please get in touch with our Core Team by [email](mailto:team@carpentries.org) or [join our Director of Community for office hours](https://pad.carpentries.org/director-of-community-office-hours). We are here for you as you begin your journey with our organisation. Welcome!
+If you have questions, please contact our Core Team by [email](mailto:team@carpentries.org). We are here for you as you begin your journey with our organisation. Welcome!
 
 
 ## Citation and Re-use
