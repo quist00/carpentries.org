@@ -34,7 +34,7 @@ The organising committee, consisting of experts with various backgrounds, includ
 * Giacomo Peru, SSI - Edinburgh
 * Till Sauerwein, ZB MED - Cologne
 
-Over the coming months, the organising committee will actively participate in several initiatives to ensure a successful CCHD2024. These efforts include: 
+Over the coming months, the organising committee will lead several initiatives to ensure a successful CCHD2024. These efforts include: 
 
 * calling for workshops and session contributions
 * drafting a program 
