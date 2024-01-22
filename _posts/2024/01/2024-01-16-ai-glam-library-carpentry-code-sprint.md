@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Cody Hennesy", "Leigh Phan", "Tim Dennis"]
-teaser: "You're invited to a code sprint for the [Intro to AI for GLAM (Galleries, Libraries, Archives, and Museums) Library Carpentry Lesson ](https://carpentries-incubator.github.io/machine-learning-librarians-archivists/) on January 31, 2024!"
+teaser: "You're invited to a code sprint for the Intro to AI for GLAM (Galleries, Libraries, Archives, and Museums) Library Carpentry Lesson on January 31, 2024!"
 title: "Join Our AI for GLAM Lesson Code Sprint - Library Carpentry, January 31, 2024"
 date: 2024-01-22
 time: "05:00:00"
