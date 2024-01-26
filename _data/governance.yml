@@ -10,7 +10,8 @@ people:
   committee_governance: true
   committee_finance: false
   committee_program: true
-
+  term: Elected 2024
+  
 - person_name: Jannetta Steyn
   github: jsteyn
   twitter: jannettas
@@ -24,6 +25,7 @@ people:
   committee_governance: true
   committee_finance: false
   committee_program: true
+  term: Elected 2024
 
 - person_name: Mark Crowe
   pic: mark_crowe.jpg
@@ -35,6 +37,7 @@ people:
   committee_governance: false
   committee_finance: true
   committee_program: false
+  term: Elected 2024
   
 - person_name: Paola Corrales
   pic: paola_corrales.png
@@ -49,6 +52,7 @@ people:
   committee_governance: false
   committee_finance: true
   committee_program: true
+  term: Elected 2024
   
 - person_name: John Chodacki
   pic: john_chodacki.png
@@ -61,6 +65,8 @@ people:
   committee_governance: true
   committee_finance: false
   committee_program: false
+  term: Appointed 2023
+  role: President
   
 - person_name: Yanina Bellini Saibene
   pic: yanina_ellini_saibene.jpg
@@ -75,6 +81,8 @@ people:
   committee_governance: true
   committee_finance: false
   committee_program: true
+  term: Appointed 2023
+  role: Vice President
   
 - person_name: Sarah Stevens
   pic: sarah_stevens.jpg
@@ -89,6 +97,8 @@ people:
   committee_governance: false
   committee_finance: true
   committee_program: true
+  term: Appointed 2023
+  role: Secretary
   
 - person_name: Michael Smith
   pic: michael_smith.png
@@ -99,6 +109,8 @@ people:
   committee_governance: false
   committee_finance: false
   committee_program: false
+  term: Appointed 2023
+  role: Treasurer
   
 - person_name: Tara Robertson
   pic: tara_robertson.jpg
@@ -113,6 +125,7 @@ people:
   committee_governance: true
   committee_finance: true
   committee_program: false
+  term: Appointed 2024
   
 - person_name: Eboni Dotson
   pic: eboni_dotson.jpg
@@ -124,6 +137,7 @@ people:
   committee_governance: true
   committee_finance: false
   committee_program: false
+  term: Appointed 2024
   
 - person_name:  Konrad Förstner
   pic: konrad_foerstner.jpg
@@ -138,4 +152,5 @@ people:
   committee_governance: false
   committee_finance: false
   committee_program: true
+  term: Appointed 2023
   
