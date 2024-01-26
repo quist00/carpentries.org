@@ -6,6 +6,10 @@ people:
   country: NZ
   advisory: true
   active: true
+  committee_audit: false
+  committee_governance: true
+  committee_finance: false
+  committee_program: true
 
 - person_name: Jannetta Steyn
   github: jsteyn
@@ -16,6 +20,10 @@ people:
   country: GB
   advisory: false
   active: true
+  committee_audit: false
+  committee_governance: true
+  committee_finance: false
+  committee_program: true
 
 - person_name: Mark Crowe
   pic: mark_crowe.jpg
@@ -23,7 +31,11 @@ people:
   linkedin: marklcrowe
   advisory: false
   active: true
-
+  committee_audit: true
+  committee_governance: false
+  committee_finance: true
+  committee_program: false
+  
 - person_name: Paola Corrales
   pic: paola_corrales.png
   country: AR
@@ -33,7 +45,11 @@ people:
   orcid: 0000-0002-8082-1890
   advisory: false
   active: true
-
+  committee_audit: false
+  committee_governance: false
+  committee_finance: true
+  committee_program: true
+  
 - person_name: John Chodacki
   pic: john_chodacki.png
   github: chodacki
@@ -41,7 +57,11 @@ people:
   country: US
   advisory: false
   active: true
-
+  committee_audit: true
+  committee_governance: true
+  committee_finance: false
+  committee_program: false
+  
 - person_name: Yanina Bellini Saibene
   pic: yanina_ellini_saibene.jpg
   github: 	yabellini
@@ -51,7 +71,11 @@ people:
   country: AR
   advisory: true
   active: true
-
+  committee_audit: false
+  committee_governance: true
+  committee_finance: false
+  committee_program: true
+  
 - person_name: Sarah Stevens
   pic: sarah_stevens.jpg
   github: sstevens2
@@ -61,13 +85,21 @@ people:
   country: US
   advisory: false
   active: true
-
+  committee_audit: false
+  committee_governance: false
+  committee_finance: true
+  committee_program: true
+  
 - person_name: Michael Smith
   pic: michael_smith.png
   country: US
   advisory: false
   active: true
-
+  committee_audit: false
+  committee_governance: false
+  committee_finance: false
+  committee_program: false
+  
 - person_name: Tara Robertson
   pic: tara_robertson.jpg
   country: CA
@@ -77,14 +109,22 @@ people:
   mastodon: https://fosstodon.org/@tararobertson@mastodon.social
   advisory: false
   active: true
-
+  committee_audit: false
+  committee_governance: true
+  committee_finance: true
+  committee_program: false
+  
 - person_name: Eboni Dotson
   pic: eboni_dotson.jpg
   country: US
   linkedin: drebonidotson
   advisory: false
   active: true
-
+  committee_audit: true
+  committee_governance: true
+  committee_finance: false
+  committee_program: false
+  
 - person_name:  Konrad Förstner
   pic: konrad_foerstner.jpg
   github: konrad
@@ -94,3 +134,8 @@ people:
   country: DE
   advisory: true
   active: true
+  committee_audit: true
+  committee_governance: false
+  committee_finance: false
+  committee_program: true
+  
