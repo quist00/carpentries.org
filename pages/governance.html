@@ -21,9 +21,14 @@ permalink: /governance/
 
 <h3>Current Advisory Committee Members</h3>
 
-<div class="container">
-INSERT ADV COMMITTEE MEMBERS HERE
-</div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+  
+      {% assign people_list = site.data.governance.people | where: "active", true  | where: "advisory", true | sort: "person_name" | reverse %}
+      {% include executive_council_profiles.md %}  
+      </div>
+    </div>
 
 <h3>Contacting the Advisory Commitee</h3>
 
