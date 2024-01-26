@@ -4,9 +4,8 @@ people:
   pic: nisha_ghatak.jpg
   github: nishag90
   country: NZ
-  active: true 
-  term: 
-    - {type: Appointed, start_year: 2023}
+  advisory: true
+  active: true
 
 - person_name: Jannetta Steyn
   github: jsteyn
@@ -15,54 +14,33 @@ people:
   linkedin: jannetta
   pic: jannetta_steyn.jpg
   country: GB
-  active: true 
-  term:
-    - {type: Elected, start_year: 2023}
+  advisory: false
+  active: true
 
+- person_name: Mark Crowe
+  pic: mark_crowe.jpg
+  country: AU
+  linkedin: marklcrowe
+  advisory: false
+  active: true
 
+- person_name: Paola Corrales
+  pic: paola_corrales.png
+  country: AR
+  mastodon: https://fosstodon.org/@paocorrales
+  github: paocorrales
+  url: https://paocorrales.github.io/
+  orcid: 0000-0002-8082-1890
+  advisory: false
+  active: true
 
-- person_name: Sarah Stevens
-  pic: sarah_stevens.jpg
-  github: sstevens2
-  twitter: microStevens
-  orcid: 0000-0002-7040-548X
-  url: http://sarahlrstevens.info/
+- person_name: John Chodacki
+  pic: john_chodacki.png
+  github: chodacki
+  twitter:
   country: US
+  advisory: false
   active: true
-  term:
-    - {type: Elected, start_year: 2021}
-
-
-- person_name:  Konrad Förstner
-  pic: konrad_foerstner.jpg
-  github: konrad
-  twitter: konrad.foerstner
-  orcid: 0000-0002-1481-2996
-  url: http://konrad.foerstner.org/
-  country: DE
-  active: true
-  term:
-    - {type: Appointed, start_year: 2020}
-    - {type: Elected, start_year: 2022}
-
-
-- person_name: Aleksandra Nenadic
-  pic: aleksandra_nenadic.jpg
-  github: anenadic
-  orcid: 0000-0002-2269-3894
-  country: GB
-  active: false
-  term:
-    - {type: Elected, start_year: 2021}
-
-
-- person_name: Michael Smith
-  pic: michael_smith.png
-  country: US
-  active: true
-  term:
-  - {type: Appointed, start_year: 2021}
-
 
 - person_name: Yanina Bellini Saibene
   pic: yanina_ellini_saibene.jpg
@@ -71,174 +49,48 @@ people:
   orcid: 0000-0002-4522-7466
   url: https://yabellini.netlify.app/
   country: AR
+  advisory: true
   active: true
-  term:
-    - {type: Elected, start_year: 2022}
 
-
-- person_name: Masami Yamaguchi
-  pic: masami_yamaguchi.jpg
-  github: 	masamiy
-  country: AU
-  active: false
-  term:
-    - {type: Appointed, start_year: 2021}
-
-- person_name: John Chodacki
-  pic: john_chodacki.png
-  github: chodacki
-  twitter:
+- person_name: Sarah Stevens
+  pic: sarah_stevens.jpg
+  github: sstevens2
+  twitter: microStevens
+  orcid: 0000-0002-7040-548X
+  url: http://sarahlrstevens.info/
   country: US
+  advisory: false
   active: true
-  term:
-    - {type: Appointed, start_year: 2021}
 
-
-- person_name: Annajiat Alim Rasel
-  pic: annajiat_alim_rasel.jpg
-  github: annajiat
-  twitter: annajiat
-  orcid: 0000-0003-0198-3734
-  url: http://annajiat.googlepages.com/
-  country: BD
-  active: true
-  term:
-    - {type: Appointed, start_year: 2022}
-
-
-- person_name: Abdulai Imoro
-  pic: abdulai_imoro.jpg
-  github: aimoro
-  url: https://www.linkedin.com/in/abdulai-imoro-9a739835/
-  country: GH
-  active: true
-  term:
-    - {type: Appointed, start_year: 2022}
-
-- person_name:  Amel Ghoulia
-  pic: amel_ghoulia.jpg
-  github: amelgh
+- person_name: Michael Smith
+  pic: michael_smith.png
   country: US
-  active: false
-  term:
-    - {type: Appointed, start_year: 2022}
+  advisory: false
+  active: true
 
+- person_name: Tara Robertson
+  pic: tara_robertson.jpg
+  country: CA
+  github: tararobertson
+  linkedin: tararobertson
+  url: https://tararobertson.ca/
+  mastodon: https://fosstodon.org/@tararobertson@mastodon.social
+  advisory: false
+  active: true
 
-- person_name: Cedric Chambers
-  active: false
-  term:
-  - {type: Appointed, start_year: 2020}
+- person_name: Eboni Dotson
+  pic: eboni_dotson.jpg
+  country: US
+  linkedin: drebonidotson
+  advisory: false
+  active: true
 
-
-- person_name: Paula Andrea Martinez
-  active: false
-  term:
-  - {type: elected, start_year: 2020}
-  roles:
-    - {committee: Executive Council Officers, role: Vice Chair}
-
-- person_name: Lex Nederbragt
-  active: false
-  term:
-    - {type: Elected, start_year: 2018}
-
-- person_name: Mesfin Diro Charka
-  active: false
-  term:
-    - {type: Appointed, start_year: 2019 }
-  roles:
-    - {committee: Executive Council Officers, role: Secretary}
-
-- person_name: Amy Hodge
-  active: false
-  term:
-    - {type: Elected, start_year: 2019}
-  roles:
-    - {committee: Executive Council Officers, role: Chair}
-
-- person_name: Joslyn Lee
-  active: false
-  term:
-    - {type: Appointed, start_year: 2019}
-  roles:
-    - {committee: Executive Council Officers, role: Secretary}
-
-- person_name:  Juan Steyn
-  active: false
-  term:
-    - {type: Appointed, start_year: 2019}
-
-- person_name: Elizabeth Wickes
-  active: false
-  term:
-    - {type: Elected, start_year: 2018}
-
-- person_name: Kate Hertweck
-  active: false
-  term:
-    - {type: Elected, start_year: }
-
-- person_name: Raniere Silva
-  active: false
-  term:
-    - {type: Elected, start_year: }
-
-- person_name: Karen Cranston
-  active: false
-  term:
-    - {type: Appointed, start_year: }
-
-- person_name: Sue McClatchy
-  active: false
-  term:
-    - {type: Appointed, start_year: }
-
-- person_name: Mateusz Kusak
-  active: false
-  term:
-    - {type: Appointed, start_year: }
-
-- person_name: Ethan White
-  active: false
-  term:
-    - {type: Appointed, start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
-
-- person_name:
-  active: false
-  term:
-    - {type: , start_year: }
+- person_name:  Konrad Förstner
+  pic: konrad_foerstner.jpg
+  github: konrad
+  twitter: konrad.foerstner
+  orcid: 0000-0002-1481-2996
+  url: http://konrad.foerstner.org/
+  country: DE
+  advisory: true
+  active: true
