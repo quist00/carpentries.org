@@ -5,7 +5,7 @@ teaser: "EC members reflect on how to best support The Carpentries as a multicul
 title: "Highlights from the 2023 Executive Council Retreat"
 date: 2023-05-03
 time: "21:00:00"
-tags: ["Executive Council", "Community"]
+tags: ["Executive Council", "Community", "Governance"]
 ---
 
 # The Carpentries Executive Council Annual Retreat 2023

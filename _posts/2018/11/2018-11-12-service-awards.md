@@ -5,7 +5,7 @@ teaser: "Deadline is next week. Do not miss the opportunity to recognise members
 title: "Nominate a member to Community Service Award before 19 November"
 date: 2018-11-13
 time: "09:00:00"
-tags: ["Executive Council", "Community"]
+tags: ["Executive Council", "Community", "Governance"]
 ---
 
 The Carpentries is receiving nominations for 2018 Community Service Award

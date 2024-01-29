@@ -5,7 +5,7 @@ teaser: "Join us in welcoming the newly elected Executive Council members!"
 title: "Announcing the 2023 Executive Council for The Carpentries"
 date: 2022-12-27
 time: "05:00:00"
-tags: ["Community", "Executive Council"]
+tags: ["Community", "Executive Council", "Governance"]
 ---
 
 We are pleased to announce the results of the community and council elections for the 2023 Executive Council, which will assume responsibility of governance from the current Executive Council in February 2023.

@@ -5,7 +5,7 @@ teaser: "Here are the members of the 2021 Carpentries Executive Council"
 title: "Announcing the 2021 Executive Council for The Carpentries"
 date: 2021-01-15
 time: "05:00:00"
-tags: ["Community", "Executive Council"]
+tags: ["Community", "Executive Council", "Governance"]
 ---
 
 We are pleased to announce the results of the community and council elections for the 2021 Executive Council, which will assume responsibility of governance from the current Executive Council in February 2021. We would like to give the most welcome greeting to the following five new members.

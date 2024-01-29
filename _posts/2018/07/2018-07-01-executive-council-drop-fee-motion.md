@@ -5,7 +5,7 @@ title: "No More Self-Organised Workshop Fees"
 teaser: "Executive Council moves to eliminate Self-Organised workshop fees"
 date: 2018-07-12
 time: "0:00:00"
-tags: ["Community", "Carpentries Workshops", "Executive Council"]
+tags: ["Community", "Carpentries Workshops", "Executive Council", "Governance"]
 ---
 
 To bring Software and Data Carpentry Self-Organised workshop fees into agreement with one another, the 2018 Executive Council passed a motion to eliminate the $500 fee charged to host organisations for Self-Organised Data Carpentry workshops.

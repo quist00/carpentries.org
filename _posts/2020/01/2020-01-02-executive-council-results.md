@@ -5,7 +5,7 @@ teaser: ""
 title: "Announcing the 2020 Executive Council for The Carpentries"
 date: 2020-1-02
 time: "05:00:00"
-tags: ["Community", "Executive Council"]
+tags: ["Community", "Executive Council", "Governance"]
 ---
 
 We are pleased to announce the results of the community and council elections for the 2020 Executive Council, which will assume responsibility of governance from the current Executive Council in February 2020.
