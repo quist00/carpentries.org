@@ -5,7 +5,7 @@ teaser: "Four community members were elected to serve a three-year term on The C
 title: "Announcing the results of the 2024 community election"
 date: 2024-01-04
 time: "05:00:00"
-tags: ["Community", "Board of Directors"]
+tags: ["Community", "Governance", "Board of Directors"]
 ---
 
 We are pleased to announce the results of the community election for the 2024 Board of Directors, which will assume responsibility for governance on February 1, 2024.

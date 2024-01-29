@@ -5,7 +5,7 @@ teaser: ""
 title: "Announcing the 2019 Executive Council for The Carpentries"
 date: 2018-12-19
 time: "05:00:00"
-tags: ["Community", "Executive Council"]
+tags: ["Community", "Executive Council", "Governance"]
 ---
 
 The Executive Council elections have concluded! Thanks to everyone who participated in the election as a candidate or voter. The Executive Council is the governance of The Carpentries, and we are fortunate to have so many people engaged in our community governance.. A summary of the results for both community-elected and council-elected seats are described below.

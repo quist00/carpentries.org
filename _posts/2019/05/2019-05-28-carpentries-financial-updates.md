@@ -5,7 +5,7 @@ teaser: "Planning for The Carpentries' financial sustainability"
 title: "Financial Updates"
 date: 2019-05-28
 time: "09:00:00"
-tags: ["Executive Council", "Communications"]
+tags: ["Executive Council", "Communications", "Governance"]
 ---
 
 We have completed our first year as a joint project, The Carpentries, and now have more concrete information we can use to evaluate and plan for our long-term sustainability. Financial sustainability is a primary consideration in keeping our programs going, as financial resources allow us to pay for people and infrastructure, support our community and Member Organisations, teach workshops, connect with each other and develop local capacity for training, update resources, and develop new programs. You can see more details about our projects and personnel time in [this blog post](https://carpentries.org/blog/2019/02/projects-teams-job-plans/). 
