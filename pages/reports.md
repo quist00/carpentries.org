@@ -4,7 +4,7 @@ title: "Our Reports"
 permalink: "/reports/"
 ---
 
-This page holds all reports published by The Carpentries' Core Team and Executive Council since early 2018.
+This page holds all reports published by The Carpentries' Core Team and Governance since early 2018.
 
 ## Annual Reports
 

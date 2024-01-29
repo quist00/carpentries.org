@@ -4,9 +4,9 @@ title: "Carpentries Governance History"
 permalink: /governance-history/
 ---
 
-## History of The Carpentries Executive Council
+## History of The Carpentries Governance
 
-[Find out about our current Executive Council](/governance/).
+[Find out about our current Governance](/governance/).
 
 ### 2023 Executive Council
 

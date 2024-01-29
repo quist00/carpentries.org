@@ -7,7 +7,7 @@ permalink: "/strategic-plan/"
 
 The Carpentries was founded in January 2018 via the merger of Software Carpentry and Data Carpentry and was joined later that year by Library Carpentry. All three of these organisations have been dedicated to teaching computing and data skills to their various communities. United under The Carpentries we have the opportunity to work together toward a bigger and broader vision of the future.
 
-This Strategic Plan describes how the [Executive Council](/governance/) and [The Carpentries Core Team](/team/) see the path forward toward that future. It lays out six broad goals, each with its rationale and underlying objectives, that will serve as touchpoints to guide our future actions. The idea is to provide a general framework for the direction of this organisation for the next 3-5 years. This Strategic Plan speaks to The Carpentries as a whole. Each of the individual Lesson Programs -- Data Carpentry, Library Carpentry, and Software Carpentry -- may also have their own goals and objectives related to their specific programs and curricula.
+This Strategic Plan describes how the [Governance](/governance/) and [The Carpentries Core Team](/team/) see the path forward toward that future. It lays out six broad goals, each with its rationale and underlying objectives, that will serve as touchpoints to guide our future actions. The idea is to provide a general framework for the direction of this organisation for the next 3-5 years. This Strategic Plan speaks to The Carpentries as a whole. Each of the individual Lesson Programs -- Data Carpentry, Library Carpentry, and Software Carpentry -- may also have their own goals and objectives related to their specific programs and curricula.
 
 **Vision**
 
@@ -117,7 +117,7 @@ As an international volunteer organisation, we need a responsive and transparent
 - Work with our fiscal sponsor to establish guidelines and methods to conduct business internationally, to manage volunteers, and to explore other relevant activities.
 - Be aware of and implement best practices in privacy management, copyright, and trademarks.
 - Create an organised and engaged Lesson Program governance structure and strengthen Lesson Programs’ oversight of their Programs.
-- Establish an Advisory Council for The Carpentries that will meet biannually to advise the Executive Council regarding strategic planning, finances, governance, and other relevant topics.
+- Establish an Advisory Council for The Carpentries that will meet biannually to advise the Governance regarding strategic planning, finances, governance, and other relevant topics.
 
 ### GOAL 6:
 
@@ -129,15 +129,15 @@ To become the leading inclusive community teaching computing and data skills, we
 
 **Objectives:**
 
-- Identify  speaking and presenting opportunities for Core Team, Executive Council, and Community members that are strategically appropriate to strengthen the visibility of The Carpentries and model our values.
-- Develop slide decks and other supporting materials for the Core Team, Executive Council, and Community members to use/adapt when advocating for our values and vision.
+- Identify  speaking and presenting opportunities for Core Team, Governance, and Community members that are strategically appropriate to strengthen the visibility of The Carpentries and model our values.
+- Develop slide decks and other supporting materials for the Core Team, Governance, and Community members to use/adapt when advocating for our values and vision.
 - Intentionally reach out to related communities to create relationships and develop synergies.
 - Write and share position papers related to training and empowering people to work with data and software.
 - Encourage Core Team and Community members to
   - serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision and
   - respond to requests for comments in these areas.
 
-The Strategic Plan for the 2020-2025 period was approved by the Carpentries Executive Council on [January 3rd, 2020](https://github.com/carpentries/executive-council-info/issues/31). It will be assessed each third year, with the next update scheduled to be approved at the end of 2024/beginning of 2025. No amendments will be made in the intermediate.
+The Strategic Plan for the 2020-2025 period was approved by the Carpentries Governance on [January 3rd, 2020](https://github.com/carpentries/executive-council-info/issues/31). It will be assessed each third year, with the next update scheduled to be approved at the end of 2024/beginning of 2025. No amendments will be made in the intermediate.
 
 <br>
-For all communications around The Carpentries Strategic Plan, [please contact The Carpentries Executive Council](mailto:carpentries-executive-council@carpentries.org).
+For all communications around The Carpentries Strategic Plan, [please contact The Carpentries Governance](mailto:board@carpentries.org).
