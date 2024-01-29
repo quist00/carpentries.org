@@ -8,6 +8,17 @@ permalink: /governance-history/
 
 [Find out about our current Executive Council](/governance/).
 
+### 2023 Executive Council
+
+- John Chodacki  [Appointed since 2021], 2023 Vice Chair
+- Konrad Förstner [Appointed since 2020], 2023 Chair
+- Nisha Ghatak [Appointed since 2023]
+- Abdulai Imoro [Elected since 2022]
+- Annajiat Alim Rasel [Elected since 2022]
+- Yanina Bellini Saibene [Elected since 2022]
+- Michael Smith [Appointed since 2021], 2023 Treasurer
+- Sarah Stevens [Elected since 2021], 2023 Secretary
+- Jannetta Steyn [Elected since 2023]
 
 ### 2022 Executive Council
 
