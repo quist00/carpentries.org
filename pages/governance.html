@@ -58,41 +58,43 @@ permalink: /governance/
 <p>Standing Committees are used by the Board as a practical way to manage the work and engagement of the Board. For a description of the different Standing Committees, see the Carpentries' Handbook.</p>
 
 <b>Audit Committee</b>
+
+{% assign audit = site.data.governance.people | where: "committee_audit", true | sort: "person_name" | reverse %}
+
 <ul>
-  <li>John Chodacki</li>
-  <li>Konrad Förstner</li>
-  <li>Eboni Dotson</li>
-  <li>Mark Crowe</li>
+  {% for person in audit %}
+  <li>{{ person.person_name }}</li>
+  {% endfor %}
 </ul>
 
 <b>Governance and Personnel Committee</b>
+
+{% assign governance = site.data.governance.people | where: "committee_governance", true | sort: "person_name" | reverse %}
+
 <ul>
-  <li>John Chodacki</li>
-  <li>Michael Smith</li>
-  <li>Eboni Dotson</li>
-  <li>Tara Robertson</li>
-  <li>Yanina Bellini Saibene</li>
-  <li>Nisha Ghatak</li>
-  <li>Jannetta Steyn</li>
+  {% for person in governance %}
+  <li>{{ person.person_name }}</li>
+  {% endfor %}
 </ul>
 
 <b>Finance Committee</b>
+
+{% assign finance = site.data.governance.people | where: "committee_finance", true | sort: "person_name" | reverse %}
+
 <ul>
-  <li>Sarah Stevens</li>
-  <li>Michael Smith</li>
-  <li>Mark Crowe</li>
-  <li>Paola Corrales</li>
+  {% for person in finance %}
+  <li>{{ person.person_name }}</li>
+  {% endfor %}
 </ul>
 
 <b>Program Committee</b>
+
+{% assign program = site.data.governance.people | where: "committee_program", true | sort: "person_name" | reverse %}
+
 <ul>
-  <li>Sarah Stevens</li>
-  <li>Konrad Förstner</li>
-  <li>Tara Robertson</li>
-  <li>Yanina Bellini Saibene</li>
-  <li>Nisha Ghatak</li>
-  <li>Jannetta Steyn</li>
-  <li>Paola Corrales</li>
+  {% for person in program %}
+  <li>{{ person.person_name }}</li>
+  {% endfor %}
 </ul>
 
 <h2>Carpentries Bylaws and Policies</h2>
