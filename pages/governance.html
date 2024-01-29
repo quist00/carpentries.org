@@ -44,14 +44,13 @@ permalink: /governance/
 
 <h3>Current Board Members</h3>
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-12 text-center">
 
-    {% assign people_list = site.data.governance.people | where: "active", true | sort: "person_name" | reverse %}
-    {% include governance_profiles.md %}  
+
+    <div>
+      {% assign people_list = site.data.governance.people | where: "active", true | sort: "person_name" | reverse %}
+      {% include governance_profiles.md %}
     </div>
-  </div>
+
 
 <h3>Carpentries Board of Directors Standing Committees</h3>
 
