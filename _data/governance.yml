@@ -107,7 +107,7 @@ people:
   active: true
   committee_audit: false
   committee_governance: false
-  committee_finance: false
+  committee_finance: true
   committee_program: false
   term: Appointed 2023
   role: Treasurer
@@ -123,8 +123,8 @@ people:
   active: true
   committee_audit: false
   committee_governance: true
-  committee_finance: true
-  committee_program: false
+  committee_finance: false
+  committee_program: true
   term: Appointed 2024
   
 - person_name: Eboni Dotson
