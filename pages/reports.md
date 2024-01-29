@@ -80,4 +80,4 @@ encountered, and lessons learned through this work.
 
 ## Code of Conduct Reports
 
-- [Code of Conduct Transparency Reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) All Code of Conduct Transparency reports are listed in this GitHub repo.
+- [Code of Conduct Transparency Reports](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports) All Code of Conduct Transparency reports are listed in this GitHub repo.
