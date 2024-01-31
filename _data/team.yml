@@ -40,7 +40,7 @@ people:
 - name: SherAaron Hurt
   pic: sheraaronhurt
   pronouns: she/her
-  position: Director of Workshops
+  position: Director of Workshops and Training
   lead: Workshops Team Lead
   jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
   email:  sheraaron@carpentries.org
@@ -74,13 +74,14 @@ people:
   twitter: oscarsibabalwe
   linkedin: oscar-masinyana
   calendly: oscar-masinyana-carpentries
+  orcid: 0009-0006-9624-3278
   et: false
   alt_text: African male with short dreadlocked hair, wearing reading glasses and smiling.
 
 - name: Maneesha Sane
   pronouns: Any pronouns will do
   pic: maneeshasane
-  position: Deputy Director of Technology
+  position: Associate Director of Technology
   jobplan: https://docs.google.com/document/d/1vzvRaH-ilaAdkzk3LZCMvBsBYlokX_5mU5aA7Wvo9PQ/edit
   email: maneesha@carpentries.org
   github: maneesha
@@ -91,7 +92,7 @@ people:
 - name: Danielle Sieh
   pronouns: she/her/hers
   pic: daniellesieh
-  position: Workshop Administrator
+  position: Workshops and Training Manager
   github: danielle06
   email: danielle@carpentries.org
   calendly: daniellesieh
@@ -101,7 +102,7 @@ people:
 - name: Angelique Trusler, PhD
   pronouns: Any pronouns will do
   pic: angeliquetrusler
-  position: African Capacity Development Manager
+  position: Community Manager
   email: angelique@carpentries.org
   github: elletjies
   twitter: AngeliquePhd
