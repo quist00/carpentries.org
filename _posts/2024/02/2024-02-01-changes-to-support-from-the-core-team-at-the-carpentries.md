@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Erin Becker", "Robert Davey", "Toby Hodges", "SherAaron Hurt", "Kari L. Jordan" ]
-teaser: "Changes to support from the Core Team at The Carpentries"
-title: "The Core Team announces which services to the community it will continue to support and which initiatives will continue through community-led support."
+teaser: "The Core Team announces which services to the community it will continue to support and which initiatives will continue through community-led support."
+title: "Changes to support from the Core Team at The Carpentries"
 date: 2024-02-01
 time: "09:00:00"
 tags: ["Community", "Core Team",  "Carpentries Team"]
