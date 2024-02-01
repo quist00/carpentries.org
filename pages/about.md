@@ -31,9 +31,7 @@ The Carpentries subscribes to a shared <a href="{{ site.code_of_conduct_url }}">
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
 a registered 501(c)(3) non-profit based in California, USA. Dr. Kari L. Jordan is the Executive Director, and governance of the merged Carpentries is undertaken 
-by an <a href="{{site.url}}/governance">Executive Council</a> which comprises 
-four community-elected members and five appointed members drawn from 
-The Carpentries community.
+by a <a href="{{site.url}}/governance">Board of Directors</a>.
 
 #### How is The Carpentries Funded?
 

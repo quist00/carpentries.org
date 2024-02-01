@@ -4,7 +4,7 @@ title: "Our Reports"
 permalink: "/reports/"
 ---
 
-This page holds all reports published by The Carpentries' Core Team and Executive Council since early 2018.
+This page holds all reports published by The Carpentries' Core Team and Governance since early 2018.
 
 ## Annual Reports
 
@@ -67,7 +67,7 @@ encountered, and lessons learned through this work.
 - In this report we revisited and updated some of the workshop related data from the earlier report. We also analysed applications for instructor training received since we opened up our application process in July 2016. [August 2018](https://doi.org/10.5281/zenodo.1404428) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1404428.svg)](https://doi.org/10.5281/zenodo.1404428)
 - In this report, we provide an overview of global workshop activity, including the number of workshops and learners involved globally. [October 2018](https://doi.org/10.5281/zenodo.2325620) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2325620.svg)](https://doi.org/10.5281/zenodo.2325620)
 
-## Executive Council Reports
+## Governance Reports
 
 - [2019 Executive Council In-Person meeting](/blog/2019/11/ec-meeting-2019/)
 - [2018 Executive Council In-Person meeting](/blog/2018/06/executive-council-meeting-report/)
@@ -80,4 +80,4 @@ encountered, and lessons learned through this work.
 
 ## Code of Conduct Reports
 
-- [Code of Conduct Transparency Reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) All Code of Conduct Transparency reports are listed in this GitHub repo.
+- [Code of Conduct Transparency Reports](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports) All Code of Conduct Transparency reports are listed in this GitHub repo.

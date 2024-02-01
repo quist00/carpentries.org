@@ -12,7 +12,7 @@ and research software development through building local and global communities 
 
 * Overseeing the training and certification of [Instructors](#instructors)
 * Maintaining global communities of practice:
-	* [Executive Council](#executive-council) - community members that constitute the governance and policy arm of The Carpentries
+	* [Governance](#governance) - community members that constitute the governance and policy arm of The Carpentries
 	* [Instructor development](#instructor-development) - those who support Instructors as they build their skills
 	* [Trainers](#trainers) - those who prepare our new Instructors
 	* [Lesson developers](#lesson-developers) - those who create new lessons
@@ -34,13 +34,11 @@ and research software development through building local and global communities 
 	* [Lesson infrastructure Committee](#lesson-infrastructure) - those who support lesson building and styling
 
 
-### Executive Council
+### Governance
 
-Governance of The Carpentries is undertaken by the Executive Council, to whom the Executive Director reports. The Council comprises nine members, from The Carpentries community or others, four elected by the community, and five appointed from the Executive Council.
+The Carpentries is a fiscally sponsored project of [Community Initiatives](https://communityinitiatives.org/), a registered 501(c)(3) non-profit based in California, USA. The Carpentries is [transitioning out of fiscal sponsorship](files/pdf/Fiscal_Sponsorship_Transition_FAQ.pdf) to an independent 501(c)(3) non-profit organisation. For that reason, the organisation has two governing bodies: an Advisory Committee and a Board of Directors.
 
-The Carpentries Executive Council is the highest leadership body of The Carpentries project. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
-
-More information about the Executive Council and current members is available on [the Governance page](/governance/).
+More information about our governance and current members is available on [the Governance page](/governance/).
 
 
 ### Instructors

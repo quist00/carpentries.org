@@ -289,7 +289,7 @@ subcommunities:
     interest: true
     other: 
   member: true
-  description: The New Zealand subcommunity focuses on building community relationships within the Carpentries community in Aotearoa New Zealand. New Zealand has several Carpentries members and is represented on the Executive Council of the organisation as well. 
+  description: The New Zealand subcommunity focuses on building community relationships within the Carpentries community in Aotearoa New Zealand. New Zealand has several Carpentries members and is represented on the Board of Directors of the organisation as well. 
   activities: 
     carpentry_connect: true
     communication: true
@@ -299,7 +299,7 @@ subcommunities:
     student_programs:
     translation:
     mentoring:
-    other: Executive Council representation 
+    other: Board of Directors representation 
   volunteers: true  
   logo:
   location: New Zealand

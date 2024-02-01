@@ -24,7 +24,7 @@ To contact individual Core Team members, see our <a href="{{site.url}}/team/">Te
 
 To contact specific committees or task forces, see the <a href="{{site.url}}/committees/">committees and task forces page</a>.
 
-To contact the Executive Council, see the <a href="{{site.url}}/governance/#contacting-the-executive-council">Executive Council page</a>. 
+To contact the Board, see the <a href="{{site.url}}/governance/">Governance page</a>. 
   </div> 
   
 <div class="medium-4 columns">  <strong>by mail:</strong> 
