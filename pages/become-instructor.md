@@ -57,9 +57,9 @@ If you have received an access code, you are ready to use your code to [sign up 
 Where membership is not possible, The Carpentries occasionally sponsors groups for Instructor Training. At this time, applications for group sponsorship are available by invitation only. However, if you have a group that you believe will advance The Carpentries’ goal of reaching historically under-represented groups through sponsorship, you are welcome to [contact us](mailto:{{site.instructor_training_contact}}) with inquiries.
 Group pricing for Instructor Training is listed below.
 
-2\. **Apply through the Open Instructor Training Program**
+2\. **Purchase an individual Instructor Training seat.**
 
-The Open Instructor Training Program is a Carpentries-sponsored program in which individual applicants may be invited to receive training at no cost. Applications are scored and accepted on a rolling basis in order of scoring. This program is not for groups; multiple individuals from a single institution or cohort may be considered but will not be admitted simultaneously. [Apply to our Open Instructor Training Program]({{site.instructor_training_app}}).
+Individuals not affiliated with Member organisations can purchase seats in Instructor Training at the fee schedule shown below. Please [contact us](mailto:{{site.instructor_training_contact}}) to purchase a seat or with inquiries.
 
 ## Group Training & Priority Access Fees
 
