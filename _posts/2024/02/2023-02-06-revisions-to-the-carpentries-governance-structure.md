@@ -35,25 +35,25 @@ Once our fiscal sponsorship transition is complete, the three-person Advisory Co
 
 ## The Carpentries Advisory Committee
 The three members of The Carpentries Advisory Committee are:
-* Yanina Bellini Saibene: rOpenSci 
-* Konrad Förstner: ZB MED and TH Köln
-* Nisha Ghatak: New Zealand eScience Infrastructure
+* Yanina Bellini Saibene, rOpenSci 
+* Konrad Förstner, ZB MED and TH Köln
+* Nisha Ghatak, New Zealand eScience Infrastructure
 
 Contact the Advisory Committee by [email](mailto:advisory-committee@carpentries.org) or by [filling out this form](https://forms.gle/pLyUYUZhNBwaS3mb7). 
 
 ## The Carpentries Board of Directors 
 The eleven members of The Carpentries Board of Directors are:
-* John Chodacki (President): California Digital Library (term ends January 2025)
-* Yanina Bellini Saibene (Vice President): rOpenSci (term ends January 2025)
-* Sarah Stevens (Secretary): University of Wisconsin-Madison (term ends January 2025)
-* Michael Smith (Treasurer): The PEER Group (term ends January 2025)
-* Tara Robertson: Tara Robertson Consulting (term ends July 2025)
-* Eboni Dotson: Atlanta University Center Data Science Initiative (term ends July 2025)
-* Konrad Förstner: ZB MED and TH Köln (term ends July 2025)
-* Nisha Ghatak: New Zealand eScience Infrastructure (term ends February 2027)
-* Jannetta Steyn: Newcastle University (term ends February 2027)
-* Mark Crowe: QCIF (term ends February 2027)
-* Paola Corrales: University of Bueno Aires (term ends February 2027)
+* John Chodacki (President), California Digital Library (term ends January 2025)
+* Yanina Bellini Saibene (Vice President), rOpenSci (term ends January 2025)
+* Sarah Stevens (Secretary), University of Wisconsin-Madison (term ends January 2025)
+* Michael Smith (Treasurer), The PEER Group (term ends January 2025)
+* Tara Robertson, Tara Robertson Consulting (term ends July 2025)
+* Eboni Dotson, Atlanta University Center Data Science Initiative (term ends July 2025)
+* Konrad Förstner, ZB MED and TH Köln (term ends July 2025)
+* Nisha Ghatak, New Zealand eScience Infrastructure (term ends February 2027)
+* Jannetta Steyn, Newcastle University (term ends February 2027)
+* Mark Crowe, QCIF (term ends February 2027)
+* Paola Corrales, University of Bueno Aires (term ends February 2027)
 
 Contact the Board by [email](board@carpentries.org) or by [filling out this form](https://forms.gle/hbcdZZSNRNLSiMRU8). 
 
