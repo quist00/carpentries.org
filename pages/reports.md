@@ -69,6 +69,10 @@ encountered, and lessons learned through this work.
 
 ## Governance Reports
 
+- [2023: Highlights from the Executive Council Retreat](/blog/2023/05/EC-retreat/)
+- [2022: Executive Council Key Activities Report](/blog/2022/04/executive-council-key-activities/)
+- [2021: Executive Council Key Activities Report](/blog/2021/12/executive-council-key-activities/)
+- [2020: Amending the bylaws](/blog/2020/12/carpentries-executive-council-bylaws-revision-2020/)
 - [2019 Executive Council In-Person meeting](/blog/2019/11/ec-meeting-2019/)
 - [2018 Executive Council In-Person meeting](/blog/2018/06/executive-council-meeting-report/)
 - [First 2018 Executive Council Tertile Report](/blog/2018/05/ec-report/)
