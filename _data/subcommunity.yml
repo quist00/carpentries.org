@@ -948,7 +948,7 @@ subcommunities:
     # facebook: 
     # linkedin:  
 
-    - name: Carpentries México
+- name: Carpentries México
   type:
     geographic_local: true
     geographic_regional: 
