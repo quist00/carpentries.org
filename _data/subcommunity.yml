@@ -803,7 +803,7 @@ subcommunities:
     translation:
     mentoring: true
     other: 
-  volunteers:  
+  volunteers: true 
   logo:
   location: Countries in Africa
   country:
@@ -947,4 +947,59 @@ subcommunities:
     # instagram: 
     # facebook: 
     # linkedin:  
+
+- name: Carpentries México
+  type:
+    geographic_local: true
+    geographic_regional: 
+    language:
+    domain:
+    interest:
+    other: 
+  member:  
+  description: The Carpentries community has grown to about 20 instructors in Mexico. We aim to promote good programming practices by strengthening Carpentries' presence within the Spanish-speaking academic community.
+  activities: 
+    carpentry_connect: true
+    communication: 
+    prof_dev: true
+    sow: true 
+    fundraising: true
+    student_programs: true
+    translation: 
+    mentoring: 
+    other: 
+  volunteers: true
+  logo:
+  location: México
+  country: México
+  website: 
+  tags:
+    assessment:
+    carpentry_connect: true
+    communication:
+    community_discussion:
+    curriculum: true
+    events: true
+    governance:
+    inperson_workshops: true
+    instructor_development: 
+    instructor_training:
+    internationalisation:
+    membership:
+    mentoring: 
+    online_workshops: true 
+    teaching: true
+    other: 
+  contact:
+    email: nselem84@gmail.com
+    slack: "Carpentries workspace"
+    mailing_list: carpentries-mexico@googlegroups.com
+    contact_form: 
+    contact_person: Nelly Sélem
+  social_media: 
+    # twitter: 
+    # mastodon: 
+    # instagram: 
+    # facebook: 
+    # linkedin: 
  
