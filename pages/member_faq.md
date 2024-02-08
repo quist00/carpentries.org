@@ -33,13 +33,7 @@ We would be happy to talk with you to learn more about your institution’s goal
 ### Do I need to renew my membership each year?
 Yes. The Carpentries memberships are annual memberships, extending for a period of one year. Renewing your membership in advance is a great way to avoid a lapse in membership.
 
-### Is financial support available?
-Yes - organisations with financial need are encouraged to
-[apply for financial support](https://carpentries.typeform.com/to/lZat2eO5). Financial support is available for Bronze, Silver,
-and Gold memberships only, and is subject to availability. Organisations awarded financial support may receive support between
-25% - 50% of their tiered price.
-
-### Are any other discounts available?
+### Are any discounts available?
 Organisations supporting [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), who engage in
 service activities to teach and support newly trained Instructors across our global community, may be eligible for a discount to their membership fee
 equivalent to six (6) seats in Instructor Training per active Instructor Trainer. Members can choose whether they would like to have the Trainer discount applied as a monetary discount, or as added benefits.  This discount is available at any membership level, for each trainer who has participated in the following activities up to 1 year prior to renewal:
@@ -50,9 +44,6 @@ equivalent to six (6) seats in Instructor Training per active Instructor Trainer
 ### How can I find out if my institution already has a membership?
 A list of our [current Member organisations](https://carpentries.org/members/) can be found on our website. If you would like
 help in making contact with the person in charge of your institutional membership, email [{{site.membership_contact}}](mailto:{{site.membership_contact}}).
-
-### What is The Carpentries Member Council?
-Member Council meetings are a quarterly opportunity for representatives from Member organisations to come together and share ideas and tips for building Carpentries community at their organisation. The Carpentries staff will also present a quarterly update on new programs, opportunities, and other topics of interest to Member organisations.
 
 ## Workshops
 
@@ -118,9 +109,6 @@ Our current [pricing is here](/membership/#a-la-carte-pricing).
 ### Can individuals get trained to become Instructors outside of the context of institutional membership?
 Yes! Individuals can purchase Instructor Training seats at the [a la carte price](/membership/#a-la-carte-pricing)
 for their region. Individuals purchasing seats a la carte will receive equal priority with Members in scheduling.<br><br>
-Individuals who are not able to purchase seats can apply through our Open Instructor Training program. Acceptance rate varies,
-not all applications are accepted, and multiple trainees from a single institution are not accepted at the same time. Apply to
-this program by selecting “Open Training Application” in our [Instructor Training application form]({{site.instructor_training_app}}).
 
 
 ## Contact us
