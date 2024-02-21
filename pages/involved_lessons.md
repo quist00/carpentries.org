@@ -50,7 +50,7 @@ The [Collaborative Lesson Development Training page][cldt-info] provides more de
 about the program and how you can join a training event.
 
 
-[cldt-info]: /lessondev-training/
+[cldt-info]: https://carpentries.github.io/lesson-development-training/index.html
 [git-tutorial]: https://github.com/carpentries-incubator/swc_github_flow/blob/master/for_novice_contributors.md
 [incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
 [join-github]: https://github.com/join
