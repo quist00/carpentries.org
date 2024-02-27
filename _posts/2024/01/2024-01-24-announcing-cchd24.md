@@ -45,10 +45,10 @@ For updates, announcements, and detailed information about CarpentryConnect Heid
 ## Get Involved: Call for Volunteers
 To ensure the success of CCHD2024, we invite you to be a part of the organisation team. 
 Whether you're interested in shaping the program, coordinating logistics, or helping with outreach and communication, your involvement is invaluable.
-If you are passionate about community-led training and would like to contribute your skills, we encourage you to contact [Silvia Di Giorgio](digiorgio@zbmed.de).
+If you are passionate about community-led training and would like to contribute your skills, we encourage you to contact [Silvia Di Giorgio](mailto:digiorgio@zbmed.de).
 
 ## Get Involved: Call for Sponsors
-We are looking for sponsors to join us in supporting this event. Various sponsorship levels are available, and we are flexible in modelling them according to your needs. Could you contact [Silvia Di Giorgio](digiorgio@zbmed.de) to explore options and discuss how your support can make a difference?
+We are looking for sponsors to join us in supporting this event. Various sponsorship levels are available, and we are flexible in modelling them according to your needs. Could you contact [Silvia Di Giorgio](mailto:digiorgio@zbmed.de) to explore options and discuss how your support can make a difference?
 
 Help us find the perfect sponsors! If you know someone interested in supporting community-led training, share this call for sponsors. Together, let's make CCHD2024 an unforgettable event.
 
