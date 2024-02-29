@@ -70,4 +70,4 @@ And huge thanks to the reviewers, who devoted a significant amount of time to re
 * Heidi Seibold
 
 1: Good enough practices in scientific computing, Wilson et al., PLOS Computational Biology, 2017 
-https://doi.org/10.1371/journal.pcbi.1005510 
+<https://doi.org/10.1371/journal.pcbi.1005510> 
