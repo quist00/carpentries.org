@@ -3,7 +3,7 @@ layout: page
 authors: ["Toby Hodges", "Edward Wallace"]
 teaser: "A peer-reviewed lesson, based on 2017 paper of the same name, has been added to The Carpentries Lab"
 title: "The Carpentries Lab: Good Enough Practices in Scientific Computing"
-date: 2024-03-04
+date: 2024-03-06
 time: "09:00:00"
 tags: ["Curriculum", "The Carpentries Lab"]
 ---
