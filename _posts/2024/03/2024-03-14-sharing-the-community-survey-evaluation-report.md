@@ -10,7 +10,9 @@ tags: ["Reports", "Community", "Assessment", "Engagement", "Feedback", "Gratitud
 
 In 2023, The Carpentries launched a community survey to inform and prioritise our work and that of the Core Team so we can better serve the community. We asked community members to take 5 minutes to provide feedback on their experience as Carpentries community members, seeking feedback that will help us better understand the benefits community members get from their participation and inform areas of improvement. 
 
-We received 200 responses to the survey. It is difficult to identify a response rate without an exact count of the number of active community members. However, this represents 5% of The Carpentries Slack workspace members and 7% of those subscribed to [Carpentries Clippings](https://carpentries.org/newsletter/), our newsletter. All the collected responses have been summarised, and we share them with the community in our [2023 Carpentries Community Survey Evaluation Report](https://zenodo.org/records/10498453) describing **community health**. 
+We received 200 responses to the survey. It is difficult to identify a response rate without an exact count of the number of active community members. However, this represents 5% of The Carpentries Slack workspace members and 7% of those subscribed to [Carpentries Clippings](https://carpentries.org/newsletter/), our newsletter. 
+
+All the collected responses have been summarised, and we share them with the community in our [2023 Carpentries Community Survey Evaluation Report](https://zenodo.org/records/10498453) describing **community health**. 
 
 We are grateful to our legacy Core Team members, [Alycia, Karen, and Kelly](https://carpentries.org/blog/2024/01/with-gratitude-to-our-legacy-core-team-members/), who prepared and finalised the report before transitioning out of The Carpentries. 
 
