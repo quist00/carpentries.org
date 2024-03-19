@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Samar Elsheikh","Caroline Fadeke Ajilogba","Martin Dreyer","Angelique Trusler"]
+authors: ["Samar Elsheikh","Caroline F. Ajilogba","Martin Dreyer","Angelique Trusler"]
 teaser: "This post covers learners' experiences and feedback from SADiLaR's first three-day online Data Carpentry workshop in early May"
 title: "Learners' Experiences from South Africa's Online Workshop"
 date: 2020-05-28
