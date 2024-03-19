@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Rodolfo Montez Jr", "Azalee Bostroem", "Erin Becker"]
+authors: ["Rodolfo Montez Jr.", "Azalee Bostroem", "Erin Becker"]
 teaser: "Interested in teaching skills at the intersection of data science and astronomy? Sign up for onboarding or to host a workshop today."
 title: "Foundations of Astronomical Data Science Launch"
 date: 2022-04-05
