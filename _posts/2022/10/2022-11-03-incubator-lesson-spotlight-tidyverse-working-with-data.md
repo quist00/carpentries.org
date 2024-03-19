@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Athanasia Monika Mowinckel”, “Raoul Wolf"]
+authors: ["Athanasia Monika Mowinckel", "Raoul Wolf"]
 teaser: "Help test and improve a lesson teaching visualisation with ggplot2"
 title: "Incubator Lesson Spotlight: R and the Tidyverse for Working with Data"
 date: 2022-11-03
