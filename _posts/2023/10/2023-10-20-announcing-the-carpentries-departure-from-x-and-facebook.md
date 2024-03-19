@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: [“Oscar Masinyana", “Alycia Crall”]
+authors: ["Oscar Masinyana", "Alycia Crall"]
 teaser: "Announcing The Carpentries departure from X (formerly known as Twitter) and Facebook"
 title: "The Carpentries retires its X/Twitter accounts and Facebook profile"
 date: 2023-10-20
