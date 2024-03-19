@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Yanina Bellini Saibene", "Paola Corrales", "Laura Acion", "Nicolas Palopoli"]
+authors: ["Yanina Bellini Saibene", "Paola Corrales", "Laura Acion", "Nicolás Palopoli"]
 title: "Enseñando a enseñar entre comunidades en español"
 date: 2021-11-15
 time: "09:00:00"
