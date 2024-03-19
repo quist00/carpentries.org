@@ -1,20 +1,13 @@
 ---
 layout: page
-subheadline: "Instructor Training"
-title: "Instructor Training for Librarians"
-teaser: ""
-header:
- image_fullwidth: "light-blue-wood-texture.jpg"
-categories:
-  - blog
-comments: true
-show_meta: true
-tags: ["Instructor Development", "North America", "Data Carpentry"]
 authors: ["Greg Wilson"]
-redirect_from: /blog/csv-conf/
---- 
+title: "Instructor Training for Library Carpentry"
+date: 2016-12-08
+time: "00:13:00"
+tags: ["Instructor Training", "Library Carpentry", "Software Carpentry"]
+---
 
-**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 We are pleased to announce that we are partnering with [csv,conf](https://csvconf.com/)
 (a community conference for data makers everywhere)

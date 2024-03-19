@@ -1,16 +1,21 @@
 ---
 layout: page
-authors: ["Greg Wilson"]
+subheadline: "Instructors"
 title: "Reopening Instructor Training"
-date: 2016-07-25
-time: "00:04:00"
-tags: ["Instructor Training", "Software Carpentry"]
----
+teaser: "Two open instructor training classes this fall"
+categories:
+   - blog
+comments: true
+show_meta: true
+tags: ["Instructor Development", "Data Carpentry"]
+authors: ["Greg Wilson"]
+redirect_from: /blog/reopening-instructor-training/
+--- 
 
-<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
+**This post originally appeared on the [Data Carpentry website](https://datacarpentry.org)**
 
 For the last ten months,
-the Software Carpentry Foundation has worked toward three goals
+the [Software Carpentry Foundation](http://software-carpentry.org/scf/) has worked toward three goals
 for its instructor training program:
 
 1.  Make the content more relevant.
@@ -19,53 +24,51 @@ for its instructor training program:
 
 3.  Find a format that meets everyone's needs in a sustainable way.
 
-We have made a lot of progress on all three,
+They have made a lot of progress on all three,
 and are therefore now able to offer instructor training once again
-to people who aren't affiliated with our partner organizations,
-but would like to teach Software Carpentry, Data Carpentry, or both
-(as the course is shared by both organizations).
+to people who aren't affiliated with our partner organisations,
+but would like to teach Data Carpentry, Software Carpentry, or both
+(as the course is shared by both organisations).
 If you wish to apply to take part
-in one of the two open-enrollment classes we will offer this fall,
+in one of the two open-enrolment classes they will offer this fall,
 please fill in the form at:
 
 <https://amy.carpentries.org/workshops/request_training/>
 
-to tell us about yourself,
+to tell them about yourself,
 what excites you about teaching,
 and how Software and Data Carpentry can help in your community.
-We will notify applicants as spaces become available.
+They will notify applicants as spaces become available.
 If you have any questions,
 please mail
 [training@software-carpentry.org](mailto:training@software-carpentry.org).
 
 If you would like to accelerate the process,
-check out our [Partnership program]({{site.baseurl}}/scf/join/).
-Organizational partners make ongoing commitments to supporting our organization
-and are prioritized for instructor training.
-If you need help making the case at your organization,
-feel free to contact us at
-[partnerships@software-carpentry.org](mailto:partnerships@software-carpentry.org):
-we'd be happy to help.
+check out our [Partnership program](http://www.datacarpentry.org/partnerships/).
+Organisational partners make ongoing commitments to supporting our organisation
+and are prioritised for instructor training.
+If you need help making the case at your organisation,
+please [mail us](mailto:partnerships@software-carpentry.org):
+we'd be happy to chat.
 
 Please note that as a condition of taking this training, you must:
 
 *   abide by our code of conduct, which can be found at
-    <http://software-carpentry.org/conduct/> and
-    <http://datacarpentry.org/code-of-conduct/>,
+    <http://datacarpentry.org/code-of-conduct/> and
+    <http://software-carpentry.org/conduct/>,
 
-*   agree to teach at a Software Carpentry or Data Carpentry workshop
+*   agree to teach at a Data Carpentry or Software Carpentry workshop
     within 12 months of the course,
     and
 
 *   complete three short tasks after the course in order to complete certification.
     The tasks take a total of approximately 8-10 hours,
     and are described at
-    <{{site.training_url}}/checkout/>.
+    <http://swcarpentry.github.io/instructor-training/checkout/>.
 
-For more information on Software and Data Carpentry instructor training,
+For more information on instructor training,
 please see the course material at:
 
-<{{site.training_url}}>
+<http://swcarpentry.github.io/instructor-training/>
 
-Please also see [this additional post]({{site.baseurl}}/blog/2016/07/more-on-instructor-training.html),
-which answers some frequently-asked questions about this training.
+Please also see [this additional post](http://software-carpentry.org/blog/2016/07/more-on-instructor-training.html), which answers some frequently-asked questions about this training.
