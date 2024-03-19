@@ -109,7 +109,7 @@ logo: "TheCarpentries.svg"
 flag_size: 24
 
 # Paginates all X entries
-paginate: 10
+paginate: 15
 
 
 # Pagination path › Important for blog page in /blog/ to work
