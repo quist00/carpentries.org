@@ -4,7 +4,7 @@ authors: ["Francesco Montanari"]
 title: "My Favorite Tool - Emacs"
 date: 2017-11-03
 time: "18:00:00"
-tags: ["Emacs", "Text editors", "Software Carpentry"]
+tags: ["Emacs", "Text Editors", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
