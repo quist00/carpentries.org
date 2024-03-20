@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Toby Hodges", "Claudia Zirión Martínez", "Diego Garfias Gallegos", "Aarón Espinosa Jaime", "José Abel Lovaco Flores", "J Abraham Avelar Rivas", "Tania Vanessa Arellano Fernandez", "Edder Daniel Díaz", "Luis Gerardo Tejero Gómez", "Nelly Sélem Mojica"]
+authors: ["Toby Hodges", "Claudia Zirión Martínez", "Diego Garfias Gallegos", "Aarón Espinosa Jaime", "José Abel Lovaco Flores", "J Abraham Avelar Rivas", "Tania Vanessa Arellano Fernández", "Edder Daniel Díaz", "Luis Gerardo Tejero Gómez", "Nelly Sélem Mojica"]
 teaser: "A peer-reviewed Metagenomics curriculum has been added to The Carpentries Lab"
 title: "The Carpentries Lab: Metagenomics Curriculum"
 date: 2023-03-28
@@ -78,7 +78,7 @@ Congratulations to the authors for creating an excellent curriculum that will pr
 * Aarón Espinosa Jaime
 * José Abel Lovaco Flores
 * J Abraham Avelar Rivas
-* Tania Vanessa Arellano Fernandez
+* Tania Vanessa Arellano Fernández
 * Edder Daniel Díaz
 * Luis Gerardo Tejero Gómez
 * Nelly Sélem Mojica

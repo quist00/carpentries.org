@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Jannetta S. Steyn", "Colin Sauze", "Abhishek Dasgupta"]
+authors: ["Jannetta Steyn", "Colin Sauze", "Abhishek Dasgupta"]
 teaser: "Updates on the The CarpentriesOffline project"
 title: "CarpentriesOffline — CarpentryCon 2022 feedback and call for help"
 date: 2022-12-14

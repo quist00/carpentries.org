@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Sher! Hurt", "Angelique Trusler"]
+authors: ["SherAaron Hurt", "Angelique Trusler"]
 teaser: "Channels/resources available for recruiting Instructors"
 title: "Recruiting Instructors for Self-Organised Workshops"
 date: 2021-06-23

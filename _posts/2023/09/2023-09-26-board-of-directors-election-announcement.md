@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Konrad Foërstner"]
+authors: ["Konrad Förstner"]
 teaser: "Nominations are now open for community-elected positions."
 title: "Call for Candidates for The Carpentries Board of Directors"
 date: 2023-09-26

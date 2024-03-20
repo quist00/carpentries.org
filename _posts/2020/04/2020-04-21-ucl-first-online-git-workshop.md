@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["David Perez-Suarez"]
+authors: ["David Pérez-Suárez"]
 teaser: "We successfully ran a 3-hour workshop for 11 learners with one instructor and five helpers. here's how it turned out."
 title: " Running University College London's First Online Git Workshop"
 date: 2020-04-21
