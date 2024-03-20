@@ -5,7 +5,7 @@ title: "Analysis of Software Carpentry Workshop Impact"
 date: 2017-07-10
 time: "08:00:00"
 authors: ["Kari L. Jordan"]
-tags: ["surveys", "workshops", "impact", "assessment", "Software Carpentry"]
+tags: ["Surveys", "Workshops", "Impact", "Assessment", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

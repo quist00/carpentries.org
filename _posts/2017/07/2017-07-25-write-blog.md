@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Keep Calm and Write a Blog Post"
 date: 2017-07-25
 time: "06:00:00"
-tags: [ "Blog posts", "Community news", "Workshops", "Reports", "Software Carpentry"]
+tags: [ "Blog posts", "Community News", "Workshops", "Reports", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "RStudio Training and Consulting Directory"
 date: 2016-11-02
 time: "14:00:00"
-tags: ["R Studio", "Jobs", "Software Carpentry"]
+tags: ["RStudio", "Jobs", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

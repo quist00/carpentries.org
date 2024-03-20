@@ -9,7 +9,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["", "Data Carpentry"]
+tags: ["Data Carpentry"]
 authors: ["Tracy Teal"]
 redirect_from: /blog/curriculum-dev-scaling/
 --- 

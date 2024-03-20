@@ -4,7 +4,7 @@ authors: ["Aleksandra Pawlik"]
 title: "Instructor Traininig Intercontinental"
 date: 2016-12-22
 time: "15:00:00"
-tags: ["instructor training", "Software Carpentry"]
+tags: ["Instructor Training", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

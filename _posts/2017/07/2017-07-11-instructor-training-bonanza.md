@@ -5,7 +5,7 @@ title: "Help Update the Instructor Training Materials"
 date: 2017-07-11
 time: "08:00:00"
 authors: ["Erin Becker"]
-tags: ["curriculum", "Software Carpentry"]
+tags: ["Curriculum", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

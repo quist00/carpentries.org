@@ -4,7 +4,7 @@ authors: ["Juliane Schneider"]
 title: "The Totally Bearable Lightness of Being an Instructor ... So Finish that Training!"
 date: 2017-08-17
 time: "00:00"
-tags: ["Instructor training", "Software Carpentry"]
+tags: ["Instructor Training", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "People's Favorite Tools"
 date: 2017-11-29
 time: "09:00:00"
-tags: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "emacs", "RStudio", "rasterio", "Software Carpentry"]
+tags: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "Emacs", "RStudio", "rasterio", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

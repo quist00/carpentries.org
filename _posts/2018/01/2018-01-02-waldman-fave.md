@@ -4,7 +4,7 @@ authors: ["Simon Waldman"]
 title: "My Favorite Tool - QGIS"
 date: 2018-01-02
 time: "00:00:00"
-tags: [ "Research tools", "Community", "GIS", "Geographic Information Systems", "Software Carpentry"]
+tags: [ "Research Tools", "Community", "GIS", "Geographic Information Systems", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

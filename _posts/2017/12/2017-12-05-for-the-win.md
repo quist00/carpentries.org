@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Celebrate the Wins of 2017: Join the year's final community call"
 date: 2017-12-05
 time: "00:00:00"
-tags: [ "Community calls", "Software Carpentry"]
+tags: [ "Community Calls", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
