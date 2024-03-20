@@ -4,7 +4,7 @@ authors: ["Caroline F. Ajilogba", "Mesfin Diro", "Erika Mias", "Lactatia Motsuku
 title: "Revival of the African Task Force"
 date: 2018-03-13
 time: "08:00:00"
-tags: ["Community", "Africa", "Task Forces", "Software Carpentry"]
+tags: ["Community", "Africa", "Task Force", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
