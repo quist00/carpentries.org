@@ -78,7 +78,7 @@ Congratulations to the authors for creating an excellent curriculum that will pr
 * Aarón Espinosa Jaime
 * José Abel Lovaco Flores
 * J Abraham Avelar Rivas
-* Tania Vanessa Arellano Fernandez
+* Tania Vanessa Arellano Fernández
 * Edder Daniel Díaz
 * Luis Gerardo Tejero Gómez
 * Nelly Sélem Mojica
