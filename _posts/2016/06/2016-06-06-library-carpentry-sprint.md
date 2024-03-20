@@ -6,7 +6,7 @@ date: 2016-06-06
 time: "00:00:01"
 redirect_from:
   - /blog/2016/06/LibrarCarpentrysprint.html
-tags: ["sprints", "hackathons", "Data Carpentry", "Software Carpentry"]
+tags: ["Sprints", "Hackathons", "Data Carpentry", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

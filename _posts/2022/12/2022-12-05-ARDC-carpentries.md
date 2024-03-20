@@ -5,7 +5,7 @@ teaser: "The ARDC’s Liz Stokes spoke to Carpentries workshop instructors and h
 title: "I Can’t Believe I Survived Without It: Learning Data and Software Skills with The Carpentries"
 date: 2022-12-05
 time: "09:00:00"
-tags: ["community"]
+tags: ["Community"]
 ---
 
 This blog post was [originally published](https://ardc.edu.au/article/i-cant-believe-i-survived-without-it-learning-data-and-software-skills-with-the-carpentries/) on 15 November on the Australian Research Data Commons blog.

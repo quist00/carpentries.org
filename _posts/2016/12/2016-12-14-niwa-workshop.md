@@ -4,7 +4,7 @@ authors: ["Wolfgang Hayek", "Aleksandra Pawlik"]
 title: "Software Carpentry workshop in severe conditions"
 date: 2016-12-19
 time: "15:00:00"
-tags: ["workshops", "Software Carpentry"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

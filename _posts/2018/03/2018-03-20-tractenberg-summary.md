@@ -4,7 +4,7 @@ authors: ["Marianne Corvellec", "Karen Word"]
 title: "Webinar with Rochelle Tractenberg: Debrief"
 date: 2018-03-20
 time: "08:00:00"
-tags: [ "webinars", "Assessment", "Assessment network", "Software Carpentry"]
+tags: [ "Webinars", "Assessment", "Assessment network", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

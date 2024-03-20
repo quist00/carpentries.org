@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Carpentry Champions Call"
 date: 2018-02-07
 time: "00:00:00"
-tags: ["Community", "Community building", "Champions", "Software Carpentry"]
+tags: ["Community", "Community Building", "Champions", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

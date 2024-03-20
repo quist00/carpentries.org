@@ -4,7 +4,7 @@ authors: ["Maneesha Sane"]
 title: "How do instructors get placed at workshops?"
 date: 2018-01-14
 time: "00:00:00"
-tags: [ "Instructors", "workshops", "Placement", "Software Carpentry"]
+tags: [ "Instructors", "Workshops", "Placement", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

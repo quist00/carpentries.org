@@ -4,7 +4,7 @@ authors: ["Jon Calder"]
 title: "satRday Cape Town 2018"
 date: 2017-12-03
 time: "06:00:00"
-tags: ["conferences", "workshops", "r", "satRday", "Software Carpentry"]
+tags: ["Conferences", "Workshops", "R", "satRday", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

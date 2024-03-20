@@ -5,7 +5,7 @@ teaser: "Updates on the The CarpentriesOffline project"
 title: "CarpentriesOffline — CarpentryCon 2022 feedback and call for help"
 date: 2022-12-14
 time: "09:00:00"
-tags: ["community"]
+tags: ["Community"]
 ---
 
 This blog post was [originally published](https://medium.com/@jannetta/carpentriesoffline-carpentrycon-2022-feedback-and-call-for-help-3379345f07cf) on 12 December on Medium.
