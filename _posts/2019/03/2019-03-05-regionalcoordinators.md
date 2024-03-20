@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Sher! Hurt", "Maneesha Sane"]
+authors: ["SherAaron Hurt", "Maneesha Sane"]
 teaser: "How to connect with your Regional Coordinator"
 title: "Introducing The Carpentries' Regional Coordinators"
 date: 2019-03-05

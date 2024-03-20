@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["François Michonneau", "Sher! Hurt"]
+authors: ["François Michonneau", "SherAaron Hurt"]
 teaser: "Introducing our newest Regional Coordinator"
 title: "Welcome Rabea Müller, Regional Coordinator for the DACH Region"
 date: 2020-11-25

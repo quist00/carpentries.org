@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Sher! Hurt"]
+authors: ["SherAaron Hurt"]
 teaser: "Exploring Centrally-Organised workshops and how Instructors reap the benefits!"
 title: "Teaching Centrally-Organised Workshops"
 date: 2022-05-03

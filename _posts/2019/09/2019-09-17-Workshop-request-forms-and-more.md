@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Sher! Hurt"]
+authors: ["SherAaron Hurt"]
 teaser: "Navigating organising a Carpentries Workshop"
 title: "Introducing Updated Workshop Request Forms and More "
 date: 2019-09-17

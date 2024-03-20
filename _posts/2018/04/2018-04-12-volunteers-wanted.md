@@ -8,7 +8,7 @@ categories:
 comments: true
 show_meta: true
 tags: ["", "Data Carpentry"]
-authors: ["Sher!"]
+authors: ["SherAaron Hurt"]
 redirect_from: /blog/volunteers-wanted/
 --- 
 
