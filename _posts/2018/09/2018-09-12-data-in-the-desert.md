@@ -4,7 +4,7 @@ authors: ["Jeff Oliver"]
 title: "Data in the desert"
 teaser: "Library Carpentry workshop at the University of Arizona"
 date: 2018-09-12
-tags: ["University of Arizona", "Library Carpentry", "The Carpentries", "Workshop"]
+tags: ["University of Arizona", "Library Carpentry", "The Carpentries", "Workshops"]
 category: ["blog"]
 ---
 

@@ -4,7 +4,7 @@ authors: ["Chris Erdmann"]
 title: "Report back from University of Calgary Libraries"
 teaser: "Workshop and instructor training for librarians"
 date: 2018-09-05
-tags: ["University of Calgary", "Library Carpentry", "The Carpentries", "Instructor Training", "Workshop"]
+tags: ["University of Calgary", "Library Carpentry", "The Carpentries", "Instructor Training", "Workshops"]
 category: ["blog"]
 --- 
 

@@ -5,7 +5,7 @@ title: "What constitutes a Library Carpentry workshop?"
 teaser: "What is considered a Library Carpentry workshop vs a roadshow"
 date: 2018-08-07
 time: "09:00:00"
-tags: ["Library Carpentry", "Workshop", "Overview", "Roadshow", "Training", "Curriculum"]
+tags: ["Library Carpentry", "Workshops", "Overview", "Roadshow", "Training", "Curriculum"]
 category: ["blog"]
 --- 
 

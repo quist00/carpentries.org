@@ -4,7 +4,7 @@ authors: ["Nicola Anthony", "Katy Morgan", "Courtney Miller", "Anelda van der Wa
 title: "CAB-Alliance Bioinformatics Workshop in Franceville, Gabon"
 date: 2017-11-09
 time: "09:00:00"
-tags: ["Gabon", "Africa", "Bioinformatics", "Workshop", "Software Carpentry"]
+tags: ["Gabon", "Africa", "Bioinformatics", "Workshops", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
