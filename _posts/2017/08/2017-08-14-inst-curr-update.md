@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Instructor Curriculum Updated"
 date: 2017-08-14
 time: "16:00"
-tags: ["Instructor training", "Hackathons", "Bug BBQ", "Software Carpentry"]
+tags: ["Instructor Training", "Hackathons", "Bug BBQ", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

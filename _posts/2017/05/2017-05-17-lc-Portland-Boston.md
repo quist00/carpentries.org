@@ -4,7 +4,7 @@ authors: ["Juliane Schneider"]
 title: "Three Instructors, Two Coasts and One Spatula"
 date: 2017-05-17
 time: "10:00:00"
-tags: ["Instructor training","Library Carpentry","Workshops", "Software Carpentry"]
+tags: ["Instructor Training","Library Carpentry","Workshops", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
