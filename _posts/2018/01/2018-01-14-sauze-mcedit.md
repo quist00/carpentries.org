@@ -4,7 +4,7 @@ authors: ["Colin Sauze"]
 title: "My Favorite Tool - Midnight Commander"
 date: 2018-01-14
 time: "00:00:00"
-tags: [ "Research tools", "Text", "Text editors", "Software Carpentry"]
+tags: [ "Research Tools", "Text", "Text Editors", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

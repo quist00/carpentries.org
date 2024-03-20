@@ -4,7 +4,7 @@ authors: ["Mark Woodbridge"]
 title: "My Favorite Tool - Docker"
 date: 2018-02-15
 time: "00:00:00"
-tags: [ "Research tools", "Virtualization", "Containers", "Software Testing", "Software Carpentry"]
+tags: [ "Research Tools", "Virtualization", "Containers", "Software Testing", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>

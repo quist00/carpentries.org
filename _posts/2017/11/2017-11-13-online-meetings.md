@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Running effective online meetings with Zoom (or Google Hangouts, or ...)"
 date: 2017-11-08
 time: "00:00:13"
-tags: ["Online meetings", "Zoom", "Software Carpentry"]
+tags: ["Online Meetings", "Zoom", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
