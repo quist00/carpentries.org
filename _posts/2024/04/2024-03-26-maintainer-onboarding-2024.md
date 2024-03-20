@@ -3,7 +3,7 @@ layout: page
 authors: ["Nathaniel Porter"]
 teaser: "The Carpentries is preparing to onboard the next round of Maintainers. Applications due 5 April."
 title: "Apply for 2024 Carpentries Maintainer Onboarding!"
-date: 2024-03-26
+date: 2024-03-21
 time: "09:00:00"
 tags: ["Community", "Maintainers", "Curriculum"]
 ---
