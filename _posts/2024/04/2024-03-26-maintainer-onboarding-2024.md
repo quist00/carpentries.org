@@ -19,7 +19,7 @@ you will have the foundation and support to learn [the skills you will need as a
 and [GitHub skill up sessions](https://carpentries.github.io/github-skill-up-maintainers/) will be offered in multiple time zones during onboarding to ensure you have the skills you need to succeed. 
 
 The Maintainer community has a dedicated Slack channel, TopicBox email list, and monthly meetings to help support you and the lesson you are working on. 
-Lesson maintenance is asynchronous and can take place wherever it fits in your schedule, although occasional co-working sessions may be organized on Zoom to help work through challenges.
+Lesson maintenance is asynchronous and can take place wherever it fits in your schedule, although occasional co-working sessions may be organised on Zoom to help work through challenges.
 
 The onboarding, skill-ups, and regular opportunities to connect with and learn from an established community make this a fantastic opportunity to develop your skills 
 and get involved in Open Source in a supportive environment.
