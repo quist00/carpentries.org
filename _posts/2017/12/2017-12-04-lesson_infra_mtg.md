@@ -7,7 +7,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-tags: ["", "Data Carpentry"]
+tags: ["Data Carpentry"]
 authors: ["Raniere Silva"]
 redirect_from: /blog/lesson_infra_mtg/
 --- 

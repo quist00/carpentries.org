@@ -10,7 +10,7 @@ categories:
     - blog
 comments: true
 show_meta: true
-tags: ["", "Data Carpentry"]
+tags: ["Data Carpentry"]
 authors: ["François Michonneau"]
 --- 
 
