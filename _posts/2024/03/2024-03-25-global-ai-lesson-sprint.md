@@ -2,7 +2,7 @@
 layout: page
 authors: ["Leigh Phan", "Cody Hennesy", "Tim Dennis", "Toby Hodges"]
 teaser: "Discover how a global code sprint is driving the evolution of AI education in libraries and shaping the future of the GLAM community."
- title: "Advancing AI Education in GLAM: Highlights from the Library Carpentry Code Sprint"
+title: "Advancing AI Education in GLAM: Highlights from the Library Carpentry Code Sprint"
 date: 2024-03-25
 time: "09:00:00"
 tags: ["Curriculum", "Library Carpentry", "Maintainers", "Curriculum Development", "Pilot Workshops"]
