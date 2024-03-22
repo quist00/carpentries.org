@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Alexander Konovalov"]
+authors: ["Olexandr Konovalov"]
 title: "Programming with GAP"
 date: 2016-11-18
 time: "15:00:00"
@@ -11,7 +11,7 @@ tags: ["Lessons", "Software Carpentry"]
 
  Software Carpentry is more than just a set of workshops and lessons. It is
  also a way to develop lessons, one that we have used successfully to create
- a lesson on [Programming with GAP](http://alex-konovalov.github.io/gap-lesson/).
+ a lesson on [Programming with GAP](https://github.com/carpentries-incubator/gap-lesson).
 
 [GAP](http://www.gap-system.org/) is an open source system for discrete
 computational algebra. It provides a programming language with the same name;
@@ -92,8 +92,8 @@ the whole week of the school, everyone has plenty of opportunities to ask
 further questions to instructors.
 
 What next?
-The lesson on GAP can be seen [here](http://alex-konovalov.github.io/gap-lesson/),
-and it has been published via Zenodo [here](http://doi.org/10.5281/zenodo.167362).
+The lesson on GAP can be seen [here](https://github.com/carpentries-incubator/gap-lesson),
+and it has been published via Zenodo [here](https://doi.org/10.5281/zenodo.167362).
 So far I am only aware that it has been taught twice (by myself) at two annual
 [CoDiMa training schools in computational discrete mathematics](http://www.codima.ac.uk/schools/).
 I can surely teach it myself, but is it written clearly enough
@@ -102,9 +102,9 @@ self-studying? Is there any introductory material missing, or is there an
 interest in having more advanced lesson(s) on some other aspects of
 the GAP system? If you would like to contribute to its further development,
 issues and pull requests to its repository on
-[GitHub](https://github.com/alex-konovalov/gap-lesson) are most welcome!
+[GitHub](https://github.com/carpentries-incubator/gap-lesson) are most welcome!
 Also, we invite collaborators interested in developing a lesson on
 [SageMath](http://www.sagemath.org/): please look at
-[this repository](https://github.com/alex-konovalov/sage-lesson) and
-add a comment to [this issue](https://github.com/alex-konovalov/sage-lesson/issues/1)
+[this repository](https://github.com/carpentries-incubator/sage-lesson) and
+add a comment to [this issue](https://github.com/carpentries-incubator/sage-lesson/issues/1)
 if you’re interested in contributing.
