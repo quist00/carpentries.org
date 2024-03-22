@@ -8,6 +8,7 @@ tags: ["Lessons", "Software Carpentry"]
 ---
 
 <p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
+<p><b>Links to the GAP lesson in this blog post have been updated to reflect the lesson moving to The Carpentries Incubator.</b></p>
 
  Software Carpentry is more than just a set of workshops and lessons. It is
  also a way to develop lessons, one that we have used successfully to create
