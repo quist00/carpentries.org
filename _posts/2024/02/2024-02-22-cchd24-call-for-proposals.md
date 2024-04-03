@@ -8,6 +8,8 @@ time: "09:00:00"
 tags: ["CarpentryConnect", "Events"]
 ---
 
+**Note: the deadline for proposal submissions has been extended to 19 April.**
+
 The [CarpentryConnect and BioNT community event - Heidelberg 2024](https://biont-training.eu/event-details/CarpentryConnect2024) is expected to be the key community-building and networking event for The Carpentries and [BioNT](https://biont-training.eu/)'s community in Europe, with worldwide participation. Taking place 12 - 14 November 2024, this event will provide the opportunity to bring together newer and more experienced community members to share knowledge, network, develop new skills, and develop strategies for training beyond academia and building strong local and regional training communities.
 The event will be held in a hybrid format, allowing workshops to be conducted virtually.
 
@@ -36,7 +38,7 @@ To propose a session, please use [the online submission form](https://survey.bio
 We are so excited to learn about your ideas for the event!
 
 ### Important Information
-* The deadline for proposal submissions is the end of the day on **2 April 2024**, anywhere on Earth. We will start reviewing the submitted proposals as they are received.
+* The deadline for proposal submissions is the end of the day on ~~**2 April 2024**~~ **19 April**, anywhere on Earth. We will start reviewing the submitted proposals as they are received.
 * Notification of accepted proposals will be sent to participants no later than 20 April
 * Event registration will open on 2 May
 * For updates, announcements and information about the event, please [visit the event website](https://biont-training.eu/event-details/CarpentryConnect2024) 
