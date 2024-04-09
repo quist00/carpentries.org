@@ -9,7 +9,8 @@ tags: ["CarpentryConnect", "Australasia", "Events"]
 ---
 Dear All,
 
-We are hosting the first AU-Aotearoa CarpentryConnect on 23 May 2024, in person and hybridly in Melbourne, Perth, Dunedin and Auckland. Our goal is to bring the Carpentries community together to explore and discuss community-led software and data skills training, and capacity building initiatives. Please join us!
+We are hosting the first AU-Aotearoa CarpentryConnect on 23 May 2024, in person and hybridly in Melbourne, Perth, Dunedin and Auckland. Our goal is to bring The Carpentries community together to explore and discuss community-led software and data skills training, and capacity building initiatives. Please join us!
+
 
 We are delighted to open the call for topic suggestions and abstract submissions for 
 * Lightning talks (5 mins)
