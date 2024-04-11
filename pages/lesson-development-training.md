@@ -79,16 +79,16 @@ trainees will learn principles and practices
 to ensure they can continue to collaborate effectively on the project.
 
 
-## Pricing&dagger;
+## Pricing
 
-| Income Level | Base Fee (2 people, USD) | Additional Person Fee (per person, USD) |
+| Income Level | Base Fee (2 people, USD)&dagger; | Additional Person Fee (per person, USD)&dagger; |
 |--------------|-------------------------:|----------------------------------------:|
 | High         | $5,000                   | $1,000                                  |
 | Upper middle | $3,750                   | $750                                    |
 | Lower middle | $2,500                   | $500                                    |
 | Low          | $1,250                   | $250                                    |
 
-<p><i>&dagger;Non-profit fees shown. For-profit organisation fees are 4x listed price.</i>
+<p><i>&dagger;Non-profit fees shown. For-profit organisation fees are 4x listed price.</i></p>
 
 The base price gives access to the training to two people who will
 work together as a team on a lesson during the training.
