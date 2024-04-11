@@ -65,13 +65,15 @@ Individuals not affiliated with Member organisations can purchase seats in Instr
 
 Individuals and organisations may pay a fee to gain access to Instructor Training. Once invoiced, we will create a unique registration code that trainees can use to access registration for any event on our quarterly [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar#upcoming-instructor-training).
 
-|                     | Instructor Training Seat Fee (USD) |
+|                     | Instructor Training Seat Fee (USD)&dagger; |
 | ------------------- | ---------------------------------- |
 | High Income         | \$1,500                            |
 | Upper-Middle Income | \$1,125                            |
 | Lower-Middle Income | \$750                              |
 | Low Income          | \$375                              |
 
-The per seat fee is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html). All fees listed are in USD and represent costs for not-for-profit or academic organisations. Costs for for-profit organisations are four times the fee listed for not-for-profit organisations.
+<p><i>&dagger;Non-profit fees shown. For-profit organisation fees are 4x listed price.</i></p>
+
+The per seat fee is dependent on the purchasing organisation's geographic location, according to the [World Bank's gross national income categorisation](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html).
 
 If you are seeking to train six (6) or more individuals, please check out our [Membership page]({{site.url}}/membership/) as the rate may be lower.
