@@ -79,7 +79,7 @@ trainees will learn principles and practices
 to ensure they can continue to collaborate effectively on the project.
 
 
-## Pricing
+## Pricing&dagger;
 
 | Income Level | Base Fee (2 people, USD) | Additional Person Fee (per person, USD) |
 |--------------|-------------------------:|----------------------------------------:|
@@ -88,6 +88,8 @@ to ensure they can continue to collaborate effectively on the project.
 | Lower middle | $2,500                   | $500                                    |
 | Low          | $1,250                   | $250                                    |
 
+<p><i>&dagger;Non-profit fees shown. For-profit organisation fees are 4x listed price.</i>
+
 The base price gives access to the training to two people who will
 work together as a team on a lesson during the training.
 Additional team members can be added for an additional 20% of the base price per person.
@@ -95,8 +97,6 @@ Additional team members can be added for an additional 20% of the base price per
 The fee is dependent on the purchasing organisation’s geographic location,
 according to [the World Bank’s gross national income categorisation][income-categorisation]
 (reflected by the "Income Level" column in the table above).
-All fees listed are in USD and represent costs for not-for-profit or academic organisations.
-Costs for for-profit organisations are four times the fee listed for not-for-profit organisations.
 
 ## Register
 
