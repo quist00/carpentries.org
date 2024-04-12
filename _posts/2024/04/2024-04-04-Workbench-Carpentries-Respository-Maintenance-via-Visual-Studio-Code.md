@@ -33,7 +33,7 @@ options(repos = c(
 install.packages(c("sandpaper", "varnish", "pegboard", "tinkr"))
 ```
 If you already had it installed, the install command above is also used to update, so you should probably go ahead and run that second command now for good measure.
-![Register Repositories]({{ site.urlimg }}/blog/2024/04/RegisterRespositories.png)
+![Register Repositories]({{ site.urlimg }}/blog/2024/04/RegisterRepositories.png)
 ![Install Workbench]({{ site.urlimg }}/blog/2024/04/InstallWorkbench.png)
 
 With Workhench installed, you can build and preview your Workbench based sites locally using `sandpaper::serve()` in the R terminal. It will appear in little window in the corner of the VS Code IDE by default, but you can use the link or url information in the R terminal to launch it in your default web browser. If you don't already have a cloned repository to run this command on, you can use `sandpaper::create_lesson("./your_lesson_name")` in the R termminal to create one for testing.
