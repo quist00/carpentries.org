@@ -18,7 +18,7 @@ Inside VS code, you will need the R extension.  After the R extension is install
 ![Install R Extension]({{ site.urlimg }}/blog/2024/04/InstallRExtension.png)
 
 Once VS Code is configured to use R, open your Workbench based repository.  Use Command-Shift-P one Mac or Ctrl-Shift-P on windows to activate the command pallete.  From there, start typing "R: Create R Terminal" to find the command and launch an R terminal.
-![Create R Terminal in VS Code]({{ site.urlimg }}/2024/04/blog/RCreateRTerminal.png)
+![Create R Terminal in VS Code]({{ site.urlimg }}/blog/2024/04/RCreateRTerminal.png)
 ![R Terminal in VS Code]({{ site.urlimg }}/blog/2024/04/RTerminal.png)
 
 If you dont already have Carpentries Workbench previously installed, you will need to do so now by runnng these commands in your R terminal. 
