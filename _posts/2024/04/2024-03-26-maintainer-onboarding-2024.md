@@ -30,7 +30,8 @@ Although Maintainer Onboarding will be held in English, we strongly encourage ap
 If you are interested in helping maintain, improve, and grow our lessons, please [apply to be a lesson Maintainer](https://forms.gle/WWA596sEYc6zMMJ9A). 
 You will be asked to choose which technologies (e.g., R, Python) and topics or domain areas (e.g., geospatial, ecology, library sciences) you would be comfortable maintaining a lesson in.  
 
-Applications may be submitted until [the end of 5 April anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Maintainer+Onboarding+Call+for+Volunteers&iso=20240405T235959&p1=3926).
+Applications may be submitted until ~~[the end of 5 April anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Maintainer+Onboarding+Call+for+Volunteers&iso=20240405T235959&p1=3926)~~. 
+**The deadline has been extended for applications to maintain lessons teaching with OpenRefine**: if you are interested in maintaining one of the three OpenRefine lessons, please fill out the form to register your interest before [the end of 12 April anywhere on Earth](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Deadline%3A+Maintainer+Onboarding+Call+for+Volunteers&iso=20240412T235959&p1=3926).
 
 If you have any questions about the application or about being a Maintainer, please reach out to [The Carpentries Curriculum Team](curriculum@carpentries.org) or [Maintainer Community Lead](ndporter@vt.edu).
 

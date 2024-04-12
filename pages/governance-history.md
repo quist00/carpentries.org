@@ -74,6 +74,7 @@ permalink: /governance-history/
 - Karen Cranston [Appointed] - Chair
 - Kate Hertweck [Appointed] - Vice Chair
 - Sue McClatchy [Appointed] - Treasurer
+- Lex Nederbragt [Elected] - Secretary
 - Mateusz Kuzak [Appointed]
 - Ethan White [Appointed]
 - Amy Hodge [Elected]

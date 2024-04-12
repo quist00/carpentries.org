@@ -19,7 +19,7 @@ There are 3 things that must happen in order for a workshop to appear on The Car
 
 ### If I am teaching a Data Carpentry Genomics workshop, how many AWS Instances will be provided and when will we receive them?
 
-A member of the Workshop Administration Team will contact the Hosts/Instructors approximately 2-3 weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of Instructors, helpers and learners. Approximately 1 week prior to the workshop, the Workshop Administration Team will provide you with test instances for each Instructor and helper for testing/practice. Approximately 3 days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshop Administration Team will provide you with instances for each Instructor, helper and learner for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop.  Please submit your workshop request/notification form at least 21 days in advance.
+A member of the Workshops and Instruction Team will contact the Hosts/Instructors approximately 2-3 weeks prior to the workshop to find out how many instances are needed. You will be asked to provide the total number of Instructors, helpers and learners. Approximately 1 week prior to the workshop, the Workshops and Instruction Team will provide you with test instances for each Instructor and helper for testing/practice. Approximately 3 days before the workshop, you will be asked for your final attendance so we can send you the AWS instances for the workshop. On the day prior to the workshop, the Workshops and Instruction Team will provide you with instances for each Instructor, helper and learner for the workshop. We will also send a few extras for backup. The AWS Instances will be terminated the day after the workshop.  Please submit your workshop request/notification form at least 21 days in advance.
 
 ### What is a slug? And how should I use it to name my workshop website?
 
@@ -43,7 +43,7 @@ The learner facing survey links are automatically generated on the workshop's we
 
 ### How do I access the survey results?
 
-If you are planning a workshop, please notify the Workshop Administration Team of your planned workshop using the [workshop request form]({{site.wrf_landing}}). The Workshop Administration Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
+If you are planning a workshop, please notify the Workshops and Instruction Team of your planned workshop using the [workshop request form]({{site.wrf_landing}}). The Workshops and Instruction Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the "Download CSV" link at the bottom right of the survey results page.
 
 ## Curriculum
 
@@ -88,7 +88,7 @@ The Carpentries workshops are offered on-demand, not on a set schedule. We ask f
 
 ### My currency is not USD, will I get invoiced in USD or my local currency?
 
-If your organization does not accept invoices in USD, please let us know. The Workshop Administration Team will connect you with the Business Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
+If your organization does not accept invoices in USD, please let us know. The Workshops and Instruction Team will connect you with the Business Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
 
 ## Self-Organised Workshops
 
@@ -160,7 +160,7 @@ A Self-Organised workshop is organised by the workshop instructor/organiser. Thi
 
 ### How do I get survey data/links for previous workshops?
 
-The Workshop Administration Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshop Administration Team (via [{{site.contact}}](mailto:{{site.contact}})) with your request and include a link to the workshop website(s) and/or slug(s).
+The Workshops and Instruction Team can provide survey result links for past workshops (August 2018 - present) to workshop instructors/organizers or instructors affiliated with the hosting organisation. To request survey results links, please send an email to the Workshops and Instruction Team (via [{{site.contact}}](mailto:{{site.contact}})) with your request and include a link to the workshop website(s) and/or slug(s).
 
 ### Can we restrict who participates in our workshops?
 
