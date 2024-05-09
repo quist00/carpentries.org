@@ -5,7 +5,7 @@ teaser: "Get Maintaing Without Leaving VS Code"
 title: "Workbench Carpentries Respository Maintenance via Visual Studio Code"
 date: 2024-05-09
 time: "06:00:00"
-tags: ["Skill Share", "Workbench", "Lesson Infrastructure", Maintainers]
+tags: ["Skillshare", "Workbench", "Lesson Infrastructure", "Maintainers"]
 ---
 
 Is Visual Studio Code your home away from home?  Have you been putting off getting up to speed on Carpentries Workbench due to lack of familiarity with R Studio?  I have good news. With a little configuration you can maintain your Workbench based lessons from inside Visual Studion Code (VS Code) without the added cognitive load of a new IDE.
